@@ -35,7 +35,7 @@ function App() {
   const [areaMetric, setAreaMetric] = useState('references')
 
   useEffect(() => {
-    fetch('/odoo_partners.json')
+    fetch('./odoo_partners.json')
       .then(res => res.json())
       .then(data => {
         // Parse and enhance partner data
