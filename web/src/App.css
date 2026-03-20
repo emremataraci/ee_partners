@@ -10,13 +10,14 @@
   --border-soft: #EEF1F5;
   
   /* Level colors */
-  --gold: #E67E22;
-  --silver: #3498DB;
-  --ready: #27AE60;
+  --gold: #FFBF00;
+  --silver: #ADCCED;
+  --ready: #FCA956;
+  --learning: #F3E5AB;
   
   /* Accent */
-  --accent: #27AE60;
-  --accent-light: #E8F6EF;
+  --accent: #875BF7;
+  --accent-light: #F0EBFE;
   
   --shadow-sm: 0 1px 3px rgba(0,0,0,0.04);
   --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
@@ -94,6 +95,44 @@ body {
 .header-center {
   flex: 1;
   max-width: 300px;
+}
+
+/* Header right — Grafik Alanı + Renk legend */
+.header-legend {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 7px 14px;
+}
+
+.header-legend-item {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.header-legend-label {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+
+.header-legend-value {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.header-legend-divider {
+  width: 1px;
+  height: 28px;
+  background: var(--border);
+  flex-shrink: 0;
 }
 
 .search-container {
@@ -221,6 +260,7 @@ body {
 .legend-color.gold { background: var(--gold); }
 .legend-color.silver { background: var(--silver); }
 .legend-color.ready { background: var(--ready); }
+.legend-color.learning { background: var(--learning); border: 1px solid #d4c57a; }
 
 /* Filter sections */
 .filter-section {
@@ -287,9 +327,10 @@ body {
   color: white;
 }
 
-.level-badge.gold { background: var(--gold); }
-.level-badge.silver { background: var(--silver); }
-.level-badge.ready { background: var(--ready); }
+.level-badge.gold { background: var(--gold); color: #6b4c00; }
+.level-badge.silver { background: var(--silver); color: #1a3a5c; }
+.level-badge.ready { background: var(--ready); color: #7a3500; }
+.level-badge.learning { background: var(--learning); color: #5a4a00; border: 1px solid #d4c57a; }
 
 .range-slider {
   width: 100%;
@@ -376,6 +417,43 @@ body {
   flex-direction: column;
   padding: 16px;
   gap: 12px;
+}
+
+/* Read-only info tags next to segmented control */
+.chart-info-tags {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 8px;
+}
+
+.chart-info-tag {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--bg);
+  border: 1px solid var(--border-soft);
+  border-radius: 6px;
+  padding: 5px 10px;
+  pointer-events: none;
+  user-select: none;
+}
+
+.chart-info-tag-key {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.chart-info-tag-sep {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.chart-info-tag-val {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-light);
 }
 
 /* Modern Segmented Control / Tabs */
@@ -484,9 +562,10 @@ body {
   margin-bottom: 12px;
 }
 
-.tooltip-level[data-level="gold"] { background: var(--gold); }
-.tooltip-level[data-level="silver"] { background: var(--silver); }
-.tooltip-level[data-level="ready"] { background: var(--ready); }
+.tooltip-level[data-level="gold"] { background: var(--gold); color: #6b4c00; }
+.tooltip-level[data-level="silver"] { background: var(--silver); color: #1a3a5c; }
+.tooltip-level[data-level="ready"] { background: var(--ready); color: #7a3500; }
+.tooltip-level[data-level="learning"] { background: var(--learning); color: #5a4a00; border: 1px solid #d4c57a; }
 
 .tooltip-details {
   display: flex;

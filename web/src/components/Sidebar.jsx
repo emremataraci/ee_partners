@@ -55,6 +55,10 @@ function Sidebar({ filters, updateFilter, toggleLevel, toggleCity, partners, fil
                         <div className="legend-color ready"></div>
                         <span>Ready Partner</span>
                     </div>
+                    <div className="legend-item-row">
+                        <div className="legend-color learning"></div>
+                        <span>Learning Partner</span>
+                    </div>
                 </div>
             </div>
 
@@ -70,7 +74,7 @@ function Sidebar({ filters, updateFilter, toggleLevel, toggleCity, partners, fil
 
                 {openSections.level && (
                     <div className="section-content">
-                        {['Gold', 'Silver', 'Ready'].map(level => (
+                        {['Gold', 'Silver', 'Ready', 'Learning'].map(level => (
                             <label key={level} className="checkbox-label">
                                 <input
                                     type="checkbox"

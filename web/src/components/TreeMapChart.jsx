@@ -2,24 +2,35 @@ import { useMemo, useState, useRef, useEffect } from 'react'
 import { Treemap, ResponsiveContainer } from 'recharts'
 import { motion } from 'framer-motion'
 
-// Distinct color palette for each level
-const COLORS = {
-    Gold: { h: 28, s: 80, l: 52 },    // Orange
-    Silver: { h: 204, s: 70, l: 53 }, // Blue  
-    Ready: { h: 145, s: 63, l: 42 }   // Green
+// Brand palette per level
+const LEVEL_COLORS = {
+    Gold: '#FFBF00',
+    Silver: '#ADCCED',
+    Ready: '#FCA956',
+    Learning: '#F3E5AB',
 }
 
-// Get shade based on metric value (higher = darker)
+// Darken hex color by a ratio (0 = original, 1 = black)
+const darkenHex = (hex, amount) => {
+    const num = parseInt(hex.replace('#', ''), 16)
+    const r = Math.max(0, (num >> 16) - Math.round(255 * amount))
+    const g = Math.max(0, ((num >> 8) & 0xff) - Math.round(255 * amount))
+    const b = Math.max(0, (num & 0xff) - Math.round(255 * amount))
+    return `rgb(${r},${g},${b})`
+}
+
+// Get shade based on metric value (higher = less darkened = more vivid)
 const getColorWithShade = (level, value, maxValue) => {
-    const base = COLORS[level] || COLORS.Ready
+    const base = LEVEL_COLORS[level] || LEVEL_COLORS.Ready
     const ratio = Math.min(value / Math.max(maxValue, 1), 1)
-    const lightness = base.l + (1 - ratio) * 12
-    return `hsl(${base.h}, ${base.s}%, ${lightness}%)`
+    // top value = 0% darkened, min = 20% darkened
+    const darken = (1 - ratio) * 0.15
+    return darkenHex(base, darken)
 }
 
 // Custom content - ALL boxes show name
 const CustomizedContent = (props) => {
-    const { x, y, width, height, name, level, references, districtValue, index, depth, maxMetric, areaMetric } = props
+    const { x, y, width, height, name, level, references, average_users, districtValue, index, depth, maxMetric, areaMetric } = props
 
     if (depth === 0) return null
 
@@ -65,8 +76,8 @@ const CustomizedContent = (props) => {
 
     // Dynamic stat display based on selected metric
     const getStatDisplay = () => {
-        if (areaMetric === 'district') {
-            return districtValue > 0 ? `%${districtValue}` : null
+        if (areaMetric === 'average_users') {
+            return average_users > 0 ? `${average_users} Kullanıcı` : null
         } else {
             return references > 0 ? `${references} Ref` : null
         }
@@ -130,10 +141,13 @@ function TreeMapChart({ partners, areaMetric }) {
     const [tooltipPos, setTooltipPos] = useState({ x: 0, y: 0 })
     const containerRef = useRef(null)
 
-    // Calculate max for sizing
+    // Calculate max for sizing — depends on selected metric
     const maxMetric = useMemo(() => {
+        if (areaMetric === 'average_users') {
+            return Math.max(...partners.map(p => p.average_users), 1)
+        }
         return Math.max(...partners.map(p => p.references), 1)
-    }, [partners])
+    }, [partners, areaMetric])
 
     useEffect(() => {
         const handleMouseMove = (e) => {
@@ -169,8 +183,8 @@ function TreeMapChart({ partners, areaMetric }) {
             .map((p, index) => {
                 // Use references or district for sizing
                 let sizeValue
-                if (areaMetric === 'district') {
-                    sizeValue = Math.max(p.districtValue, 1)
+                if (areaMetric === 'average_users') {
+                    sizeValue = Math.max(p.average_users, 1)
                 } else {
                     sizeValue = Math.max(p.references, 1)
                 }

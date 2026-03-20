@@ -25,7 +25,7 @@ function App() {
 
   // Filters
   const [filters, setFilters] = useState({
-    levels: ['Gold', 'Silver', 'Ready'],
+    levels: ['Gold', 'Silver', 'Ready', 'Learning'],
     minReferences: 0,
     maxReferences: 100,
     selectedCities: []
@@ -33,6 +33,7 @@ function App() {
 
   // Visualization settings - default: references, options: references, district
   const [areaMetric, setAreaMetric] = useState('references')
+  // areaMetric: 'references' | 'average_users'
 
   useEffect(() => {
     fetch('./odoo_partners.json')
@@ -141,6 +142,7 @@ function App() {
       <Header
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
+        areaMetric={areaMetric}
       />
 
       <div className="main-content">
@@ -170,11 +172,27 @@ function App() {
                   Referans
                 </button>
                 <button
-                  className={`segment-btn ${areaMetric === 'district' ? 'active' : ''}`}
-                  onClick={() => setAreaMetric('district')}
+                  className={`segment-btn ${areaMetric === 'average_users' ? 'active' : ''}`}
+                  onClick={() => setAreaMetric('average_users')}
                 >
-                  Değerlendirme
+                  Ort. Kullanıcı
                 </button>
+              </div>
+            </div>
+
+            {/* Info tags — read only */}
+            <div className="chart-info-tags">
+              <div className="chart-info-tag">
+                <span className="chart-info-tag-key">Grafik Alanı</span>
+                <span className="chart-info-tag-sep">·</span>
+                <span className="chart-info-tag-val">
+                  {areaMetric === 'references' ? 'Referans Sayısı' : 'Ort. Kullanıcı Sayısı'}
+                </span>
+              </div>
+              <div className="chart-info-tag">
+                <span className="chart-info-tag-key">Renk</span>
+                <span className="chart-info-tag-sep">·</span>
+                <span className="chart-info-tag-val">Partner Seviyesi</span>
               </div>
             </div>
           </div>

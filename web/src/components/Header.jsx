@@ -1,4 +1,3 @@
-import { motion } from 'framer-motion'
 import { Search, Map } from 'lucide-react'
 
 function Header({ searchQuery, setSearchQuery }) {
@@ -7,10 +6,10 @@ function Header({ searchQuery, setSearchQuery }) {
       <div className="logo">
         <Map size={22} />
         <div className="logo-text">
-          <h1>Odoo Partner Haritası</h1>
+          <h1>Odoo Partner Keşif Haritası</h1>
         </div>
       </div>
-      
+
       <div className="header-center">
         <div className="search-container">
           <Search className="search-icon" />
@@ -23,10 +22,9 @@ function Header({ searchQuery, setSearchQuery }) {
           />
         </div>
       </div>
-      
-      <div className="header-right">
-        {/* Legend moved to sidebar - header is cleaner now */}
-      </div>
+
+      {/* Spacer — keeps search centered */}
+      <div className="header-right" />
     </header>
   )
 }
