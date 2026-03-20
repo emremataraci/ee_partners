@@ -88,7 +88,7 @@ const CustomizedContent = (props) => {
         <motion.g
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
-            transition={{ delay: index * 0.02, duration: 0.2 }}
+            transition={{ delay: index * 0.05, duration: 0.5 }}
             style={{ cursor: 'pointer' }}
             onClick={() => onPartnerClick && onPartnerClick(originalData)}
         >

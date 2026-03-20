@@ -39,29 +39,6 @@ function Sidebar({ filters, updateFilter, toggleLevel, toggleCity, partners, fil
                 <div className="partner-count-label">/ {totalCount} partner gösteriliyor</div>
             </div>
 
-            {/* Legend */}
-            <div className="sidebar-legend">
-                <div className="legend-title">Renk Açıklaması</div>
-                <div className="legend-items-vertical">
-                    <div className="legend-item-row">
-                        <div className="legend-color gold"></div>
-                        <span>Gold Partner</span>
-                    </div>
-                    <div className="legend-item-row">
-                        <div className="legend-color silver"></div>
-                        <span>Silver Partner</span>
-                    </div>
-                    <div className="legend-item-row">
-                        <div className="legend-color ready"></div>
-                        <span>Ready Partner</span>
-                    </div>
-                    <div className="legend-item-row">
-                        <div className="legend-color learning"></div>
-                        <span>Learning Partner</span>
-                    </div>
-                </div>
-            </div>
-
             {/* Partner Seviyesi */}
             <div className="filter-section">
                 <button className="section-header" onClick={() => toggleSection('level')}>

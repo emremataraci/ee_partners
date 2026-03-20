@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
+import ContactModal from './ContactModal'
+import './ContactModal.css'
 
 const TABS = [
   { id: 'overview', label: 'Genel Bakış' },
@@ -40,6 +42,7 @@ function ComingSoonTab({ label }) {
 
 function PartnerDetailPanel({ partner, onClose }) {
   const [activeTab, setActiveTab] = useState('overview')
+  const [isContactOpen, setIsContactOpen] = useState(false)
 
   // Reset tab when partner changes
   useEffect(() => {
@@ -125,10 +128,11 @@ function PartnerDetailPanel({ partner, onClose }) {
   }
 
   return (
-    <AnimatePresence>
-      {partner && (
-        <>
-          {/* Backdrop */}
+    <>
+      <AnimatePresence>
+        {partner && (
+          <>
+            {/* Backdrop */}
           <motion.div
             className="detail-overlay"
             initial={{ opacity: 0 }}
@@ -179,21 +183,16 @@ function PartnerDetailPanel({ partner, onClose }) {
               </div>
 
               <div className="detail-header-actions">
-                {partner.profile_url && (
-                  <a
-                    href={partner.profile_url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="detail-profile-btn"
-                  >
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                      <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6" />
-                      <polyline points="15,3 21,3 21,9" />
-                      <line x1="10" y1="14" x2="21" y2="3" />
-                    </svg>
-                    Odoo Profili
-                  </a>
-                )}
+                <button
+                  className="detail-profile-btn contact-btn"
+                  onClick={() => setIsContactOpen(true)}
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" />
+                    <polyline points="22,6 12,13 2,6" />
+                  </svg>
+                  İletişime Geç
+                </button>
                 <button className="detail-close-btn" onClick={onClose} aria-label="Kapat">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <line x1="18" y1="6" x2="6" y2="18" />
@@ -233,7 +232,15 @@ function PartnerDetailPanel({ partner, onClose }) {
           </motion.div>
         </>
       )}
-    </AnimatePresence>
+      </AnimatePresence>
+      {partner && (
+        <ContactModal 
+          isOpen={isContactOpen} 
+          onClose={() => setIsContactOpen(false)} 
+          partnerName={partner.name} 
+        />
+      )}
+    </>
   )
 }
 
