@@ -3,6 +3,8 @@ import { motion, AnimatePresence } from 'framer-motion'
 import Header from './components/Header'
 import Sidebar from './components/Sidebar'
 import TreeMapChart from './components/TreeMapChart'
+import PartnerListView from './components/PartnerListView'
+import PartnerDetailPanel from './components/PartnerDetailPanel'
 import './App.css'
 
 // Normalize city names
@@ -22,6 +24,10 @@ function App() {
   const [loading, setLoading] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
   const [sidebarOpen, setSidebarOpen] = useState(true)
+
+  // View mode and details panel state
+  const [viewMode, setViewMode] = useState('treemap') // 'treemap' | 'list'
+  const [selectedPartner, setSelectedPartner] = useState(null)
 
   // Filters
   const [filters, setFilters] = useState({
@@ -160,11 +166,43 @@ function App() {
           )}
         </AnimatePresence>
 
-        <main className="treemap-container">
-          <div className="visualization-controls">
-            <div className="control-group">
-              <span className="control-label">Boyut</span>
+        <main className={`main-content-area ${viewMode === 'list' ? 'list-mode-active' : ''}`}>
+          <div className="visualization-controls-bar">
+            <div className="view-mode-toggle">
               <div className="segmented-control">
+                <button
+                  className={`segment-btn ${viewMode === 'treemap' ? 'active' : ''}`}
+                  onClick={() => setViewMode('treemap')}
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <rect x="3" y="3" width="18" height="18" rx="2" ry="2" />
+                    <line x1="12" y1="3" x2="12" y2="21" />
+                    <line x1="3" y1="12" x2="21" y2="12" />
+                  </svg>
+                  Harita
+                </button>
+                <button
+                  className={`segment-btn ${viewMode === 'list' ? 'active' : ''}`}
+                  onClick={() => setViewMode('list')}
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <line x1="8" y1="6" x2="21" y2="6" />
+                    <line x1="8" y1="12" x2="21" y2="12" />
+                    <line x1="8" y1="18" x2="21" y2="18" />
+                    <line x1="3" y1="6" x2="3.01" y2="6" />
+                    <line x1="3" y1="12" x2="3.01" y2="12" />
+                    <line x1="3" y1="18" x2="3.01" y2="18" />
+                  </svg>
+                  Liste
+                </button>
+              </div>
+            </div>
+
+            {viewMode === 'treemap' && (
+              <div className="visualization-controls">
+                <div className="control-group">
+                  <span className="control-label">Boyut</span>
+                  <div className="segmented-control">
                 <button
                   className={`segment-btn ${areaMetric === 'references' ? 'active' : ''}`}
                   onClick={() => setAreaMetric('references')}
@@ -196,19 +234,39 @@ function App() {
               </div>
             </div>
           </div>
+          )}
+          </div>
 
-          <TreeMapChart
-            partners={filteredPartners}
-            areaMetric={areaMetric}
-          />
+          <div className="visualization-content">
+            {viewMode === 'treemap' ? (
+              <TreeMapChart
+                partners={filteredPartners}
+                areaMetric={areaMetric}
+                onPartnerClick={(partner) => setSelectedPartner(partner)}
+              />
+            ) : (
+              <PartnerListView
+                partners={filteredPartners}
+                onPartnerClick={(partner) => setSelectedPartner(partner)}
+              />
+            )}
+          </div>
 
-          <footer className="map-footer">
-            <p>
-              Bu veriler Odoo Partner Directory'deki kamuya açık bilgilerden derlenmiştir.
-            </p>
-          </footer>
+          {viewMode === 'treemap' && (
+            <footer className="map-footer">
+              <p>
+                Bu veriler Odoo Partner Directory'deki kamuya açık bilgilerden derlenmiştir.
+              </p>
+            </footer>
+          )}
         </main>
       </div>
+
+      {/* Partner Detail Panel Slide-over */}
+      <PartnerDetailPanel
+        partner={selectedPartner}
+        onClose={() => setSelectedPartner(null)}
+      />
     </div>
   )
 }

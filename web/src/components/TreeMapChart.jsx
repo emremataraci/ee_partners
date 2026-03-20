@@ -28,9 +28,8 @@ const getColorWithShade = (level, value, maxValue) => {
     return darkenHex(base, darken)
 }
 
-// Custom content - ALL boxes show name
 const CustomizedContent = (props) => {
-    const { x, y, width, height, name, level, references, average_users, districtValue, index, depth, maxMetric, areaMetric } = props
+    const { x, y, width, height, name, level, references, average_users, districtValue, index, depth, maxMetric, areaMetric, onPartnerClick, originalData } = props
 
     if (depth === 0) return null
 
@@ -91,6 +90,7 @@ const CustomizedContent = (props) => {
             animate={{ opacity: 1 }}
             transition={{ delay: index * 0.02, duration: 0.2 }}
             style={{ cursor: 'pointer' }}
+            onClick={() => onPartnerClick && onPartnerClick(originalData)}
         >
             <rect
                 x={rx}
@@ -136,7 +136,7 @@ const CustomizedContent = (props) => {
     )
 }
 
-function TreeMapChart({ partners, areaMetric }) {
+function TreeMapChart({ partners, areaMetric, onPartnerClick }) {
     const [tooltipData, setTooltipData] = useState(null)
     const [tooltipPos, setTooltipPos] = useState({ x: 0, y: 0 })
     const containerRef = useRef(null)
@@ -201,7 +201,8 @@ function TreeMapChart({ partners, areaMetric }) {
                     displayCity: p.displayCity,
                     profile_url: p.profile_url,
                     index,
-                    maxMetric
+                    maxMetric,
+                    originalData: p
                 }
             })
             .sort((a, b) => b.size - a.size)
@@ -236,7 +237,7 @@ function TreeMapChart({ partners, areaMetric }) {
                     data={chartData}
                     dataKey="size"
                     stroke="transparent"
-                    content={<CustomizedContent maxMetric={maxMetric} areaMetric={areaMetric} />}
+                    content={<CustomizedContent maxMetric={maxMetric} areaMetric={areaMetric} onPartnerClick={onPartnerClick} />}
                     onMouseEnter={(data) => handleMouseEnter(data)}
                     isAnimationActive={false}
                 />
