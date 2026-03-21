@@ -1,8 +1,9 @@
 import { motion } from 'framer-motion'
 import { Filter, ChevronDown } from 'lucide-react'
 import { useState, useMemo } from 'react'
+import { REFERENCE_RANGES } from '../App'
 
-function Sidebar({ filters, updateFilter, toggleLevel, toggleCity, partners, filteredCount, totalCount }) {
+function Sidebar({ filters, updateFilter, toggleLevel, toggleRefRange, toggleCity, partners, filteredCount, totalCount }) {
     const [openSections, setOpenSections] = useState({
         level: true,
         references: true,
@@ -12,10 +13,6 @@ function Sidebar({ filters, updateFilter, toggleLevel, toggleCity, partners, fil
     const toggleSection = (section) => {
         setOpenSections(prev => ({ ...prev, [section]: !prev[section] }))
     }
-
-    const maxReferences = useMemo(() =>
-        Math.max(...partners.map(p => p.references), 100)
-        , [partners])
 
     const uniqueCities = useMemo(() =>
         [...new Set(partners.map(p => p.displayCity))].filter(Boolean).sort()
@@ -77,31 +74,18 @@ function Sidebar({ filters, updateFilter, toggleLevel, toggleCity, partners, fil
 
                 {openSections.references && (
                     <div className="section-content">
-                        <div className="dual-slider">
-                            <div className="slider-row">
-                                <span className="slider-label">Min:</span>
-                                <input
-                                    type="range"
-                                    min="0"
-                                    max={maxReferences}
-                                    value={filters.minReferences}
-                                    onChange={(e) => updateFilter('minReferences', parseInt(e.target.value))}
-                                    className="range-slider"
-                                />
-                                <span className="slider-value">{filters.minReferences}</span>
-                            </div>
-                            <div className="slider-row">
-                                <span className="slider-label">Max:</span>
-                                <input
-                                    type="range"
-                                    min="0"
-                                    max={maxReferences}
-                                    value={filters.maxReferences}
-                                    onChange={(e) => updateFilter('maxReferences', parseInt(e.target.value))}
-                                    className="range-slider"
-                                />
-                                <span className="slider-value">{filters.maxReferences}</span>
-                            </div>
+                        <div className="checkbox-group">
+                            {REFERENCE_RANGES.map(range => (
+                                <label key={range.id} className="checkbox-label">
+                                    <input
+                                        type="checkbox"
+                                        checked={filters.selectedRefRanges?.includes(range.id)}
+                                        onChange={() => toggleRefRange(range.id)}
+                                    />
+                                    <span className="checkbox-custom"></span>
+                                    <span className="label-text">{range.label}</span>
+                                </label>
+                            ))}
                         </div>
                     </div>
                 )}

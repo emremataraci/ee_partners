@@ -9,6 +9,12 @@ import CompareModal from './components/CompareModal'
 import './components/CompareModal.css'
 import './App.css'
 
+export const REFERENCE_RANGES = [
+  { id: '0-25', label: '0 - 25 Referans', min: 0, max: 25 },
+  { id: '26-100', label: '26 - 100 Referans', min: 26, max: 100 },
+  { id: '100+', label: '100+ Referans', min: 101, max: Infinity }
+]
+
 // Normalize city names
 const normalizeCity = (city) => {
   if (!city) return null
@@ -52,11 +58,9 @@ function App() {
     setComparedPartners(prev => prev.filter(p => p.name !== name))
   }
 
-  // Filters
   const [filters, setFilters] = useState({
     levels: ['Gold', 'Silver', 'Ready', 'Learning'],
-    minReferences: 0,
-    maxReferences: 100,
+    selectedRefRanges: [],
     selectedCities: []
   })
 
@@ -85,13 +89,11 @@ function App() {
         setFilteredPartners(enhancedPartners)
         setLoading(false)
 
-        // Calculate max references and get unique cities (normalized)
-        const maxRefs = Math.max(...enhancedPartners.map(p => p.references), 100)
+        // Get unique cities (normalized)
         const uniqueCities = [...new Set(enhancedPartners.map(p => p.displayCity))].filter(Boolean).sort()
 
         setFilters(prev => ({
           ...prev,
-          maxReferences: maxRefs,
           selectedCities: uniqueCities
         }))
       })
@@ -119,11 +121,16 @@ function App() {
       result = result.filter(p => filters.levels.includes(p.level))
     }
 
-    // References filter (dual slider)
-    result = result.filter(p =>
-      p.references >= filters.minReferences &&
-      p.references <= filters.maxReferences
-    )
+    // References filter (ranges)
+    if (filters.selectedRefRanges && filters.selectedRefRanges.length > 0) {
+      result = result.filter(p => {
+        return filters.selectedRefRanges.some(rangeId => {
+          const rangeInfo = REFERENCE_RANGES.find(r => r.id === rangeId)
+          if (!rangeInfo) return false
+          return p.references >= rangeInfo.min && p.references <= rangeInfo.max
+        })
+      })
+    }
 
     // City filter - always apply (if no cities selected, show nothing)
     result = result.filter(p => filters.selectedCities.includes(p.displayCity))
@@ -141,6 +148,15 @@ function App() {
       levels: prev.levels.includes(level)
         ? prev.levels.filter(l => l !== level)
         : [...prev.levels, level]
+    }))
+  }
+
+  const toggleRefRange = (rangeId) => {
+    setFilters(prev => ({
+      ...prev,
+      selectedRefRanges: prev.selectedRefRanges.includes(rangeId)
+        ? prev.selectedRefRanges.filter(r => r !== rangeId)
+        : [...prev.selectedRefRanges, rangeId]
     }))
   }
 
@@ -183,6 +199,7 @@ function App() {
               filters={filters}
               updateFilter={updateFilter}
               toggleLevel={toggleLevel}
+              toggleRefRange={toggleRefRange}
               toggleCity={toggleCity}
               partners={partners}
               filteredCount={filteredPartners.length}
