@@ -12,10 +12,10 @@ const TABS = [
 ]
 
 const LEVEL_COLORS = {
-  Gold: { bg: '#FFBF00', text: '#6b4c00' },
-  Silver: { bg: '#ADCCED', text: '#1a3a5c' },
-  Ready: { bg: '#FCA956', text: '#7a3500' },
-  Learning: { bg: '#F3E5AB', text: '#5a4a00' },
+  Gold: { bg: '#F59E0B', text: '#FEF3C7' },
+  Silver: { bg: '#94A3B8', text: '#F1F5F9' },
+  Ready: { bg: '#10B981', text: '#D1FAE5' },
+  Learning: { bg: '#8B5CF6', text: '#EDE9FE' },
 }
 
 function MetricCard({ label, value, sub, color }) {

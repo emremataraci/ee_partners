@@ -4,10 +4,10 @@ import { motion } from 'framer-motion'
 
 // Brand palette per level
 const LEVEL_COLORS = {
-    Gold: '#FFBF00',
-    Silver: '#ADCCED',
-    Ready: '#FCA956',
-    Learning: '#F3E5AB',
+    Gold: '#F59E0B',
+    Silver: '#94A3B8',
+    Ready: '#10B981',
+    Learning: '#8B5CF6',
 }
 
 // Darken hex color by a ratio (0 = original, 1 = black)
