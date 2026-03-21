@@ -5,6 +5,8 @@ import Sidebar from './components/Sidebar'
 import TreeMapChart from './components/TreeMapChart'
 import PartnerListView from './components/PartnerListView'
 import PartnerDetailPanel from './components/PartnerDetailPanel'
+import CompareModal from './components/CompareModal'
+import './components/CompareModal.css'
 import './App.css'
 
 // Normalize city names
@@ -28,6 +30,27 @@ function App() {
   // View mode and details panel state
   const [viewMode, setViewMode] = useState('treemap') // 'treemap' | 'list'
   const [selectedPartner, setSelectedPartner] = useState(null)
+
+  // Compare State
+  const [comparedPartners, setComparedPartners] = useState([])
+  const [isCompareModalOpen, setIsCompareModalOpen] = useState(false)
+
+  const toggleCompare = (partner) => {
+    setComparedPartners(prev => {
+      if (prev.find(p => p.name === partner.name)) {
+        return prev.filter(p => p.name !== partner.name)
+      }
+      if (prev.length >= 3) {
+        alert('En fazla 3 partner karşılaştırabilirsiniz.')
+        return prev
+      }
+      return [...prev, partner]
+    })
+  }
+
+  const toggleCompareByName = (name) => {
+    setComparedPartners(prev => prev.filter(p => p.name !== name))
+  }
 
   // Filters
   const [filters, setFilters] = useState({
@@ -149,6 +172,8 @@ function App() {
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
         areaMetric={areaMetric}
+        comparedPartners={comparedPartners}
+        onOpenCompare={() => setIsCompareModalOpen(true)}
       />
 
       <div className="main-content">
@@ -248,6 +273,8 @@ function App() {
               <PartnerListView
                 partners={filteredPartners}
                 onPartnerClick={(partner) => setSelectedPartner(partner)}
+                comparedPartners={comparedPartners}
+                onToggleCompare={toggleCompare}
               />
             )}
           </div>
@@ -266,6 +293,16 @@ function App() {
       <PartnerDetailPanel
         partner={selectedPartner}
         onClose={() => setSelectedPartner(null)}
+        comparedPartners={comparedPartners}
+        onToggleCompare={toggleCompare}
+      />
+
+      {/* Compare Modal */}
+      <CompareModal
+        isOpen={isCompareModalOpen}
+        onClose={() => setIsCompareModalOpen(false)}
+        partners={comparedPartners}
+        onRemove={toggleCompareByName}
       />
     </div>
   )

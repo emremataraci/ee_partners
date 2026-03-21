@@ -21,7 +21,7 @@ const SortIcon = ({ column, sortKey, sortDir }) => {
   )
 }
 
-function PartnerListView({ partners, onPartnerClick }) {
+function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleCompare }) {
   const [sortKey, setSortKey] = useState('references')
   const [sortDir, setSortDir] = useState('desc')
 
@@ -89,6 +89,7 @@ function PartnerListView({ partners, onPartnerClick }) {
           <thead>
             <tr>
               <th className="th-rank">#</th>
+              <th style={{ width: '40px', textAlign: 'center', opacity: 0.7 }}>Kıyasla</th>
               {cols.map(col => (
                 <th
                   key={col.key}
@@ -110,6 +111,14 @@ function PartnerListView({ partners, onPartnerClick }) {
                 onClick={() => onPartnerClick(partner)}
               >
                 <td className="td-rank">{idx + 1}</td>
+                <td style={{ textAlign: 'center' }} onClick={e => e.stopPropagation()}>
+                  <input 
+                    type="checkbox" 
+                    checked={!!comparedPartners?.find(p => p.name === partner.name)}
+                    onChange={() => onToggleCompare(partner)}
+                    style={{ cursor: 'pointer', width: '16px', height: '16px', accentColor: 'var(--accent)' }}
+                  />
+                </td>
                 <td className="td-name">
                   {partner.logo_url && (
                     <img

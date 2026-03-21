@@ -1,6 +1,6 @@
 import { Search, Map } from 'lucide-react'
 
-function Header({ searchQuery, setSearchQuery }) {
+function Header({ searchQuery, setSearchQuery, comparedPartners, onOpenCompare }) {
   return (
     <header className="header">
       <div className="logo">
@@ -23,8 +23,17 @@ function Header({ searchQuery, setSearchQuery }) {
         </div>
       </div>
 
-      {/* Spacer — keeps search centered */}
-      <div className="header-right" />
+      {/* Spacer & Compare Action */}
+      <div className="header-right">
+        {comparedPartners?.length > 0 && (
+          <button 
+            className="compare-header-btn" 
+            onClick={onOpenCompare}
+          >
+            Karşılaştır ({comparedPartners.length}/3)
+          </button>
+        )}
+      </div>
     </header>
   )
 }

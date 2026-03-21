@@ -40,7 +40,7 @@ function ComingSoonTab({ label }) {
   )
 }
 
-function PartnerDetailPanel({ partner, onClose }) {
+function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompare }) {
   const [activeTab, setActiveTab] = useState('overview')
   const [isContactOpen, setIsContactOpen] = useState(false)
 
@@ -151,53 +151,71 @@ function PartnerDetailPanel({ partner, onClose }) {
             transition={{ type: 'spring', damping: 28, stiffness: 260 }}
           >
             {/* Panel Header */}
-            <div className="detail-panel-header">
-              <div className="detail-partner-identity">
-                {partner.logo_url && (
-                  <img
-                    src={partner.logo_url}
-                    alt={partner.name}
-                    className="detail-logo"
-                    onError={e => { e.target.style.display = 'none' }}
-                  />
-                )}
-                <div className="detail-partner-meta">
-                  <h2 className="detail-partner-name">{partner.name}</h2>
-                  <div className="detail-partner-sub">
-                    <span
-                      className={`level-badge ${partner.level?.toLowerCase()}`}
-                    >
-                      {partner.level}
-                    </span>
-                    {partner.displayCity && (
-                      <span className="detail-partner-city">
-                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                          <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" />
-                          <circle cx="12" cy="9" r="2.5" />
-                        </svg>
-                        {partner.displayCity}
+            <div className="detail-panel-header" style={{ flexDirection: 'column', alignItems: 'stretch' }}>
+              
+              {/* Top Row: Identity + Close */}
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', width: '100%' }}>
+                <div className="detail-partner-identity" style={{ flex: 1, paddingRight: '16px' }}>
+                  {partner.logo_url && (
+                    <img
+                      src={partner.logo_url}
+                      alt={partner.name}
+                      className="detail-logo"
+                      onError={e => { e.target.style.display = 'none' }}
+                    />
+                  )}
+                  <div className="detail-partner-meta">
+                    <h2 className="detail-partner-name">{partner.name}</h2>
+                    <div className="detail-partner-sub">
+                      <span className={`level-badge ${partner.level?.toLowerCase()}`}>
+                        {partner.level}
                       </span>
-                    )}
+                      {partner.displayCity && (
+                        <span className="detail-partner-city">
+                          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                            <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" />
+                            <circle cx="12" cy="9" r="2.5" />
+                          </svg>
+                          {partner.displayCity}
+                        </span>
+                      )}
+                    </div>
                   </div>
                 </div>
+
+                <button className="detail-close-btn" onClick={onClose} aria-label="Kapat" style={{ flexShrink: 0 }}>
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                    <line x1="18" y1="6" x2="6" y2="18" />
+                    <line x1="6" y1="6" x2="18" y2="18" />
+                  </svg>
+                </button>
               </div>
 
-              <div className="detail-header-actions">
+              {/* Bottom Row: Actions */}
+              <div style={{ display: 'flex', gap: '12px', marginTop: '20px', width: '100%' }}>
+                <button
+                  className="detail-profile-btn"
+                  onClick={() => onToggleCompare(partner)}
+                  style={{ 
+                    flex: 1,
+                    justifyContent: 'center',
+                    background: comparedPartners?.find(p => p.name === partner.name) ? '#EF4444' : 'var(--bg)', 
+                    color: comparedPartners?.find(p => p.name === partner.name) ? '#fff' : 'inherit',
+                    border: '1px solid var(--border)'
+                  }}
+                >
+                  {comparedPartners?.find(p => p.name === partner.name) ? 'Karşılaştırmadan Çıkar' : 'Karşılaştırmaya Ekle'}
+                </button>
                 <button
                   className="detail-profile-btn contact-btn"
                   onClick={() => setIsContactOpen(true)}
+                  style={{ flex: 1, justifyContent: 'center' }}
                 >
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" />
                     <polyline points="22,6 12,13 2,6" />
                   </svg>
                   İletişime Geç
-                </button>
-                <button className="detail-close-btn" onClick={onClose} aria-label="Kapat">
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                    <line x1="18" y1="6" x2="6" y2="18" />
-                    <line x1="6" y1="6" x2="18" y2="18" />
-                  </svg>
                 </button>
               </div>
             </div>
