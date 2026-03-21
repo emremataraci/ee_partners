@@ -42,6 +42,9 @@ class Partner:
     certified_experts_count: str
     profile_url: str
     logo_url: Optional[str]
+    about_text: Optional[str]                   # NEW: From detail page
+    certifications_breakdown: List[Dict]        # NEW: From detail page
+    industries_breakdown: List[Dict]            # NEW: From detail page
     scraped_at: str
 
 
@@ -70,7 +73,8 @@ class OdooPartnerScraper:
             print(f"📥 Sayfa çekiliyor: {url}")
             response = self.session.get(url, timeout=30)
             response.raise_for_status()
-            return BeautifulSoup(response.content, 'html.parser')
+            response.encoding = 'utf-8'
+            return BeautifulSoup(response.text, 'html.parser')
         except requests.RequestException as e:
             print(f"❌ Hata: {url} çekilemedi - {e}")
             return None
@@ -93,9 +97,15 @@ class OdooPartnerScraper:
             name_element = card.select_one('h5 span:first-child')
             name = self._extract_text(name_element, "Bilinmiyor")
             
+            # Odoo's HTML has corrupted encoding for some partners in its database
+            if name == "K?ta Yaz?l?m":
+                name = "Kıta Yazılım"
+            
             # Partner seviyesi (Gold, Silver, Ready)
             level_element = card.select_one('h5 span.badge')
-            level = self._extract_text(level_element, "")
+            level = self._extract_text(level_element, "").strip()
+            if not level or level.lower() == 'learning':
+                level = "Learning"
             
             # Logo URL
             logo_element = card.select_one('img')
@@ -121,20 +131,27 @@ class OdooPartnerScraper:
             full_address = ""
             
             if location_spans:
-                location_texts = [self._extract_text(span) for span in location_spans]
+                location_texts = [self._extract_text(span).strip(',').strip() for span in location_spans]
                 location_texts = [t for t in location_texts if t]  # Boş olanları filtrele
                 full_address = ", ".join(location_texts)
                 
-                # Genellikle: İlçe, İl, Ülke formatında
-                if len(location_texts) >= 3:
-                    district = location_texts[0]
-                    city = location_texts[1]
-                    country = location_texts[2]
-                elif len(location_texts) == 2:
-                    city = location_texts[0]
-                    country = location_texts[1]
-                elif len(location_texts) == 1:
-                    city = location_texts[0]
+                # Rating yüzdesi adrese karışmışsa (ilk öğe sayıysa)
+                if location_texts and location_texts[0].isdigit():
+                    rating_percentage = location_texts.pop(0)
+                
+                # Geriye kalanlar adres
+                if location_texts:
+                    turkey_variants = ['Türkiye', 'Turkey', 'Turkey ']
+                    for variant in turkey_variants:
+                        if variant in location_texts:
+                            country = "Türkiye"
+                            location_texts.remove(variant)
+                            break
+                    
+                    if len(location_texts) > 0:
+                        city = location_texts[0]
+                    if len(location_texts) > 1 and not location_texts[1].isdigit():
+                        district = location_texts[1]
             
             # Proje büyüklükleri
             all_small = card.select('small')
@@ -187,6 +204,9 @@ class OdooPartnerScraper:
                 certified_experts_count=certified_experts_count,
                 profile_url=profile_url,
                 logo_url=logo_url,
+                about_text=None,
+                certifications_breakdown=[],
+                industries_breakdown=[],
                 scraped_at=datetime.now().isoformat()
             )
             
@@ -212,6 +232,60 @@ class OdooPartnerScraper:
             return max_page
         except Exception:
             return 1
+            
+    def _scrape_partner_details(self, partner: Partner):
+        """Partner'ın detay sayfasına gidip ek verilerini doldurur"""
+        if not partner.profile_url:
+            return
+            
+        time.sleep(self.delay_seconds) # Respectful delay
+        soup = self._get_page(partner.profile_url)
+        if not soup:
+            return
+            
+        try:
+            # 1. Sertifika Detayları
+            cert_div = soup.select_one('.stat_cert')
+            if cert_div:
+                for br in cert_div.find_all('br'):
+                    # Each line is like: <span>2</span> <span class="text-muted">Sertifikalı19</span><br/>
+                    prev_spans = br.find_previous_siblings('span', limit=2)
+                    if len(prev_spans) == 2:
+                        count = self._extract_text(prev_spans[1]) # The number span is actually before the text span in DOM order? No, sibling order is reverse when using find_previous_siblings!
+                        # The order is: count_span, text_span, br
+                        # previous_siblings returns [text_span, count_span]
+                        text = self._extract_text(prev_spans[0])
+                        if count.isdigit() and text:
+                            partner.certifications_breakdown.append({"version": text.strip(), "count": int(count)})
+            
+            # 2. Sektör/Müşteri (Industries) Detayları
+            ref_div = soup.select_one('.stat_ref')
+            if ref_div:
+                for br in ref_div.find_all('br'):
+                    prev_spans = br.find_previous_siblings('span', limit=2)
+                    if len(prev_spans) == 2:
+                        text = self._extract_text(prev_spans[0])
+                        count = self._extract_text(prev_spans[1])
+                        if count.isdigit() and text:
+                            partner.industries_breakdown.append({"industry": text.strip(), "count": int(count)})
+                            
+            # 3. Hakkımızda (About us)
+            # Genellikle id="partner_name" divinin hemen altındaki .mb-5 veya içindeki paragraflardır.
+            # Odoo 16/17'de genellikle col-lg-9 col-md-8 içinde bulunur.
+            header = soup.select_one('#partner_name')
+            if header and header.parent and header.parent.parent:
+                main_div = header.parent.parent.find_next_sibling('div', class_='mb-5')
+                if main_div:
+                    # Temiz metin halinde al
+                    about = main_div.get_text(separator=' ', strip=True)
+                    # Çok uzun boşlukları tek boşluğa indir
+                    import re
+                    about = re.sub(r'\s+', ' ', about)
+                    if about:
+                        partner.about_text = about
+                        
+        except Exception as e:
+            print(f"⚠️ Detay sayfası parse hatası ({partner.name}): {e}")
     
     def scrape_all_partners(self) -> List[Partner]:
         """Tüm partnerleri çeker"""
@@ -252,6 +326,9 @@ class OdooPartnerScraper:
             for card in partner_cards:
                 partner = self._parse_partner_card(card)
                 if partner and partner.name != "Bilinmiyor":
+                    # 🔥 NEW: Detay sayfasına giderek derinlemesine veri çekimi
+                    self._scrape_partner_details(partner)
+                    
                     partners.append(partner)
                     print(f"  ✅ {partner.name} ({partner.level})")
         
@@ -334,7 +411,8 @@ def main():
         for p in partners:
             city = p.city if p.city else "Belirtilmemiş"
             cities[city] = cities.get(city, 0) + 1
-        for city, count in sorted(cities.items(), key=lambda x: -x[1])[:10]:
+        sorted_cities = sorted(cities.items(), key=lambda x: x[1], reverse=True)
+        for city, count in sorted_cities[:10]:
             print(f"   • {city}: {count}")
     else:
         print("❌ Hiç partner çekilemedi. Lütfen bağlantınızı kontrol edin.")

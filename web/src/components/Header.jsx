@@ -1,14 +1,15 @@
 import { Search, Map } from 'lucide-react'
+import { Link } from 'react-router-dom'
 
 function Header({ searchQuery, setSearchQuery, comparedPartners, onOpenCompare }) {
   return (
     <header className="header">
-      <div className="logo">
+      <Link to="/" style={{ textDecoration: 'none', color: 'inherit' }} className="logo">
         <Map size={22} />
         <div className="logo-text">
           <h1>Odoo Partner Keşif Haritası</h1>
         </div>
-      </div>
+      </Link>
 
       <div className="header-center">
         <div className="search-container">

@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { Filter, ChevronDown } from 'lucide-react'
 import { useState, useMemo } from 'react'
-import { REFERENCE_RANGES } from '../App'
+import { REFERENCE_RANGES } from '../pages/Home'
 
 function Sidebar({ filters, updateFilter, toggleLevel, toggleRefRange, toggleCity, partners, filteredCount, totalCount }) {
     const [openSections, setOpenSections] = useState({

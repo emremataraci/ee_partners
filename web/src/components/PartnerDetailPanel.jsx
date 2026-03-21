@@ -1,7 +1,9 @@
 import { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
+import { useNavigate } from 'react-router-dom'
 import ContactModal from './ContactModal'
 import './ContactModal.css'
+import { generateSlug } from '../utils'
 
 const TABS = [
   { id: 'overview', label: 'Genel Bakış' },
@@ -43,6 +45,7 @@ function ComingSoonTab({ label }) {
 function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompare }) {
   const [activeTab, setActiveTab] = useState('overview')
   const [isContactOpen, setIsContactOpen] = useState(false)
+  const navigate = useNavigate()
 
   // Reset tab when partner changes
   useEffect(() => {
@@ -216,6 +219,15 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                     <polyline points="22,6 12,13 2,6" />
                   </svg>
                   İletişime Geç
+                </button>
+              </div>
+              <div style={{ marginTop: '12px', width: '100%' }}>
+                <button
+                  className="detail-profile-btn"
+                  onClick={() => navigate(`/partners/${generateSlug(partner.name)}`)}
+                  style={{ width: '100%', justifyContent: 'center', border: '1px solid var(--border)', background: 'var(--white)', color: 'var(--text)' }}
+                >
+                  Tam Sayfa Detaya Git ↗
                 </button>
               </div>
             </div>
