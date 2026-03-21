@@ -50,28 +50,11 @@ const CustomizedContent = (props) => {
 
     // Dynamic font size based on box size
     const getFontSize = () => {
-        if (rw > 150 && rh > 60) return 13
-        if (rw > 100 && rh > 45) return 11
-        if (rw > 60 && rh > 30) return 9
-        return 8
+        if (rw > 180 && rh > 60) return 16
+        if (rw > 100 && rh > 45) return 14
+        if (rw > 60 && rh > 30) return 12
+        return 10
     }
-
-    // Truncate name based on available width
-    const getMaxChars = () => {
-        if (rw > 180) return 28
-        if (rw > 140) return 22
-        if (rw > 100) return 16
-        if (rw > 70) return 12
-        return 8
-    }
-
-    const truncateName = (str, maxLen) => {
-        if (!str) return ''
-        return str.length > maxLen ? str.substring(0, maxLen - 1) + '…' : str
-    }
-
-    const fontSize = getFontSize()
-    const maxChars = getMaxChars()
 
     // Dynamic stat display based on selected metric
     const getStatDisplay = () => {
@@ -98,39 +81,47 @@ const CustomizedContent = (props) => {
                 width={rw}
                 height={rh}
                 fill={color}
-                rx={5}
+                rx={6}
             />
 
             {canShowText && (
-                <text
-                    x={rx + rw / 2}
-                    y={ry + rh / 2 - (canShowStats && statDisplay ? 8 : 0)}
-                    textAnchor="middle"
-                    dominantBaseline="middle"
-                    fill="#fff"
-                    fontSize={fontSize}
-                    fontWeight="700"
-                    fontFamily="Inter, system-ui, sans-serif"
-                    style={{ textShadow: '0 1px 2px rgba(0,0,0,0.3)' }}
-                >
-                    {truncateName(name, maxChars)}
-                </text>
-            )}
-
-            {/* Show stat based on selected metric */}
-            {canShowStats && statDisplay && (
-                <text
-                    x={rx + rw / 2}
-                    y={ry + rh / 2 + 10}
-                    textAnchor="middle"
-                    dominantBaseline="middle"
-                    fill="rgba(255,255,255,0.8)"
-                    fontSize={10}
-                    fontWeight="500"
-                    fontFamily="Inter, system-ui, sans-serif"
-                >
-                    {statDisplay}
-                </text>
+                <foreignObject x={rx} y={ry} width={rw} height={rh} style={{ pointerEvents: 'none' }}>
+                    <div style={{
+                        width: '100%',
+                        height: '100%',
+                        padding: '6px',
+                        boxSizing: 'border-box',
+                        display: 'flex',
+                        flexDirection: 'column',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        textAlign: 'center',
+                        color: '#fff',
+                        fontFamily: 'Inter, system-ui, sans-serif'
+                    }}>
+                        <div style={{
+                            fontSize: getFontSize(),
+                            fontWeight: '700',
+                            whiteSpace: 'nowrap',
+                            overflow: 'hidden',
+                            textOverflow: 'ellipsis',
+                            width: '100%',
+                            textShadow: '0 1px 2px rgba(0,0,0,0.3)'
+                        }} title={name}>
+                            {name}
+                        </div>
+                        {canShowStats && statDisplay && (
+                            <div style={{
+                                fontSize: Math.max(getFontSize() - 3, 10),
+                                fontWeight: '500',
+                                marginTop: '4px',
+                                color: 'rgba(255,255,255,0.9)'
+                            }}>
+                                {statDisplay}
+                            </div>
+                        )}
+                    </div>
+                </foreignObject>
             )}
         </motion.g>
     )
