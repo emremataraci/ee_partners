@@ -77,6 +77,9 @@ export default function PartnerProfile() {
 
   // Helper for metrics
   const getMetric = (val, suffix = '') => val > 0 ? `${val} ${suffix}`.trim() : 'Bilinmiyor'
+  const shortDescription = partner.short_description?.trim()
+  const aboutText = partner.about_text?.trim()
+  const detailDescription = aboutText || 'Bu partner hakkında henüz detaylı bir açıklama bulunmamaktadır.'
 
   return (
     <div className="profile-page-container" style={{ padding: '40px', maxWidth: '1200px', margin: '0 auto' }}>
@@ -107,9 +110,11 @@ export default function PartnerProfile() {
               </span>
             )}
           </div>
-          <p style={{ color: 'var(--text)', lineHeight: 1.6, maxWidth: '800px', margin: 0 }}>
-            {partner.short_description || 'Bu partner hakkında henüz detaylı bir açıklama bulunmamaktadır.'}
-          </p>
+          {shortDescription && (
+            <p style={{ color: 'var(--text)', lineHeight: 1.6, maxWidth: '800px', margin: 0 }}>
+              {shortDescription}
+            </p>
+          )}
         </div>
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', minWidth: '200px' }}>
@@ -153,12 +158,10 @@ export default function PartnerProfile() {
         </div>
       </div>
 
-      {partner.about_text && (
-        <div className="profile-section" style={{ marginTop: '32px', background: 'var(--white)', padding: '32px', borderRadius: 'var(--radius-lg)', boxShadow: 'var(--shadow-sm)', border: '1px solid var(--border)' }}>
-          <h3 style={{ margin: '0 0 16px 0', color: 'var(--text)', fontSize: '20px' }}>Hakkımızda</h3>
-          <p style={{ color: 'var(--text)', lineHeight: 1.8, margin: 0, whiteSpace: 'pre-line' }}>{partner.about_text}</p>
-        </div>
-      )}
+      <div className="profile-section" style={{ marginTop: '32px', background: 'var(--white)', padding: '32px', borderRadius: 'var(--radius-lg)', boxShadow: 'var(--shadow-sm)', border: '1px solid var(--border)' }}>
+        <h3 style={{ margin: '0 0 16px 0', color: 'var(--text)', fontSize: '20px' }}>Hakkımızda</h3>
+        <p style={{ color: 'var(--text)', lineHeight: 1.8, margin: 0, whiteSpace: 'pre-line' }}>{detailDescription}</p>
+      </div>
 
       <div style={{ display: 'grid', gridTemplateColumns: 'minmax(0, 1fr) minmax(0, 1fr)', gap: '32px', marginTop: '32px' }}>
         
