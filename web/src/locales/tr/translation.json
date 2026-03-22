@@ -14,6 +14,12 @@
     "partnerLevel": "Partner Seviyesi",
     "references": "Referans Sayısı",
     "city": "Şehir",
+    "additionalFilters": "Ek Filtreler",
+    "industry": "Sektör",
+    "satisfaction": "Memnuniyet Aralığı",
+    "certificates": "Sertifika Sayısı",
+    "min": "Min",
+    "max": "Maks",
     "disclaimer": "Veriler Odoo Partner Directory'den alınmıştır."
   },
   "home": {
@@ -78,7 +84,6 @@
     },
     "comingSoon": {
       "soon": "verisi yakında",
-      "desc": "Scraper genişletildiğinde bu sekme dolacak.",
       "competencies": "Yetkinlikler & Modüller"
     },
     "info": {
@@ -133,6 +138,28 @@
       "consentPart1": "Bu talep formunda girdiğim bilgilerin ",
       "consentPart2": " ile paylaşılmasını onaylıyorum. *",
       "submit": "Gönder"
+    }
+  },
+  "partnerUpdateModal": {
+    "trigger": "Partner profilini güncelle",
+    "title": "Partner profilini güncelle",
+    "close": "Kapat",
+    "description": "Profilinizde eksik, hatalı veya güncellenmesi gereken bilgiler varsa bu form üzerinden bize iletebilirsiniz.",
+    "success": {
+      "title": "Talebiniz alındı",
+      "description": "{{partnerName}} için profil güncelleme talebiniz ekibimize iletildi. İnceleme sonrası sizinle iletişime geçeceğiz."
+    },
+    "form": {
+      "partnerName": "Partner adı",
+      "contactName": "Kişi adı *",
+      "contactNamePlaceholder": "İsim Soyisim",
+      "email": "E-posta *",
+      "emailPlaceholder": "ornek@sirket.com",
+      "phone": "Telefon *",
+      "phonePlaceholder": "05XX XXX XX XX",
+      "message": "Mesaj *",
+      "messagePlaceholder": "Güncellemek istediğiniz bilgileri kısaca yazın.",
+      "submit": "Talebi gönder"
     }
   }
 }

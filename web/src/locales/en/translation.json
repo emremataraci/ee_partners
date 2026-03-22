@@ -14,6 +14,12 @@
     "partnerLevel": "Partner Level",
     "references": "References",
     "city": "City",
+    "additionalFilters": "Additional Filters",
+    "industry": "Industry",
+    "satisfaction": "Satisfaction Range",
+    "certificates": "Certificate Count",
+    "min": "Min",
+    "max": "Max",
     "disclaimer": "Data sourced from Odoo Partner Directory."
   },
   "home": {
@@ -78,7 +84,6 @@
     },
     "comingSoon": {
       "soon": "data coming soon",
-      "desc": "This tab will be populated when the scraper is expanded.",
       "competencies": "Competencies & Modules"
     },
     "info": {
@@ -133,6 +138,28 @@
       "consentPart1": "I agree to share the information I entered in this form with ",
       "consentPart2": ". *",
       "submit": "Submit"
+    }
+  },
+  "partnerUpdateModal": {
+    "trigger": "Update partner profile",
+    "title": "Update partner profile",
+    "close": "Close",
+    "description": "Use this form to tell us if there is missing, outdated, or incorrect information in your profile.",
+    "success": {
+      "title": "Request received",
+      "description": "Your profile update request for {{partnerName}} has been sent to our team. We will contact you after reviewing it."
+    },
+    "form": {
+      "partnerName": "Partner name",
+      "contactName": "Contact name *",
+      "contactNamePlaceholder": "Full name",
+      "email": "Email *",
+      "emailPlaceholder": "example@company.com",
+      "phone": "Phone *",
+      "phonePlaceholder": "+1 XXX XXX XXXX",
+      "message": "Message *",
+      "messagePlaceholder": "Briefly describe the information you want updated.",
+      "submit": "Send request"
     }
   }
 }

@@ -8,13 +8,43 @@ import PartnerListView from '../components/PartnerListView'
 import PartnerDetailPanel from '../components/PartnerDetailPanel'
 import CompareModal from '../components/CompareModal'
 import Skeleton from '../components/Skeleton'
+import { REFERENCE_RANGES } from '../constants/filters'
 import '../components/CompareModal.css'
 
-export const REFERENCE_RANGES = [
-  { id: '0-25', min: 0, max: 25 },
-  { id: '26-50', min: 26, max: 50 },
-  { id: '50+', min: 51, max: Infinity }
-]
+const DEFAULT_RANGE = { min: 0, max: 0 }
+
+const parseNumericValue = (value) => {
+  if (value === null || value === undefined || value === '') return null
+  if (typeof value === 'number') return Number.isFinite(value) ? value : null
+
+  const match = String(value).match(/\d+(?:[.,]\d+)?/)
+  if (!match) return null
+
+  return Number(match[0].replace(',', '.'))
+}
+
+const buildNumericBounds = (values) => {
+  const validValues = values.filter(value => Number.isFinite(value))
+
+  if (!validValues.length) {
+    return { ...DEFAULT_RANGE }
+  }
+
+  return {
+    min: Math.min(...validValues),
+    max: Math.max(...validValues)
+  }
+}
+
+const sortLabels = (values) => (
+  [...values].sort((a, b) => a.localeCompare(b, 'tr'))
+)
+
+const isDefaultRange = (range, bounds) => (
+  range.min === bounds.min && range.max === bounds.max
+)
+
+const MotionDiv = motion.div
 
 // Normalize city names
 const normalizeCity = (city) => {
@@ -30,7 +60,6 @@ const normalizeCity = (city) => {
 function Home() {
   const { t } = useTranslation()
   const [partners, setPartners] = useState([])
-  const [filteredPartners, setFilteredPartners] = useState([])
   const [loading, setLoading] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
   const [sidebarOpen, setSidebarOpen] = useState(window.innerWidth > 768)
@@ -76,7 +105,16 @@ function Home() {
   const [filters, setFilters] = useState({
     levels: ['Gold', 'Silver', 'Ready', 'Learning'],
     selectedRefRanges: [],
-    selectedCities: []
+    selectedCities: [],
+    selectedIndustries: [],
+    ratingRange: { ...DEFAULT_RANGE },
+    certificateRange: { ...DEFAULT_RANGE }
+  })
+  const [filterOptions, setFilterOptions] = useState({
+    cities: [],
+    industries: [],
+    ratingBounds: { ...DEFAULT_RANGE },
+    certificateBounds: { ...DEFAULT_RANGE }
   })
 
   // Visualization settings - default: references, options: references, district
@@ -90,27 +128,54 @@ function Home() {
         // Parse and enhance partner data
         const enhancedPartners = data.partners.map(p => {
           const rawCity = p.city === 'Türkiye' ? p.country : p.city
+          const industries = (p.industries_breakdown ?? [])
+            .map(item => item.industry?.trim())
+            .filter(Boolean)
+          const averageUsers = parseNumericValue(p.average_project_size) ?? 0
+          const largeUsers = parseNumericValue(p.large_project_size) ?? 0
+          const references = parseNumericValue(p.references_count) ?? 0
+          const experts = parseNumericValue(p.certified_experts_count) ?? 0
+          const rating = parseNumericValue(p.rating_percentage)
+
           return {
             ...p,
-            average_users: parseInt(p.average_project_size?.match(/\d+/)?.[0] || '0'),
-            large_users: parseInt(p.large_project_size?.match(/\d+/)?.[0] || '0'),
-            references: parseInt(p.references_count || '0'),
-            experts: parseInt(p.certified_experts_count || '0'),
+            average_users: averageUsers,
+            large_users: largeUsers,
+            references,
+            experts,
+            rating,
+            industries,
             displayCity: normalizeCity(rawCity),
-            districtValue: parseInt(p.district) || 0
+            districtValue: parseNumericValue(p.district) ?? 0
           }
         })
-        setPartners(enhancedPartners)
-        setFilteredPartners(enhancedPartners)
-        setLoading(false)
 
-        // Get unique cities (normalized)
-        const uniqueCities = [...new Set(enhancedPartners.map(p => p.displayCity))].filter(Boolean).sort()
+        const uniqueCities = sortLabels(
+          [...new Set(enhancedPartners.map(p => p.displayCity))].filter(Boolean)
+        )
+        const uniqueIndustries = sortLabels(
+          [...new Set(enhancedPartners.flatMap(p => p.industries))].filter(Boolean)
+        )
+        const ratingBounds = buildNumericBounds(enhancedPartners.map(p => p.rating))
+        const certificateBounds = buildNumericBounds(enhancedPartners.map(p => p.experts))
+
+        setPartners(enhancedPartners)
+        setFilterOptions({
+          cities: uniqueCities,
+          industries: uniqueIndustries,
+          ratingBounds,
+          certificateBounds
+        })
 
         setFilters(prev => ({
           ...prev,
-          selectedCities: uniqueCities
+          selectedCities: uniqueCities,
+          selectedIndustries: uniqueIndustries,
+          ratingRange: { ...ratingBounds },
+          certificateRange: { ...certificateBounds }
         }))
+
+        setLoading(false)
       })
       .catch(err => {
         console.error('Error loading partners:', err)
@@ -118,8 +183,7 @@ function Home() {
       })
   }, [])
 
-  // Apply filters
-  useEffect(() => {
+  const filteredPartners = useMemo(() => {
     let result = partners
 
     // Search filter
@@ -150,12 +214,32 @@ function Home() {
     // City filter - always apply (if no cities selected, show nothing)
     result = result.filter(p => filters.selectedCities.includes(p.displayCity))
 
-    setFilteredPartners(result)
-  }, [partners, searchQuery, filters])
+    const industryFilterActive = filters.selectedIndustries.length !== filterOptions.industries.length
+    if (industryFilterActive) {
+      result = result.filter(p =>
+        p.industries.some(industry => filters.selectedIndustries.includes(industry))
+      )
+    }
 
-  const updateFilter = (key, value) => {
-    setFilters(prev => ({ ...prev, [key]: value }))
-  }
+    const ratingFilterActive = !isDefaultRange(filters.ratingRange, filterOptions.ratingBounds)
+    if (ratingFilterActive) {
+      result = result.filter(p =>
+        p.rating !== null &&
+        p.rating >= filters.ratingRange.min &&
+        p.rating <= filters.ratingRange.max
+      )
+    }
+
+    const certificateFilterActive = !isDefaultRange(filters.certificateRange, filterOptions.certificateBounds)
+    if (certificateFilterActive) {
+      result = result.filter(p =>
+        p.experts >= filters.certificateRange.min &&
+        p.experts <= filters.certificateRange.max
+      )
+    }
+
+    return result
+  }, [partners, searchQuery, filters, filterOptions])
 
   const toggleLevel = (level) => {
     setFilters(prev => ({
@@ -184,6 +268,37 @@ function Home() {
     }))
   }
 
+  const toggleIndustry = (industry) => {
+    setFilters(prev => ({
+      ...prev,
+      selectedIndustries: prev.selectedIndustries.includes(industry)
+        ? prev.selectedIndustries.filter(item => item !== industry)
+        : [...prev.selectedIndustries, industry]
+    }))
+  }
+
+  const updateRangeFilter = (key, boundary, rawValue, bounds) => {
+    const nextValue = Math.min(bounds.max, Math.max(bounds.min, Number(rawValue)))
+
+    setFilters(prev => {
+      const currentRange = prev[key]
+      const nextRange = { ...currentRange, [boundary]: nextValue }
+
+      if (boundary === 'min' && nextValue > currentRange.max) {
+        nextRange.max = nextValue
+      }
+
+      if (boundary === 'max' && nextValue < currentRange.min) {
+        nextRange.min = nextValue
+      }
+
+      return {
+        ...prev,
+        [key]: nextRange
+      }
+    })
+  }
+
   if (loading) {
     return <Skeleton />
   }
@@ -203,7 +318,7 @@ function Home() {
         <AnimatePresence>
           {sidebarOpen && (
             <>
-              <motion.div 
+              <MotionDiv
                 className="sidebar-overlay" 
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
@@ -213,11 +328,15 @@ function Home() {
               />
               <Sidebar
                 filters={filters}
-                updateFilter={updateFilter}
                 toggleLevel={toggleLevel}
                 toggleRefRange={toggleRefRange}
                 toggleCity={toggleCity}
-                partners={partners}
+                toggleIndustry={toggleIndustry}
+                updateRangeFilter={updateRangeFilter}
+                cityOptions={filterOptions.cities}
+                industryOptions={filterOptions.industries}
+                ratingBounds={filterOptions.ratingBounds}
+                certificateBounds={filterOptions.certificateBounds}
                 filteredCount={filteredPartners.length}
                 totalCount={partners.length}
               />

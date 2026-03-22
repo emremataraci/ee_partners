@@ -10,7 +10,6 @@ const TABS = [
   { id: 'overview', label: 'Genel Bakış' },
   { id: 'competencies', label: 'Yetkinlikler' },
   { id: 'industries', label: 'Sektörler' },
-  { id: 'footprint', label: 'Müşteri Ayak İzi' },
   { id: 'certifications', label: 'Sertifikalar & Ekip' },
 ]
 
@@ -39,7 +38,6 @@ function ComingSoonTab({ label }) {
         <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 15v-4m0-4h.01" />
       </svg>
       <p><strong>{label}</strong> {t('detailPanel.comingSoon.soon')}</p>
-      <span>{t('detailPanel.comingSoon.desc')}</span>
     </div>
   )
 }
@@ -124,8 +122,6 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
         return <ComingSoonTab label={t('detailPanel.comingSoon.competencies')} />
       case 'industries':
         return <ComingSoonTab label={t('detailPanel.tabs.industries')} />
-      case 'footprint':
-        return <ComingSoonTab label={t('detailPanel.tabs.footprint')} />
       case 'certifications':
         return <ComingSoonTab label={t('detailPanel.tabs.certifications')} />
       default:

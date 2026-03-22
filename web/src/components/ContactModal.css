@@ -67,6 +67,13 @@
   gap: 16px;
 }
 
+.contact-form-helper {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-light);
+}
+
 .form-group {
   display: flex;
   flex-direction: column;
@@ -89,11 +96,30 @@
   background: var(--bg);
 }
 
-.form-group input:focus {
+.form-group textarea {
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 14px;
+  font-family: inherit;
+  transition: all 0.2s;
+  background: var(--bg);
+  min-height: 120px;
+  resize: vertical;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
   outline: none;
   border-color: var(--accent);
   background: var(--white);
   box-shadow: 0 0 0 3px rgba(135, 91, 247, 0.1);
+}
+
+.form-group input[readonly] {
+  color: var(--text);
+  background: #f5f7fb;
+  cursor: default;
 }
 
 .form-checkbox-group {

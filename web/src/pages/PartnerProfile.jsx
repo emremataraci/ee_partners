@@ -1,13 +1,17 @@
 import { useParams, Link } from 'react-router-dom'
 import { useState, useEffect } from 'react'
+import { useTranslation } from 'react-i18next'
 import { generateSlug } from '../utils'
 import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip } from 'recharts'
+import PartnerUpdateModal from '../components/PartnerUpdateModal'
 import '../App.css'
 
 export default function PartnerProfile() {
+  const { t } = useTranslation()
   const { slug } = useParams()
   const [partner, setPartner] = useState(null)
   const [loading, setLoading] = useState(true)
+  const [isUpdateModalOpen, setIsUpdateModalOpen] = useState(false)
 
   useEffect(() => {
     // In production this might be an API call
@@ -109,7 +113,24 @@ export default function PartnerProfile() {
         </div>
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', minWidth: '200px' }}>
-          <button className="btn-primary" style={{ width: '100%', padding: '12px' }}>İletişime Geç</button>
+          <button
+            type="button"
+            style={{
+              width: '100%',
+              padding: '12px 16px',
+              borderRadius: '12px',
+              border: 'none',
+              background: 'var(--accent)',
+              color: 'var(--white)',
+              fontWeight: 700,
+              fontSize: '14px',
+              cursor: 'pointer',
+              boxShadow: 'var(--shadow-sm)'
+            }}
+            onClick={() => setIsUpdateModalOpen(true)}
+          >
+            {t('partnerUpdateModal.trigger')}
+          </button>
         </div>
       </div>
 
@@ -169,7 +190,7 @@ export default function PartnerProfile() {
                     <span style={{ fontSize: '24px' }}>🏆</span>
                     <span style={{ fontWeight: 500, color: 'var(--text)' }}>{cert.version}</span>
                   </div>
-                  <div style={{ background: 'var(--primary)', color: 'white', padding: '6px 16px', borderRadius: '20px', fontWeight: 'bold', fontSize: '14px' }}>
+                  <div style={{ background: 'var(--primary)', color: 'var(--text)', padding: '6px 16px', borderRadius: '20px', fontWeight: 'bold', fontSize: '14px' }}>
                     {cert.count} Uzman
                   </div>
                 </div>
@@ -178,6 +199,14 @@ export default function PartnerProfile() {
           </div>
         )}
       </div>
+
+      {isUpdateModalOpen && (
+        <PartnerUpdateModal
+          isOpen={isUpdateModalOpen}
+          onClose={() => setIsUpdateModalOpen(false)}
+          partnerName={partner.name}
+        />
+      )}
 
     </div>
   )
