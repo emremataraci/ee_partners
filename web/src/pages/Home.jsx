@@ -255,43 +255,41 @@ function Home() {
               </div>
             </div>
 
-            {viewMode === 'treemap' && (
-              <div className="visualization-controls">
-                <div className="control-group">
-                  <span className="control-label">Boyut</span>
-                  <div className="segmented-control">
-                <button
-                  className={`segment-btn ${areaMetric === 'references' ? 'active' : ''}`}
-                  onClick={() => setAreaMetric('references')}
-                >
-                  Referans
-                </button>
-                <button
-                  className={`segment-btn ${areaMetric === 'average_users' ? 'active' : ''}`}
-                  onClick={() => setAreaMetric('average_users')}
-                >
-                  Ort. Kullanıcı
-                </button>
+            <div className="visualization-controls">
+              <div className="control-group">
+                <span className="control-label">{viewMode === 'treemap' ? 'Boyut' : 'Sıralama'}</span>
+                <div className="segmented-control">
+                  <button
+                    className={`segment-btn ${areaMetric === 'references' ? 'active' : ''}`}
+                    onClick={() => setAreaMetric('references')}
+                  >
+                    Referans
+                  </button>
+                  <button
+                    className={`segment-btn ${areaMetric === 'average_users' ? 'active' : ''}`}
+                    onClick={() => setAreaMetric('average_users')}
+                  >
+                    Ort. Kullanıcı
+                  </button>
+                </div>
               </div>
-            </div>
 
-            {/* Info tags — read only */}
-            <div className="chart-info-tags">
-              <div className="chart-info-tag">
-                <span className="chart-info-tag-key">Grafik Alanı</span>
-                <span className="chart-info-tag-sep">·</span>
-                <span className="chart-info-tag-val">
-                  {areaMetric === 'references' ? 'Referans Sayısı' : 'Ort. Kullanıcı Sayısı'}
-                </span>
-              </div>
-              <div className="chart-info-tag">
-                <span className="chart-info-tag-key">Renk</span>
-                <span className="chart-info-tag-sep">·</span>
-                <span className="chart-info-tag-val">Partner Seviyesi</span>
+              {/* Info tags — read only */}
+              <div className="chart-info-tags">
+                <div className="chart-info-tag">
+                  <span className="chart-info-tag-key">{viewMode === 'treemap' ? 'Grafik Alanı' : 'Sıralama'}</span>
+                  <span className="chart-info-tag-sep">·</span>
+                  <span className="chart-info-tag-val">
+                    {areaMetric === 'references' ? 'Referans Sayısı' : 'Ort. Kullanıcı Sayısı'}
+                  </span>
+                </div>
+                <div className="chart-info-tag">
+                  <span className="chart-info-tag-key">Renk</span>
+                  <span className="chart-info-tag-sep">·</span>
+                  <span className="chart-info-tag-val">Partner Seviyesi</span>
+                </div>
               </div>
             </div>
-          </div>
-          )}
           </div>
 
           <div className="visualization-content">
@@ -304,6 +302,7 @@ function Home() {
             ) : (
               <PartnerListView
                 partners={filteredPartners}
+                areaMetric={areaMetric}
                 onPartnerClick={(partner) => setSelectedPartner(partner)}
                 comparedPartners={comparedPartners}
                 onToggleCompare={toggleCompare}

@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import EmptyState from './EmptyState'
 
@@ -23,9 +23,16 @@ const SortIcon = ({ column, sortKey, sortDir }) => {
   )
 }
 
-function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleCompare }) {
-  const [sortKey, setSortKey] = useState('references')
+function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleCompare, areaMetric }) {
+  const [sortKey, setSortKey] = useState(areaMetric || 'references')
   const [sortDir, setSortDir] = useState('desc')
+
+  useEffect(() => {
+    if (areaMetric) {
+      setSortKey(areaMetric)
+      setSortDir('desc')
+    }
+  }, [areaMetric])
 
   const handleSort = (key) => {
     if (sortKey === key) {
