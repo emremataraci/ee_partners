@@ -1,7 +1,9 @@
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
+import { useTranslation } from 'react-i18next'
 
 export default function ContactModal({ isOpen, onClose, partnerName }) {
+  const { t } = useTranslation()
   const [formData, setFormData] = useState({
     name: '',
     company: '',
@@ -59,8 +61,8 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
           transition={{ duration: 0.2 }}
         >
           <div className="contact-modal-header">
-            <h3>{partnerName} ile İletişime Geç</h3>
-            <button className="contact-modal-close" onClick={onClose} aria-label="Kapat">
+            <h3>{t('contactModal.title', { partnerName })}</h3>
+            <button className="contact-modal-close" onClick={onClose} aria-label={t('contactModal.close')}>
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                 <line x1="18" y1="6" x2="6" y2="18" />
                 <line x1="6" y1="6" x2="18" y2="18" />
@@ -81,13 +83,13 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
                     <polyline points="22 4 12 14.01 9 11.01" />
                   </svg>
                 </div>
-                <h4>Talebiniz Alındı!</h4>
-                <p>Mesajınız <strong>{partnerName}</strong> ekibine başarıyla iletildi. En kısa sürede sizinle iletişime geçecekler.</p>
+                <h4>{t('contactModal.success.title')}</h4>
+                <p>{t('contactModal.success.descPart1')}<strong>{partnerName}</strong>{t('contactModal.success.descPart2')}</p>
               </motion.div>
             ) : (
               <form onSubmit={handleSubmit} className="contact-form">
                 <div className="form-group">
-                  <label htmlFor="name">İsim Soyisim *</label>
+                  <label htmlFor="name">{t('contactModal.form.name')}</label>
                   <input
                     type="text"
                     id="name"
@@ -95,12 +97,12 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
                     required
                     value={formData.name}
                     onChange={handleChange}
-                    placeholder="Adınız Soyadınız"
+                    placeholder={t('contactModal.form.namePlaceholder')}
                   />
                 </div>
                 
                 <div className="form-group">
-                  <label htmlFor="company">Şirket *</label>
+                  <label htmlFor="company">{t('contactModal.form.company')}</label>
                   <input
                     type="text"
                     id="company"
@@ -108,12 +110,12 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
                     required
                     value={formData.company}
                     onChange={handleChange}
-                    placeholder="Şirketinizin Adı"
+                    placeholder={t('contactModal.form.companyPlaceholder')}
                   />
                 </div>
 
                 <div className="form-group">
-                  <label htmlFor="phone">Telefon *</label>
+                  <label htmlFor="phone">{t('contactModal.form.phone')}</label>
                   <input
                     type="tel"
                     id="phone"
@@ -121,12 +123,12 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
                     required
                     value={formData.phone}
                     onChange={handleChange}
-                    placeholder="05XX XXX XX XX"
+                    placeholder={t('contactModal.form.phonePlaceholder')}
                   />
                 </div>
 
                 <div className="form-group">
-                  <label htmlFor="email">E-posta *</label>
+                  <label htmlFor="email">{t('contactModal.form.email')}</label>
                   <input
                     type="email"
                     id="email"
@@ -134,7 +136,7 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
                     required
                     value={formData.email}
                     onChange={handleChange}
-                    placeholder="ornek@sirket.com"
+                    placeholder={t('contactModal.form.emailPlaceholder')}
                   />
                 </div>
 
@@ -148,13 +150,13 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
                       onChange={handleChange}
                     />
                     <span>
-                      Bu talep formunda girdiğim bilgilerin <strong>{partnerName}</strong> ile paylaşılmasını onaylıyorum. *
+                      {t('contactModal.form.consentPart1')}<strong>{partnerName}</strong>{t('contactModal.form.consentPart2')}
                     </span>
                   </label>
                 </div>
 
                 <button type="submit" className="submit-btn" disabled={!formData.consent}>
-                  Gönder
+                  {t('contactModal.form.submit')}
                 </button>
               </form>
             )}

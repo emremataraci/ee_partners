@@ -2,9 +2,11 @@ import { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useNavigate } from 'react-router-dom'
 import { generateSlug } from '../utils'
+import { useTranslation } from 'react-i18next'
 import ContactModal from './ContactModal'
 
 export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
+  const { t } = useTranslation()
   const navigate = useNavigate()
   const [contactPartnerName, setContactPartnerName] = useState(null)
   // Close on Esc
@@ -32,8 +34,8 @@ export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
           onClick={e => e.stopPropagation()}
         >
           <div className="compare-header">
-            <h2>Partner Karşılaştırma</h2>
-            <button className="compare-close-btn" onClick={onClose} aria-label="Kapat">
+            <h2>{t('compareModal.title')}</h2>
+            <button className="compare-close-btn" onClick={onClose} aria-label={t('compareModal.close')}>
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                 <line x1="18" y1="6" x2="6" y2="18" />
                 <line x1="6" y1="6" x2="18" y2="18" />
@@ -44,8 +46,8 @@ export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
           <div className="compare-body">
             {partners.length === 0 ? (
               <div className="compare-empty">
-                <p>Karşılaştırmak için henüz partner seçmediniz.</p>
-                <button className="btn-primary" onClick={onClose}>Listeye Dön</button>
+                <p>{t('compareModal.emptyState')}</p>
+                <button className="btn-primary" onClick={onClose}>{t('compareModal.backToList')}</button>
               </div>
             ) : (
               <div className={`compare-grid cols-${partners.length}`}>
@@ -54,7 +56,7 @@ export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
                     <button 
                       className="compare-remove-btn" 
                       onClick={() => onRemove(p.name)}
-                      title="Karşılaştırmadan Çıkar"
+                      title={t('compareModal.removeFromCompare')}
                     >
                       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                         <line x1="18" y1="6" x2="6" y2="18" />
@@ -69,25 +71,25 @@ export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
                       <h3>{p.name}</h3>
                       <div style={{ display: 'flex', gap: '8px', alignItems: 'center', flexWrap: 'wrap' }}>
                         <span className={`level-badge ${p.level?.toLowerCase()}`}>{p.level}</span>
-                        <span className="compare-city">{p.displayCity || 'Türkiye'}</span>
+                        <span className="compare-city">{p.displayCity || t('compareModal.turkey')}</span>
                       </div>
                     </div>
 
                     <div className="compare-metrics">
                       <div className="compare-metric-row">
-                        <span className="compare-metric-label">Referans Sayısı</span>
+                        <span className="compare-metric-label">{t('compareModal.metrics.references')}</span>
                         <span className="compare-metric-value">{getMetricValue(p.references)}</span>
                       </div>
                       <div className="compare-metric-row">
-                        <span className="compare-metric-label">Ortalama Kullanıcı</span>
+                        <span className="compare-metric-label">{t('compareModal.metrics.avgUsers')}</span>
                         <span className="compare-metric-value">{getMetricValue(p.average_users)}</span>
                       </div>
                       <div className="compare-metric-row">
-                        <span className="compare-metric-label">Büyük Proje Kullanıcısı</span>
+                        <span className="compare-metric-label">{t('compareModal.metrics.largeProject')}</span>
                         <span className="compare-metric-value">{p.large_users > 0 ? `~${p.large_users}` : '—'}</span>
                       </div>
                       <div className="compare-metric-row">
-                        <span className="compare-metric-label">Sertifikalı Uzman</span>
+                        <span className="compare-metric-label">{t('compareModal.metrics.experts')}</span>
                         <span className="compare-metric-value">{getMetricValue(p.experts)}</span>
                       </div>
                       <div className="compare-action-row" style={{ display: 'flex', flexDirection: 'column', gap: '8px', marginTop: '16px', borderTop: '1px solid var(--border-soft)', paddingTop: '16px' }}>
@@ -97,14 +99,14 @@ export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
                           style={{ padding: '8px', background: 'var(--accent)', color: 'white', border: 'none', borderRadius: '6px', cursor: 'pointer', fontWeight: 500, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px' }}
                         >
                           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" /><polyline points="22,6 12,13 2,6" /></svg>
-                          İletişime Geç
+                          {t('compareModal.buttons.contact')}
                         </button>
                         <button 
                           className="compare-btn-secondary" 
                           onClick={() => { navigate(`/partners/${generateSlug(p.name)}`); onClose(); }}
                           style={{ padding: '8px', background: 'var(--bg)', color: 'var(--text)', border: '1px solid var(--border)', borderRadius: '6px', cursor: 'pointer', fontWeight: 500 }}
                         >
-                          Sitede İncele ↗
+                          {t('compareModal.buttons.viewOnSite')}
                         </button>
                       </div>
                     </div>

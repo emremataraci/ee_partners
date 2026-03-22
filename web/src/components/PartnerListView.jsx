@@ -1,6 +1,7 @@
 import { useState, useMemo, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import EmptyState from './EmptyState'
+import { useTranslation } from 'react-i18next'
 
 const LEVEL_ORDER = { Gold: 0, Silver: 1, Ready: 2, Learning: 3 }
 
@@ -66,20 +67,21 @@ function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleC
     })
   }, [partners, sortKey, sortDir])
 
+  const { t } = useTranslation()
   const cols = [
-    { key: 'name', label: 'Partner', width: '30%' },
-    { key: 'level', label: 'Seviye', width: '10%' },
-    { key: 'city', label: 'Şehir', width: '12%' },
-    { key: 'references', label: 'Referans', width: '12%' },
-    { key: 'average_users', label: 'Ort. Kullanıcı', width: '14%' },
-    { key: 'large_users', label: 'Büyük Proje', width: '14%' },
-    { key: 'experts', label: 'Uzman', width: '8%' },
+    { key: 'name', label: t('listView.columns.partner'), width: '30%' },
+    { key: 'level', label: t('listView.columns.level'), width: '10%' },
+    { key: 'city', label: t('listView.columns.city'), width: '12%' },
+    { key: 'references', label: t('listView.columns.references'), width: '12%' },
+    { key: 'average_users', label: t('listView.columns.avgUsers'), width: '14%' },
+    { key: 'large_users', label: t('listView.columns.largeProject'), width: '14%' },
+    { key: 'experts', label: t('listView.columns.expert'), width: '8%' },
   ]
 
   if (!partners.length) {
     return (
       <div className="partner-list-wrapper">
-        <EmptyState message="Filtrelere uygun partner bulunamadı. Lütfen filtreleri değiştirerek tekrar deneyin." />
+        <EmptyState message={t('listView.emptyState')} />
       </div>
     )
   }
@@ -87,15 +89,15 @@ function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleC
   return (
     <div className="partner-list-wrapper">
       <div className="partner-list-info">
-        <span className="partner-list-count">{partners.length} partner listeleniyor</span>
-        <span className="partner-list-hint">Kolona tıklayarak sıralayabilirsiniz · Satıra tıklayarak detay görebilirsiniz</span>
+        <span className="partner-list-count">{t('listView.countMsg', { count: partners.length })}</span>
+        <span className="partner-list-hint">{t('listView.hintMsg')}</span>
       </div>
       <div className="partner-table-container">
         <table className="partner-table">
           <thead>
             <tr>
               <th className="th-rank">#</th>
-              <th style={{ width: '40px', textAlign: 'center', opacity: 0.7 }}>Kıyasla</th>
+              <th style={{ width: '40px', textAlign: 'center', opacity: 0.7 }}>{t('listView.columns.compare')}</th>
               {cols.map(col => (
                 <th
                   key={col.key}

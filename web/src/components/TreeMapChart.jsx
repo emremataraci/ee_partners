@@ -29,8 +29,11 @@ const getColorWithShade = (level, value, maxValue) => {
     return darkenHex(base, darken)
 }
 
+import { useTranslation } from 'react-i18next'
+
 const CustomizedContent = (props) => {
     const { x, y, width, height, name, level, references, average_users, districtValue, index, depth, maxMetric, areaMetric, onPartnerClick, originalData } = props
+    const { t } = useTranslation()
 
     if (depth === 0) return null
 
@@ -60,9 +63,9 @@ const CustomizedContent = (props) => {
     // Dynamic stat display based on selected metric
     const getStatDisplay = () => {
         if (areaMetric === 'average_users') {
-            return average_users > 0 ? `${average_users} Kullanıcı` : null
+            return average_users > 0 ? `${average_users} ${t('treeMap.users')}` : null
         } else {
-            return references > 0 ? `${references} Ref` : null
+            return references > 0 ? `${references} ${t('treeMap.ref')}` : null
         }
     }
 
@@ -129,6 +132,7 @@ const CustomizedContent = (props) => {
 }
 
 function TreeMapChart({ partners, areaMetric, onPartnerClick }) {
+    const { t } = useTranslation()
     const [tooltipData, setTooltipData] = useState(null)
     const [tooltipPos, setTooltipPos] = useState({ x: 0, y: 0 })
     const containerRef = useRef(null)
@@ -213,7 +217,7 @@ function TreeMapChart({ partners, areaMetric, onPartnerClick }) {
     if (!partners.length) {
         return (
             <div className="treemap-empty">
-                <EmptyState message="Filtrelere uygun partner bulunamadı. Lütfen filtreleri değiştirerek tekrar deneyin." />
+                <EmptyState message={t('treeMap.emptyState')} />
             </div>
         )
     }
@@ -251,22 +255,22 @@ function TreeMapChart({ partners, areaMetric, onPartnerClick }) {
                     </div>
                     <div className="tooltip-details">
                         <div className="tooltip-row">
-                            <span>Konum</span>
-                            <span>{tooltipData.displayCity || 'Türkiye'}</span>
+                            <span>{t('treeMap.location')}</span>
+                            <span>{tooltipData.displayCity || t('treeMap.turkey')}</span>
                         </div>
                         <div className="tooltip-row">
-                            <span>Ort. Kullanıcı</span>
+                            <span>{t('treeMap.avgUsers')}</span>
                             <span>{tooltipData.average_users > 0 ? tooltipData.average_users : '-'}</span>
                         </div>
                         {tooltipData.references > 0 && (
                             <div className="tooltip-row">
-                                <span>Referans</span>
+                                <span>{t('treeMap.reference')}</span>
                                 <span>{tooltipData.references}</span>
                             </div>
                         )}
                         {tooltipData.experts > 0 && (
                             <div className="tooltip-row">
-                                <span>Sertifikalı Uzman</span>
+                                <span>{t('treeMap.experts')}</span>
                                 <span>{tooltipData.experts}</span>
                             </div>
                         )}

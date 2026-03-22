@@ -1,0 +1,138 @@
+{
+  "app": {
+    "loading": "Partner verileri yükleniyor..."
+  },
+  "header": {
+    "title": "Odoo Partner Keşif Haritası",
+    "searchPlaceholder": "Partner ara...",
+    "compare": "Karşılaştır ({{count}}/3)",
+    "menuAria": "Menüyü aç"
+  },
+  "sidebar": {
+    "filters": "Filtreler",
+    "partnerCount": "/ {{totalCount}} partner gösteriliyor",
+    "partnerLevel": "Partner Seviyesi",
+    "references": "Referans Sayısı",
+    "city": "Şehir",
+    "disclaimer": "Veriler Odoo Partner Directory'den alınmıştır."
+  },
+  "home": {
+    "ranges": {
+      "0-25": "0 - 25 Referans",
+      "26-50": "26 - 50 Referans",
+      "50+": "50+ Referans"
+    },
+    "maxCompareAlert": "En fazla 3 partner karşılaştırabilirsiniz.",
+    "map": "Harita",
+    "list": "Liste",
+    "size": "Boyut",
+    "sort": "Sıralama",
+    "reference": "Referans",
+    "avgUsers": "Ort. Kullanıcı",
+    "chartArea": "Grafik Alanı",
+    "numReferences": "Referans Sayısı",
+    "numAvgUsers": "Ort. Kullanıcı Sayısı",
+    "color": "Renk",
+    "partnerLevel": "Partner Seviyesi",
+    "footerDesc": "Bu veriler Odoo Partner Directory'deki kamuya açık bilgilerden derlenmiştir."
+  },
+  "listView": {
+    "emptyState": "Filtrelere uygun partner bulunamadı. Lütfen filtreleri değiştirerek tekrar deneyin.",
+    "countMsg": "{{count}} partner listeleniyor",
+    "hintMsg": "Kolona tıklayarak sıralayabilirsiniz · Satıra tıklayarak detay görebilirsiniz",
+    "columns": {
+      "partner": "Partner",
+      "level": "Seviye",
+      "city": "Şehir",
+      "references": "Referans",
+      "avgUsers": "Ort. Kullanıcı",
+      "largeProject": "Büyük Proje",
+      "expert": "Uzman",
+      "compare": "Kıyasla"
+    }
+  },
+  "treeMap": {
+    "emptyState": "Filtrelere uygun partner bulunamadı. Lütfen filtreleri değiştirerek tekrar deneyin.",
+    "users": "Kullanıcı",
+    "ref": "Ref",
+    "location": "Konum",
+    "avgUsers": "Ort. Kullanıcı",
+    "reference": "Referans",
+    "experts": "Sertifikalı Uzman",
+    "turkey": "Türkiye"
+  },
+  "detailPanel": {
+    "tabs": {
+      "overview": "Genel Bakış",
+      "competencies": "Yetkinlikler",
+      "industries": "Sektörler",
+      "footprint": "Müşteri Ayak İzi",
+      "certifications": "Sertifikalar & Ekip"
+    },
+    "metrics": {
+      "references": "Referans",
+      "avgUsers": "Ort. Kullanıcı",
+      "largeProject": "Büyük Proje",
+      "experts": "Sertifikalı Uzman",
+      "userSub": "kullanıcı"
+    },
+    "comingSoon": {
+      "soon": "verisi yakında",
+      "desc": "Scraper genişletildiğinde bu sekme dolacak.",
+      "competencies": "Yetkinlikler & Modüller"
+    },
+    "info": {
+      "title": "Genel Bilgiler",
+      "level": "Seviye",
+      "city": "Şehir",
+      "address": "Adres",
+      "turkey": "Türkiye"
+    },
+    "buttons": {
+      "removeCompare": "Karşılaştırmadan Çıkar",
+      "addCompare": "Karşılaştırmaya Ekle",
+      "contact": "İletişime Geç",
+      "fullPage": "Tam Sayfa Detaya Git ↗"
+    }
+  },
+  "compareModal": {
+    "title": "Partner Karşılaştırma",
+    "close": "Kapat",
+    "emptyState": "Karşılaştırmak için henüz partner seçmediniz.",
+    "backToList": "Listeye Dön",
+    "removeFromCompare": "Karşılaştırmadan Çıkar",
+    "metrics": {
+      "references": "Referans Sayısı",
+      "avgUsers": "Ortalama Kullanıcı",
+      "largeProject": "Büyük Proje Kullanıcısı",
+      "experts": "Sertifikalı Uzman"
+    },
+    "buttons": {
+      "contact": "İletişime Geç",
+      "viewOnSite": "Sitede İncele ↗"
+    },
+    "turkey": "Türkiye"
+  },
+  "contactModal": {
+    "title": "{{partnerName}} ile İletişime Geç",
+    "close": "Kapat",
+    "success": {
+      "title": "Talebiniz Alındı!",
+      "descPart1": "Mesajınız ",
+      "descPart2": " ekibine başarıyla iletildi. En kısa sürede sizinle iletişime geçecekler."
+    },
+    "form": {
+      "name": "İsim Soyisim *",
+      "namePlaceholder": "Adınız Soyadınız",
+      "company": "Şirket *",
+      "companyPlaceholder": "Şirketinizin Adı",
+      "phone": "Telefon *",
+      "phonePlaceholder": "05XX XXX XX XX",
+      "email": "E-posta *",
+      "emailPlaceholder": "ornek@sirket.com",
+      "consentPart1": "Bu talep formunda girdiğim bilgilerin ",
+      "consentPart2": " ile paylaşılmasını onaylıyorum. *",
+      "submit": "Gönder"
+    }
+  }
+}

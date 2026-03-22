@@ -2,8 +2,10 @@ import { motion } from 'framer-motion'
 import { Filter, ChevronDown } from 'lucide-react'
 import { useState, useMemo } from 'react'
 import { REFERENCE_RANGES } from '../pages/Home'
+import { useTranslation } from 'react-i18next'
 
 function Sidebar({ filters, updateFilter, toggleLevel, toggleRefRange, toggleCity, partners, filteredCount, totalCount }) {
+    const { t } = useTranslation()
     const [openSections, setOpenSections] = useState({
         level: true,
         references: true,
@@ -27,19 +29,19 @@ function Sidebar({ filters, updateFilter, toggleLevel, toggleRefRange, toggleCit
         >
             <div className="sidebar-header">
                 <Filter size={16} />
-                <span>Filtreler</span>
+                <span>{t('sidebar.filters')}</span>
             </div>
 
             {/* Partner count widget */}
             <div className="partner-count-widget">
                 <div className="partner-count-number">{filteredCount}</div>
-                <div className="partner-count-label">/ {totalCount} partner gösteriliyor</div>
+                <div className="partner-count-label">{t('sidebar.partnerCount', { totalCount })}</div>
             </div>
 
             {/* Partner Seviyesi */}
             <div className="filter-section">
                 <button className="section-header" onClick={() => toggleSection('level')}>
-                    <span>Partner Seviyesi</span>
+                    <span>{t('sidebar.partnerLevel')}</span>
                     <ChevronDown
                         size={14}
                         style={{ transform: openSections.level ? 'rotate(180deg)' : 'none', transition: '0.2s' }}
@@ -65,7 +67,7 @@ function Sidebar({ filters, updateFilter, toggleLevel, toggleRefRange, toggleCit
             {/* Referans Sayısı - Çift taraflı slider */}
             <div className="filter-section">
                 <button className="section-header" onClick={() => toggleSection('references')}>
-                    <span>Referans Sayısı</span>
+                    <span>{t('sidebar.references')}</span>
                     <ChevronDown
                         size={14}
                         style={{ transform: openSections.references ? 'rotate(180deg)' : 'none', transition: '0.2s' }}
@@ -83,7 +85,7 @@ function Sidebar({ filters, updateFilter, toggleLevel, toggleRefRange, toggleCit
                                         onChange={() => toggleRefRange(range.id)}
                                     />
                                     <span className="checkbox-custom"></span>
-                                    <span className="label-text">{range.label}</span>
+                                    <span className="label-text">{t(`home.ranges.${range.id}`)}</span>
                                 </label>
                             ))}
                         </div>
@@ -94,7 +96,7 @@ function Sidebar({ filters, updateFilter, toggleLevel, toggleRefRange, toggleCit
             {/* Şehir */}
             <div className="filter-section">
                 <button className="section-header" onClick={() => toggleSection('city')}>
-                    <span>Şehir</span>
+                    <span>{t('sidebar.city')}</span>
                     <ChevronDown
                         size={14}
                         style={{ transform: openSections.city ? 'rotate(180deg)' : 'none', transition: '0.2s' }}
@@ -119,7 +121,7 @@ function Sidebar({ filters, updateFilter, toggleLevel, toggleRefRange, toggleCit
 
             <div className="sidebar-footer">
                 <p className="disclaimer">
-                    Veriler Odoo Partner Directory'den alınmıştır.
+                    {t('sidebar.disclaimer')}
                 </p>
             </div>
         </motion.aside>

@@ -1,5 +1,6 @@
 import { useState, useEffect, useMemo } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
+import { useTranslation } from 'react-i18next'
 import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
 import TreeMapChart from '../components/TreeMapChart'
@@ -10,9 +11,9 @@ import Skeleton from '../components/Skeleton'
 import '../components/CompareModal.css'
 
 export const REFERENCE_RANGES = [
-  { id: '0-25', label: '0 - 25 Referans', min: 0, max: 25 },
-  { id: '26-50', label: '26 - 50 Referans', min: 26, max: 50 },
-  { id: '50+', label: '50+ Referans', min: 51, max: Infinity }
+  { id: '0-25', min: 0, max: 25 },
+  { id: '26-50', min: 26, max: 50 },
+  { id: '50+', min: 51, max: Infinity }
 ]
 
 // Normalize city names
@@ -27,6 +28,7 @@ const normalizeCity = (city) => {
 }
 
 function Home() {
+  const { t } = useTranslation()
   const [partners, setPartners] = useState([])
   const [filteredPartners, setFilteredPartners] = useState([])
   const [loading, setLoading] = useState(true)
@@ -60,7 +62,7 @@ function Home() {
         return prev.filter(p => p.name !== partner.name)
       }
       if (prev.length >= 3) {
-        alert('En fazla 3 partner karşılaştırabilirsiniz.')
+        alert(t('home.maxCompareAlert'))
         return prev
       }
       return [...prev, partner]
@@ -236,7 +238,7 @@ function Home() {
                     <line x1="12" y1="3" x2="12" y2="21" />
                     <line x1="3" y1="12" x2="21" y2="12" />
                   </svg>
-                  Harita
+                  {t('home.map')}
                 </button>
                 <button
                   className={`segment-btn ${viewMode === 'list' ? 'active' : ''}`}
@@ -250,26 +252,26 @@ function Home() {
                     <line x1="3" y1="12" x2="3.01" y2="12" />
                     <line x1="3" y1="18" x2="3.01" y2="18" />
                   </svg>
-                  Liste
+                  {t('home.list')}
                 </button>
               </div>
             </div>
 
             <div className="visualization-controls">
               <div className="control-group">
-                <span className="control-label">{viewMode === 'treemap' ? 'Boyut' : 'Sıralama'}</span>
+                <span className="control-label">{viewMode === 'treemap' ? t('home.size') : t('home.sort')}</span>
                 <div className="segmented-control">
                   <button
                     className={`segment-btn ${areaMetric === 'references' ? 'active' : ''}`}
                     onClick={() => setAreaMetric('references')}
                   >
-                    Referans
+                    {t('home.reference')}
                   </button>
                   <button
                     className={`segment-btn ${areaMetric === 'average_users' ? 'active' : ''}`}
                     onClick={() => setAreaMetric('average_users')}
                   >
-                    Ort. Kullanıcı
+                    {t('home.avgUsers')}
                   </button>
                 </div>
               </div>
@@ -277,16 +279,16 @@ function Home() {
               {/* Info tags — read only */}
               <div className="chart-info-tags">
                 <div className="chart-info-tag">
-                  <span className="chart-info-tag-key">{viewMode === 'treemap' ? 'Grafik Alanı' : 'Sıralama'}</span>
+                  <span className="chart-info-tag-key">{viewMode === 'treemap' ? t('home.chartArea') : t('home.sort')}</span>
                   <span className="chart-info-tag-sep">·</span>
                   <span className="chart-info-tag-val">
-                    {areaMetric === 'references' ? 'Referans Sayısı' : 'Ort. Kullanıcı Sayısı'}
+                    {areaMetric === 'references' ? t('home.numReferences') : t('home.numAvgUsers')}
                   </span>
                 </div>
                 <div className="chart-info-tag">
-                  <span className="chart-info-tag-key">Renk</span>
+                  <span className="chart-info-tag-key">{t('home.color')}</span>
                   <span className="chart-info-tag-sep">·</span>
-                  <span className="chart-info-tag-val">Partner Seviyesi</span>
+                  <span className="chart-info-tag-val">{t('home.partnerLevel')}</span>
                 </div>
               </div>
             </div>
@@ -313,7 +315,7 @@ function Home() {
           {viewMode === 'treemap' && (
             <footer className="map-footer">
               <p>
-                Bu veriler Odoo Partner Directory'deki kamuya açık bilgilerden derlenmiştir.
+                {t('home.footerDesc')}
               </p>
             </footer>
           )}

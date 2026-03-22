@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useNavigate } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 import ContactModal from './ContactModal'
 import './ContactModal.css'
 import { generateSlug } from '../utils'
@@ -31,18 +32,20 @@ function MetricCard({ label, value, sub, color }) {
 }
 
 function ComingSoonTab({ label }) {
+  const { t } = useTranslation()
   return (
     <div className="detail-coming-soon">
       <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
         <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 15v-4m0-4h.01" />
       </svg>
-      <p><strong>{label}</strong> verisi yakında</p>
-      <span>Scraper genişletildiğinde bu sekme dolacak.</span>
+      <p><strong>{label}</strong> {t('detailPanel.comingSoon.soon')}</p>
+      <span>{t('detailPanel.comingSoon.desc')}</span>
     </div>
   )
 }
 
 function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompare }) {
+  const { t } = useTranslation()
   const [activeTab, setActiveTab] = useState('overview')
   const [isContactOpen, setIsContactOpen] = useState(false)
   const navigate = useNavigate()
@@ -69,23 +72,23 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
             {/* Metric Cards */}
             <div className="detail-metrics-grid">
               <MetricCard
-                label="Referans"
+                label={t('detailPanel.metrics.references')}
                 value={partner.references > 0 ? partner.references : '—'}
                 color="#875BF7"
               />
               <MetricCard
-                label="Ort. Kullanıcı"
+                label={t('detailPanel.metrics.avgUsers')}
                 value={partner.average_users > 0 ? partner.average_users : '—'}
                 color="#3498DB"
               />
               <MetricCard
-                label="Büyük Proje"
+                label={t('detailPanel.metrics.largeProject')}
                 value={partner.large_users > 0 ? `~${partner.large_users}` : '—'}
-                sub="kullanıcı"
+                sub={t('detailPanel.metrics.userSub')}
                 color="#27AE60"
               />
               <MetricCard
-                label="Sertifikalı Uzman"
+                label={t('detailPanel.metrics.experts')}
                 value={partner.experts > 0 ? partner.experts : '—'}
                 color="#E67E22"
               />
@@ -93,10 +96,10 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
 
             {/* Info rows */}
             <div className="detail-info-section">
-              <div className="detail-info-title">Genel Bilgiler</div>
+              <div className="detail-info-title">{t('detailPanel.info.title')}</div>
               <div className="detail-info-rows">
                 <div className="detail-info-row">
-                  <span className="detail-info-key">Seviye</span>
+                  <span className="detail-info-key">{t('detailPanel.info.level')}</span>
                   <span
                     className={`level-badge ${partner.level?.toLowerCase()}`}
                   >
@@ -104,12 +107,12 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                   </span>
                 </div>
                 <div className="detail-info-row">
-                  <span className="detail-info-key">Şehir</span>
-                  <span className="detail-info-val">{partner.displayCity || 'Türkiye'}</span>
+                  <span className="detail-info-key">{t('detailPanel.info.city')}</span>
+                  <span className="detail-info-val">{partner.displayCity || t('detailPanel.info.turkey')}</span>
                 </div>
                 {partner.full_address && (
                   <div className="detail-info-row">
-                    <span className="detail-info-key">Adres</span>
+                    <span className="detail-info-key">{t('detailPanel.info.address')}</span>
                     <span className="detail-info-val detail-info-val--wrap">{partner.full_address}</span>
                   </div>
                 )}
@@ -118,13 +121,13 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
           </div>
         )
       case 'competencies':
-        return <ComingSoonTab label="Yetkinlikler & Modüller" />
+        return <ComingSoonTab label={t('detailPanel.comingSoon.competencies')} />
       case 'industries':
-        return <ComingSoonTab label="Sektörler" />
+        return <ComingSoonTab label={t('detailPanel.tabs.industries')} />
       case 'footprint':
-        return <ComingSoonTab label="Müşteri Ayak İzi" />
+        return <ComingSoonTab label={t('detailPanel.tabs.footprint')} />
       case 'certifications':
-        return <ComingSoonTab label="Sertifikalar & Ekip" />
+        return <ComingSoonTab label={t('detailPanel.tabs.certifications')} />
       default:
         return null
     }
@@ -207,7 +210,7 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                     border: '1px solid var(--border)'
                   }}
                 >
-                  {comparedPartners?.find(p => p.name === partner.name) ? 'Karşılaştırmadan Çıkar' : 'Karşılaştırmaya Ekle'}
+                  {comparedPartners?.find(p => p.name === partner.name) ? t('detailPanel.buttons.removeCompare') : t('detailPanel.buttons.addCompare')}
                 </button>
                 <button
                   className="detail-profile-btn contact-btn"
@@ -218,7 +221,7 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                     <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" />
                     <polyline points="22,6 12,13 2,6" />
                   </svg>
-                  İletişime Geç
+                  {t('detailPanel.buttons.contact')}
                 </button>
               </div>
               <div style={{ marginTop: '12px', width: '100%' }}>
@@ -227,7 +230,7 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                   onClick={() => navigate(`/partners/${generateSlug(partner.name)}`)}
                   style={{ width: '100%', justifyContent: 'center', border: '1px solid var(--border)', background: 'var(--white)', color: 'var(--text)' }}
                 >
-                  Tam Sayfa Detaya Git ↗
+                  {t('detailPanel.buttons.fullPage')}
                 </button>
               </div>
             </div>
@@ -240,7 +243,7 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                   className={`detail-tab ${activeTab === tab.id ? 'detail-tab--active' : ''}`}
                   onClick={() => setActiveTab(tab.id)}
                 >
-                  {tab.label}
+                  {t(`detailPanel.tabs.${tab.id}`)}
                 </button>
               ))}
             </div>

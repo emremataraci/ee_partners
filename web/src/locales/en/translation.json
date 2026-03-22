@@ -1,0 +1,138 @@
+{
+  "app": {
+    "loading": "Loading partner data..."
+  },
+  "header": {
+    "title": "Odoo Partner Discovery Map",
+    "searchPlaceholder": "Search partners...",
+    "compare": "Compare ({{count}}/3)",
+    "menuAria": "Open menu"
+  },
+  "sidebar": {
+    "filters": "Filters",
+    "partnerCount": "/ {{totalCount}} partners",
+    "partnerLevel": "Partner Level",
+    "references": "References",
+    "city": "City",
+    "disclaimer": "Data sourced from Odoo Partner Directory."
+  },
+  "home": {
+    "ranges": {
+      "0-25": "0 - 25 References",
+      "26-50": "26 - 50 References",
+      "50+": "50+ References"
+    },
+    "maxCompareAlert": "You can compare up to 3 partners.",
+    "map": "Map",
+    "list": "List",
+    "size": "Size",
+    "sort": "Sort By",
+    "reference": "References",
+    "avgUsers": "Avg. Users",
+    "chartArea": "Chart Area",
+    "numReferences": "Number of References",
+    "numAvgUsers": "Average User Count",
+    "color": "Color",
+    "partnerLevel": "Partner Level",
+    "footerDesc": "This data was compiled from public information in the Odoo Partner Directory."
+  },
+  "listView": {
+    "emptyState": "No partners found matching the filters. Please change your filters and try again.",
+    "countMsg": "Listing {{count}} partners",
+    "hintMsg": "Click a column to sort · Click a row to see details",
+    "columns": {
+      "partner": "Partner",
+      "level": "Level",
+      "city": "City",
+      "references": "References",
+      "avgUsers": "Avg. Users",
+      "largeProject": "Large Project",
+      "expert": "Expert",
+      "compare": "Compare"
+    }
+  },
+  "treeMap": {
+    "emptyState": "No partners found matching the filters. Please change your filters and try again.",
+    "users": "Users",
+    "ref": "Ref",
+    "location": "Location",
+    "avgUsers": "Avg. Users",
+    "reference": "References",
+    "experts": "Certified Expert",
+    "turkey": "Turkey"
+  },
+  "detailPanel": {
+    "tabs": {
+      "overview": "Overview",
+      "competencies": "Competencies",
+      "industries": "Industries",
+      "footprint": "Footprint",
+      "certifications": "Certifications & Team"
+    },
+    "metrics": {
+      "references": "References",
+      "avgUsers": "Avg. Users",
+      "largeProject": "Large Project",
+      "experts": "Certified Expert",
+      "userSub": "users"
+    },
+    "comingSoon": {
+      "soon": "data coming soon",
+      "desc": "This tab will be populated when the scraper is expanded.",
+      "competencies": "Competencies & Modules"
+    },
+    "info": {
+      "title": "General Info",
+      "level": "Level",
+      "city": "City",
+      "address": "Address",
+      "turkey": "Turkey"
+    },
+    "buttons": {
+      "removeCompare": "Remove from Compare",
+      "addCompare": "Add to Compare",
+      "contact": "Contact",
+      "fullPage": "Go to Full Page ↗"
+    }
+  },
+  "compareModal": {
+    "title": "Partner Comparison",
+    "close": "Close",
+    "emptyState": "You haven't selected any partners to compare yet.",
+    "backToList": "Back to List",
+    "removeFromCompare": "Remove from Compare",
+    "metrics": {
+      "references": "References",
+      "avgUsers": "Average Users",
+      "largeProject": "Large Project Users",
+      "experts": "Certified Experts"
+    },
+    "buttons": {
+      "contact": "Contact",
+      "viewOnSite": "View on Site ↗"
+    },
+    "turkey": "Turkey"
+  },
+  "contactModal": {
+    "title": "Contact {{partnerName}}",
+    "close": "Close",
+    "success": {
+      "title": "Request Received!",
+      "descPart1": "Your message has been successfully sent to the ",
+      "descPart2": " team. They will contact you as soon as possible."
+    },
+    "form": {
+      "name": "Full Name *",
+      "namePlaceholder": "John Doe",
+      "company": "Company *",
+      "companyPlaceholder": "Your Company Name",
+      "phone": "Phone *",
+      "phonePlaceholder": "+1 XXX XXX XXXX",
+      "email": "Email *",
+      "emailPlaceholder": "example@company.com",
+      "consentPart1": "I agree to share the information I entered in this form with ",
+      "consentPart2": ". *",
+      "submit": "Submit"
+    }
+  }
+}
