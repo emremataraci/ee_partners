@@ -11,8 +11,8 @@ import '../components/CompareModal.css'
 
 export const REFERENCE_RANGES = [
   { id: '0-25', label: '0 - 25 Referans', min: 0, max: 25 },
-  { id: '26-100', label: '26 - 100 Referans', min: 26, max: 100 },
-  { id: '100+', label: '100+ Referans', min: 101, max: Infinity }
+  { id: '26-50', label: '26 - 50 Referans', min: 26, max: 50 },
+  { id: '50+', label: '50+ Referans', min: 51, max: Infinity }
 ]
 
 // Normalize city names
