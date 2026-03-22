@@ -125,6 +125,7 @@
   text-align: center;
   gap: 12px;
   background: linear-gradient(to bottom, var(--white), var(--bg));
+  flex: 1; /* Pushes the metrics rows to the bottom of the card, aligning them */
 }
 
 .compare-logo {
