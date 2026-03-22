@@ -1,6 +1,7 @@
 import { useMemo, useState, useRef, useEffect } from 'react'
 import { Treemap, ResponsiveContainer } from 'recharts'
 import { motion } from 'framer-motion'
+import EmptyState from './EmptyState'
 
 // Brand palette per level
 const LEVEL_COLORS = {
@@ -212,7 +213,7 @@ function TreeMapChart({ partners, areaMetric, onPartnerClick }) {
     if (!partners.length) {
         return (
             <div className="treemap-empty">
-                <p>Filtrelere uygun partner bulunamadı.</p>
+                <EmptyState message="Filtrelere uygun partner bulunamadı. Lütfen filtreleri değiştirerek tekrar deneyin." />
             </div>
         )
     }

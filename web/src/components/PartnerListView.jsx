@@ -1,4 +1,6 @@
 import { useState, useMemo } from 'react'
+import { motion } from 'framer-motion'
+import EmptyState from './EmptyState'
 
 const LEVEL_ORDER = { Gold: 0, Silver: 1, Ready: 2, Learning: 3 }
 
@@ -69,11 +71,8 @@ function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleC
 
   if (!partners.length) {
     return (
-      <div className="list-empty">
-        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
-          <circle cx="11" cy="11" r="8" /><path d="m21 21-4.35-4.35" />
-        </svg>
-        <p>Filtrelere uygun partner bulunamadı.</p>
+      <div className="partner-list-wrapper">
+        <EmptyState message="Filtrelere uygun partner bulunamadı. Lütfen filtreleri değiştirerek tekrar deneyin." />
       </div>
     )
   }
@@ -105,10 +104,13 @@ function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleC
           </thead>
           <tbody>
             {sorted.map((partner, idx) => (
-              <tr
+              <motion.tr
                 key={partner.name}
                 className="partner-row"
                 onClick={() => onPartnerClick(partner)}
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.2, delay: Math.min(idx * 0.03, 0.5) }}
               >
                 <td className="td-rank">{idx + 1}</td>
                 <td style={{ textAlign: 'center' }} onClick={e => e.stopPropagation()}>
@@ -160,7 +162,7 @@ function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleC
                     : <span className="metric-zero">—</span>
                   }
                 </td>
-              </tr>
+              </motion.tr>
             ))}
           </tbody>
         </table>

@@ -6,6 +6,7 @@ import TreeMapChart from '../components/TreeMapChart'
 import PartnerListView from '../components/PartnerListView'
 import PartnerDetailPanel from '../components/PartnerDetailPanel'
 import CompareModal from '../components/CompareModal'
+import Skeleton from '../components/Skeleton'
 import '../components/CompareModal.css'
 
 export const REFERENCE_RANGES = [
@@ -30,7 +31,20 @@ function Home() {
   const [filteredPartners, setFilteredPartners] = useState([])
   const [loading, setLoading] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
-  const [sidebarOpen, setSidebarOpen] = useState(true)
+  const [sidebarOpen, setSidebarOpen] = useState(window.innerWidth > 768)
+
+  // Add event listener for window resize to handle sidebar state
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth > 768) {
+        setSidebarOpen(true)
+      } else {
+        setSidebarOpen(false)
+      }
+    }
+    window.addEventListener('resize', handleResize)
+    return () => window.removeEventListener('resize', handleResize)
+  }, [])
 
   // View mode and details panel state
   const [viewMode, setViewMode] = useState('treemap') // 'treemap' | 'list'
@@ -169,16 +183,7 @@ function Home() {
   }
 
   if (loading) {
-    return (
-      <div className="loading-container">
-        <motion.div
-          className="loading-spinner"
-          animate={{ rotate: 360 }}
-          transition={{ duration: 1, repeat: Infinity, ease: "linear" }}
-        />
-        <p>Partner verileri yükleniyor...</p>
-      </div>
-    )
+    return <Skeleton />
   }
 
   return (
@@ -189,21 +194,32 @@ function Home() {
         areaMetric={areaMetric}
         comparedPartners={comparedPartners}
         onOpenCompare={() => setIsCompareModalOpen(true)}
+        onToggleSidebar={() => setSidebarOpen(prev => !prev)}
       />
 
       <div className="main-content">
         <AnimatePresence>
           {sidebarOpen && (
-            <Sidebar
-              filters={filters}
-              updateFilter={updateFilter}
-              toggleLevel={toggleLevel}
-              toggleRefRange={toggleRefRange}
-              toggleCity={toggleCity}
-              partners={partners}
-              filteredCount={filteredPartners.length}
-              totalCount={partners.length}
-            />
+            <>
+              <motion.div 
+                className="sidebar-overlay" 
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+                transition={{ duration: 0.2 }}
+                onClick={() => setSidebarOpen(false)} 
+              />
+              <Sidebar
+                filters={filters}
+                updateFilter={updateFilter}
+                toggleLevel={toggleLevel}
+                toggleRefRange={toggleRefRange}
+                toggleCity={toggleCity}
+                partners={partners}
+                filteredCount={filteredPartners.length}
+                totalCount={partners.length}
+              />
+            </>
           )}
         </AnimatePresence>
 

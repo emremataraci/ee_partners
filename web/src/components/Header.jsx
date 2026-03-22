@@ -1,9 +1,13 @@
-import { Search, Map } from 'lucide-react'
+import { Search, Map, Menu } from 'lucide-react'
 import { Link } from 'react-router-dom'
 
-function Header({ searchQuery, setSearchQuery, comparedPartners, onOpenCompare }) {
+function Header({ searchQuery, setSearchQuery, comparedPartners, onOpenCompare, onToggleSidebar }) {
   return (
     <header className="header">
+      <button className="mobile-menu-btn" onClick={onToggleSidebar} aria-label="Menüyü aç">
+        <Menu size={22} />
+      </button>
+
       <Link to="/" style={{ textDecoration: 'none', color: 'inherit' }} className="logo">
         <Map size={22} />
         <div className="logo-text">
