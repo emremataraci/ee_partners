@@ -1,7 +1,12 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
+import { useNavigate } from 'react-router-dom'
+import { generateSlug } from '../utils'
+import ContactModal from './ContactModal'
 
 export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
+  const navigate = useNavigate()
+  const [contactPartnerName, setContactPartnerName] = useState(null)
   // Close on Esc
   useEffect(() => {
     const handler = (e) => { if (e.key === 'Escape') onClose() }
@@ -85,11 +90,23 @@ export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
                         <span className="compare-metric-label">Sertifikalı Uzman</span>
                         <span className="compare-metric-value">{getMetricValue(p.experts)}</span>
                       </div>
-                      {p.profile_url && (
-                        <div className="compare-action-row">
-                           <a href={p.profile_url} target="_blank" rel="noopener noreferrer" className="compare-profile-link">Odoo Profili ↗</a>
-                        </div>
-                      )}
+                      <div className="compare-action-row" style={{ display: 'flex', flexDirection: 'column', gap: '8px', marginTop: '16px', borderTop: '1px solid var(--border-soft)', paddingTop: '16px' }}>
+                        <button 
+                          className="compare-btn-primary" 
+                          onClick={() => setContactPartnerName(p.name)}
+                          style={{ padding: '8px', background: 'var(--accent)', color: 'white', border: 'none', borderRadius: '6px', cursor: 'pointer', fontWeight: 500, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px' }}
+                        >
+                          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" /><polyline points="22,6 12,13 2,6" /></svg>
+                          İletişime Geç
+                        </button>
+                        <button 
+                          className="compare-btn-secondary" 
+                          onClick={() => { navigate(`/partners/${generateSlug(p.name)}`); onClose(); }}
+                          style={{ padding: '8px', background: 'var(--bg)', color: 'var(--text)', border: '1px solid var(--border)', borderRadius: '6px', cursor: 'pointer', fontWeight: 500 }}
+                        >
+                          Sitede İncele ↗
+                        </button>
+                      </div>
                     </div>
                   </div>
                 ))}
@@ -98,6 +115,15 @@ export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
           </div>
         </motion.div>
       </div>
+      
+      {/* Contact Form Modal inside AnimatePresence */}
+      {contactPartnerName && (
+        <ContactModal 
+          isOpen={!!contactPartnerName} 
+          onClose={() => setContactPartnerName(null)} 
+          partnerName={contactPartnerName} 
+        />
+      )}
     </AnimatePresence>
   )
 }
