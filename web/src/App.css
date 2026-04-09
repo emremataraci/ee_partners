@@ -10,10 +10,14 @@
   --border-soft: #EEF1F5;
   
   /* Level colors */
-  --gold: #F59E0B;
-  --silver: #94A3B8;
-  --ready: #10B981;
-  --learning: #8B5CF6;
+  --gold: #FFD21F;
+  --gold-text: #5A4300;
+  --silver: #C0C0C0;
+  --silver-text: #3F3F46;
+  --ready: #A0ECEF;
+  --ready-text: #0F4F56;
+  --learning: #BFA8E8;
+  --learning-text: #4D3D73;
   
   /* Accent */
   --accent: #875BF7;
@@ -286,7 +290,7 @@ body {
 .legend-color.gold { background: var(--gold); }
 .legend-color.silver { background: var(--silver); }
 .legend-color.ready { background: var(--ready); }
-.legend-color.learning { background: var(--learning); border: 1px solid #d4c57a; }
+.legend-color.learning { background: var(--learning); }
 
 /* Filter sections */
 .filter-section {
@@ -362,10 +366,10 @@ body {
   color: white;
 }
 
-.level-badge.gold { background: var(--gold); color: #6b4c00; }
-.level-badge.silver { background: var(--silver); color: #1a3a5c; }
-.level-badge.ready { background: var(--ready); color: #7a3500; }
-.level-badge.learning { background: var(--learning); color: #5a4a00; border: 1px solid #d4c57a; }
+.level-badge.gold { background: var(--gold); color: var(--gold-text); }
+.level-badge.silver { background: var(--silver); color: var(--silver-text); }
+.level-badge.ready { background: var(--ready); color: var(--ready-text); }
+.level-badge.learning { background: var(--learning); color: var(--learning-text); }
 
 .range-slider {
   width: 100%;
@@ -649,10 +653,10 @@ body {
   margin-bottom: 12px;
 }
 
-.tooltip-level[data-level="gold"] { background: var(--gold); color: #6b4c00; }
-.tooltip-level[data-level="silver"] { background: var(--silver); color: #1a3a5c; }
-.tooltip-level[data-level="ready"] { background: var(--ready); color: #7a3500; }
-.tooltip-level[data-level="learning"] { background: var(--learning); color: #5a4a00; border: 1px solid #d4c57a; }
+.tooltip-level[data-level="gold"] { background: var(--gold); color: var(--gold-text); }
+.tooltip-level[data-level="silver"] { background: var(--silver); color: var(--silver-text); }
+.tooltip-level[data-level="ready"] { background: var(--ready); color: var(--ready-text); }
+.tooltip-level[data-level="learning"] { background: var(--learning); color: var(--learning-text); }
 
 .tooltip-details {
   display: flex;

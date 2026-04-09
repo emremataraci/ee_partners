@@ -2,14 +2,7 @@ import { useMemo, useState, useRef, useEffect } from 'react'
 import { Treemap, ResponsiveContainer } from 'recharts'
 import { motion } from 'framer-motion'
 import EmptyState from './EmptyState'
-
-// Brand palette per level
-const LEVEL_COLORS = {
-    Gold: '#F59E0B',
-    Silver: '#94A3B8',
-    Ready: '#10B981',
-    Learning: '#8B5CF6',
-}
+import { getLevelPalette } from '../constants/levelPalette'
 
 // Darken hex color by a ratio (0 = original, 1 = black)
 const darkenHex = (hex, amount) => {
@@ -20,9 +13,18 @@ const darkenHex = (hex, amount) => {
     return `rgb(${r},${g},${b})`
 }
 
+const hexToRgba = (hex, alpha) => {
+    const normalized = hex.replace('#', '')
+    const bigint = parseInt(normalized, 16)
+    const r = (bigint >> 16) & 255
+    const g = (bigint >> 8) & 255
+    const b = bigint & 255
+    return `rgba(${r}, ${g}, ${b}, ${alpha})`
+}
+
 // Get shade based on metric value (higher = less darkened = more vivid)
 const getColorWithShade = (level, value, maxValue) => {
-    const base = LEVEL_COLORS[level] || LEVEL_COLORS.Ready
+    const base = getLevelPalette(level).bg
     const ratio = Math.min(value / Math.max(maxValue, 1), 1)
     // top value = 0% darkened, min = 20% darkened
     const darken = (1 - ratio) * 0.15
@@ -47,6 +49,7 @@ const CustomizedContent = (props) => {
     if (rw < 15 || rh < 12) return null
 
     const color = getColorWithShade(level, references, maxMetric)
+    const levelPalette = getLevelPalette(level)
 
     // All boxes show name if possible, just adjust font size
     const canShowText = rw > 35 && rh > 20
@@ -100,7 +103,7 @@ const CustomizedContent = (props) => {
                         alignItems: 'center',
                         justifyContent: 'center',
                         textAlign: 'center',
-                        color: '#fff',
+                        color: levelPalette.text,
                         fontFamily: 'Inter, system-ui, sans-serif'
                     }}>
                         <div style={{
@@ -110,7 +113,7 @@ const CustomizedContent = (props) => {
                             overflow: 'hidden',
                             textOverflow: 'ellipsis',
                             width: '100%',
-                            textShadow: '0 1px 2px rgba(0,0,0,0.3)'
+                            textShadow: '0 1px 1px rgba(255,255,255,0.18)'
                         }} title={name}>
                             {name}
                         </div>
@@ -119,7 +122,7 @@ const CustomizedContent = (props) => {
                                 fontSize: Math.max(getFontSize() - 3, 10),
                                 fontWeight: '500',
                                 marginTop: '4px',
-                                color: 'rgba(255,255,255,0.9)'
+                                color: hexToRgba(levelPalette.text, 0.82)
                             }}>
                                 {statDisplay}
                             </div>

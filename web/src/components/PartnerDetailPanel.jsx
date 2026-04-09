@@ -13,13 +13,6 @@ const TABS = [
   { id: 'certifications', label: 'Sertifikalar & Ekip' },
 ]
 
-const LEVEL_COLORS = {
-  Gold: { bg: '#F59E0B', text: '#FEF3C7' },
-  Silver: { bg: '#94A3B8', text: '#F1F5F9' },
-  Ready: { bg: '#10B981', text: '#D1FAE5' },
-  Learning: { bg: '#8B5CF6', text: '#EDE9FE' },
-}
-
 function MetricCard({ label, value, sub, color }) {
   return (
     <div className="detail-metric-card" style={{ '--metric-color': color }}>
@@ -59,8 +52,6 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
     window.addEventListener('keydown', handler)
     return () => window.removeEventListener('keydown', handler)
   }, [onClose])
-
-  const levelStyle = LEVEL_COLORS[partner?.level] || LEVEL_COLORS.Ready
 
   const renderTabContent = () => {
     switch (activeTab) {
