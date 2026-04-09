@@ -2,7 +2,7 @@
   "region_code": "ua",
   "country_code": "UA",
   "country_name": "Ukraine",
-  "scraped_at": "2026-04-09T05:59:17.161455",
+  "scraped_at": "2026-04-09T07:53:42.339288",
   "total_partners": 10,
   "source_url": "https://www.odoo.com/partners/country/ukraine-220",
   "partners": [
@@ -22,10 +22,60 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/self-erp-llc-4936113?country_id=220",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4936113/image_128/Self-ERP%20LLC?unique=8c1967b",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.156943"
+      "about_text": "Self-ERP - це українська компанія, яка пропонує комплексні автоматизовані рішення для управління бізнесом на основі Odoo Enterprise. Як офіційний срібний партнер Odoo в Україні, Self-ERP надає широкий спектр послуг, включаючи впровадження, консалтинг, навчання та технічну підтримку. Self-ERP: Your Trusted Partner for Odoo Implementation in Ukraine Self-ERP is a Ukrainian company specializing in the implementation and customization of comprehensive ERP solutions based on Odoo Enterprise. As a Silver Odoo partner in Ukraine, Self-ERP offers a wide range of services, including consulting, implementation, training, and technical support, ensuring a full cycle of support for your business on its path to digital transformation. Експертиза та досвід Команда Self-ERP складається з досвідчених фахівців з розробки та автоматизації Odoo. Крім впровадження ERP-рішень на Odoo, Self-ERP використовує практичний досвід провідних українських фахівців з бухгалтерського обліку та фінансів для розробки власних продуктів з урахуванням специфіки запитів українського ринку та нормативних вимог. Також, наша команда підтримки забезпечує еективність вашої системи 24/7. Фокус на українських потребах Self-ERP розробляє свої рішення на основі реальних бізнес-практик в Україні. Наші рішення враховують не лише міжнародні рекомендації, а й запити українських компаній. Наприклад, ми розробили повноценні сучасне рішення для ведення бухгалтерського обліку, яке відповідає українському законодавству, а також враховує потребі резидентів Дія.Сіті. Дізнатись більше про наш продукт \"Облік для України\" можна за посиланням ⤵️ Облік для України Наші впровадження Від запиту на впровадження до початку експлуатації - лише півтора місяці! Кейс оперативного впровадження рішення на базі Odoo Enterprise у компанії нашого замовника (NDA) Дізнатись подробиці Автоматизація процесів в компанії з 700+ працівників. Створення іноваційної моделі супроводження бізнесу - результат співпраці Self-ERP та компанії \"Ібіс\" Дізнатись подробиці Конкурентна перевага на ринку через автоматизацію бізнес процесів. Усього одне слово: вдосконалення. Автоматизація процесів не лише зекономила час і ресурси, але й підвищила загальну ефективність Дізнатись подробиці Чому варто обрати само Self-ERP? Досвідчена команда : Фахівці Self-ERP мають багаторічний досвід роботи з Odoo та глибокі знання українського ринку, в тому числі – бухгалтерського та управлінсього обліку. Комплексні рішення : ми пропонуємо широкий спектр послуг, від впровадження до технічної підтримки 24/7, щоб задовольнити всі ваші потреби. Фокус на Україні : наш власний продукт - “Облік для України” - є тим важливим елементом, завдяки якому Odoo закриває всі потреби бізнесу. Доведені результати : Self-ERP має успішний досвід роботи з клієнтами з різних галузей, які покращили свої показники ефективності після впровадження Наш сайт Розвиток ринку ERP в Україні Наша компанія також є завновником події , яка є унікальною на українському ринку ERP. Це Ukrainian ERP Forum - Топ-подія в Автоматизації бізнесу, обліку та фінансів в Україні. Якщо ви зацікавлені прийняти участь в Ukrainian ERP Forum 2024, напишіть нам 📨 Написати нам листа Крім розробки власних продуктів, складних впроваджень та організації знакових подій, наша компанія багато уваги приділяє навчанню існуючих та потенційних користувачів . Ми популяризуємо Odoo в Україні через корисні та доступні матеріали, такі як освітні курси для користувачів ⤵️ Відвідайте наш YouTube канал, де ми регулярно публікуємо корисну інформацію ⤵️ YouTube Self-ERP",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 5
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 15
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 14
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 7
+        },
+        {
+          "industry": "Other Services",
+          "count": 6
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 4
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:38.549202"
     },
     {
       "region_code": "ua",
@@ -43,10 +93,60 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/todo-llc-10468967?country_id=220",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10468967/image_128/TODO%20LLC?unique=07bdbf3",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.157450"
+      "about_text": "Компанія ToDo – це команда українських IT-фахівців та бізнес-аналітиків, що знається на автоматизації та оптимізації бізнес-процесів підприємств за допомогою бельгійської ERP-системи Odoo. ​ Команда ToDo має більше ніж 20 років досвіду у впровадженні інформаційних систем, розробки програмного забезпечення та досвід роботи з компаніями будь-яких розмірів та складності процесів. ​ Ідея ToDo – швидко та ефективно автоматизовувати бізнес-процеси на підприємствах наших клієнтів за допомогою Odoo ERP. ​ Наші аналітики, проджект-менеджери та програмісти мають реальний досвід з імплементації більшості модулів Odoo. Ми переконані, що будь-який бізнес потребує автоматизації, адже це звільняє виконавців від рутини, а керівників від “ручного управління”. І ми завжди автоматизуємо спершу себе, тож випробовуємо більшість рішень прямо на своїй компанії. ​ Ми маємо експертизу за такими напрямками, як: дистрибуція, виробництво, логістика, роздрібна торгівля, e-commerce та сфера послуг. Досвід впроваджень в таких галузевих нішах, як: виробництво будівельних конструкцій, продаж автозапчастин та обслуговування автомобілів, страхові компанії, поліграфія, IT-компанії, виробництво роботизованих протезів та архітектурні бюро. ​ З 2025 року надаємо послуги з імплементації асистентів та агентів на базі штучного інтелекту (ШІ). Тако ж ми розробляємо сайти під лідогенерацію та E-commerce, робимо складні та кастомізовані портали, кабінети дилерів та мобільні застосунки. Ми готові працювати з проєктами будь-якої складності! Будемо раді надати будь-яку консультацію. Напишіть нам Email або залишайте заявку на консултацію чи впровадження за посиланням Наш сайт Automating business since 2003. We have strong expertise in ERP implementation and business-process automation. Our analytics, project managers and python-developers are experienced in most of Odoo apps and configurations. We believe in the strong need of automation for any kind of business and we always automize ourselves first. We are ready to run projects of any kind of complexity! It's time to implement your Odoo with ToDo! Ready? Don't hesitate to contact us via Email and visit Our website",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        },
+        {
+          "version": "Certified v18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 19
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 6
+        },
+        {
+          "industry": "Other Services",
+          "count": 4
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:39.144129"
     },
     {
       "region_code": "ua",
@@ -64,10 +164,52 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/mobius-erp-11441939?country_id=220",
       "logo_url": "https://odoocdn.com/web/image/res.partner/11441939/image_128/Mobius%20ERP?unique=5e44bf7",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.158054"
+      "about_text": "В сферу компетенцій компанії MOBIUS ERP , офіційного партнера odoo входять оптимізація бізнес-процесів, налаштування системи продажів, реорганізація складського обліку та логістики, налаштування управлінського, операційного та фінансового обліку. Рішення на базі ERP ODOO будуть ефективними для підприємств, що працюють в таких напрямах: Виробництво Надання послуг Дистрибуція Логістика Роздрібна торгівля тощо Компанія пропонує як готові рішення для компаній з високим рівнем стандартизації бізнес-процесів, так і індивідуальну розробку рішень для автоматизації. Напрацьована методика управління проектами забезпечує компанії MOBIUS ERP високі показники вдало реалізованих проектів різного масштабу та ступеню складності. Роботи по розробці та впровадженню програмних продуктів виконуються на основі ретельного аналізу підприємства — що дає змогу виявити “вузькі місця” та “точки росту” в облікових та логістичних процесах. На етапі впровадження програмні продукти MOBIUS ERP налаштовуються з урахуванням специфіки підприємств. Також при впровадженні рішень можлива інтеграція: З іншими системами обліку та управління З месенджерами — Viber, Telegram, FB, Instagram З маркетплейсами — Prom.ua, Rozetka, OLX Зі службами доставки — Нова Пошта та альтернативи З системами IP-телефонії З програмний та апаратним РРО тощо. Також компанія забезпечує професійну технічну підтримку впроваджених систем протягом усього періоду їх використання Дізнатися більше про компанію MOBIUS ERP ви можете на сайті компанії: https://erp-mobius.com/ Потрібна консультація? Напишіть нам: info@erp-mobius.com The competencies of MOBIUS ERP, an official Odoo partner, include business process optimization, sales system configuration, warehouse accounting and logistics reorganization, as well as management, operational, and financial accounting setup. ERP Odoo-based solutions are effective for companies operating in the following sectors: Manufacturing Service provision Distribution Logistics Retail, and others. The company offers both ready-made solutions for businesses with a high level of standardized processes, as well as custom-developed automation solutions. MOBIUS ERP’s established project management methodology ensures high success rates for projects of various scales and complexity. The development and implementation of software products are based on a thorough analysis of the enterprise, which helps to identify \"bottlenecks\" and \"growth points\" in accounting and logistics processes. During the implementation phase, MOBIUS ERP software products are customized to the specific needs of each business. Integration is also possible when implementing solutions with: Other accounting and management systems Messengers such as Viber, Telegram, Facebook, Instagram Marketplaces such as Prom.ua, Rozetka, OLX Delivery services such as Nova Poshta and alternatives IP telephony systems Software and hardware fiscal cash registers, and more. The company also provides professional technical support for the implemented systems throughout their entire usage period. You can learn more about MOBIUS ERP on the company's website: https://erp-mobius.com/ Need consultation? Write to us: info@erp-mobius.com",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        },
+        {
+          "version": "Certified v18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 9
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 9
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 5
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:39.582425"
     },
     {
       "region_code": "ua",
@@ -85,10 +227,56 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/erp-ukraine-llc-6677724?country_id=220",
       "logo_url": "https://odoocdn.com/web/image/res.partner/6677724/image_128/ERP%20Ukraine%20LLC?unique=c8c54e2",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.158632"
+      "about_text": "Більше 10 років досвіду впровадження та кастомізації Odoo під потреби українського бізнесу Компанія ERP Ukraїne заснована у 2014 році. Ми спеціалізуємося на комплексних рішеннях по складу, виробництву, електронній комерції, роботі з клієнтами, а також на локалізації для українського бухобліку та зарплати. На сьогоднішній день компанія ERP Ukraїne надає усі послуги, необхідні для впровадження Odoo в компаніях будь-якого розміру – від одного до тисяч співробітників. ERP Ukraїne впровадила Odoo у 100+ українських та закордонних компаніях Це як Odoo Enterprise так і Odoo Community, з кастомними доробками та виключно базовий функціонал cистеми. Дізнайтесь, як проходило впровадження Odoo у компанії MacPaw, що саме ми змогли реалізувати та з якими викликами стикнулася IT-компанія при переході з 1С на нову ERP-систему. Ми дотримуємося чітких кроків провадження Odoo, які, з нашого досвіду, допомагають в успішному впровадженні системи 1. Аналіз бізнес-процесів Під час GAP-аналізу ми створюємо документ з вимогами та бізнес-процесами клієнта, порівнюємо їх зі стандартним функціоналом Odoo та описуємо кастомізації. Оцінюємо це в днях і годинах роботи проєктного менеджера, бізнес-аналітика та розробника. Ви отримаєте поетапну оцінку в календарному і грошовому вираженні. 2. Поетапне впровадження Після чіткого розуміння вимог клієнта ми піднімаємо базу Odoo, виконуємо першочергові налаштування та починаємо із поетапного впровадження системи. Це і налаштування базового функціоналу модулей, і перенесення даних, і кастомні доробки за необхідності. 3. Навчання Ще під час впровадження системи ми навчаємо працівників компанії клієнта працювати у системі. Навчання відбувається у вигляді онлайн-консультацій із записом дзвінків, коротких відеоінструкцій, текстових інструкцій зі скріншотами, або створення інструкцій прямо в системі клієнта в модулі База знань. 4. Підтримка Після впровадження системи ми залишаємося на звʼязку з клієнтом для поточної підтримки. Це можуть бути технічні питання, консультації нових співробітників, впровадження нового функціоналу, кастомні доробки, міграція бази на нову версію Odoo. Ми надаємо послуги консультацій, навчання та доробок по передоплаті пакетів послуг Оберіть пакет послуг на впровадження Odoo у вашій компанії. Деталі по цінам Наша компанія розробила рішення для бухгалтерського обліку в Odoo згідно українського законодавства План рахунків ПСБО та за міжнародними стандартами, облік ПДВ та податкові накладні, спрощена система (ведення касовим методом), звітність, інтеграція з банками, друковані форми, ведення кадрів та нарахування зарплати. Дізнатися більше Ми розробляємо інтеграції Odoo з банками, IP-телефоніями, службами доставки, маркетплейсами, провайдерами платежу, системами документообігу, ПРРО Запускайте CRM та продажі швидко за допомогою наших туторіалів та додаткових інтеграцій. Рішення для CRM Налаштуйте продажі на касі з фіскалізованим рішенням від нашої компанії. Рішення для кас Запустіть базу на хостингу від компанії ERP Ukraїne з тестовим періодом на один місяць Заповніть форму та запустіть базу на хостингу від нашої компанії, де ви отримаєте доступ до всіх модулей по локалізації для України. Почніть працювати в Odoo лише за кілька кліків. Спробувати зараз Проходьте безкоштовне навчання від ERP Ukraїne по базовій роботі в Odoo Навчіться працювати у системі Odoo, пройшовши безкоштовне навчання від нашої компанії. Пройти навчання Пройдіть курс по запуску і налаштуванню компанії та веденню офіційного бухобліку в Odoo з нашими модулями локалізації для України та станьте нашим партнером Компанія ERP Ukraїne запускає партнерську програму, яка надає можливість бухгалтерам вести клієнтів в Odoo згідно регламентованого обліку, а компаніям, що впроваджують Odoo, надавати своїм клієнтам повний облік згідно українського законодавства. Заповніть контактну форму для уточнення деталей. Звʼяжіться з нами",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 18
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 9
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 5
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "NGO",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:39.964250"
     },
     {
       "region_code": "ua",
@@ -106,10 +294,36 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/systemy-avtomatyzatsii-biznesu-llc-1937816?country_id=220",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1937816/image_128/SYSTEMY%20AVTOMATYZATSII%20BIZNESU%20LLC?unique=3cf1959",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.159111"
+      "about_text": "Ми цифровий партнер вашого бізнесу У CRMiUM ми будуємо автоматизовані бізнес-процеси за допомогою сучасних ІТ-рішень та штучного інтелекту. Наша мета – допомогти компаніям працювати ефективно: менше рутини, більше прозорості робочих процесів і більше перспектив для масштабування бізнесу. Детальніше про CRMiUM Чому обирають CRMiUM: Ми – комплексний інтегратор, що налаштовує CRM-рішення виключно під цілі вашого бізнесу. У нашій команді працюють лише фахівці, які відповідають найвищим професійним стандартам. Ми всебічно підходимо до розв’язання поставлених завдань і беремо відповідальність за результат. Допомагаємо налаштувати процеси, а не просто вирішуємо технічні задачі. Ми будуємо з кожним клієнтом довгострокову партнерську співпрацю. Наші цифри: 9 років на ринку – розуміємо, як працює бізнес зсередини. Клієнти з 32 країн світу довіряють нашим рішенням. Ми офіційний срібний партнер Odoo в Україні. 500+ успішних проєктів : від локальних компаній до міжнародних холдингів. 90% клієнтів дізналися про нас із рекомендацій. Наші послуги: ✔️ Аналіз бізнес-процесів – виявляємо слабкі місця й точок росту ✔️ Впровадження систем (CRM, ERP, HRM) – під бізнес-задачі, а не \"по шаблону\"; ✔️ Автоматизація – заявки, документи, завдання, звітність; ✔️ AI-рішення – чат-боти, аналітика, практичні рекомендації; ✔️ Підтримка та навчання – щоб команда реально користувалася системою. Замовити консультацію Етапи робіт із впровадження Odoo 01. Аудит бізнесу Аналізуємо бізнес-процеси компанії, надаємо рекомендації щодо налаштування CRM-системи та автоматизації бізнесу загалом. 02. Налаштування Налаштовуємо поетапно CRM-систему, включно з інтерфейсом і, за потреби, додатковими програмами. 03. Інтеграція Впроваджуємо CRM-рішення, інтегруючи її з іншими системами, та завантажуємо необхідні для роботи дані. 04. Навчання Навчаємо користувачів працювати з CRM-системою, записуємо відео-інструкції та проводимо консультації. 05. Супровід Повністю супроводжуємо вас на всіх етапах впровадження, забезпечуючи подальшу технічну підтримку та оптимізацію процесів. Шукаєте інтегратора Odoo для автоматизації вашого бізнесу? Зв'яжіться з нами",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:40.370090"
     },
     {
       "region_code": "ua",
@@ -127,10 +341,48 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/solvve-12829771?country_id=220",
       "logo_url": "https://odoocdn.com/web/image/res.partner/12829771/image_128/Solvve?unique=e161101",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.159569"
+      "about_text": "Odoo Silver Partner SOLVVE team provides a comprehensive range of services, from Odoo implementations, migrations, and version upgrades to project recovery and ongoing managed services. We also offer extensive functional and technical support to meet your business requirements. Whatever challenges you face, we’ve got the solutions! We’ve been working with Odoo since 2011, starting with OpenERP and continuing through to the latest Odoo version. Our incredible team delivers top-tier services, combining deep industry expertise with an unwavering commitment to quality in every project. What sets us apart is our dedication and experience across hundreds of successful projects worldwide. At Solvve, we specialize in a wide range of industries, including: Manufacturing Wellness and Fitness Electrical & Electronic e-Commerce Retail and Distribution Health and Personal Care Products Food Production Wholesale Building Materials Computer Games Staffing and Recruiting What Makes SOLVVE the Right Choice? Solvve is your trusted partner in Odoo implementation, dedicated to customizing IT systems and processes to fit your unique needs. We work collaboratively with you, ensuring our success aligns with your project outcomes. Our tailored approach prioritizes quality over quick fixes, building lasting relationships based on trust and reliability. We’ll work closely with your team to understand your processes and goals, delivering an Odoo solution that enhances efficiency and drives growth while avoiding unnecessary costs. Let us streamline your operations into a single, accurate, and customizable source of order. We are Odoo Silver Partner In less than a year, we earned all the required certifications and achieved Silver Partner status. This success is thanks to our skilled Odoo specialists and the trust of our valued customers. As an official Odoo Silver Partner, we are authorized to provide a full range of services, including implementation, training, and customization of Odoo business applications. Our Silver Partner status ensures that clients get the most out of Odoo. Our Silver Partner status guarantees: Fully Trained Specialists: Expertise in all aspects of Odoo ERP setup and operation. Access to Odoo Enterprise Source Code: By our qualified developers. Direct Odoo Support: Faster problem resolution. Regular Training: Ongoing updates and skills enhancement for our team. Schedule a free consultation with our team: Talk to Odoo Expert Our Capabilities The Solvve team brings extensive industry expertise, exceptional technical and functional consulting capabilities, and a deep understanding of Odoo ERP systems. Our proficiency extends to open-source development, system migrations, software integrations, cloud-managed services, and complete customization of virtually any aspect of your IT infrastructure. With a global client base across sectors such as manufacturing, retail, wholesale logistics, e-commerce, healthcare, personal care, food production, and building materials, we are well-positioned to align your operations with your business objectives, regardless of the industry or complexity involved. Following a successful Odoo implementation, we prioritize your project's long-term success. Whether you require on-demand support or comprehensive managed services, we offer a range of ERP support solutions tailored to every phase of your digital transformation. See All Case Studies Find us in the Odoo App Store At Solvve, we're passionate about advancing the Odoo ecosystem by delivering exceptional implementations and customizations for clients globally. But our commitment doesn’t stop there — we also develop innovative apps available on the Odoo App Store! Want to see how we're helping to enhance Odoo for businesses like yours? Click below to explore our collection of apps designed to optimize and elevate the Odoo experience. Odoo Services For Any Scope Collaborating with Solvve grants you access to a team of top-tier ERP professionals. As certified Odoo experts, we offer an extensive range of services, including: Operational strategy and business process optimization Technology evaluation and ERP project management Custom Odoo module development covering the full product lifecycle Odoo customization, implementation, and integration ERP migrations, system upgrades, and database management Post-implementation managed services, maintenance, and training Warehouse and supply chain optimization Field service management solutions Financial tracking and reporting Odoo eCommerce and POS solutions Odoo website development Workflow optimization and API integration Functional and technical Odoo consulting Our Approach At Solvve, we have successfully navigated the challenges of ERP implementations across various projects in multiple industries. These experiences have provided our team with valuable insights into common pitfalls and potential obstacles that can occur. To effectively address these challenges and ensure your project's success, we utilize five key principles. Here are five concise principles of cooperation in our company: Collaboration Encourage teamwork across departments to leverage expertise and improve problem-solving. Agility Utilize agile methodologies for flexibility, rapid iterations, and continuous feedback. Goal Alignment Establish clear project objectives and milestones that align with the company’s strategic vision. Stakeholder Engagement Involve internal and external stakeholders to align efforts with market needs. Innovation Encourage risk-taking and experimentation through early prototyping and testing of ideas. Proven Results SOLVVE is ready to bring your project to life through: Delivery detailed business analysis to reduce risks and keep the project focused on business goals. Defining the most effective Odoo implementation/development approach. Delivering working ERP fast and early since we love the agile workflow We know how to avoid risk while still moving fast to deliver the service with stability. 𝗟𝗲𝘁’𝘀 𝘄𝗼𝗿𝗸 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿 𝘁𝗼 𝘂𝗻𝗹𝗼𝗰𝗸 𝘆𝗼𝘂𝗿 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀’𝘀 𝗳𝘂𝗹𝗹 𝗽𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹 𝘄𝗶𝘁𝗵 𝗲𝘅𝗽𝗲𝗿𝘁 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗮𝗻𝗱 𝗢𝗱𝗼𝗼! Contact us What will you get with Solvve When you partner with Solvve, you'll gain valuable benefits, including: Automation of manual tasks, saving your team time. Streamlined workflows and simpler systems for better efficiency. Resource-efficient practices that cut costs and reduce waste. Turning supply chain challenges into successful results. Expert support to help you transition smoothly and succeed in your operations. The Leading Odoo Partner in Ukraine Solvve team is : Certified Expert Odoo Consultants and Developers 12 years of experience with Odoo +100 API integrations +100 highly skilled engineers +14 years in software development +200 implemented projects 100% English-speaking team For a free consultation, click here: Talk to Odoo Expert Customer Testimonials \"Since partnering with SOLVVE, network downtime and technical issues have been minimized, much to the delight of internal stakeholders. The team performs well from a project management standpoint, which the client particularly finds impressive.\" VP of Operations, Delmar Jewelers Avraham Gniwisch ⭐⭐⭐⭐⭐ \"The ERP system has received positive feedback from internal stakeholders. SOLVVE’s turnaround times have also been greatly commended. Thanks to their work, the company now has more time to generate business. Their project management has also been excellent, and they provide unique ideas to the firm.\" Controller, Manufacturing Company, Light Fixture Manufacturing Firm ​⭐⭐⭐⭐⭐​ \"Since engaging with SOLVVE, the client has now streamlined and corrected their processes through a platform that meets their needs. They lead a communicative approach to work closely with the team for constant reports and summaries on the project. The client also praises their competitive pricing.\" Executive, Stone + Lain ​⭐⭐⭐⭐⭐ \"SOLVVE delivered the project on time, meeting the client's expectations. They communicated frequently and promptly via email and virtual meetings, ensuring an effective workflow. Their proactivity and solution-oriented approach were hallmarks of their work.\" Executive, Terrae Voluntas ⭐⭐⭐⭐⭐ \"Thanks to the SOLVVE team, the client can now track and manage customers, inventory, and user data more efficiently. The client appreciated how the vendor provided quick and clear communication and timely fixes when bugs came up.\" Executive Assistant to CEO, Healthy Longevity Cafe ⭐⭐⭐⭐⭐ Read our full reviews Learn more about how Solvve can get your Odoo project done right! Download our presentation to explore our extensive expertise and proven experience in successful Odoo implementations. Discover why you should choose Solvve: gain valuable insights into our methodologies and best practices, learn from real-world success stories across various industries, and find out about our comprehensive services—from initial consultation to ongoing support. Meet our skilled professionals, who bring a wealth of knowledge to each project, and see how our client-centric approach prioritizes your unique needs to deliver tailored solutions that exceed expectations. Make an informed decision! Get the Presentation Our Locations With a global presence, Solvve is equipped to partner with you in streamlining your business workflows and operations. Shevchenko str., 14, Dnipro 49000, Ukraine Kesklinna linnaosa, Jõe tn 4c, Tallinn 10151, Estonia Leszka Czarnego str, 6A, Rzeszów 35615, Poland ​ 16001 Bay Vista Drive Clearwater, Florida 33760, USA Solvve prioritizes the excellence of its business processes, emphasizing both operational efficiency and robust information security measures. As part of this commitment, the company annually renews its certifications for quality and information security. If you are looking for reliable, capable, and experienced partners to enhance your organization's operations, increase productivity, and foster growth through Odoo, place your trust in Solvve. To learn more, please visit our website: Solvve Odoo Insights",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 10
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 4
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:40.651414"
     },
     {
       "region_code": "ua",
@@ -148,10 +400,36 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/unitsoft-8608191?country_id=220",
       "logo_url": "https://odoocdn.com/web/image/res.partner/8608191/image_128/UNITSOFT?unique=899e31a",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.160002"
+      "about_text": "UNITSOFT company is an official partner of Odoo on the Ukrainian and Canadian markets. The head office of the company is located in Kyiv, the second one in Canada, Kitchener, Ontario. Unitsoft was founded by Andrii Pecherskikh, one of the most prominent experts in the study and implementation of complex ERP systems in Ukraine. Our team consists of highly qualified specialists who have been implementing complex software solutions for large international companies and their branches during the last 20 years. Except for ERP solutions, our team implements CRM systems, develops websites on the Odoo platform, and e-commerce solutions and creates mobile applications. Our expertise includes the implementation of management and accounting systems for medium and small businesses. Additionally, we develop individual modules for Odoo and adapt the Odoo system to the customers need. The UNITSOFT team led by Andriy Pecherskikh successfully implemented more than 50 ERP projects and automated more than 8,000 workplaces in Ukraine and other European countries. Our company offers a full range of services for the implementation and support of Odoo software solutions for various fields of activity: Retail and multi-channel trade; FMCG, wholesale and distribution; Production (food, beverages, household appliances, packaging, etc.); Agriculture (silage storage, cultivation and processing); Pharmaceutical production and distribution; Provision of professional services; Trading (grain, vegetable oil, coal, fuel and others); Financial management; Real estate management and building; Hotel and restaurant business; Transport and car service. We have developed software solutions unique on the market for business automation: Relationship management and multi-channel communications; Warehouse management; Demand forecasting; Supply chain planning and inventory management; Production and procurement planning; Document circulation; Management accounting, budgeting, controlling; Data synchronization and system integration; Big data processing; Health care and medical information systems (MIS). We will customize Odoo to your individual needs and business processes and provide all necessary support and advice on working with the program. Our services include: Odoo onboarding, study and support; Implementation of ERP and CRM; Websites development and setting up integrations with marketplaces: Rozetka, prom.ua, OLX, Modna Kasta etc. Solutions for eCommerce; Implementation of the accounting system; Customization and integration of third-party systems; Development of mobile applications; Trade and warehouse equipment integration; Hosting. We always strive to maintain a long-term partnership with our customers and offer the best software solutions for sustainable business growth. We guarantee the quality of our services in compliance with the SLA. Visit our website www.unitsoft.io and get an individual offer, a software solution that will improve your business today! UNITSOFT is your reliable partner in the world of business automation! ------------------------------------------------------------ Компанія UNITSOFT є офіційним сертифікованим партнером Odoo на ринку України та Канади. Головний офіс компанії знаходиться в м. Київ, другий офіс розташовано в Канаді, в місті Кітченер, Онтаріо. UNITSOFT засновано Андрієм Печерських - одним з найвідоміших експертів у вивченні та впровадженні комплексних ERP систем на території України. Наша команда складається з висококваліфікованих фахівців, які вже більше 20 років впроваджують комплексні програмні рішення для великих міжнародних компаній та їх філіалів. Окрім ERP рішень наша команда займається імплементацією CRM систем, розробляє веб-сайти на платформі Odoo, рішення для електронної комерції та створює мобільні додатки. В нашу експертизу входить впровадження систем управлінського та бухгалтерського обліку для середнього та малого бізнесу. Додатково ми розробляємо індивідуальні модулі для Odoo та адаптуємо систему Odoo під потреби наших клієнтів. Команда UNITSOFT на чолі з Андрієм Печерських успішно реалізувала понад 50 ERP- проектів та автоматизувала понад 8000 робочих місць в Україні та інших європейських країнах. Наша компанія пропонує повний спектр послуг з впровадження та супроводу програмних рішень Odoo для різних сфер діяльності: Роздрібна та багатоканальна торгівля; FMCG, оптова торгівля та дистрибуція; Виробництво (продукти харчування, напої, побутова техніка, упаковка і т.д.); Сільське господарство (силосне зберігання, вирощування та переробка); Фармацевтичне виробництво та дистрибуція; Надання професійних послуг; Трейдинг (зерно, рослинна олія, вугілля, паливо та інші); Управління фінансами; Управління нерухомістю та будівництво; Готельний та ресторанний бізнес; Транспорт та автосервіс. Ми розробили унікальні на ринку програмні рішення для автоматизації підприємницької діяльності: Управління взаємовідносинами та багатоканальними комунікаціями; Управління складом; Прогнозування попиту; Планування ланцюжка поставок і управління поповненням запасів; Планування виробництва та закупівель; Документообіг; Управлінський облік, бюджетування, контролінг; Синхронізація даних та інтеграція систем; Обробка великих даних; Охорона здоров'я та медичні інформаційні системи (MIS). Ми налаштуємо Odoo під ваші індивідуальні потреби та бізнес-процеси та надамо всю необхідну підтримку та консультації по роботі з програмою. Наші послуги включають: Навчання та підтримку Odoo; Впровадження ERP та CRM; Створення веб-сайтів та налаштування інтеграцій з маркетплейсами: Rozetka, prom.ua, OLX, Modna Casta та подібні... Рішення для електронної комерції; Впровадження облікової системи; Кастомізація та інтеграція сторонніх систем; Розробка мобільних додатків; Інтеграція торгового та складського обладнання; Хостинг Ми завжди прагнемо підтримувати довгострокове партнерство з нашими клієнтами та пропонуємо найкращі програмні рішення для стабільного зростання бізнесу. Ми гарантуємо якість наших послуг з дотриманням SLA. Відвідайте наш сайт www.unitsoft.io та отримайте індивідуальну пропозицію, програмне рішення, яке покращить Ваш бізнес вже сьогодні! UNITSOFT – ваш надійний партнер у світі автоматизації бізнесу!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:41.008481"
     },
     {
       "region_code": "ua",
@@ -169,10 +447,28 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/one-service-consulting-14233963?country_id=220",
       "logo_url": "https://odoocdn.com/web/image/res.partner/14233963/image_128/One%20Service%20Consulting?unique=2605054",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.160454"
+      "about_text": "One Service Consulting є незалежним консультантом, що працює з кращими рішеннями на ринку. Робота з різними ERP-системами дає нам можливість як мати професійну і незалежну оцінку кожної з них, так і сформувати персоналізовану пропозицію щодо рішень автоматизації бізнесу. Вже понад 15 років ми працюємо з фокусом на бізнес-результат, забезпечуємо прозорість процесів. Наша місія Допомагати підприємствам трансформуватися за допомогою ефективних ERP-систем. Наші послуги Вибір ERP-системи — це стратегічне рішення, яке визначає довгостроковий інструмент розвитку Вашого бізнесу. Водночас робота з бізнес-процесами — це не разовий проєкт, а безперервний процес їх оптимізації та вдосконалення. Ми добре розуміємо значущість цих напрямів для сталого зростання компанії, тому далі демонструємо, як можемо бути корисними на різних етапах і за різних запитів: Консалтинг бізнес-процесів: Комплекс послуг з аналізу , опису та оптимізації бізнес-процесів. Окремі інструменти, що дозволяють компаніям ідентифікувати та оптимізувати процеси, підвищуючи ефективність. Підбір програмного продукту : Для оптимального вибору ERP, ми враховуємо ваші процеси, культуру та потреби, гарантуючи вигоду за функціоналом, ціною та вартістю володіння. Комплексне впровадження: Спеціалізуємося на ефективному впровадженні ERP систем, покращуючи процеси управління в компанії завдяки комплексному підходу. Кастомізація та розробка: Кожен бізнес вимагає унікального підходу до цифровізації, ми розробляємо рішення для конкретних потреб вашого бізнесу. Навчання та тренінги: Пропонуємо гнучкі програми навчання ERP для всіх рівнів співробітників, які допоможуть ефективно працювати з системою. Супровід та розвиток : Забезпечуємо неперервний розвиток та підтримку вашої ERP системи, підсилюючи ваші конкурентні переваги. Ми не навʼязуємо Вам шлях розвитку, а підбираємо оптимальний маршрут впровадження, який відповідає саме Вашим бізнес-потребам. Наш підхід до впровадження Odoo Структуровано описуємо процеси компанії згідно з методологією APQC PCF (Process Classification Framework). Моделюємо процеси в ERP системі, описуємо та візуалізуємо їх у BPMN діаграмах. Фіксуємо розриви між бізнес-процесом та функціоналом ERP. Налаштовуємо та розробляємо додатковий функціонал системи ERP, щоб врахувати індивідуальні потреби бізнесу. Проводимо навчання користувачів роботі в ERP системі за кожним з процесів. Залишаємося поряд, щоб закрити нові запити. Чому обирають нас? Понад 15 років досвіду у впровадженні ERP Підбір індивідуальних рішень під конкретний бізнес Комплексний підхід: від аналізу процесів до супроводу ERP Довгострокові відносини з клієнтами та висока оцінка їхньої задоволеності Тримаємо руку на пульсі новин ERP-ринку і ділимося знаннями на нашому YouTube-каналі та в блозі Розвиваємо спільноту Odoo в форумі За консультацією залишайте заявку на нашому сайті Наш сайт Або пишіть на Email Написати нам листа",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:41.411712"
     },
     {
       "region_code": "ua",
@@ -191,9 +487,14 @@
       "profile_url": "https://www.odoo.com/partners/internet-devels-25805976?country_id=220",
       "logo_url": "https://odoocdn.com/web/image/res.partner/25805976/image_128/INTERNET%20DEVELS?unique=d72f4b4",
       "about_text": null,
-      "certifications_breakdown": [],
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        }
+      ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.160836"
+      "scraped_at": "2026-04-09T07:53:41.762268"
     },
     {
       "region_code": "ua",
@@ -212,9 +513,23 @@
       "profile_url": "https://www.odoo.com/partners/ubm-soft-10086935?country_id=220",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10086935/image_128/UBM%20SOFT?unique=0379b8f",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.161253"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Government",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:42.039034"
     }
   ]
 }

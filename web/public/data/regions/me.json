@@ -2,7 +2,7 @@
   "region_code": "me",
   "country_code": "ME",
   "country_name": "Montenegro",
-  "scraped_at": "2026-04-09T05:59:02.585469",
+  "scraped_at": "2026-04-09T07:52:33.979793",
   "total_partners": 1,
   "source_url": "https://www.odoo.com/partners/country/montenegro-50",
   "partners": [
@@ -22,10 +22,19 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/montex-elektronika-19702?country_id=50",
       "logo_url": "https://odoocdn.com/web/image/res.partner/19702/image_128/MONTEX%20ELEKTRONIKA?unique=05f1748",
-      "about_text": null,
+      "about_text": "Montex Elektronika was founded in 1992 with a core activity in the field of IT and telecommunications. In this domain, we design, implement and maintain solutions based on modern ICT technologies. As a company with many years of experience, we successfully solve the problems of digitizing business processes. By using the Odoo platform, we help our clients choose a solution that suits their needs. In addition to the implementation of applications based on the Odoo platform, we provide business consulting services as well as continuous support and improvement of the implemented systems. Montex Elektronika was founded in 1992 with the main activity in the field of information technology and telecommunications. In this domain, we design, implement and maintain solutions based on modern ICT technologies. As a company with many years of experience, we successfully solve the problems of digitizing business processes. By using the Odoo platform, we help our clients choose a solution that suits their needs. In addition to the implementation of applications based on the Odoo platform, we provide business consulting services as well as continuous support and improvement of the implemented systems.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:02.585387"
+      "industries_breakdown": [
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:33.716410"
     }
   ]
 }

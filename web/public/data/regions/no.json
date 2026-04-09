@@ -2,7 +2,7 @@
   "region_code": "no",
   "country_code": "NO",
   "country_name": "Norway",
-  "scraped_at": "2026-04-09T05:59:08.951175",
+  "scraped_at": "2026-04-09T07:53:01.250817",
   "total_partners": 4,
   "source_url": "https://www.odoo.com/partners/country/norway-160",
   "partners": [
@@ -22,10 +22,64 @@
       "certified_experts_count": "13",
       "profile_url": "https://www.odoo.com/partners/flyt-consulting-as-5296138?country_id=160",
       "logo_url": "https://odoocdn.com/web/image/res.partner/5296138/image_128/Flyt%20Consulting%20AS?unique=1a1830a",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:08.949359"
+      "about_text": "ERP ekspertise basert i Oslo. Flyt er landets største Odoo-partner, og vi fokuserer på full digitalisering av mellomstore bedrifter. Vi har mer enn 20 års erfaring i implementering av ERP løsninger på Odoo, SAP og Microsoft plattformer. Vi har lokal prosessekspertise innen produksjon, logistikk, salg, innkjøp, prosjekt og regnskap/controlling. Vi bruker Odoo selv til alle våre prosesser. Vi har mange fornøyde kunder som bruker Odoo til å støtte både enkle og komplekse prosesser, og kundene våre er typisk i størrelse fra 25 til 500 ansatte. Vi tilbyr full lokalisering for norsk regnskap i Odoo, eller sentralisert integrasjon med din regnskapsførers løsning, for enkelt vedlikehold av din odoo-løsning. Les om hva vi tilbyr på ​https://www.flytconsulting.no/​ ERP Experts based in Oslo, with more than 20 successful years in the field of ERP implementations. Please contact us ​ to learn more how we can help you on your way towards better control and happy end users.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 7
+        },
+        {
+          "version": "Certified v17",
+          "count": 5
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 13
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 9
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 8
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 5
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 5
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 3
+        },
+        {
+          "industry": "Agriculture",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:00.026670"
     },
     {
       "region_code": "no",
@@ -43,10 +97,56 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/aider-as-24449695?country_id=160",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24449695/image_128/Aider%20AS?unique=67e2662",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:08.950068"
+      "about_text": "Aider AS Norges første offisielle Gold Partner med meget gode referanser. Aider tilbyr også alt av økonomi, lønn- og regnskapstjenester til over 250 fornøyde kunder. Har utviklet og vedlikeholder Odoo-integrasjoner mot de mest moderne regnskapsløsningene i Norge, bl.a. Poweroffice Go. Stort ERP-team som kun består av spesialister med mange års Odoo-erfaring på alle moduler. Bistår med analyse og optimalisering av prosesser, implementering og utvikling. Hva kan vi tilby? Odoo-rådgivning Vårt team av Odoo-eksperter kan hjelpe deg med å velge riktig strategi for å flytte virksomheten din til Odoo. Mange års erfaring og ulike prosjekter garanterer den høye kvaliteten på våre tjenester. Selv om Odoo ERP er enkelt å bruke og intuitivt, er det viktig å sette det opp riktig slik at det fungerer i henhold til bedriftens behov. Odoo-konsulenttjenestenes rolle er å støtte bedrifter i alle stadier av implementeringen av programvaren for virksomhetsstyring: definisjon av behov, programvarekonfigurasjon, datamigrering, brukeropplæring og support. Konsulentene er her for å hjelpe deg og forbedre lønnsomheten din. Hvis du er på utkikk etter en strategisk partner som kan hjelpe deg med implementeringen av Odoo, har du kommet til rett sted. Bestill en gratis live demo av Odoo med Aider IT-ekspertene! Bestill en gratis live demo Implementering av Odoo Odoo software meets all business needs and is undoubtedly the best open-source ERP implementation service on the market today. Trinn for implementering av Odoo Forretningsanalyse Forretningsanalysen skal avdekke og bidra til å avdekke forretningsbehov, muligheter, potensielle løsninger og/eller mulige forbedringsområder. Konfigurasjon/tilpasning Teamet vårt gjør endringer for å oppfylle prosjektkravene, og dette vil variere ut fra bedriftens behov. Avanserte distribusjoner, datamigrering og spesialapplikasjoner opprettes også her. Endelig testing Etter at alle tilpasninger er gjort i Odoo-programvaren, begynner den endelige brukertestingen av ERP-systemet. Systemtesting gjennomføres for å sikre at alle spesifikke forretningsbehov og prosjektkrav er oppfylt. Integrasjon med norsk regnskapssystem PowerOffice Go og Tripletex er de beste og mest populære regnskapssystemene i Norge. Det er selvfølgelig svært viktig at ERP-systemet ditt har en rask og pålitelig forbindelse til dem for datasynkronisering. Aider IT tilbyr også integrasjon av Odoo med norske skatteprogrammer som PowerOffice Go og Tripletex. Med noen få klikk kan du eksportere kunde-, leverandør-, produkt- og tilgjengelighetsinformasjon fra Odoo til regnskapssystemet ditt og tilbake igjen! Supporttjeneste Som Odoo Partner tilbyr Aider IT Odoo-støtte på toppnivå for din bedrift eller organisasjon. Våre tekniske supporttjenester inkluderer følgende: Støtte eller oppretting av spesifikke utviklinger eller tilpasninger i databasen din. Opplæring av brukere. Databasemigrering fra andre plattformer og tidligere versjoner av Odoo. Konsultasjon om hvilke konfigurasjoner som skal brukes i en modul eller i Odoo-databasen din. Oppgraderinger til den nyeste versjonen av Odoo med sikker sikkerhetskopiering av databasen din. Daglig support og assistanse med Odoo, still spørsmål og få svar direkte fra bedriftens utpekte konsulentteam. Våre garantier og sertifiseringer Kunder som samarbeider med Aider IT oppnår en rekke forretningsfordeler: Du kan lage bedre produkter, reagere på markedsvolatilitet, forbedre lageroppfyllelsen og administrere prosjekter bedre med tidsriktige, fullstendige og nøyaktige data. Du kan sikre raske leveranser og fornøyde kunder med presis administrasjon av feltservice. Og du kan spore økonomien ved hjelp av et robust system som inkluderer kostnadsregnskap. Eliminerer manuelt arbeid og feil Synkronisere og effektivisere arbeidsflyten Utvikle nye forretningsmodeller og digitale initiativer Maksimerer ressursene, senker kostnadene og øker fortjenesten Gjør volatilitet i forsyningskjeden til en forretningssuksess Aider IT kan hjelpe deg med å få mest mulig ut av Odoo ERP-programvaren din, fra produktlivssyklus til prosjektstyring, fra drift av lageret og forsyningskjeden til raskere levering av produkter og tjenester på nett, i butikk og ute i felten. Du kan lage bedre produkter, reagere på markedsvolatilitet, forbedre lageroppfyllelsen og administrere prosjekter bedre med tidsriktige, fullstendige og nøyaktige data. Du kan sikre raske leveranser og fornøyde kunder med presis administrasjon av feltservice. Og du kan spore økonomien ved hjelp av et robust system som inkluderer kostnadsregnskap. Gratis demo for din bedrift Vil du vite hvordan vi kan tilpasse Odoo til din bedrift? Be om en gratis prøveversjon med våre eksperter, så viser vi deg alle mulighetene denne programvaren gir deg for å forbedre virksomheten din. Få mer informasjon på våre nettsider! Aider",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:00.412484"
     },
     {
       "region_code": "no",
@@ -64,10 +164,28 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/dunamis-technology-as-7059674?country_id=160",
       "logo_url": "https://odoocdn.com/web/image/res.partner/7059674/image_128/Dunamis%20Technology%20AS?unique=e6e1f73",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:08.950618"
+      "about_text": "Dunamis Technology AS: Din strategiske partner for Odoo-suksess og digital sikkerhet Velkommen til Dunamis Technology AS, din foretrukne Odoo-partner! Vi er mer enn bare implementeringsspesialister vi er din strategiske rådgiver med stort engasjement for å transformere bedriften din gjennom kraften i Odoo, et av verdens mest komplette og innovative forretningssystemer. Vi hjelper kunder innen SMB-markedet. Odoo: En komplett løsning for din virksomhet Odoo er ikke bare et ERP-system, det er en integrert plattform som samler alle dine forretningsprosesser fra salg og regnskap til lager, produksjon, netthandel og HR, i én sømløs løsning. Med Odoo kan din bedrift: Effektivisere driften: Automatiser rutineoppgaver og reduser manuelle feil. Få full oversikt: Få sanntidsdata og innsikt for smartere beslutninger. Vokse og skalere: Tilpass systemet til dine unike behov og ekspander uten begrensninger. Vårt unike fortrinn: Spesialister på digital sikkerhet i hver implementering I dagens digitale landskap er sikkerhet ikke en l luksus, men en nødvendighet. Vår dype ekspertise innen digital sikkerhet skiller oss ut som Odoo-partner. Med CEO i spissen, som leder våre digitale sikkerhetstjenester med 30 års erfaring fra krevende sektorer som helse, kjernekraft og myndigheter, er vi unikt posisjonert. Vi implementerer ikke bare Odoo, vi sikrer at din data og dine prosesser er beskyttet i henhold til de strengeste standarder som ISO27001, NIST, NIS2 og GDPR. Hos oss er digital sikkerhet en integrert del av enhver Odoo-implementering, slik at du kan fokusere på vekst med full trygghet. Et team med solid erfaring, skreddersydd for din suksess Vårt team består av erfarne ledere og konsulenter med over 30 års kombinert erfaring innen digitalisering på tvers av et bredt spekter av bransjer. Ronny Stavem (CEO): Med 30 års erfaring med komplekse sikkerhetsutfordringer, sikrer Ronny at dine Odoo-løsninger møter de strengeste sikkerhets- og etterlevelseskravene. Bjørn Midtlien (Service Delivery Manager / Odoo spesialist): Som en vekstorientert leder med 30 års erfaring i forretningsprosesser som innkjøp, logistikk, IT-sikkerhet og økonomi, sørger Bjørn for sømløse tjenesteleveranser og effektiv drift. Tine Stavem (Head of Consulting Services): Med over 20 års erfaring fra både privat og offentlig sektor, leder Tine våre konsulentleveranser med en dyp forståelse for både tekniske og forretningsmessige aspekter. Håkon Pedersen (Digital Security Consultant): Med 15 års ledererfaring fra detaljhandel og snart en master i Cyber Security, forenkler Håkon komplekse sikkerhetsproblemer og bidrar til robuste kundeleveranser. Vi forstår dine unike utfordringer og er klare til å skreddersy en Odoo-løsning som driver din virksomhet fremover, med digital sikkerhet i kjernen. La oss ta en prat om dine muligheter med Odoo! Besøk oss på https://www.dunamistechnology.no/erp-odoo for å lære mer, eller ta direkte kontakt med oss for en uforpliktende samtale. Vi ser frem til å høre fra deg!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:00.784535"
     },
     {
       "region_code": "no",
@@ -85,10 +203,15 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/linserv-ab-norway-17480291?country_id=160",
       "logo_url": "https://odoocdn.com/web/image/res.partner/17480291/image_128/Linserv%20AB%20%28Norway%29?unique=979431c",
-      "about_text": null,
+      "about_text": "https://www.linserv.se/en_GB Linserv AB is a Silver Odoo partner in Sweden and official Odoo Enterprise partner in Norway Since 2002, we have been helping companies and organizations implement Open Source technologies. We build bridges between business and IT, all in one place. With Odoo, you can gather all your ERP needs in one place. Vendevägen 85A, 182 32, Danderyd +46705186587 stephen.schmidt@linserv.se",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:08.951040"
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:01.053284"
     }
   ]
 }

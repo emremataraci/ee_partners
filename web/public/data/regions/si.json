@@ -2,7 +2,7 @@
   "region_code": "si",
   "country_code": "SI",
   "country_name": "Slovenia",
-  "scraped_at": "2026-04-09T05:59:15.264996",
+  "scraped_at": "2026-04-09T07:53:34.183151",
   "total_partners": 5,
   "source_url": "https://www.odoo.com/partners/country/slovenia-192",
   "partners": [
@@ -22,10 +22,60 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/hermes-doo-2101103?country_id=192",
       "logo_url": "https://odoocdn.com/web/image/res.partner/2101103/image_128/Hermes%20d.o.o.?unique=42ef7c1",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:15.263106"
+      "about_text": "Hermes is an experienced and trusted software company dedicated to delivering innovative Business Solutions to all sized businesses across the region. We take the time to understand your business and your needs in order to provide you the most effective solutions. We’ll free up your time and streamline your processes, so that you can reduce your costs, focus on your business and achieve your goals faster. ​ G et the best out of Odoo with Hermes.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 19
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 11
+        },
+        {
+          "industry": "Other Services",
+          "count": 9
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 5
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:32.611261"
     },
     {
       "region_code": "si",
@@ -43,10 +93,56 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/editor-doo-297234?country_id=192",
       "logo_url": "https://odoocdn.com/web/image/res.partner/297234/image_128/Editor%20d.o.o.?unique=73ca025",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:15.263538"
+      "about_text": "We have been running Odoo in our organization since 2013 and almost all our business processes run inside Odoo. As a service company we value the modern CRM, the fully integrated sales cycle, project management and time-sheets. But we also developed many custom and localization modules like e-invoices, travel orders, accounting reports etc. which allow us to run all our business on Odoo. The new website builder presents a new opportunity, because it allows to create stunning landing pages with no coding.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 14
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 12
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:32.985966"
     },
     {
       "region_code": "si",
@@ -64,10 +160,60 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/guru-doo-11888758?country_id=192",
       "logo_url": "https://odoocdn.com/web/image/res.partner/11888758/image_128/GURU%20d.o.o.?unique=143f9be",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:15.263965"
+      "about_text": "Zahtevajte povratni klic / Request a Callback Brezplačni preizkus / Free trial: https://www.odoo.com/?utm_campaign=partner-97313396&utm_source=partner_ref Naša misija Orodje nikoli ni problem . Vemo, da je ključ do uspeha znanje kako to orodje pravilno in optimalno uporabljati in na tak način pomagamo podjetjem, da dosegajo boljše poslovne rezultate. O nas GURU je ekipa strokovnjakov, ki že od leta 2000 pomaga podjetjem na področju informacijskih tehnologij. Naš fokus je bil in je maksimiranje poslovne vrednosti z IT orodji. Z Odoo-jem smo našli najpopolnejše in cenovno najbolj dostopno orodje, s katerim lahko svoje stranke naredimo resnično digitalne. Zakaj mi? Rešujemo probleme in s tem stranki omogočimo večjo učinkovitost, povečanje produktivnosti z manjšimi vložki, zmanjšanje napak, manj stresa pri delu ter dobi jasen pregled nad poslovanjem v vsakem trenutku Smo fleksibilna ekipa ljudi s širokim naborom kompetenc, znanj in izkušenj na področju implementacij, digitalizacije, programiranja in vodenja projektov v različnih panogah Razumemo bolečine in poslovne probleme strank in se znamo vživeti vanje Ker v detalje poznamo kako deluje Odoo in imamo učinkovito programersko ekipo po potrebi razvijemo rešitve po meri tako, da kar najbolj ustrezajo tako potrebam stranke in tehnočno zahtevam Odoo S stranko razvijemo dolgoročni partnerski odnos in tudi po zaključenem projektu ostanemo partner na katerega se stranka lahko zanese. Naše storitve Analiza poslovnih zahtev in zajem potreb Svetovanje pri poslovnih odločitvah in optimizacija poslovnih procesov Načrtovanje finančne strategije Načrtovanje in uvajanje sistema Odoo ERP Vodenje implementacijskih projektov Integracija z obstoječimi sistemi Migracija podatkov Usposabljanje uporabnikov in stalna podpora Vzdrževanje, Tehnična konzultantska podpora in odpravljanje težav Redno vzdrževanje sistema Nadgradnje in optimizacija Kako delamo 1. korak: Uvodni sestanek za razumevanje vaših poslovnih procesov in izzivov 2. korak: Demo - Personalizirana predstavitev rešitve Odoo ERP, prilagojena vašim specifičnim potrebam 3. korak: Določitev grobega obsega projekta z budgetary ponudbo 4. korak: Izvedba vsebinskih delavnic - poglobljena analiza procesov in potreb s predlogi implementacijskih rešitev 5. korak: priprava Funkcionalne specifikacije (Blue Print), ponudbe in časovnice za izvedbo projekta 6. korak: Izvedba projekta 7. korak: Prevzem projekta in prehod v podporo strankam Our mission A tool is never a problem . We know that the key to success is knowing how to use this tool correctly and optimally , and in this way we help companies achieve better business results. About us GURU is a team of experts who have been helping companies in the field of information technology since 2000. Our focus has been and is maximizing business value with IT tools. With Odoo, we have found the most complete and affordable tool with which we can make our customers truly digital Why us? We solve problems and thereby enable the client to be more efficient, increase productivity with less input, reduce errors, less stressed at work and gets a clear overview of the business at all times We are a flexible team of people with a wide range of competencies, knowledge and experience in the field of implementations, digitalization, programming and project management in various industries We understand the pain points and business problems of our clients and know how to empathize with them Because we know in detail how Odoo works and have an efficient programming team , we develop custom solutions if necessary so that they best suit both the client's needs and the technical requirements of Odoo We develop a long-term partnership with the client and even after the project is completed, we remain a partner the client can rely on. Our services Business requirements analysis and requirements capture Business decision consulting and business process optimization Financial strategy planning Odoo ERP system planning and implementation Implementation project management Integration with existing systems Data migration User training and ongoing support Maintenance, technical and consulting support and troubleshooting Regular system maintenance Upgrades and optimization How we work Step 1: Introductory meeting to understand your business processes and challenges Step 2: Demo - Personalized presentation of the Odoo ERP solution, tailored to your specific needs Step 3: Determining the rough scope of the project with a budgetary offer Step 4: Conducting content workshops - in-depth analysis of processes and needs with implementation solution proposals Step 5: Preparing the Functional Specification (Blue Print), offer and timeline for project implementation Step 6: Project implementation Step 7: Project takeover and transition to customer support",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 5
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:33.397358"
     },
     {
       "region_code": "si",
@@ -86,9 +232,39 @@
       "profile_url": "https://www.odoo.com/partners/rounded-square-doo-17408392?country_id=192",
       "logo_url": "https://odoocdn.com/web/image/res.partner/17408392/image_128/ROUNDED%20SQUARE%20D.O.O.?unique=88c2fd1",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:15.264455"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:33.684597"
     },
     {
       "region_code": "si",
@@ -106,10 +282,24 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/mentis-doo-17420?country_id=192",
       "logo_url": "https://odoocdn.com/web/image/res.partner/17420/image_128/Mentis%20d.o.o.?unique=c4cf430",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:15.264854"
+      "about_text": "Mentis is company with more than 20 years experience in IT solution. Our main focus in last 10 years was document management and business process optimization. We think that combination of our experience in document management , electronic business , process optimization and rich functionality and modularity of OpenERP , must lead to even better solutions for companies of all sizes.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:33.957123"
     }
   ]
 }

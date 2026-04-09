@@ -2,7 +2,7 @@
   "region_code": "lt",
   "country_code": "LT",
   "country_name": "Lithuania",
-  "scraped_at": "2026-04-09T05:58:59.226808",
+  "scraped_at": "2026-04-09T07:52:20.750079",
   "total_partners": 9,
   "source_url": "https://www.odoo.com/partners/country/lithuania-128",
   "partners": [
@@ -22,10 +22,64 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/via-laurea-uab-3693063?country_id=128",
       "logo_url": "https://odoocdn.com/web/image/res.partner/3693063/image_128/Via%20laurea%2C%20UAB?unique=2c9204b",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:59.223029"
+      "about_text": "Via laurea is a leading Odoo partner in Lithuania, holding over 12 years of experience in the industry. With our extensive knowledge and expertise, we are well-suited to supporting both local and international businesses with their unique needs. We are proud of our ambitious and highly experienced team of certified Odoo specialists, who are ready to take on even the most challenging projects. Our services include Odoo implementation , development, training, and maintenance . We also offer leading Odoo Accounting solutions in Lithuania, having developed our own modules for local accounting needs : Accounting \"LT VAS\", Inventory Accounting, Payroll, GPAIS, SAF-T, Intrastat, iSAF, and others. Our dedicated team of accounting and payroll consultants ensure top quality of services for our clients. Trust and transparency are Via laurea's key values, which is why we build our client relationships on full honesty. Our primary mission – to help Your company grow with the best business management solutions! Book a consultation ___________________________________ UAB “Via laurea” turi daugiau nei 12 metų darbo su Odoo projektais patirties. Dėka sukauptų žinių, mes esame pasiruošę padėti tiek vietinėms, tiek tarptautinėms įmonėms rasti tinkamiausius verslo valdymo sprendimus jų individualiems poreikiams. Įmonėje dirba ambicinga, sertifikuotų specialistų komanda, pasirengusi įgyvendinti net ir pačius sudėtingiausius iššūkius. Mes diegiame , vystome, organizuojame apmokymus ir teikiame Odoo sistemos priežiūrą įvairaus dydžio ir pramonės šakų įmonėms. Taip pat siūlome ir pirmaujančius Odoo Apskaitos sprendimus Lietuvos rinkai. Turime sukūrę lokalizuotus modulius , pilnai atitinkančius LT apskaitos poreikius: LT \"VAS\" Apskaita, Darbo Užmokestis, GPAIS, SAF-T, Intrastat, iSAF ir kt. O mūsų specializuota apskaitos ir darbo užmokesčio ekspertų komanda užtikrina aukščiausią paslaugų kokybę mūsų klientams. Skaidrumas ir abipusis pasitikėjimas yra pagrindinės Via laurea vertybės, kuriomis remiamės ir vystydami santykius su klientais. Mūsų tikslas – padėti Jūsų verslui augti su geriausiais sprendimais! Registruokitės konsultacijai Via laurea modules | Via laurea moduliai",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 4
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 21
+        },
+        {
+          "industry": "Other Services",
+          "count": 7
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 6
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 5
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 5
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 3
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:16.992405"
     },
     {
       "region_code": "lt",
@@ -43,10 +97,56 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/versada-uab-387815?country_id=128",
       "logo_url": "https://odoocdn.com/web/image/res.partner/387815/image_128/Versada%20UAB?unique=254ca06",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:59.223513"
+      "about_text": "Odoo Partner since 2010. Strong technical expertise. Full in-house team of tech analysts and developers. Deep sector knowledge and vertical solutions. Global and local projects. Learn more about Versada Sužinokite daugiau apie Versada Why Choose Versada? Expertise in Odoo since 2010: With over 100+ successful Odoo implementations, our team ensures precise and customized solutions for your unique business needs. Comprehensive Service Offerings: From consultancy to implementation and support, we cover all aspects of your Odoo ERP journey. Customer-Centric Approach: Our focus is on understanding your business challenges and delivering high-quality solutions that enhance operational efficiency and profitability. Local Support: We offer personalized and regional support, ensuring swift and effective responses to your queries and issues. Our Services: Odoo Implementation: Tailored Odoo ERP implementations designed to meet your specific business requirements. Customization: Custom development services to ensure your Odoo system aligns perfectly with your business processes. Integration: Seamless integration of Odoo with other business applications to create a unified IT ecosystem. Support & Maintenance: Comprehensive training programs and ongoing support to maximize your investment in Odoo. Upgrades: Expert assistance with upgrading to the latest Odoo versions, leveraging new features and improvements. 🌍 International Company : We have customer all over Europe: Germany, Netherlands, Denmark, Austria, Switzerland, Latvia, Poland and other. Since 2010 we had an opportunity to work with a high variety of sectors: e-commerce, distribution, manufacturing and others. We've got you covered. Are you interested in collaboration or would like to have a consultation on your individual case? ​ ​ FREE CONSULTATION ​ ​ ​ NEMOKAMA KONSULTACIJA ​",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 18
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 12
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Real Estate",
+          "count": 2
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:17.574884"
     },
     {
       "region_code": "lt",
@@ -65,9 +165,63 @@
       "profile_url": "https://www.odoo.com/partners/devtouch-uab-7898398?country_id=128",
       "logo_url": "https://odoocdn.com/web/image/res.partner/7898398/image_128/Devtouch%21%2C%20UAB?unique=5988e3a",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:59.223995"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 14
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 11
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 5
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "NGO",
+          "count": 2
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:18.111980"
     },
     {
       "region_code": "lt",
@@ -85,10 +239,56 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/umina-lt-mb-4769611?country_id=128",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4769611/image_128/Umina%20LT%2C%20MB?unique=7173c2c",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:59.224563"
+      "about_text": "Mes patys taikome tai, ką skatiname – todėl didžiuodamiesi naudojame Odoo ir savo veikloje. Kaip atsidavę Odoo diegimo partneriai, tikime, kad svarbu visiškai naudoti įrankius, kuriuos rekomenduojame. Ši tiesioginė patirtis dar labiau sustiprina mūsų kompetenciją ir paslaugų, kurias teikiame jums, kokybę. We practice what we preach - that's why we proudly use Odoo in our operations too. As dedicated Odoo implementation partners, we believe in fully embracing the tools we advocate for. This firsthand experience enhances our expertise and the quality of service we deliver to you.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 4
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:18.575373"
     },
     {
       "region_code": "lt",
@@ -106,10 +306,40 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/avakompas-uab-10451163?country_id=128",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10451163/image_128/Avakompas%2C%20UAB?unique=ed9b312",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:59.225036"
+      "about_text": "UAB Avakompas diegia pilnus Odoo verslo valdymo sprendimus, tačiau daugiausia dėmesio skiriame sandėlio valdymui. Bendradarbiaudami su VentorTech komanda ir naudodami jų kaupiklių programėlę, kuriame praktiškus, realiu laiku veikiančius Sandėlio valdymo sistemos (WMS) sprendimus, pritaikytus jūsų kasdienei darbo eigai. Kuo mes skiriamės nuo mūsų konkurentų Nesiūlome eksperimentinių ar universalių šablonų. Kiekvienas sprendimas kuriamas taip, kad iš karto būtų paruoštas darbui ir atitiktų jūsų procesus. Ką gaunate praktiškai Aiškias kaupiklių instrukcijas — mažiau klaidų priėmimo, komplektavimo ir išsiuntimo metu. Tvarkingą partijų, serijos numerių ir galiojimų valdymą (FIFO/FEFO). Užduočių grupavimą ir optimalius kaupiklių maršrutus — greitesnis pick/putaway. Matomumą sandėlyje realiu laiku — kas, kur ir kiek yra laisvai pasiekiama per Odoo. Integraciją su pirkimais, pardavimais, apskaita ir vežėjais — viena sistema vietoje daugelio. Kaip dirbame Atvykstame į sandėlį, apžiūrime procesus ir užfiksuojame problemas. Sukonfigūruojame sistemą ir atliekame bandomuosius testus su jūsų komanda. Paleidžiame WMS darbo aplinkoje ir apmokome darbuotojus. Analizuojame sistemos veikimą, atliekame pakeitimus ir tobuliname remiantis praktiniais rezultatais. Norite pamatyti veikiančią sistemą? Surengsime demonstraciją arba nemokamą konsultaciją — aptarsime jūsų procesus ir parengsime konkrečius pasiūlymus, ką galime pagerinti jau per pirmą mėnesį. UAB „Avakompas“ — kad sandėlio darbai vyktų tiksliai, greitai ir be staigmenų. Registruokitės konsultacijai",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:18.885716"
     },
     {
       "region_code": "lt",
@@ -127,10 +357,43 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/uab-sandas-1977109?country_id=128",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1977109/image_128/UAB%20%22SANDAS%22?unique=170ae15",
-      "about_text": null,
+      "about_text": "Sandas – Official Odoo Partner in Lithuania Sandas is the first official Odoo partner in Lithuania, with more than 18 years of experience and over 300 successful Odoo implementations across multiple industries. We help manufacturing, wholesale, retail, logistics, and service companies streamline operations, gain real-time visibility, and scale efficiently with Odoo. End-to-End Odoo Services From strategy to long-term support, our team delivers full-cycle Odoo services tailored to each client’s business model: Odoo implementation Customization and development System integration Data migration User training Ongoing support and maintenance From initial analysis to long-term optimization, we ensure a smooth, reliable, and scalable ERP journey. Why Companies Choose Sandas Proven Odoo expertise 16+ years of experience in complex process management and business digitalization, with a strong focus on manufacturing, B2B, warehouse management, and telecommunications. Deep local compliance and localization We ensure full alignment with Lithuanian accounting standards, tax authority requirements, and integrations with national business systems. Practical, business-driven approach We focus not only on technology, but on measurable business value: efficiency, transparency, and scalability. IoT and advanced integrations Seamless connectivity with barcode scanners, printers, scales, warehouse equipment, and other IoT devices. Personalized partner support Direct collaboration with experienced consultants who understand both Odoo and real business processes. Our Implementation Methodology Our structured delivery framework ensures clarity and control at every stage. We guide our clients through a proven six-step delivery model: Analysis – deep dive into your business processes and solution design Development – tailored Odoo customization for your specific needs Testing – rigorous automated and user testing Implementation – configuration, deployment, and data migration Training – practical user onboarding and adoption support Support – continuous helpdesk and system maintenance This approach ensures predictable delivery, controlled risk, and long-term system value. Who We Work With Whether you are: a growing company implementing ERP for the first time, or n established organization optimizing or upgrading existing systems Sandas is your trusted partner for a reliable and scalable Odoo journey. Ready to unlock the full value of Odoo? Talk to our experts today. Get a consultation within 8 business hours Learn more about us",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:59.225434"
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Government",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:19.300665"
     },
     {
       "region_code": "lt",
@@ -148,10 +411,31 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/honestus-uab-2220340?country_id=128",
       "logo_url": "https://odoocdn.com/web/image/res.partner/2220340/image_128/Honestus%20UAB?unique=3692c26",
-      "about_text": null,
+      "about_text": "Honestus – Belgijos ir Lietuvos bendra įmonė, Odoo partneris, dirbantis daugiausia Lietuvoje, Beniliukso šalyse, Skandinavijoje, JAV ir kitose rinkose. Specializuojamės Odoo ERP sistemų diegime, tobulinime ir audite, su aiškiai apibrėžtais kokybės standartais bei veikimo garantijomis. Mūsų požiūris remiasi realiais įsipareigojimais, o ne pažadais: Sistemos stabilumas ir patikimumas – siekiame, kad jūsų Odoo veiktų be trikdžių, taip kaip suplanuota. Aiškiai dokumentuoti sprendimai – visada pateikiame konfigūracijų ir procesų aprašymus, veiksmų planus. Auditas ir optimizacija – įvertiname esamas sistemas, identifikuojame rizikas ir pateikiame konkretų tobulinimo planą. Techninis palaikymas pagal SLA – reaguojame į problemas ir užklausas per sutartus laikotarpius, laikomės atsakomybės. Zero surprise policy – skaidrumas nuo planavimo iki įgyvendinimo, kad žinotumėte, ką gaunate ir kaip veiks sprendimas. Mes nediegiame „modulių dėl modulių“ – mūsų tikslas yra, kad sistema realiai dirbtų jūsų verslo naudai, o sprendimai būtų pagrįsti analize ir jūsų poreikių supratimu. Honestus – kai svarbu ne tik turėti ERP sistemą, bet ir būti tikriems, kad ji veikia. Planuojate naują Odoo diegimą arba norite patobulinti esamą sistemą? Užsiregistruokite nemokamai konsultacijai – pasidalinsime įžvalgomis ir pasiūlysime sprendimus, kurie veikia. Užsiregistruokite nemokamai konsultacijai Norite sužinoti daugiau apie Odoo galimybes, sėkmingus projektus ir mūsų patirtį? Sekite mus LinkedIn ir pirmieji gaukite naujienas bei įžvalgas! LinkedIn ----------------------------------------------------------------------------------------------------- Honestus is a Belgian-Lithuanian joint venture and Odoo partner, primarily operating in Lithuania, the Benelux region, Scandinavia, the USA, and other markets. We specialize in Odoo ERP implementation, system optimization, and audits, working with clearly defined quality standards and operational guarantees. Our approach is based on real commitments, not promises: System stability and reliability – we ensure your Odoo works as planned, without interruptions. Well-documented solutions – we always provide clear configuration documentation, process descriptions, and action plans. System audits and optimization – we assess existing Odoo implementations, identify risks, and offer actionable improvement strategies. Technical support based on SLA agreements – timely issue resolution and accountability according to agreed service levels. Zero surprise policy – transparency from planning to delivery, so you always know what to expect and how your system will perform. We don’t just “install modules” – we make sure your Odoo setup works efficiently, meets your business needs, and is built on thoughtful analysis and understanding of your processes. Honestus – when it’s not just about having an ERP system, but being sure it works. Not sure where to start or how to improve your Odoo setup? Schedule a free consultation with our experts – let’s find the best solution together. Free consultation Stay updated on Odoo best practices, project insights, and Honestus news – follow us on LinkedIn! LinkedIn",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:59.225843"
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:19.802158"
     },
     {
       "region_code": "lt",
@@ -169,10 +453,32 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/uab-instante-1962077?country_id=128",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1962077/image_128/UAB%20Instante?unique=081799d",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:59.226258"
+      "about_text": "Aukščiausių tikslų siekianti komanda Esame oficialus Odoo partneris Lietuvoje. Kiekvienas mūsų komandos narys prisideda savo unikaliomis žiniomis ir įgūdžiais, todėl projektuose mes pasiekiame išskirtinių rezultatų ir sukuriame ilgalaikius ryšius su mūsų klientais. Mūsų tikslas – ne tik užtikrinti, kad kiekvienas mūsų projektas būtų sėkmingas, bet ir padėti klientams augti, išsigryninti savo pačių poreikius ir maksimaliai išnaudoti Odoo galimybes. Dirbame su įvairių sričių verslais – nuo gamybos ir prekybos iki paslaugų sektoriaus įmonių. Verslo problematikos išmanymas Turime gilias verslo problematikos žinias, todėl visose projekto fazėse tinkamai įvertiname kliento specifiką, poreikius ir galime pasiūlyti sprendimus, kurie jau išbandyti praktikoje. Odoo žinios Esame sertifikuoja komanda, kuri praktikoje ir didėlės apimties projektuose išbandė didžiąją sistemos funkcionalumo dalį. Žinome kaip maksimaliai išnaudoti sistemos funkcionalumą. Lankstumas Isiklausome į kliento poreikius ir galimybes. Kiekviename projekte siekiame efektyviausio galimo rezultato. Išgryninti procesai Turime išdirbtą projektų diegimo ir priežiūros po sistemos starto metodologiją. Sprendimai, kuriuos sukūrėme ir prižiūrime Naudingos integracijos - Odoo GPAIS integracija - Odoo Intrastat integracija - Odoo Edisoft integracija - Odoo E. sąskaita integracija - Odoo Rekvizitai.lt integracija - Odoo Power BI integracija Integracijos su apskaitos sistemomis - Odoo integracija su Rivilė API - Odoo integracija su Monet Kiti naudingi sprendimai - Odoo integracija su DPD - Odoo integracija su Venipak - Odoo integracija su LP Express Susisiekite A Team Striving for the Highest Goals We are an official Odoo partner in Lithuania. Every member of our team contributes with their unique knowledge and skills, allowing us to achieve outstanding results in our projects and build long-term relationships with our clients. Our goal is not only to ensure the success of every project we undertake but also to help our clients grow, clarify their own needs, and make the most of Odoo’s capabilities. We work with businesses across various sectors – from manufacturing and trade to service industry companies. Deep Understanding of Business Challenges We have in-depth knowledge of business issues, which enables us to assess the client’s specifics and needs accurately at every project phase, and to propose solutions that have already been tested in practice. Odoo Expertise We are a certified team that has tested most of the system's functionality in real-life and large-scale projects. We know how to fully leverage the system’s potential. Flexibility We listen to the client’s needs and capabilities. In every project, we aim for the most effective possible result. Refined Processes We have a well-developed methodology for system implementation and post-launch support. Solutions We Have Developed and Maintain Useful Integrations Odoo integration with GPAIS Odoo integration with Intrastat Odoo integration with Edisoft Odoo integration with E-Invoicing (E. sąskaita) Odoo integration with Rekvizitai.lt Odoo integration with Power BI Integrations with Accounting Systems Odoo integration with Rivilė API Odoo integration with Monet Other Useful Solutions Odoo integration with DPD Odoo integration with Venipak Odoo integration with LP Express Contact us",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:20.157746"
     },
     {
       "region_code": "lt",
@@ -191,9 +497,27 @@
       "profile_url": "https://www.odoo.com/partners/hardchain-mb-777463?country_id=128",
       "logo_url": "https://odoocdn.com/web/image/res.partner/777463/image_128/HardChain%2C%20MB?unique=827745a",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:59.226676"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:20.487868"
     }
   ]
 }

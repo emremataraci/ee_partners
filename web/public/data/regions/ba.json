@@ -2,7 +2,7 @@
   "region_code": "ba",
   "country_code": "BA",
   "country_name": "Bosnia and Herzegovina",
-  "scraped_at": "2026-04-09T05:58:04.219162",
+  "scraped_at": "2026-04-09T07:46:50.845257",
   "total_partners": 2,
   "source_url": "https://www.odoo.com/partners/country/bosnia-and-herzegovina-17",
   "partners": [
@@ -22,10 +22,28 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/wolfinne-doo-17908197?country_id=17",
       "logo_url": "https://odoocdn.com/web/image/res.partner/17908197/image_128/Wolfinne%20d.o.o.?unique=e4f1bf0",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:04.218648"
+      "about_text": "Wolfinne d.o.o. je vaš pouzdan partner za implementaciju Odoo rješenja sa decenijskim iskustvom. Sa ekspertizom u razvoju, prilagođavanju i integraciji poslovnih procesa, pomažemo vam da povećate produktivnost, optimizujete troškove i ostvarite bolju povezanost između timova i sistema. Naša misija je jasna. Omogućavamo organizacijama svih veličina da iskoriste snagu Odoo platforme na način koji je strateški usklađen sa njihovim rastom i specifičnim potrebama. Od CRM i prodaje, preko skladišta i proizvodnje, do finansija i izvještavanja, pružamo potpunu podršku. Saradnja sa nama znači profesionalan pristup, jasno definisane ciljeve, transparentan proces i potpunu posvećenost rezultatu. Ako težite digitalnoj transformaciji i tražite partnera koji će biti više od dobavljača, Wolfinne d.o.o. je izbor koji donosi stvarne rezultate. Kontaktirajte nas danas i saznajte kako vaše poslovanje može postati efikasnije, agilnije i spremno za budućnost. English: Wolfinne d.o.o. is your trusted partner for implementing Odoo solutions with decade long experinence in Odoo development. With expertise in development, customization and process integration, we help you increase productivity, reduce costs and improve connectivity across teams and systems. Our mission is clear. We enable organizations of all sizes to leverage the power of the Odoo platform in a way that aligns with their growth and specific needs. From CRM and sales to inventory, manufacturing, finance and reporting, we provide complete support. Working with us means a professional approach, clearly defined goals, a transparent process and full dedication to achieving results. If you strive for digital transformation and want a partner who is more than just a supplier, Wolfinne d.o.o. is the choice that brings real results. Contact us today to discover how your business can become more efficient, agile and ready for the future.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:46:50.270833"
     },
     {
       "region_code": "ba",
@@ -43,10 +61,20 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/inovado-doo-20226988?country_id=17",
       "logo_url": "https://odoocdn.com/web/image/res.partner/20226988/image_128/Inovado%20D.O.O.?unique=608579e",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:04.219028"
+      "about_text": "🚀 Dobrodošli u Inovado ✅ Vaš pouzdani Odoo partner iz Bosne i Hercegovine Mi pomažemo malim i srednjim preduzećima da digitalizuju svoje poslovanje pomoću prilagođenih Odoo ERP rješenja – brzo, efikasno i lokalno razumljivo. 🌟 Šta nudimo 🔍 Analiza i savjetovanje Razumijemo vaše poslovanje i predlažemo najbolja ERP rješenja. 🛠️ Implementacija i razvoj Prilagođavamo Odoo vašim specifičnim procesima i potrebama. 📚 Edukacija i podrška Obučavamo vaš tim i pružamo tehničku i funkcionalnu podršku. 🔄 Održavanje i rast Dugoročna saradnja za stabilan i skalabilan razvoj vašeg sistema. 🤝 Zašto baš Inovado? ✔️ Lokalna prisutnost i razumijevanje tržišta ✔️ Iskustvo iz međunarodnih projekata ✔️ Brza komunikacija i posvećen tim ✔️ Partner kojem možete vjerovati 📞 Spremni za digitalnu transformaciju? ➡️ Zakažite besplatne konsultacije već danas! 📧 odoo@inovado.ba 🌐 www.inovado.ba 📍 Gračanica, Bosna i Hercegovina",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:46:50.557531"
     }
   ]
 }

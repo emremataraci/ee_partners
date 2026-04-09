@@ -2,7 +2,7 @@
   "region_code": "gr",
   "country_code": "GR",
   "country_name": "Greece",
-  "scraped_at": "2026-04-09T05:58:51.353505",
+  "scraped_at": "2026-04-09T07:51:36.374968",
   "total_partners": 7,
   "source_url": "https://www.odoo.com/partners/country/greece-86",
   "partners": [
@@ -22,10 +22,56 @@
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/connecting-dots-pc-1313591?country_id=86",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1313591/image_128/Connecting%20Dots%20P.C.?unique=793194c",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:51.351116"
+      "about_text": "Existences #connectingdots: Your Trusted Odoo Partner for Scalable & Localized Solutions At Existanze #connectingdots , we are committed to delivering tailored, high-quality Odoo solutions that empower businesses to streamline operations and drive growth. As an experienced Odoo Silver Partner , we provide end-to-end implementation, customization, and long-term support, ensuring that our clients maximize the platform's potential. Our dedication extends beyond standard Odoo implementations—we specialize in Greek accounting localization and AADE compliance , developing robust modules that seamlessly integrate with the Greek financial and tax ecosystem. By prioritizing system stability, scalability, and security , we ensure that businesses operate efficiently within the evolving regulatory landscape. With a client-first approach , we go beyond software deployment, offering strategic guidance, expert training, and continuous support. Whether you need custom integrations, process automation, or compliance-focused solutions , Existanze #connectingdots is your trusted partner in achieving operational excellence with Odoo. Contact your Odoo Expert Industries We Specialize In: ✔ Logistics & Warehousing ✔ E-commerce ✔ Shipping & Forwarding ✔ Energy & Utilities ✔ Yachting ✔ Engineering ✔ Hospitality ✔ Medical & Pharmaceutical Distribution ✔ Fashion & Apparel ✔ Automotive ✔ Construction & Real Estate ✔ Medical Device Companies ✔ Universities & Schools Odoo Consulting & Architecture We offer expert consultancy services on key Odoo modules that support effective business management, including: Administration and Accounting Billing Customer Relationship Management (CRM) Warehouse and Logistics Production Manufacturing Human Resources Our team is committed to providing comprehensive guidance in these areas to enhance your organizational efficiency. Specializing in the integration of various software and business applications Softwares SAP Salesforce Oracle SoftOne Entersoft Pylon EpsilonNet CMS (Content Management Systems) Shopify Magento PrestaShop Woo Commerce cs.cart Odoo Custom Modules With a team of specialized developers, Existanze #connectingdots empowers businesses with fully customized modules tailored to their unique needs. Leveraging the flexibility of the Odoo framework, we design solutions that streamline operations and enhance efficiency. Explore some of our EXN s : 💡 EXN Localization module 💡 EXN AADE Module (electronic issuance of invoices and transmission to myDATA in real time, delivery notes, etc) 💡 EXN EFT - POS Module 💡 EXN VoiP Module You can also find us on: LinkedIn Instagram",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 7
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 7
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 5
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:33.760753"
     },
     {
       "region_code": "gr",
@@ -43,10 +89,48 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/methodoos-ike-10171564?country_id=86",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10171564/image_128/Methodoos%20IKE?unique=e79d7f2",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:51.351533"
+      "about_text": "Methodoos is a software company that brings 25 years of experience on ERP software and specialises in providing solutions for almost all industries. Odoo Enterprise Apps are continuously growing through worldwide contributions and we are proud to be part of this family, benefiting from the power of teamwork. This enables us to provide our customers with solutions that best fit their needs, while using one single software. Through our partnership with Odoo, we have been able to develop solutions for a variety of industries such as: eCommerce Retail Production Medical & Health Care Trade Telecommunications Food Service Transport Finance Technology Science Hospitality Biotechnology Education Marketing Our know-how of the Greek market has enabled us to ensure that Odoo is 100% compliant with all local regulatory requirements (connections with fiscal boxes, local tax authorities automated integration (AADE mydata), cash registers, special tax calculations and reporting. Our Services include: Software Solution Presale Implementation (incl. Training and Go Live support) 24/7 After Sales Support Applications & Custom Development Digital Marketing",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 8
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 8
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 6
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 6
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:34.108172"
     },
     {
       "region_code": "gr",
@@ -64,10 +148,24 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/dileanity-gp-13867690?country_id=86",
       "logo_url": "https://odoocdn.com/web/image/res.partner/13867690/image_128/DILEANITY%20G.P.?unique=3482ba0",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:51.351908"
+      "about_text": "Dileanity is an innovative company dedicated to transforming manufacturing through the fusion of digital technologies and lean manufacturing principles . Founded by industry experts with a vision for operational excellence, Dileanity stands at the forefront of manufacturing optimization, empowering clients to streamline processes, reduce waste, and achieve sustainable growth. Our partnership with Odoo allows us to offer extensive solutions tailored to the unique needs of manufacturing clients. Dileanity specializes in Odoo applications for Manufacturing (MRP, MES, QMS, CMMS, PLM), Inventory and more, supporting clients across diverse sectors, including food and beverage, chemicals, plastics, metal and steel, electronics, and consumer goods. We provide end-to-end consulting, system integration and custom development to ensure that each solution is aligned with the specific goals of our clients. Our commitment to excellence doesn’t end with implementation. Dileanity provides ongoing support , functional training and coaching to ensure clients can fully leverage the capabilities of Odoo, fostering independence and a proactive approach to continuous improvement. In addition, our exploration of emerging technologies (such as IoT, AI, and machine learning) ensures that our clients remain at the forefront of manufacturing innovation, ready to adapt to market demands and new opportunities. With headquarters in Athens , Greece, and a global reach through remote capabilities, Dileanity is equipped to serve clients worldwide, bringing the expertise, agility, and strategic insight needed to achieve unparalleled operational success. By choosing Dileanity as your Odoo partner, you’re choosing a trusted advisor dedicated to your long-term growth and competitive advantage. ﻿ ﻿LinkedIn﻿ ﻿ ﻿ ﻿Website﻿ ﻿ ﻿ ﻿Appointment﻿ ﻿",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 6
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:34.552448"
     },
     {
       "region_code": "gr",
@@ -87,8 +185,25 @@
       "logo_url": "https://odoocdn.com/web/image/res.partner/14693442/image_128/Muda%20IKE?unique=c39c3a9",
       "about_text": null,
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:51.352285"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:35.046886"
     },
     {
       "region_code": "gr",
@@ -106,10 +221,19 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/neurons-tech-lp-21268000?country_id=86",
       "logo_url": "https://odoocdn.com/web/image/res.partner/21268000/image_128/Neurons%20Tech%20L.P.?unique=d4137da",
-      "about_text": null,
+      "about_text": "Neurons Tech — Designing Digital Systems that Make Sense At Neurons Tech, we believe that technology should do more than work.It should fit, connect, and endure. We design digital systems grounded in how organizations truly operate — not just in how software behaves. Our work starts with real business needs, workflows, and dependencies, and leads to clean architecture, reliable data flows, and intuitive operations. Technology should serve people, processes, and decisions — not the other way around. We approach every project as a system, where people, data, and processes must function as a coherent whole. Our delivery follows the Product-Oriented Delivery (POD) model, with small, cross-functional teams owning features from concept to deployment. This ensures clarity of ownership, speed, accountability, and continuous iteration in complex digital environments. At Neurons Tech, we don’t just deliver software. We define how organizations work and translate that understanding into scalable, future-ready digital systems. Our leadership brings this approach to life, combining systems architecture with business operations to align strategy, structure, and execution. Our implementations include myDATA & AADE compliance through licensed electronic invoicing providers (B2C, B2B, B2G) POS integrations with providers such as epay, Viva and others Loyalty strategy systems , including customer-facing minisites Custom warehouse and inventory modules , aligned with Greek legislation Electronic Shelf Label (ESL) solutions through our proprietary Tagora platform Beyond standard implementations, we deliver fully custom Odoo modules and integrations , tailored to each organization’s operational reality. Designed to Evolve We closely follow the Greek market and regulatory landscape. Our systems are designed to adapt, evolve, and grow as needs and legislation change. As an Official Odoo Partner , we build solutions that go beyond implementation — systems that are understood, reliable, and built to last.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:51.352647"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:35.347795"
     },
     {
       "region_code": "gr",
@@ -127,10 +251,19 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/athentis-business-services-ike-14533869?country_id=86",
       "logo_url": "https://odoocdn.com/web/image/res.partner/14533869/image_128/ATHENTIS%20BUSINESS%20SERVICES%20IKE?unique=4ffd418",
-      "about_text": null,
+      "about_text": "Athentis brings over 34 years of experience in complex IT projects and enterprise systems. As an Odoo partner, we focus on: Understanding how your business actually operates Mapping processes before implementing software Delivering structured, reliable Odoo implementations Supporting Greek companies long-term, not just at go-live The goal is not a software. The goal is control, clarity, and scalability. Our approach starts with a deep understanding of your business processes. We design a solution aligned with your operations, configure and implement Odoo in structured phases, and support your team through testing, go-live, and beyond. Clear Process. No surprises. Ready to discuss your business needs? Contact your Odoo Expert You can also find us on: WEBSITE ​ LINKEDIN ​ FACEBOOK",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:51.353010"
+      "industries_breakdown": [
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:35.780377"
     },
     {
       "region_code": "gr",
@@ -151,7 +284,7 @@
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:51.353330"
+      "scraped_at": "2026-04-09T07:51:36.040049"
     }
   ]
 }

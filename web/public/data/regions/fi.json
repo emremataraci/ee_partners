@@ -2,7 +2,7 @@
   "region_code": "fi",
   "country_code": "FI",
   "country_name": "Finland",
-  "scraped_at": "2026-04-09T05:58:36.857957",
+  "scraped_at": "2026-04-09T07:50:08.985764",
   "total_partners": 8,
   "source_url": "https://www.odoo.com/partners/country/finland-69",
   "partners": [
@@ -22,10 +22,64 @@
       "certified_experts_count": "8",
       "profile_url": "https://www.odoo.com/partners/sprintit-4337478?country_id=69",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4337478/image_128/SprintIT?unique=2009c66",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:36.854454"
+      "about_text": "SprintIT - ERP Made Easy With over 1000 projects and 450 clients, SprintIT is the leading and most established Odoo expert in the Nordics. We are the largest Odoo house in the region, born from a passion for open-source ERP in 2014. Representing nearly 10 nationalities, our 50+ Sprinters operate from offices in Finland and India. We've been ranked among the TOP 3 best Odoo partners in Europe twice and are the longest-standing Odoo Gold Partner in Finland. Looking for a partner in Finland? See our websites in Finnish and English and contact us! High quality services Our experts are ERP professionals with deep business understanding paired with technological expertise. We tailor Odoo to fit your needs, with strong experience in manufacturing, retail, wholesale, service and project businesses and expert organizations — and we're always excited to conquer new challenges. Read more SprintIT Odoo Accounting package Doing business in Finland with Odoo? You’ll need our localized SprintIT Odoo Accounting package — and possibly our payroll solution: Odoo Payroll ! Sure, integrations work to accounting softwares, but having everything in one system is pure gold! Our Odoo accounting features are continuously developed to meet changing legislation and customer needs. Read more Ask our clients Our journey of constant learning and growth wouldn’t be possible without our 450 clients . And with over 1 000 successful Odoo projects delivered, their stories speak for themselves! See our customer list below and click the link to read more about their stories with Odoo and us. References",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        },
+        {
+          "version": "Certified v18",
+          "count": 3
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 42
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 37
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 9
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 6
+        },
+        {
+          "industry": "Other Services",
+          "count": 5
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 4
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 4
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-09T07:50:06.069240"
     },
     {
       "region_code": "fi",
@@ -43,10 +97,56 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/avoinsystems-676305?country_id=69",
       "logo_url": "https://odoocdn.com/web/image/res.partner/676305/image_128/Avoin.Systems?unique=39496a8",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:36.854929"
+      "about_text": "Avoin.Systems – Paras Odoo Partner niin kasvuyrityksille kuin toimialajohtajille Etsitkö tehokasta Odoo-käyttöönottoa, kasvua tukevia prosesseja ja nopeaa tuottoa investoinnillesi? Tai kaipaatko luotettavaa kumppania, joka tarjoaa vaativiin tarpeisiisi korkealaatuista teknistä suunnittelua, kustomoituja käyttöliittymiä ja skaalautuvan ERP-infrastruktuurin? Valintasi on Avoin.Systems! Olemme Suomen ensimmäinen ja kokenein Odoo-kumppani ja virallinen Odoo Gold Partner. Tarjoamme kokonaisvaltaiset ERP-ratkaisut suomalaisella ammattitaidolla ja yli vuosikymmenen Odoo-kokemuksella. Markkinoiden nopein Odoo-käyttöönotto ja todennetut kustannussäästöt takaavat skaalautuvan pohjan ja nopean investoinnin tuoton kasvaville yrityksille. Johtavien yritysten vaativiin tarpeisiin vastaamme yhdistämällä huippuluokan suorituskyvyn ja käytettävyyden, edistyksellisen järjestelmäarkkitehtuurin ja yrityskohtaisesti räätälöidyt käyttöliittymät. Ainoana Odoo-kumppanina Pohjoismaissa tarjoamme saumattoman käyttöönoton joko Odoo taloushallintoon tai ulkoiseen järjestelmään, joka täyttää kirjanpidon vaatimukset Suomessa. Yhteistyössä nopeasti kasvavan Balanco-tilitoimistoketjun kanssa autamme yrityksiä virtaviivaistamaan taloushallinnon toiminnot yli 200 asiantuntijan tuella. Ratkaisumme auttavat yrityksiä säästämään aikaa, tehostamaan kustannuksia ja vauhdittamaan liiketoiminnan kasvua. Yli 200 projektin ja 120 asiakkaan kokemuksella keskitymme tekemään yrityksistä älykkäämpiä ja tehokkaampia. Miksi valita Avoin.Systems? Todistettua tehokkuutta ja kustannussäästöjä – asiakkaamme Sähkölehto puolitti ERP-kulunsa ja säästi työmäärässä 1,5 vuoden edestä. Tehokkaat ja lokalisoidut talousprosessit koko pohjoismaissa - Odoossa tai integroiduissa talousjärjestelmissä. Markkinoiden nopein vakio-Odoon toimitus Avoin.App illa. Korkealaatuiset integraatiot (Netvisor, Procountor, Fennoa, nShift, Tieke, Bisnode, Maventa, WooCommerce, Wordpress, Leadfeeder, Enreach, Moontalk, Vainu etc.). Huipputason infrastruktuuri ja tekninen suunnittelu vaativiin Odoo-toteutuksiin – Suomen johtavat yritykset, kuten Suomalainen Kirjakauppa , luottavat meihin. Tarjoamme turvallisen, skaalautuvan, GDPR:n mukaisen ja EU:ssa vesivoimalla tuotetun palvelinympäristön automaattisella varmuuskopioinnilla. Asiantuntijapalvelut – tehokas Avoin.Go-prosessi Odoo-käyttöönottoon ja -päivityksiin sekä kattava asiakaspalvelu kiinteällä kuukausihinnalla. Odoo-integroidut verkkosivut , verkkokaupparatkaisut ja brändillesi räätälöidyt käyttöliittymät. Suomen ensimmäinen ja kokenein Odoo-kumppani ja virallinen Odoo Gold Partner, jolle on myönnetty Avainlippu merkkinä suomalaisesta työstä. Kestävään kasvuun pohjautuva toiminta – arvomme avoimuus, ihmisläheisyys ja laatu ohjaavat toimintaamme ja päätöksentekoamme. Katso myös referenssimme ja maksuttomat ladattavat oppaamme . 🇬🇧 Prefer English? Check out our references and read more about our services from our website . Suunnitteletko Odoon käyttöönottoa? Lähetä meille viestiä tai soita +358 457 820 4374 !",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 6
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 21
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 10
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 9
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 3
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Households",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Government",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:50:06.643293"
     },
     {
       "region_code": "fi",
@@ -64,10 +164,36 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/collapick-oy-4353722?country_id=69",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4353722/image_128/Collapick%20Oy?unique=6c0ba0a",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:36.855392"
+      "about_text": "Collapick – Tempoa tekijöille Nosta tehokkuutesi uudelle tasolle toimialakohtaisesti optimoitujen ratkaisujemme avulla! Olemme valmistavaan teollisuuteen, tukkukauppaan sekä huoltoon keskittynyt ohjelmistopalveluyritys, joka kehittää tuotteitaan sekä Odoota näitä toimialoja varten yhdessä asiakkaidensa kanssa. Kehitystyötämme ovat esimerkiksi helppokäyttöliittymät tuotannon (MES), varaston sekä huollon tarpeisiin, sekä erilaiset lisäosat kuten Collapick työajanseuranta ja tuntipankki, Collapick tuotannon Gantt tai Collapick Raportointi. Tarjoamme yrityksille järjestelmäkehitystä, asiakaskohtaisia muokkauksia, lisäosia sekä integraatioita. Kaikki kehitystyö tehdään oman tiimimme voimin Suomessa. Asiakkaamme voivat luottaa siihen, että he saavat Odoon vakioratkaisujen lisäksi yritystoimintaansa optimoituja toimintoja, nopeaa tukea ongelmatilanteissa ja asiantuntevaa asiakaspalvelua. Varaa maksuton kartoitus ja Odoo demo verkkosivuiltamme: https://collapick.com/demo/ --------------------- Raise your efficiency to a new level with our industry-optimized solutions! We are a software service company focused on the manufacturing industry, wholesale and maintenance, which develops its products and Odoo for these industries together with its customers. Our development work is, for example, easy-to-use interfaces for the needs of production (MES), warehouse and maintenance, as well as various add-ons such as Collapick working time monitoring and hour bank, Collapick production Gantt or Collapick Reporting. We offer companies system development, customer-specific changes, add-ons and integrations. All development work is done by our own team in Finland. Our customers can be confident that, in addition to Odoo's standard solutions, they will receive functions optimized for their business, fast support in problem situations and expert customer service. Book a free meeting and Odoo demo: markku.pyorala@collapick.com Viinikankatu 47 33800 Tampere Kauppakatu 20 80100 Joensuu Tel : 040 989 1350 Email : info@collapick.com",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 8
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 6
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:50:07.038653"
     },
     {
       "region_code": "fi",
@@ -85,10 +211,56 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/revise-oy-1457039?country_id=69",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1457039/image_128/Revise%20Oy?unique=c32a2ba",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:36.855893"
+      "about_text": "Asiakkaamme liiketoiminnan ja sen kehitysvaiheen ymmärtäminen on ydinosaamistamme. Teemme tarvekartoituksen ja sen pohjalta toimitamme yhdessä priorisoidun helposti laajennettavan integroidun ERP-ratkaisun. Ajantasaisen informaation avulla asiakkaamme liiketoimintaprosessit tehostuvat ja kilpailukyky paranee. Ammattitaitoinen ja joustava toimintatapamme on pitkäaikaisten kumppanuuksien perusta. Työkaluina käytämme ODOO sovelluksia ja tähän integroitua Revise EPM työkalua. ----------------------------------------------------- Understanding our customer's business and its development stage is a part of our core competence. We will conduct a needs assessment, and deliver a jointly prioritized, easily extendable ERP solution. With a help of up-to-date information more efficient business processes and improved competitiveness will be achieved. Our professional and flexible approach forms the basis for long-standing cooperation. The tools we use are ODOO-applications integrated to the Revise EPM tool.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 9
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 6
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:50:07.352758"
     },
     {
       "region_code": "fi",
@@ -106,10 +278,47 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/erpware-oy-256095?country_id=69",
       "logo_url": "https://odoocdn.com/web/image/res.partner/256095/image_128/ERPWare%20Oy?unique=4bf0e2c",
-      "about_text": null,
+      "about_text": "Toimitamme liiketoiminnan ketteryyttä ja digitaalista muutosta edistäviä ratkaisuja, jotka perustuvat Odoon innovatiiviseen alustaan. Henkilökunnallamme on keskimäärin yli 15 vuoden ERP-kokemus, ja yli 40 onnistuneesti toteutetun projektin myötä tiedämme, miten asiakkaamme voivat hyötyä Odoosta. Emme halua olla suurin Odoo-kumppani vaan paras, kun kyse on ERP-investoinnista saatavien hyötyjen maksimoimisesta. Työskentelemme kaikenkokoisten organisaatioiden kanssa vastataksemme liiketoiminnan haasteisiin organisaation kasvusta ja toiminnan muutoksesta kustannusten hallintaan ja markkinoiden erilaistumiseen. Tiedämme, että tietotekniikkapalvelujen älykäs käyttö on usein avain yrityksesi pitkän aikavälin kehitykseen, kasvuun ja menestykseen. Tavoitteenamme on auttaa teitä lisäämään toiminnan tehokkuutta ja työntekijöiden tuottavuutta, nopeuttamaan reaaliaikaiseen tietoon perustuvien päätösten tekemistä ja viime kädessä parantamaan kannattavuutta. Teemme tämän antamalla käyttöönne palkittujen innovatiivisten IT-tuotteiden ja -palvelujen valikoiman, joka voidaan räätälöidä ja mukauttaa liiketoimintaprosesseihinne. Odoo-palveluvalikoimaamme kuuluvat konsultointi, räätälöinti, ohjelmistokehitys, toteutus, järjestelmäpäivitykset ja -integraatiot, jatkuva tuki ja koulutus. Luonnollisesti meiltä saa myös Odoolla tuotettuja tilitoimistopalveluita. Jos olette etsimässä uutta kumppania, haluaisimme mielellämme esitellä, miten työskentelemme asiakkaidemme kanssa ja miten voimme auttaa muuttamaan toimintojanne tehokkaiden ERP-, CRM- ja liiketoimintaohjelmistototeutusten avulla. Pyrimme olemaan luotettava liikekumppani ja olemme sitoutuneet kohtelemaan jokaista asiakastamme samalla asiakaspalvelun ja kunnioituksen tasolla, yrityksen koosta riippumatta. Haluamme olla asiakkaillemme paljon muutakin kuin pelkkä ratkaisujen toimittaja. ERPWare toimittaa erilaisia AddOn ratkaisuja kuten: Taloushallintopaketti sisältää lokalisointeja joiden avulla Odoo täyttää paikalliset vaatimukset. Sisältää mm tilikartta, lakisääteiset raportit (tuloslaskelma, tase, veroraportit)​, Sähköinen laskutus ( Finvoice), Pankkiyhteydet (Maksatus, tiliotteet viitesuorituksineen)​, Vakiolomakkeet (FI, ENG, SWE), Ostolaskujen vastaanotto verkkolaskuina + Ostolaskujen kierrätys​, Sähköiset kausiveroilmoitukset, Kuittien skannaus ja käsittely, Maksumuistutukset ja korkolaskut​, Sisäinen laskenta (analyyttiset tilit, kustannuspaikat)​ Toistuvaislaskutus (Sopimus, Subscription)​ Tekoälypohjainen työkalu, jolla huomioidaan mm hankintojen tarve ja myyntiennustusten kautta optimoidaan varaston kiertonopeus ja minimoidaan hävikit. Varaston sisäiseen logistiikan optimointiin soveltuvia käsipääteratkaisuja. Tuotekonfigurointiratkaisu, jolla myynti voi tarkentaa tuotteen ominaisuudet ennalta määriteltyjen sääntöjen mukaisesti siten että tilauksesta syntyy tilauskohtainen tuoterakenne suoraan tuotantotilaukselle. Erikoistavarakaupalle ja ravintoloille toimitamme Suomen oloihin yhteensopivat Odoo pohjaiset kassaratkaisut. Odoo: Ravintolan kassa video Duuna Works on palvelupaketti, joka sisältää integroidut järjestelmät Odoo Enterprise (ERP) ja Workinfo.app. Workinfo.app on kustannustehokas ja helppokäyttöinen mobiilin työnhallinnan ohjelmisto. Workinfolla voit hallita työntekijöitä, työvuorokalentereita, resursseja ja tehtäviä. Duuna.io video Vuosien varrella olemme myös tehneet laajan kirjon erilaisia liittymiä ja integraatioita muun muassa verkkokauppoihin, sanomavälitysoperaattoreihin (EDI, verkkolaskut, tekstiviestipalvelut, WhatsApp), BI järjestelmiin, tuntikirjausjärjestelmiin, palkanlaskentaan. Integraatio-osaaminen on toimintamme ytimessä. ERPWaren palvelutarjonta Sitoutumisemme yritystäsi kohtaan ei lopu siihen, kun uusi järjestelmäsi on otettu käyttöön. Tarjoamme olemassa oleville asiakkaillemme monenlaisia palveluja ja haluamme auttaa asiakkaitamme ottaa kaikki irti ERP investoinnistaan. Meillä on erinomaiset sisäiset Odoo-kehitysvalmiudet ja ERPWaren palveluksessa on suomalaisia ohjelmoijia, jotka tuntevat paikalliset vaatimukset ja käytännöt. Tuotamme asiakkaillemme laadukkaita palveluita Odoo-alustalle rakennetun räätälöidyn HelpDesk portaalin kautta. Vastaamme myös Odoo:lle optimoitujen pilvipalveluiden tuottamisesta. Kansainväliset Odoo käyttöönotot Osallistumme mielellään kansainvälisiin hankkeisiin vastuukumppanin roolissa. Voimme myös asiantuntemuksemme kautta tukea kansainväliset Odoo käyttöönotot Suomessa paikallisen tukikumppanin roolissa. ________________________________________________________________________________________________________________ Why choose ERPWare as your Odoo partner? We deliver solutions for business agility and digital transformation based on Odo's innovative platform. Our staff has an average of more than 15 years of ERP experience, and with more than 40 successfully implemented projects, we know how our customers can benefit from Odoo. We don't want to be the biggest Odoo partner, but the best when it comes to maximising the benefits of your ERP investment. We work with organisations of all sizes to meet business challenges, from organisational growth and operational change to cost management and market differentiation. We know that the intelligent use of IT services is often the key to the long-term development, growth and success of your business. Our goal is to help you increase operational efficiency and employee productivity, speed up real-time informed decision-making and ultimately improve profitability. We do this by giving you access to an award-winning portfolio of innovative IT products and services that can be tailored and adapted to your business process. Our Odoo service portfolio includes consulting, customisation, software development, implementation, system updates and integrations, ongoing support and training. Naturally, we also offer Odoo-produced accounting services. Over the years, we have also made a wide range of different connections and integrations with e-commerce, messaging operators (EDI, e-invoicing, SMS, WhatsApp), BI systems, time and attendance systems, payroll, etc. Integration expertise is at the core of our business. If you're looking for a new partner, we'd love to show you how we work with customers and how we can help transform your operations with powerful ERP, CRM and business software solutions. We strive to be a trusted business partner and are committed to treating every customer with the same level of customer service and respect, regardless of the size of the company. We want to be much more than just a solutions provider for our customers. International Roll Outs We are happy to participate in international projects as a responsible partner. We can also use our expertise to support international Odoo deployments in Finland as a local support partner. (Sten Tjäru: +358-40-8484008)",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:36.856384"
+      "industries_breakdown": [
+        {
+          "industry": "Science & Technology",
+          "count": 7
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 6
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Households",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:50:07.684394"
     },
     {
       "region_code": "fi",
@@ -127,10 +336,40 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/crafthouse-oy-6218321?country_id=69",
       "logo_url": "https://odoocdn.com/web/image/res.partner/6218321/image_128/Crafthouse%20Oy?unique=571cbee",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:36.856840"
+      "about_text": "Crafthouse toimittaa Odoo-järjestelmään pohjautuvia ratkaisuja kaikille toimialoille kuten vähittäiskauppaan, tukkukauppaan, valmistavaan teollisuuteen ja palvelualalle. Henkilöstöllämme on yli 6 vuoden kokemus Odoo-järjestelmästä ja siihen liittyvistä konsultointi- ja kehitystehtävistä. Toteutamme vaativiakin sovituksia, räätälöintejä ja integraatioita Odoo-järjestelmän päälle. Konsulttimme ovat sertifioituja Odoo-asiantuntijoita valmiina palvelemaan Teitä ja täyttämään yrityksenne tarpeet. Crafthouse provides Odoo-based solutions to all industries like retail, wholesale, manufacturing and service sector in Finland. Our people have 6+ year experience of working with Odoo. We provide any kind of customizations and integrations tailored exactly for customer's requirements. Our consultants are certified Odoo experts, ready to serve and fulfill your needs. Contact information: Crafthouse Oy Atomitie 5 C 00370 Helsinki Tel: +358 10 8370120 Email: info@crafthouse.fi Sales email: myynti@crafthouse.fi",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 7
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:50:08.019700"
     },
     {
       "region_code": "fi",
@@ -148,10 +387,28 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/ahkio-consulting-oy-4245141?country_id=69",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4245141/image_128/Ahkio%20Consulting%20Oy?unique=8dcf3fd",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:36.857306"
+      "about_text": "Ahkio Consulting Oy on Odoo-kumppani, joka auttaa yrityksiä kehittämään ja automatisoimaan liiketoimintaprosesseja Odoo-ratkaisujen sekä erilaisten integraatioiden avulla. Tavoitteenamme on olla luotettava kumppani, joka auttaa teitä keskittymään olennaiseen, oman liiketoimintanne menestykseen. Ahkio on avoimen lähdekoodin toiminnanohjausjärjestelmien, kuten Odoon, ympärille palveluita ja ratkaisuja tarjoava yritys. Palveluihimme kuuluvat muun muassa toiminnanohjausjärjestelmien käyttöönotot ja päivitykset, ohjelmistojen räätälöinnit sekä laajat konsultointipalvelut. Toiminnanohjausjärjestelmien lisäksi toimitamme integroituja verkkokaupparatkaisuja, taloushallinnon palveluita sekä rajapintoja moniin muihin järjestelmiin. Ahkion vahvuutena on aidosti asiakaslähtöinen toimintakulttuuri sekä kattava liiketoiminnan tarpeiden ymmärrys. Ymmärrämme asiakkaidemme liiketoiminnan vaatimukset ja tuemme heitä kasvamaan ja menestymään. ​ Tutustu Ahkion palveluihin Ahkion Odoo palvelut Tarjoamme kattavat Odoo-palvelut yrityksille eri toimialoilla. Autamme asiakkaitamme Odoo-järjestelmän koko elinkaaren ajan käyttöönotosta arjen ylläpitoon. ​ Lue lisää Ahkion Odoo-palveluista Odoo versiopäivitys Järjestelmän säännöllinen päivittäminen on tärkeää, sillä se ei ainoastaan tuo käyttöön uusia ominaisuuksia, vaan parantaa myös tietoturvaa ja järjestelmän toimivuutta. Mikäli versionpäivitys mietityttää, lue lisää syistä miksi ja milloin päivittäminen on ajankohtaista blogistemme tai tutustu versionpäivityksen kulkuun nettisivuillamme. ​​ Tutustu versionpäivitysprosessiin ​​ Milloin päivittäminen on ajankohtaista?",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 7
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:50:08.355111"
     },
     {
       "region_code": "fi",
@@ -169,10 +426,10 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/via-laurea-jsc-16872769?country_id=69",
       "logo_url": "https://odoocdn.com/web/image/res.partner/16872769/image_128/Via%20laurea%2C%20JSC?unique=33006b8",
-      "about_text": null,
+      "about_text": "Via laurea, JSC hold more than 10 years of experience in the industry, having established as the leading Odoo partner in Lithuania . With our extensive knowledge and expertise, we are well-suited to supporting organisations of all sizes and industries with their unique needs. Being an official member of Suomi-Liettua kauppayhdistys (Finland-Lithuania business association), we make regular visits to Finland. We have an ambitious team of certified Odoo specialists and in-house programmers, who are ready to take on even the most complex projects. Our services include: Odoo Implementation ( view our pricing plans ); Development of custom solutions; Odoo ERP training; Software maintenance; Trust and transparency are our key values, which is why we build our client relationships on full honesty. Our primary mission — to help Your company grow with the best business management solutions! Book a consultation 10+ 40+ 800+ 150+ ​ Years' experience Successful projects Active users Solutions created",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:36.857707"
+      "scraped_at": "2026-04-09T07:50:08.629184"
     }
   ]
 }

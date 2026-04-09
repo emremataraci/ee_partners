@@ -2,7 +2,7 @@
   "region_code": "gb",
   "country_code": "GB",
   "country_name": "United Kingdom",
-  "scraped_at": "2026-04-09T05:58:50.425867",
+  "scraped_at": "2026-04-09T07:51:32.942692",
   "total_partners": 32,
   "source_url": "https://www.odoo.com/partners/country/united-kingdom-222",
   "partners": [
@@ -22,10 +22,64 @@
       "certified_experts_count": "36",
       "profile_url": "https://www.odoo.com/partners/smart-information-technologies-ltd-442178?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/442178/image_128/Smart%20Information%20Technologies%20Ltd?unique=a487d81",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.203259"
+      "about_text": "Smart IT - UK's largest gold partner Delivering business agility and digital transformation solutions built on Odoo's innovative platform to more than 150 projects. We transform businesses worldwide with Odoo, delivered by our UK-based in-house consultants and developers. As one of Odoo’s fastest-growing partners in Canada and a trusted partner in Ireland, Smart IT helps organisations operate efficiently and gain a lasting competitive advantage. Find out more We work with organisations of all sizes to address business challenges from organisational growth and operational transformation to cost management and market differentiation. SECTORS Finance Energy Manufacturing Retail Wholesale & Distribution Healthcare Food & Beverage Read more case studies here We do this by giving you access to an award-winning portfolio of innovative, IT products and services, which can be customized and mapped to your business process. By adopting a management consultancy approach to meeting our clients' objectives . Starting with your pain points and then gaining a thorough understanding of your existing processes and legacy systems. Smart IT can then map out an integrated business system solution. Due to our flexible approach, depending on the complexity of your project we can use anything from a couple of Odoo modules and even scale upwards of ten or twelve easily. ODOO MODULES Accounting CRM Helpdesk Email Marketing HR Sale Dashboard Documents Project Management Purchase Time sheet Website Social Media Marketing Planning Knowledge Production See more here Our Odoo service portfolio includes consultancy, customization, software development, implementation, system upgrades and integrations, ongoing support and training. As well as our managed services division, which provides 24/7 IT system and critical application support. Start your digital transformation journey with Smart IT and Odoo, by getting in touch Latest Case Studies ZELUS SPORTS – Nike Team Distributor The implementation of Odoo has had a dramatic impact on Zelus's speed and efficiency. Automation of warehouse logistics has sped up processes by more than 80%, with 100% accuracy. Read more here FORSBERG Forsberg had initially relied entirely on Excel spreadsheets to manage its Enterprise Resource Planning (ERP) processes. By 2012, this approach was too manual and restrictive for an ambitious, growing business, and the company installed an early version of the software known now as Odoo. Read more here CAMBRIDGE SATCHEL COMPANY \"We knew when we looked into Odoo and some of the case studies that it was the right solution for us. The final system created by Smart IT is excellent and has completely overhauled how we do things resulting in measurable time and cost savings. It has also reduced our lead times and stock holding requirements which has further benefited the company and our customers.\" Read more here Check out our Dojo Integration App Store page!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 14
+        },
+        {
+          "version": "Certified v18",
+          "count": 12
+        },
+        {
+          "version": "Certified v17",
+          "count": 10
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 34
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 24
+        },
+        {
+          "industry": "Other Services",
+          "count": 12
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 8
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 6
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 5
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 4
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 3
+        },
+        {
+          "industry": "Mining & Quarrying",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:20.694124"
     },
     {
       "region_code": "gb",
@@ -43,10 +97,64 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/sapentia-3257606?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/3257606/image_128/Sapentia?unique=aaf2335",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.203730"
+      "about_text": "Sapentia Delivering Amazing Software Sapentia is a UK-based Odoo Partner with strong experience delivering tailored ERP solutions for SMEs in manufacturing, warehousing, retail, and distribution. The team blends business insight with technical skill to configure and customise Odoo across sales, inventory, accounting, production, and CRM, improving visibility, productivity, and control for every client. Beyond the technology, Sapentia is proudly a family-led business that values relationships as much as results. They believe good work begins with good people—approachable, down-to-earth professionals who understand that collaboration and trust matter just as much as code. While the team knows their way around servers and workflows, they’re equally committed to creating a friendly, human experience for clients, where projects feel personal and partnerships last.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 17
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 10
+        },
+        {
+          "industry": "Other Services",
+          "count": 8
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 6
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 4
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Households",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:21.527354"
     },
     {
       "region_code": "gb",
@@ -64,10 +172,64 @@
       "certified_experts_count": "8",
       "profile_url": "https://www.odoo.com/partners/target-integration-ltd-uk-4246220?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4246220/image_128/Target%20Integration%20Ltd.%20UK?unique=b3b50a3",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.204200"
+      "about_text": "Unlock Your Business Potential with Target Integration: The Leading Odoo Partner in the UK Transform your operations with Target Integration, the UK's premier Odoo implementation partner specializing in the manufacturing and distribution industries. With offices in Birmingham, Oxford and Belfast; and a client base from Edinburgh to Southampton and Belfast, Target Integration is your local partner with national reach. Book a Call with Their Consultants Now Why Choose Target Integration? Streamlined Operations: Target Integration helps businesses across various sectors simplify their processes, boost productivity, and achieve their goals. Experience smoother operations and enhanced efficiency with their expert solutions. Tailored Solutions: They understand your unique challenges and pain points, providing customized Odoo solutions that let you focus on running your business and reaching your targets. Optimized Performance: Target Integration's solutions are designed to unlock Odoo’s full potential, improving efficiency and streamlining your processes. Exceptional Support: Benefit from the guidance and support of a highly knowledgeable and experienced team, committed to your success before, during, and after implementation. Long-Term Partnerships: Their success is tied to yours. Target Integration is dedicated to building long-term relationships, ensuring ongoing support and continuous improvement. Comprehensive Odoo Services: Full Implementation: Seamless Odoo implementation, including customization and integration tailored to your specific needs. Data Migration: Preserve your historical data with smooth data migration from legacy systems to Odoo. Ongoing Support: Minimize business interruptions with continuous support and maintenance, keeping your systems running smoothly. Staff Training: Empower your team with training and education to maximize the benefits of Odoo. Proven Expertise and Quality Assurance: With over a decade of experience, Target Integration has helped businesses automate manual processes, integrate disparate systems, and enhance reporting and insights. Their quality management and information security standards are backed by ISO 9001 and ISO 27001 certifications, ensuring you receive top-notch service and security. Join the ranks of successful businesses in manufacturing, warehouse, logistics, and operations who trust Target Integration for their Odoo needs. Explore their case studies to see the impact of their work and hear from satisfied clients. Unlock the full potential of your business with Target Integration. Contact us today to get started! Book a Call with Their Consultants Now or Checkout Their Odoo Case Studies Watch the customer testimonial - Client Testimonial | Envirobuild on successfully transforming their business with Target Integration",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        },
+        {
+          "version": "Certified v18",
+          "count": 4
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 8
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 7
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 7
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 5
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:21.900155"
     },
     {
       "region_code": "gb",
@@ -85,10 +247,64 @@
       "certified_experts_count": "21",
       "profile_url": "https://www.odoo.com/partners/gravitai-uk-3852902?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/3852902/image_128/Gravitai%20UK?unique=bdf8b03",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.204649"
+      "about_text": "Odoo Support You Deserve Leading Tech. Building Structure. Gravitai is a leading Cloud solutions Partner, with a strong focus on implementing, supporting and pushing adoption across Odoo. Through methodology and extensive documentation for businesses, our integrated structure allows us to bring a personal touch through subject matter experts to achieve your desired requirements. Leading in the tech space to build structure in businesses. How do we support UK & Ireland customers? → No Vendor Lock-In → Tailored Solutions → Dedicated Expertise For Accounting, Services, Manufacturing → Odoo Implementation Recovery → Full UK-Located Support (On-Demand) → Focused on Business Transformation → Business GAP Analysis → Implementation, Support & Empowerment → Optimise Performance → Long-Term Partnerships → International Offices → Free Initial Discovery Call → Free Platform Demo BOOK YOUR FREE CONSULTATION Our Services An extensive range of Odoo professional services, built to ensure quality support. ODOO IMPLEMENTATION SERVICES ODOO CONSULTING SERVICES ODOO INTEGRATION SERVICES ODOO MIGRATION SERVICES ODOO TRAINING SERVICES BOOK A BESPOKE ODOO DEMO London Office (UK) 314 Regents Park Road N3 2LT London United Kingdom Tel: +44 1233 801330 Email: hello@gravitai.com Web: www.gravitai.com CONTACT OUR LONDON OFFICE Dublin Office (IE) Office 2 12a Lower Main Street, Dublin, Ireland, K78 X5P8 Tel: +353 (0)1 9637080 Email: hello@gravitai.com Web: www.gravitai.com CONTACT OUR DUBLIN OFFICE Australia Office (AU) Brisbane, Australia Email: hello@gravitai.com Web: www.gravitai.com CONTACT OUR BRISBANE OFFICE Take a look at the customers we are supporting to fuel their Odoo journey. 🤝",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 9
+        },
+        {
+          "version": "Certified v18",
+          "count": 11
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 19
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 7
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 4
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:22.272444"
     },
     {
       "region_code": "gb",
@@ -106,10 +322,64 @@
       "certified_experts_count": "5",
       "profile_url": "https://www.odoo.com/partners/akarigo-ltd-1882307?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1882307/image_128/Akarigo%20Ltd?unique=b841dcc",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.205091"
+      "about_text": "Akarigo is a global Odoo Partner specializing in business performance optimisation. We deliver end-to-end Odoo ERP consulting, helping businesses streamline operations, productivity, and digital transformation. With a focus on rapid ROI, we identify quick-impact improvements and deploy cost-effective, scalable solutions. Our data-driven approach, short implementation cycles, and strategic reviews ensure that businesses achieve sustainable growth and operational excellence through innovative technology. Book a Demo Our Services We Integrate: See How It Works Odoo Apps Upgrade Your Business Today .",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 3
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 6
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 4
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:22.765027"
     },
     {
       "region_code": "gb",
@@ -127,10 +397,60 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/amaroo-solutions-limited-1390726?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1390726/image_128/Amaroo%20Solutions%20Limited?unique=67d6528",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.205519"
+      "about_text": "Amaroo Solutions is different from your regular software provider/IT Company. We understand how businesses work and the challenges they face every day. Combined with an in-depth knowledge of ERP software we appreciate the importance and impact a well implemented solution can have on your business. Amaroo differentiates and prides itself by getting to know you and how your business operates, understanding your needs and offering a down to earth and understandable approach to working with you to find the best solution, not only for the current issues, but for your requirements for the future. Amaroo Solutions was founded, and is run, by Jeremy Ingram, who, after 10 years working within retail and hospitality software moved on to a global manufacturing company as Sales and IT Director and then General Manager. This experience has given him a vast knowledge of different industries and the challenges they face. When he discovered Odoo for himself, he was so Impressed by the solution and its flexibility for solving many different problems that he decided to share it and setup Amaroo Solutions. Our ethos is to ensure businesses have the tools and systems to deliver high quality information to the right people at the right time for their business to thrive and focus on the things it is best at. Call us on 01453 497 076 to discuss your requirements and arrange a demonstration.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 10
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 9
+        },
+        {
+          "industry": "Mining & Quarrying",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:23.151015"
     },
     {
       "region_code": "gb",
@@ -148,10 +468,64 @@
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/business-calibration-limited-7259353?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/7259353/image_128/Business%20Calibration%20Limited?unique=6440ac1",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.205988"
+      "about_text": "Calibrate ERP specialises in the delivery of Odoo Enterprise Mainly Scotland and Northern England. We have a great relationship with several other Odoo UK and overseas Partners and work closely with the Odoo team in Belgium on larger projects. We implement Odoo for small to medium size companies and third-sector organisations looking to automate processes beyond book-keeping, or looking to replace expensive legacy IT systems with a functionally rich, cost-effective, single-source ERP platform. The team has implemented Odoo Solutions for over 8 years covering all of the following processes – and more…. Accounting, including multi-company, multi-currency, and group consolidation Project and Job Management , giving real-time visibility on costs and progress Retail with electronic Point-of-Sale, payment terminals, and tablets Field Service with remote worker communications, work sign-off, photographing damage and repair on jobs and easy access to job sheets in the field and HQ Maintenance to ensure smooth and continuous operations Fleet Management managing your company vehicle administration Help Desk for structured customer and internal support CRM – lead through to quotation Purchasing with Invoice Scanning and Transaction Matching Sales from quotation through to invoice with full dashboard insight and reporting Document Management for structured information storage and retrieval Inventory Management with Barcoding, QR Codes, Traceability Warehouse Logistics for controlling the movement of products and components, barcoding, multiple and virtual warehousing Manufacturing from master production scheduling to job time-recording Website with e-commerce – one solution for all your internet customers B2B & B2C Integration with third-party logistics, e-commerce, and bespoke systems Human Resources for attendance, compliance, employee care, and recruitment Marketing from social media and email marketing to full campaign management Calibrate is an established, profitable and growing Odoo Enterprise Partner – and the team brings together a wealth of experience in Odoo implementations across many business functions and in several sectors.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 7
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 5
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:23.474815"
     },
     {
       "region_code": "gb",
@@ -169,10 +543,52 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/inflow-systems-12590912?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/12590912/image_128/InFlow%20Systems?unique=81e817b",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.206560"
+      "about_text": "At Inflow Systems, we’ve been working with Odoo since version 7 in 2012, helping businesses simplify their ERP implementation with a clear, results-driven approach. Striving to provide value and the solution you need through our team of experienced consultants and developers who understand that technology is only appreciated when it solves real business problems. Our consultative approach aims to scope out every area of your business, propose the right solution and simplify the process of getting you fully set up and equipped to use Odoo. We don’t believe in overcomplicating your ERP journey with unnecessary apps, inflated budgets, complex integrations or endless customizations. Instead, our goal is simple: Get you up and running with the right Odoo apps, as quickly and efficiently as possible. We focus on understanding your business model, identifying what you truly need, and tailoring Odoo to deliver immediate value — not bloat. Book a free Odoo Consultation Why Choose Inflow? 🧠 Proven Odoo Expertise Since 2012 With over a decade of experience working with Odoo, our team brings deep technical and functional knowledge across industries. We’ve solved complex business challenges – from SMBs to large-sized enterprises. 🧩 Value-Focused Consulting Our goal is to identify the exact combination of Odoo apps and workflows that align with your business model — no clutter, no overengineering. Every implementation is grounded in ROI and usability. 🚀 Rapid, Agile Implementation Methodology Our agile deployment model ensures you’re up and running fast. We focus on quick wins so your team starts seeing value early, not months later. ⚙️ Tailored Customization & Smart Integrations When standard features aren’t enough, we build lightweight, maintainable customizations that extend Odoo without breaking future upgrades while also integrating third-party tools like payment gateways, logistics platforms, and more. 🔄 Comprehensive Training and Live Support Beyond go-live, we offer continuous support, training, and enablement to ensure long-term adoption and performance, with a support team that is proactive, responsive, and invested in the success of your business 🤝 Transparent, Collaborative Approach We work as an extension of your team — openly, strategically, and with full alignment on goals. We see ourselves not just as your implementation managers, but as long-term partners in digital transformation. Our Services ✅ Consultation Smart Strategy. Smooth Start. Get expert guidance to align Odoo with your unique business needs from day one. ✅ Implementation Go Live. Fast and Right. Launch Odoo efficiently with our proven, agile implementation methodology tailored to your processes. ✅ Migration Future-Ready, Hassle-Free. Move from legacy systems or older Odoo versions with zero data loss and minimal downtime. ✅ Live Training & Support Empowered Teams. Reliable Help. Get hands-on training and responsive support to keep your business running at full speed. ✅ Integration Connect Everything. Work Smarter. Seamlessly link Odoo with your existing systems to create a unified, automated workflow. ✅ Customisation Built for You. Not the Other Way Around. Tailor Odoo to fit your exact business processes without overcomplicating the system. ✅ Upgrades Stay Current. Stay Competitive. Upgrade to the latest Odoo version safely and smoothly — with all your data and workflows intact. Industries We Serve 🏭 Manufacturing Streamline production, manage BOMs, and optimize operations with end-to-end control. 🛒 Retail & E-commerce Connect inventory, sales, POS, and online channels seamlessly. 🚚 Wholesale & Distribution Automate purchasing, warehouse, and delivery workflows for smooth logistics. 🏥 Healthcare Manage appointments, patient records, and compliance with efficiency and accuracy. 🏗️ Construction & Project Management Track budgets, timelines, and resources with real-time project visibility. 📦 Logistics & Supply Chain Gain full visibility into inventory movements and delivery performance. 🎓 Education & Training Manage courses, enrollments, communication, and reporting on a single platform. 💼 Professional Services From timesheets to invoicing, streamline operations and client delivery. 🧾 Accounting & Financial Services Simplify client management, billing, and compliance with real-time reporting. 🍽️ Hospitality & Food Services Handle bookings, inventory, POS, and staff management — all in one place. 🏠 Real Estate & Property Management Track assets, lease agreements, maintenance, and customer relations. 🛠️ Field Services Schedule, dispatch, and invoice field service operations with ease. 🎨 Creative & Marketing Agencies Manage projects, retainers, collaboration, and billing in a central workspace. ⚙️ IT & Tech Firms Deliver support, track projects, and manage contracts and resources efficiently.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 7
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:23.864815"
     },
     {
       "region_code": "gb",
@@ -190,10 +606,48 @@
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/much-consulting-ltd-16152414?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/16152414/image_128/MUCH.%20CONSULTING%20LTD?unique=6d06766",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.207021"
+      "about_text": "Linkedin | Website | Book free consulting call What we can offer you ✅ Offices in the UK, Germany and Portugal ✅ An inhouse team of over 70 Odoo engineers & consultants ✅ Focus on standard & process consulting - our team are 70% consultants & 30% engineers ✅ Dedicated industry teams for e-commerce, services, manufacturing and finance ✅ Successful realization of large-scale Odoo projects with 100+ Users ✅ Dedicated Odoo On-Demand Support ✅ 95% of Odoo project Go-lives within 3-6 months ✅ 95% long-term customer retention rate Free consulting call ➡️ We do everything to make your Odoo a long-term success: We offer a complete suite of services tailored to international companies across all industries, sectors, and sizes. Our Services Odoo Consulting & Implementation Odoo Workshops & User Training Odoo Data Migrations & Upgrades Odoo Customisations & Integrations Odoo Managed Service & Support Our Core Industries e-commerce (D2C, B2B, marketplace retailer) Service providers (software companies, agencies, consultancies, energy, ...) Manufacturing & Supply Chain (e.g. mechanical engineering, medtech, chemistry, ...) Our products & vertical solutions Odoo for e-commerce Odoo Business Intelligence Suite Odoo for Medtech Odoo for accounting (including integration with HMRC, MTD compliant) We have developed >500 interfaces for Odoo and offer many as standard modules: ⚙️ Odoo for accounting (including integration with HMRC, MTD compliant) ⚙️ Shops such as Shopify, Shopware, Magento, and many more ⚙️ Online marketplaces such as Amazon, Ebay, Zalando and many more ⚙️ EDI for various use cases ⚙️ Payment service providers such as PayPal, Stripe, Adyen, Unzer, Molly and many more ⚙️ Shipping service providers & forwarders such as DHL, UPS, Hermes, Fedex ⚙️ Official integration partner Odoo ChannelEngine (marketplaces) ⚙️ Official integration partner Odoo Procuros (EDI) ⚙️ Official integration partner Odoo GetMyInvoices (invoice OCR) ⚙️ Official integration partner Odoo BLP Digital (AI for incoming invoices) ⚙️ Extensive experience with external warehouses (3PLs) & dropshipping providers ⚙️ Extensive experience with Hubspot and Salesforce & dozens of other systems More about Odoo integrations Check out some of our customers’ success stories & case studies: \"I was and still am very impressed how, with the support of much. Consulting, we were not only able to make an informed choice for a new ERP system within a few months, but also implement it in just three months without delay and within the planned budget. With much.’s support, we can continue on our steep growth path.” \"much. is a reliable partner for us and much more than a mere supplier, enabling us to take our business to the next level. The team at much. is incredibly smart, understands the ins and outs of our business very quickly, and is a proactive partner from the start, delivering solutions while thinking outside the box.” \"This is a huge milestone for X-BIONIC and I’m extremely thankful and proud that you managed to successfully run such an excellent project. “In budget, in time and in quality” is only possible if you work hand in hand as high-performance team, and you proofed it! Thank you very MUCH The new ERP will bring us a big step towards scalability, now – let’s rock!” Fabian Schlang Co-Founder & COO air up GmbH Michael Kowalzik Director, Miomente GmbH Maximilian Lenk CEO, X-Technology Swiss R&D AG Discover more much. Consulting projects Start your own success story with us. Our experts are happy to meet you: Aurore Le Tumelin Manager Solutions Consultant, Global E-mail: aurore.letumelin@muchconsulting.de Phone: +351 928 143 956 Languages: 🇬🇧 🇫🇷 🇵🇹 🇪🇸",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        },
+        {
+          "version": "Certified v18",
+          "count": 4
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:24.215873"
     },
     {
       "region_code": "gb",
@@ -211,10 +665,52 @@
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/itransition-group-limited-4040816?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4040816/image_128/Itransition%20Group%20Limited?unique=d0138de",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.207481"
+      "about_text": "Founded in 1998, Itransition is a global provider of digital solutions and IT services headquartered in the UK. We offer a full cycle of Odoo-related services from implementations to optimizations and consulting to help businesses achieve success. Itransition provides Odoo business automation solutions tailored for companies of all sizes, from SMBs to large enterprises, helping them assess internal processes to customize and maintain their solutions. Odoo service structure Consulting Our Odoo ERP consulting specialists provide the following: Analyzing client goals and objectives Optimizing pre-existing Odoo solutions Developing a detailed implementation plan Establishing project timelines and deliverables Assessing TCO Implementation Itransition caters to companies aiming to optimize their business workflows and streamline operations using the Odoo platform. Our services encompass: Requirements elaboration, workflow design, migration planning Deploying Odoo solutions: on-prem and cloud Data migration, customization, and integrations Functional, regression, performance, and integration testing Customization Following best practices of any industry, we customize Odoo solutions to fit our clients’ unique vision and business needs: Gather client requirements for customizations Plan and design customizations to cover unique processes and workflows Develop and test the customizations to ensure alignment with expectations Deploy and support customizations while offering adjustments, and scale-ups Integration Itransition optimizes Odoo to cover all business processes by integrating Odoo into the existing IT infrastructure and ensuring compatibility with siloed internal enterprise systems. We integrate: Education and onboarding Our Odoo experts support the full client journey, offering personalized assistance to accommodate users with varying levels of computer literacy. We offer: Creating an admin and user onboarding roadmap Designing launch strategy and writing user guides Holding webinars, workshops, and training sessions Providing end-user support Support With L1 and L2 support levels, we address any issues encountered by users and admins and implement system monitoring to resolve problems and minimize disruptions. We offer: Infrastructure monitoring and management Planned upgrades and functionality extensions Preventive and planned maintenance Bug fixing Book a consultation with us Success stories 100% automated stock replenishment Temperley London partnered with Itransition to replace their fragmented software ecosystem with an integrated Odoo solution, automating key processes like product management, sales, and order fulfillment. The implementation streamlined operations, reduced product management costs by 50%, and ensured 100% automated stock replenishment, boosting efficiency and accuracy. Temperley London Success with Odoo 50% cut in operational expenses Itransition developed an ERP system on the Odoo platform that enabled the customer to reduce operational expenses by 50% while boosting client satisfaction through enhanced transparency in business operations. An Odoo-based BPM solution for a car service center 50% faster order approvals Itransition implemented an Odoo-based ERP solution that accelerated core business processes, reducing purchase order approval time by 50% and fully streamlining work order management, resulting in a 100% improvement in efficiency. Odoo ERP system implementation 6 business units in one system To streamline logistics, order management, and interdepartmental communication, APsystems partnered with Itransition to implement a customized Odoo-based business process management system. This resulted in unified operations, improved coordination between 6 global units, and accelerated business development. How APsystems Unified Photovoltaic Operations with Odoo Why Itransition for Odoo? ERP Center of Excellence To deliver value-added services and provide the most suitable technology stack to customers, we have established an ERP Center of Excellence. The Center includes a dedicated Odoo team of experts who continually enhance their knowledge and share insights. The Center focuses on: Monitoring existing and emerging ERP platforms to offer up-to-date solutions Platform-based and industry-focused expertise accumulation, nurturing, and advancement Developing POCs and reusable elements Training and certifying ERP specialists Collaborating with related Centers of Excellence to develop integrated solutions Enhancing our partner-vendor relationships through partner-exclusive opportunities Business domain-based solution consulting Technical and functional feasibility assessment Concept elaboration and validation For more details, please, contact us at odoo@itransition.com ​ ​",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:24.487713"
     },
     {
       "region_code": "gb",
@@ -232,10 +728,48 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/glo-networks-7535739?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/7535739/image_128/Glo%20Networks?unique=6169027",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.207900"
+      "about_text": "We love tackling technical challenges that push boundaries and get us thinking outside the box. While we’re happy to help with the basics, we’re really energized by projects that go beyond standard Odoo installations and support that other partners shy away from. If you’ve got something complex in mind, or have been turned away by other partners, we’d love to dive in and make it happen. While heavy customization can be tempting, there’s often a sweet spot between tailoring Odoo to your needs and adapting your processes to fit within its framework. Our goal is to find that perfect balance, so you get the best of both worlds—efficiency and flexibility. It's also important to know when to reinvent the wheel. We use, promote, and contribute to the Odoo Community Association (OCA). While we’re not a company member (yet), several of our team are proud individual members, actively supporting and benefiting from the great work the OCA does. Want to know more? Reach out. Although we're predominately based in the UK, we love working with clients from anywhere within a ±2 hour time zone. As long as you’ve got good English communication (sorry that's our fault, not yours!), we’re happy to collaborate and make things happen, no matter where you are. We work best when we have a strong point of contact within your business—someone who can help coordinate, test, and provide valuable feedback along the way. No one knows your business better than your own team. By partnering closely with you, we can ensure everything runs smoothly and meets your needs. Let's make the process as seamless and collaborative as possible. Interested in reading more, here's some of our more juicy technical blog posts and pages: Upgrading Odoo - Unravelling a confusing subject Odoo on Kubernetes - How we host Odoo Odoo Business Solutions FREE Odoo Recovery Service - Read more here if you're in need of change and support!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 6
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:24.816321"
     },
     {
       "region_code": "gb",
@@ -253,10 +787,35 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/supportwise-it-services-ltd-12929432?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/12929432/image_128/Supportwise%20IT%20Services%20Ltd?unique=7afedb2",
-      "about_text": null,
+      "about_text": "Complete Odoo Implementation and Consultancy for UK SMBs Supportwise specialises in transforming UK small and medium-sized businesses through comprehensive Odoo implementations designed specifically for each company's unique needs. Our expert team helps businesses streamline operations by leveraging Odoo's integrated business management platform to replace multiple disconnected systems with one unified solution. Our Core Services Full-Cycle Implementation We deliver complete Odoo implementations covering all essential business modules including CRM, Accounting & Finance, Website & E-commerce, Manufacturing, Sales Management, and Inventory Management. Our solutions are designed to meet UK accounting standards and support businesses with both domestic and international operations. Structured Four-Phase Approach Plan : Comprehensive business process analysis, requirements gathering, and project roadmap development Design : Custom Odoo configuration design, workflow mapping, and user interface customisation Build : System configuration, data migration, custom development, and third-party integrations Maintain : Ongoing support, user training, system updates, and continuous optimisation Flexible Odoo WorkPacks Our pre-defined service packages (10, 25, 50, and 100 hours) provide predictable pricing and can be combined for larger projects. Each WorkPack includes implementation services, ongoing support, configuration & customisation, and complete data migration from existing systems. What Sets Us Apart Industry Expertise : Deep understanding of UK SMB requirements with solutions that dramatically reduce software licensing costs compared to multiple separate systems. Complete Transparency : Upfront pricing, accurate billing for actual hours only, regular communication with progress reports, and full documentation of all work performed. Seamless Integration : Our implementations eliminate data silos by connecting all business functions - from initial customer contact through to financial reporting - in one cohesive platform. Ongoing Partnership : Post-implementation support includes user training, system updates, performance monitoring, and additional customisations as businesses grow and evolve. Supportwise is committed to helping UK businesses leverage Odoo's flexibility to start with essential modules and expand as needs develop, ensuring a cost-effective solution that grows with your business.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.208311"
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Real Estate",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:25.312488"
     },
     {
       "region_code": "gb",
@@ -274,10 +833,44 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/the-operations-hub-19549255?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/19549255/image_128/The%20Operations%20Hub?unique=fe357fa",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.208731"
+      "about_text": "A long term established IT Solutions provider, The Operations Hub provide solutions to businesses leveraging Odoo ERP across a variety of sectors and use case scenarios. We work closely with our clients to understand the workflows and culture to develop solutions delivering efficiency throughout all operations within the organisation. With 30+ years industry experience and various specialist skills within our team, we have a proven track record in delivering projects to precise requirements, leveraging technology to the maximum benefit to the business.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Mining & Quarrying",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:25.603441"
     },
     {
       "region_code": "gb",
@@ -295,10 +888,35 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/sixo-systems-20966669?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/20966669/image_128/Sixo%20Systems?unique=4947323",
-      "about_text": null,
+      "about_text": "Merseyside's Trusted Tech Experts Bespoke Software Developers Turned Odoo Specialists Based in Liverpool, Sixo Systems has spent the last 15 years delivering software solutions that are making Every Minute Matter for businesses across the UK and internationally. Our client relationships are built on trust and results, with high retention rates and a significant portion of new business coming from client referrals and recommendations. Our journey to becoming Odoo Partners started when we built Xenpl, our own CPQ (Configure, Price, Quote) and MRP system, designed to help manufacturers of complex products configure and quote more efficiently. When we discovered Odoo could deliver everything we'd developed and more, we made the strategic decision to become certified partners and build custom solutions using Odoo as our foundation. That journey means we approach Odoo implementations differently. We're business analysts and software developers first, equipped to handle complex customisations, intricate integrations, and unique business requirements that demand technical depth beyond standard consultancy. What Makes Us Different → Fully UK-based business analysts, project managers, and software developers. → Manufacturing Specialists with deep expertise in MRP, CPQ systems & production workflows. → Our experienced Business Analysts work to streamline your business processes before implementing any software; we won’t digitise chaos. → Software Development Heritage with full-stack developers fluent in Python, C#, JavaScript, PHP, React & many more. → Custom Module Development; we build bespoke Odoo extensions tailored to your business. → Our Integration Expertise means you can seamlessly connect Odoo to your existing systems, whether it's legacy software, third-party platforms, or custom application tools. → 15 years building lasting relationships, with referral-driven growth from clients who trust us not just for today, but for their future. Book a Free Consultation Today Our Odoo Services Our comprehensive Odoo services cover everything from initial business process analysis through to deployment, customisation, and ongoing support. We build solutions that fit your business today and scale with you tomorrow. Free Consultation Free Demo Impartial Business Analysis Expert Odoo Implementation Unsure if Odoo is the right solution for your business? There’s no doubt Odoo’s ERP system is a great fit for most businesses, but we understand that implementing a full ERP system is a big change, so if you need reassurance we’re here to help with a dedicated and impartial Business Analysis service that will assess the best options on the market based on your business processes. And when we say it’s an impartial service, we mean it – we will only recommend that you adopt Odoo if we genuinely believe that Odoo is the right solution for you. Book Your Free Discovery Call Bespoke Software With 90+ modules and a store offering over 60,000 third-party apps, there’s not much that Odoo can’t do. But for those times when you need something adding onto Odoo, or an app customising further than the capabilities of Odoo Studio, we have in-house software developers who are experts in taking complex business requirements and converting them into efficient and resilient Odoo apps. Discuss Bespoke Software Requirements",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.209163"
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:25.947905"
     },
     {
       "region_code": "gb",
@@ -316,10 +934,35 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/axpero-llp-29721360?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/29721360/image_128/Axpero%20LLP?unique=288509d",
-      "about_text": null,
+      "about_text": "Axpero is a partnership of UK based, seasoned Odoo professionals representing a broad range of functional areas. Our partnership approach means that our consultant is with your project from conception to business delivery. We work with you over time to support and deliver innovative projects that capture business value for you. Our difference is our strength - breadth of expertise, true partnering approach, focus on value creation. As a demonstration of our UK expertise, below is a selection of the latest modules implemented for Odoo clients Axpero UK Payroll HMRC Integration Provides HMRC RTI Full Payment Submission (FPS) and Employer Payment Submission (EPS) submissions via HMRC's Real Time Integration (RTI) gateway. Includes test and test in live functionality. Axpero Knowledge Base by Company Great for multi company installations where you want to keep different knowledge bases by Company. Axpero Payslip Encryption Encrypt payslips sent via email to either your work or private address, using a password of your choice or by default your national insurance number Axpero UK Payroll A fully compliant UK Payroll module with integration to HMRC Real Time Information (HMRC RTI) for Full Payment Submission (FPS) and Employer Payment Summary (EPS) Axpero Core Advanced monitoring of your Odoo instance with our Grafana dashboards, manage your support tickets and track your user permissions. Axpero Enhanced CRM Track the movement of opportunities to understand how your pipeline is progressing and forecast based on historical trends like deal time in stage, and sales person weighted success from stage to close. Axpero Volume-Price-Mix Calculate and view the Volume, Price and Product Mix between two comparative periods of time and display this as a waterfall chart. Axpero Accounting Accounting enhancements for the UK including VAT, Chart of Accounts, FRS102/FRS105 reporting and CT600 formats. Reconciliation & review processes and checks (v19)",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.209583"
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:26.279649"
     },
     {
       "region_code": "gb",
@@ -337,10 +980,36 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/cloudsaber-16281978?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/16281978/image_128/Cloudsaber?unique=417cfef",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.210009"
+      "about_text": "Cloudsaber Ltd | Odoo Certified Partner London | UK & Ireland ERP, CRM, AI and IT Specialists Your Odoo Partner in London, supporting businesses across the UK & Ireland. Cloudsaber is the fastest-growing Odoo Certified Partner in the UK. We are headquartered in London and support clients across the UK and Ireland . If you are looking for an Odoo Partner UK , an Odoo Partner London , or an Odoo Partner Ireland , you are in the right place. We help organisations bring accounting, sales, operations and customer service together in one connected system. Not everyone knows what ERP means. Think of Odoo as one platform for accounting , stock, sales, projects, HR and more. With Cloudsaber, you get a solution designed around your business and supported by UK-based experts. Unlike single-stack providers, we take a best-of-breed approach . We partner with Xero, Salesforce, Zoho, Monday.com, Google Workspace, Microsoft 365, AWS and Zebra . That independence means we recommend what is best for you, not what suits a vendor. Every project starts with a free consultation and a business gap analysis so we understand your requirements and design the right solution from day one. Book your free consultation Free personalised trial Book an Appointment Why choose Cloudsaber as your Odoo Partner in the UK and Ireland Fastest-growing Odoo Certified Partner serving London, the UK and Ireland Accounting, finance and reporting expertise built into every project Dedicated experience across manufacturing, retail and services Odoo Implementation Recovery when projects need turning around Free consultation and gap analysis before you commit Odoo Support UK with SLAs, UK helpdesk and clear ownership Odoo Hosting UK options with data residency, security and monitoring AI-enabled workflows that improve forecasting, automation and decision making Zebra hardware partner for POS, mobility and warehouse automation Our services — Odoo Implementation UK, Odoo Support UK, Odoo Hosting UK Accounting and Finance Invoicing, expenses, payroll and management reporting. If you searched for Odoo Accounting UK , this is where we help you close the books faster and with fewer errors. ERP Implementation and Optimisation Structured rollouts, upgrades and adoption programmes that fit your business. Business Process Consultancy and Gap Analysis We map how you work today, then fix the gaps and simplify. Custom Development and Odoo Integration UK Extend Odoo safely and connect to Xero, Salesforce, Zoho, Monday.com, Google, Microsoft and more. AI and Automation Predictive analytics, automated approvals and practical AI assistants inside Odoo. Managed Cloud Odoo Hosting UK on AWS, Microsoft Azure or Google Cloud , with UK data residency and resilience. Support with SLAs Odoo Support UK from a responsive UK helpdesk. Clear priorities, clear outcomes. Hardware and POS Zebra tills, scanners, printers and rugged mobile devices for shop floor, retail and field teams. → Odoo → Our services → Solutions and integrations → Support desk AI and future-ready ERP AI should be practical. We embed AI where it saves time and improves accuracy. Forecast sales and stock with confidence Automate repetitive approvals in finance and HR Respond to customers faster with AI-assisted helpdesk Cut admin time with natural language data entry Spot risks and opportunities early with real-time dashboards See how we combine Odoo and AI Industries we serve Services Consultancy, IT, legal, recruitment, marketing, audit and certification, professional services. Retail Shops, supermarkets, e-commerce, fashion, electronics, furniture, groceries, books, eyewear, sports retailers. Building and Property Construction, architecture, solar energy, property management, real estate. Health and Fitness Pharmacies, clinics, social care, gyms, wellness, sports clubs. Hospitality Restaurants, pubs, hotels, tourism, fast food outlets. Supply Chain and Manufacturing Factories, distributors, logistics, warehousing, food and drink, furniture, bespoke production. Finance and Accounting Accountancy firms, insurance providers, financial services, compliance specialists. Education and Non-profit Schools, charities, NGOs, training providers. Energy, Utilities and Science Renewable energy, utilities, water management, research and development. → See industries we support Hardware, POS and mobility As a Zebra Technologies Partner , we provide the devices that make Odoo work in the real world. Retail POS systems, tills, scanners, receipt printers, cash drawers Rugged mobile computers for manufacturing, warehouses and field staff Label and ticket printing, desktop and industrial Accessories and mounts, cradles, chargers and in-vehicle kits → Explore hardware solutions How we deliver Free consultation and gap analysis . We listen, map your needs and define ROI. Blueprint and configure . Align to Odoo best practice before customising. Integrate and migrate . Connect Odoo to your tools and move data cleanly. Enable and adopt . Train teams, embed AI and drive real usage. Run and improve . UK helpdesk, SLAs, monitoring and continuous optimisation. → Start your Odoo journey Contact us — London HQ, UK and Ireland coverage Headquarters – London Cloudsaber Ltd 85 Great Portland Street Westminster W1W 7LT London United Kingdom Tel: +44 20 7117 2459 Email: info@cloudsaber.com Web: https://www.cloudsaber.com Coverage We support businesses across London and the South East , Manchester , Birmingham , Leeds , Bristol , Edinburgh , Glasgow , Belfast , and Dublin , as well as the wider UK and Ireland . Contact Us Find Out More If you’d like to explore in more detail: Learn about our Odoo Services in the UK – implementation, support and hosting . See the industries we support with Odoo . Explore integrations with Xero, Salesforce, Google and Microsoft . Read case studies from UK and Ireland businesses . Visit our blog, The Cloudsaber Edge , for insights and updates. Access our support portal to raise a ticket with our UK helpdesk.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:26.561546"
     },
     {
       "region_code": "gb",
@@ -358,10 +1027,36 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/jantra-software-23384984?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/23384984/image_128/Jantra%20Software?unique=2775930",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.210420"
+      "about_text": "A Smarter Odoo Implementation for Your Business We engineer Odoo to be the engine of your business growth. Our approach moves beyond standard implementation; we focus on creating a powerful, perfectly tailored ERP system that solves your unique challenges and delivers a clear return on investment. Why Jantra for Odoo? A Business-First Approach: We are technologists with a business owner's mindset. We configure Odoo to meet your specific commercial goals, ensuring every feature serves a strategic purpose. The Kinetic Advantage: Our proprietary AI-augmented delivery model means we deliver faster, more cost-effective implementations. We provide tangible progress in predictable sprints, reducing rework and maximizing the value of your investment from day one. Dedicated UK Expertise: With a local UK presence, we have a deep understanding of the market. We ensure your Odoo system is perfectly aligned with local business requirements, including HMRC and VAT compliance. Enhancing Odoo: Our Comprehensive Capabilities While Odoo is the core of our ERP practice, our strength lies in our ability to create a truly integrated digital ecosystem. We leverage our broader expertise to enhance your Odoo platform: Business Intelligence (BI): To unlock advanced analytics and custom dashboards from your Odoo data. Artificial Intelligence (AI): To build smarter, predictive workflows within your operations. Business Process Management (BPM): To map, optimize, and automate your core business workflows for maximum efficiency. Custom Digital Solutions: For bespoke web or mobile applications that integrate seamlessly with Odoo. Proven Industry Experience We have a strong track record of successful implementations across key sectors, including Retail, Logistics, Manufacturing, Finance, and E-Commerce. Ready to transform your business with a strategic Odoo partner? Contact us today for a complimentary, no-obligation consultation. Book a Free Consultation",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:26.835549"
     },
     {
       "region_code": "gb",
@@ -379,10 +1074,44 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/lahore-analytica-ltd-21558708?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/21558708/image_128/Lahore%20Analytica%20Ltd?unique=47692df",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.210846"
+      "about_text": "Global Odoo Partner | E-Commerce ERP Specialists Lahore Analytica is a trusted Odoo Partner with successful ERP implementations across North America, Europe, the Middle East, and Asia . We specialize in tailored Odoo solutions for e-commerce , retail , manufacturing , and service-based businesses. Our globally distributed team of consultants and technical experts brings precision, creativity, and long-term value to every digital transformation. 📞 Contact Us UK: +44 7789 275620 Ireland: +353 89 9888124 USA: +1 650 785 2041 ✉️ Email: info@lahoreanalytica.com 🌍 Websites: lahoreanalytica.com lahoreanalytica.co.uk lahoreanalytica.ie 🏭 Industries We Serve We offer tailored Odoo solutions for clients in: 🛒 E-Commerce & Retail 🏥 Healthcare & Clinics 🏭 Manufacturing & Engineering 🥫 Food & Beverage ⚡ Energy & Utilities 🧾 Finance & Accounting 🚛 Logistics & Distribution 🏢 Real Estate & Property 🛠️ Construction & Projects 🧪 Pharmaceuticals & Life Sciences 🎮 Media, Education & EdTech 🔧 Implementation Workflow Our agile, scalable method ensures successful digital transformation: Requirement Gathering Scope of Work Finalization System Setup & Configuration Module Customization & Integration Deployment & Data Migration Testing, Training & UAT Post-Go-Live Support 🛍️ E-Commerce Expertise We specialize in helping online businesses grow: Custom B2C/B2B/Marketplace Stores Real-Time Inventory & Fulfillment Loyalty, Promotions, & Abandoned Cart Recovery Integrated Payments & Shipping CRM + Email, SMS & Social Campaigns Mobile-Friendly Design Subscription Management & Customer Portals 🧩 Odoo Modules We Specialize In Category Modules 💰 Finance Accounting, Invoicing, Expenses, Reporting 🏷 Sales & CRM CRM, Sales Orders, Quotations, Customer Portals 🛒 E-Commerce Website, Product Configurator, Checkout, Loyalty 🏭 Operations Inventory, Purchase, Manufacturing, Barcode 📣 Marketing Email Marketing, Social Media, Automation 🧑‍💼 HR & Staffing HR, Payroll, Timesheet, Planning, Recruitment 📊 Analytics & Docs Dashboards, Documents, Knowledge Base 🔌 Custom Extensions Custom Modules, API Integrations, 3rd-Party Apps",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Households",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:27.104188"
     },
     {
       "region_code": "gb",
@@ -400,10 +1129,36 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/thoughtlogik-technology-solutions-ltd-10549091?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10549091/image_128/Thoughtlogik%20Technology%20Solutions%20Ltd?unique=46f2ec2",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.211271"
+      "about_text": "Transform Your Business with Odoo At Thoughtlogik, we empower your business with tailored, innovative Odoo solutions designed to drive digital transformation and sustainable growth. As a vendor-agnostic partner, our Center of Excellence model combines deep industry expertise with a robust, systematic approach to implementation, support, and training. We work closely with you to understand your unique business challenges and craft customised solutions that not only meet today’s needs but also position your organisation for future success. Our team of dedicated experts leverages extensive industry knowledge and best practices to ensure seamless integration of the Odoo platform into your operations. Experience the power of innovation, precision, and personalised service with Thoughtlogik Odoo Center of Excellence—where your vision meets our passion for excellence. Speak to an Expert ​ ​ Our Odoo Services ✅ Consulting Strategic consulting services that align your business processes with Odoo’s robust features for optimal performance. ✅ Implementation Custom-tailored Odoo solutions designed to streamline operations and drive digital transformation. ✅ Customisation Leverage our deep technical expertise to tailor the Odoo platform to your unique business requirements with bespoke modules, custom workflows, and specialised reporting tools. ✅ Integration Seamlessly integrate Odoo with your existing systems to ensure efficient workflows and consistent data management. ✅ Support & Training Receive expert support and in-depth training to empower your team and maximise the full potential of Odoo. Book a Meeting Our Streamlined Processes For Your Success Our time-tested, well-established project methodologies, specifically designed for Odoo, ensure a seamless and efficient implementation process. We focus on delivering tailored solutions that drive your success, maximising the potential of these platforms for your business Our Strengths You Can Depend On With a proven track record of successful implementations, we bring unmatched expertise and dedication to every project. Our team’s deep knowledge on Odoo, attention to detail, and customer-first approach ensure that you can rely on us for seamless solutions and long-term success. Discover how we can transform your business with Odoo. Book your free consultation today and take the first step toward implementing a scalable, efficient system for your success. ​ Contact Us ​",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:27.366469"
     },
     {
       "region_code": "gb",
@@ -421,10 +1176,31 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/it-workhouse-18695072?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/18695072/image_128/IT%20WORKHOUSE?unique=8a70d52",
-      "about_text": null,
+      "about_text": "IT WORKHOUSE delivers Odoo implementations for growing SMEs across manufacturing, distribution, construction, and field service industries. Whether you're a small team ready to move beyond spreadsheets or a larger operation looking to connect your departments, we're here to help you get there. We're here for you: the small to medium businesses that keep the UK running but often get overlooked or priced-out. The family run manufacturer, the trade business with 15 vans on the road, the distributor who's grown from a warehouse and a dream. These are the businesses we love working with, and we think they deserve the same quality of software and support as the Fortune 500 get. Plus, we genuinely enjoy the process of figuring out how to make Odoo work for your specific business. We love what we do. We take a structured but flexible approach: discovery and scoping, configuration and data migration, user training, and go-live support. We believe in getting the fundamentals right before adding complexity, which means you see value quickly without overwhelming your team. After go live, we stick around. Our support ranges from light touch guidance through to fully managed monthly support, whatever suits you best, no lock-in or gate-keeping here. All support is UK based with real humans who already know your system and your business. Specialisms: Manufacturing (including MRP and work orders), Field Service, CRM to operations handover, Project Management with analytic accounting, and Inventory with multi-location warehousing. We'd love to hear from you: alex@itworkhouse.co.uk | https://www.itworkhouse.co.uk Get the IT department you wish you always had with IT WORKHOUSE.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:49.211682"
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:28.082408"
     },
     {
       "region_code": "gb",
@@ -442,10 +1218,28 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/meghdhara-ltd-14843288?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/14843288/image_128/Meghdhara%20Ltd.?unique=39b3157",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.420790"
+      "about_text": "At Meghdhara, we prioritize excellence in service, client-centricity, and robust support. Our unwavering commitment to service quality, validated by the trust of our clients, fills us with confidence and pride in our offerings. Specializing in global technology consultancy, Meghdhara streamlines your operational processes intelligently and efficiently. We optimize your operations through tailored consultancy, advisory services, seamless deployment, meticulous management, and dedicated support solutions. Collaborating closely with you, we craft personalized strategies to address your unique business needs. Partnering with Odoo is a significant milestone for Meghdhara Ltd. This collaboration aligns with our commitment to delivering excellence and innovation to our clients. Odoo’s comprehensive and flexible solutions perfectly complement our consultancy services, enabling us to provide unmatched value and support to businesses striving for digital excellence.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 4
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:29.432012"
     },
     {
       "region_code": "gb",
@@ -463,10 +1257,40 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/simula-lab-ltd-11991733?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/11991733/image_128/Simula%20Lab%20LTD?unique=6b2e93b",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.421306"
+      "about_text": "Understanding that each organization has unique needs, challenges, and requirements, Simula offers specialized services in developing and customizing Odoo ERP systems to align perfectly with your business's processes, workflows, and goals. We tailor every aspect of Odoo to meet your specific requirements, including customizing and modifying both processes and layouts. Our team of expert developers and consultants works closely with you to create a tailored solution that fits your business model, optimizes your operations’ functionality and efficiency, enhances your data-driven decision-making, and provides a scalable foundation for growth. ⚠️ Struggling with inefficient processes and lack of integration? With our comprehensive Odoo ERP solutions, you get an all-in-one platform that integrates your operations, saves your team time, and enhances your business efficiency. Our services include: Modules Development: Developing custom modules that integrate smoothly with existing Odoo applications to add or enhance functionality. Modules Customization: Tailoring the existing features of Odoo ERP to better align with your workflows, reporting needs, and operational metrics. Migration Services: Safely migrate data from other ERP systems to Odoo, ensuring data integrity and minimal downtime. Implementation and Training: Deploying the customized Odoo ERP system across your organization with comprehensive training sessions to maximize the platform's effectiveness. 💡 Interested in learning more about how we implement our solutions? To ensure the successful deployment of your customized Odoo ERP system, we employ a strategic implementation methodology that focuses on a step-by-step process to ensure that the final product is robust, efficient, and perfectly aligned with the business objectives. Our phased approach includes the following stages: Initiation and Planning involve a thorough analysis of the requirements and needs while gathering and understanding the perspectives of key stakeholders. Gap Analysis helps us determine if Odoo's built-in functionalities align with your specific needs and identify any gaps or customization needs. Requirement Design is a blueprint for our customization activities. It involves designing flow diagrams, data models, UI mockups, and other design documents. Development/ Customization: following agile principles, we develop the project iteratively in short sprints, emphasizing collaboration with stakeholders and prioritizing scalable customizations. Testing ensures the customizations meet high-quality standards, perform well, and function as expected. Deployment: We transfer the tested customization to the production environment while ensuring minimal disruption to ongoing operations. We address the most critical needs first to ensure we deliver immediate value while laying a strong foundation for subsequent enhancements based on the center’s priorities and operational needs. The progression through must-have, should-have, and could-have requirements provides flexibility and accommodates evolving business needs. 💡 Why Simula? ​ We Listen Carefully We engage deeply with your organization to gain insights into the context, processes, and requirements. We Aligning with Your Mission We care about your mission by aligning our expertise with your objectives, ensuring you reach your goals and desired outcomes. We Work as One We become a seamless extension of your team, supporting your planning and development efforts. Data Security and Privacy O ur commitment to delivering an efficient operational workflow through Odoo parallels our data security and privacy priority. We enforce security protocols to safeguard our partners’ information during our comprehensive requirements analysis and system integration. Our customized solutions operate in a highly secure and controlled environment with advanced security measures, secure data storage, and strong access controls. Our partners benefit from reduced exposure to risks, alongside compliance with the latest industry-standard data security practices and regulations. Proved Experience In our continuous effort to provide comprehensive IT solutions, we are currently implementing an Odoo customization and development project for RMTeam International , which is a partnership that we greatly value. We have also successfully executed two major projects that highlighted our proficiency in Odoo customization and development. Our partners, MDA Rugs Imports and Titanic Furniture INC required full enterprise automation, challenging us to craft highly sophisticated systems that meet their complex needs. We accomplished several goals in these projects, including facilitating a paperless environment , introducing error-mitigating automated workflows, and creating a transparent task management system that promotes instant internal communication. The success of these projects is a testament to our technical expertise in customizing Odoo, as well as our strong commitment to building secure, user-centric systems that meet the unique needs of our partners. Reach out for a Free Consultation",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:29.789451"
     },
     {
       "region_code": "gb",
@@ -484,10 +1308,40 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/techplus-solutions-ltd-16659359?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/16659359/image_128/Techplus%20Solutions%20Ltd?unique=f67b50e",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.421912"
+      "about_text": "Trusted Odoo Partner | Supply Chain, Manufacturing, E-Commerce & Hospitality Specialists Headquartered in Reading, UK, with clients across the UK, Europe and beyond, Tech Plus Solutions delivers precision-engineered Odoo implementations that drive efficiency, reduce costs and future-proof your business. Why Tech Plus Solutions? Rapid Deployment: Get up and running—go-live in as little as 6–8 weeks. White-Glove Support: Responsive UK-based team, 24/7 monitoring and dedicated account managers. Odoo-Certified Engineers: Deep expertise in core modules plus custom development and third-party integrations. Proven Methodology: ISO-aligned QA processes ensure on-time, on-budget delivery. Scalable Growth: From SMEs to enterprise rollouts, our agile approach flexes with your needs. 📌 Contact Us 📞 +44 744 788 8854 ✉️ odoo@techplusuk.com 🌐 techplusuk.com 🏭 Industries We Serve Supply Chain & Distribution Manufacturing & Engineering E-Commerce & Retail Hospitality & Foodservice 💡 Odoo Expertise Manufacturing & MRP: Work orders, routings, BOMs, PLM Point of Sale (POS): Omnichannel retail, table service, loyalty programs Inventory & Logistics: Multi-warehouse, barcode, RF scanning E-Commerce: Website, product configurator, subscription management CRM & Sales: Pipelines, quotations, customer portals Accounting & Finance: Invoicing, expenses, financial reporting Custom Development: API integrations, bespoke modules, automated workflows 🚀 Our Implementation Workflow Discovery & Requirements Solution Design & SOW System Configuration & Data Migration Customization & Integration Testing, Training & UAT Go-Live & Ongoing Support Partner with Tech Plus Solutions and transform your operations with an Odoo rollout that’s fast, flexible—and built exactly for you. Let’s get started today!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:30.112154"
     },
     {
       "region_code": "gb",
@@ -505,10 +1359,20 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/navabrind-it-solutions-pvt-limited-7187342?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/7187342/image_128/Navabrind%20IT%20Solutions%20Pvt%20Limited?unique=7bc31c0",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.422355"
+      "about_text": "Process-Driven, Reliable, Cost-Effective Odoo Partner Navabrind IT Solutions is a world-class provider of digital commerce software solutions. With offices in the UK, the US, and Bangalore and Chennai in India. As an Odoo Partner, we offer a comprehensive range of services, including Odoo ERP Implementation, OdooPIM Implementation, E-commerce Development, and B2B Omnichannel Solutions. As Odoo implementers, we are GDPR compliant. We have over a decade of experience and cater to the needs of diverse industries such as Manufacturing, Healthcare, E-commerce, FMCG, Retail, Logistics, Engineering, Electronics, Real Estate, Shipping, and Education, among others. Our team of experts is dedicated to delivering tailored solutions designed to elevate our clients' digital commerce operations and drive their business success. We offer end-to-end services in Odoo, including consulting, migration, integration, customization, maintenance, support, training, and managed services. We implement both Community and Enterprise editions of Odoo ERP, and have expertise in implementing every module in a stringent, process-driven manner. Navabrind IT Solutions is a trusted partner at every stage of your digital transformation journey. With a global client base spanning North America, Europe, the Middle East, and Asia, we are recognized for exceeding customer expectations and delivering exceptional value. By leveraging our expertise, our customers gain increased business efficiency, higher ROI, optimized processes, cost savings, improved customer experience, valuable data insights, and better decision-making. Our Product AI-Driven | Powerful | Future-Ready OdooPIM Need a next-generation catalog manager? Try OdooPIM developed by Navabrind IT Solutions. Built on the trusted Odoo platform, OdooPIM empowers businesses to deliver consistent, high-quality product data across regions, languages, audiences, brands, and product variations. As a single source of truth aligned with industry standards, it’s the ideal solution for SMBs and mid-market retailers, manufacturers, distributors, and marketplace sellers looking to deep automation and AI to manage their product data. Driving Customer Success with Consistency ● 12+ Years of Experience ● 150+ Technology Experts ● 300+ Successful Odoo Implementations ● 100K Global Users ● 95% Go-Live within 3 months ● 95.5% Customer Retention ● 24/7 Support Team ● 3 Office Locations - UK, US, India Contact Navabrind IT Solutions to Schedule a Free Consultation Contact Us Odoo ERP Services: Efficiency, Scalability, Rapid ROI ● Odoo Consultancy ● Odoo Migration ● Odoo Implementation ● Odoo Customization ● Odoo Upgrading ● Odoo Training ● Odoo Support ● Hire Odoo ERP Developers ● Odoo Integration (Marketplaces, E-commerce Platforms, Shipping Carriers, Payment Gateways, APQP, PPAP, FMEA, MRP, CAPA, SFC, and others) Industry Expertise ● Manufacturing ● Healthcare ● E-commerce ● Retail ● Distribution ● Construction ● Automotive ● Engineering ● Logistics and Warehousing ● Electronics ● Shipping ● Fashion ● Real-estate ● Furniture ● Education Odoo ERP Services across Industries ● Manufacturing 1. Managed BoM Components 2. CAD File Integration 3. Planning Module 4. Recommendation Engine Retail 1. B2B, B2C & D2C E-commerce Websites 2. Omnichannel Solution 3. Odoo-Planogram 4. Multi-store Management 5. PoS ● Automotive 1. Dealer and Fleet Management 2. Multisystems Synchronization 3. Make Your Model Management 4. IoT Integration ● Healthcare 1. Appointment Scheduling 2. Regulatory Compliance 3. Telemedicine Integration 4. Patient Management 5. Regulatory Compliance Logistics 1. Mobile Apps 2. Real-time GPS Tracking 3. Multi-warehouse Support 4. Fleet Management 5. AI-driven Routing and Picking E-Commerce 1. Platform Integration 2. PIM integration 3. Order and Inventory Management 4. CRM integration 5. Payment and Accounting Integration",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:30.385478"
     },
     {
       "region_code": "gb",
@@ -528,8 +1392,17 @@
       "logo_url": "https://odoocdn.com/web/image/res.partner/18875114/image_128/Dreambits%20Tech%20Limited?unique=e667364",
       "about_text": null,
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.422878"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:30.767780"
     },
     {
       "region_code": "gb",
@@ -547,10 +1420,19 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/kontroll-solutions-ltd-23381734?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/23381734/image_128/KONTROLL%20SOLUTIONS%20LTD?unique=7689345",
-      "about_text": null,
+      "about_text": "Kontroll Solutions is a boutique Odoo and digital transformation consultancy helping organisations streamline operations, improve visibility, and reduce manual work. We specialise in designing and implementing cloud-based solutions across Accounting, Inventory, Purchasing, Manufacturing, and related workflows. From initial scoping and configuration through to data migration, integrations, and training, we work alongside your team to ensure Odoo reflects your real processes – not the other way around. Our experience spans energy, manufacturing, hospitality, and non-profit organisations, giving us a practical understanding of complex operational environments. Whether you are moving from spreadsheets and legacy systems or looking to optimise an existing Odoo deployment, Kontroll Solutions acts as a long-term partner, providing clear guidance, structured implementation, and continuous improvement.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.423337"
+      "industries_breakdown": [
+        {
+          "industry": "Education",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:31.044995"
     },
     {
       "region_code": "gb",
@@ -568,10 +1450,19 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/zero-uk-26321227?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/26321227/image_128/Zero%20%7C%20UK?unique=77625db",
-      "about_text": null,
+      "about_text": "We are \"The Odoo Experts\". We blueprint Odoo to built structural control by bringing operational clarity and give leadership the confidence to stop managing the mess and start leading the growth in the era of AI. Zero is a trusted International Odoo Partner established in 2019, delivering industry focused expertise that streamline operations, ensure compliance, and support scalable growth. With a proven methodology and international presence, we collaborate with clients across the globe. Our expertise spans key UK industries, including professional services, enabling businesses to boost productivity, reduce costs, and make smarter data-driven decisions with a scalable Odoo platform in the era of AI. Services Consulting Strategic analysis and system design to define structure, priorities, and the right Odoo architecture before execution. Standard Implementation Fast and structured deployment of Odoo using best-practice configurations for predictable, scalable operations. Custom Implementation Tailored Odoo system composition for complex businesses that require industry-specific workflows and governance. Custom Development Purpose-built extensions and integrations that enhance Odoo while preserving system stability and upgradeability. Support & Maintenance Ongoing system support to ensure performance, stability, and continuous improvement after go-live. Odoo Upgrades Safe and controlled upgrades that modernize your Odoo without disrupting operations or integrity. Coaching Expert guidance for teams to adopt Odoo correctly, make better system decisions, and avoid costly mistakes. Zero Apps Proprietary applications built by Zero to extend Odoo with proven functionality for specific operational needs.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.423768"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:31.306771"
     },
     {
       "region_code": "gb",
@@ -589,10 +1480,15 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/jonathan-stevens-22334798?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/22334798/image_128/Jonathan%20Stevens?unique=a7478bc",
-      "about_text": null,
+      "about_text": "Hassle-Free, Holistic IT Solutions for Modern Businesses At Resnovas , we specialise in delivering end-to-end IT solutions that empower businesses to thrive in a digital-first world. Our mission is simple: to make technology work seamlessly for you, so you can focus on what matters most - growing your business. What We Do We provide a comprehensive suite of services designed to cover every aspect of your IT needs: Web Hosting Solutions From WordPress hosting to shared hosting , VPS , and cloud services , we ensure your online presence is fast, secure, and reliable. Security & Performance Tools Protect and optimise your digital assets with website security , email security , VPN , SSL certificates , and SEO services that boost visibility and trust. Dedicated Development Support Our expert team offers tailored development assistance across all our services, ensuring your systems run smoothly and efficiently. Our Odoo Partnership As an official Odoo partner , we bring you the full power of Odoo’s business management platform - customised and deployed to fit your unique requirements. From CRM and ERP to inventory and finance, we help you unlock Odoo’s potential for streamlined operations. Why Choose Resnovas? Holistic Approach: All-in-one IT solutions tailored to your business. Cutting-Edge Technology: Stay ahead with modern, scalable systems. Expert Support: From implementation to ongoing maintenance, we’re with you every step of the way. Future-Ready: Our commitment to innovation ensures your business is prepared for tomorrow. Transform your business with Resnovas. Discover hassle-free IT solutions that unlock your true potential. 📞 Contact us today to learn more or book a consultation.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.424156"
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:31.660577"
     },
     {
       "region_code": "gb",
@@ -612,8 +1508,13 @@
       "logo_url": "https://odoocdn.com/web/image/res.partner/25806266/image_128/MARIGOLD%20AND%20MANGO%20LTD?unique=6aa2ebb",
       "about_text": null,
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.424537"
+      "industries_breakdown": [
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:31.896818"
     },
     {
       "region_code": "gb",
@@ -632,9 +1533,14 @@
       "profile_url": "https://www.odoo.com/partners/oasis-pro-limited-25138092?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/25138092/image_128/OASIS%20PRO%20LIMITED?unique=3b3b43b",
       "about_text": null,
-      "certifications_breakdown": [],
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.424926"
+      "scraped_at": "2026-04-09T07:51:32.137420"
     },
     {
       "region_code": "gb",
@@ -652,10 +1558,19 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/corekaar-ltd-24179442?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24179442/image_128/COREKAAR%20LTD?unique=58e43b2",
-      "about_text": null,
-      "certifications_breakdown": [],
+      "about_text": "We are a global ERP implementation partner and one of the most trusted Odoo ERP Ready Partners worldwide. Our mission is to help businesses transform the way they operate by improving data visibility, streamlining processes, enabling automation, and delivering real-time insights through fully tailored ERP solutions. Investing in ERP software is just the first step—true success comes from expert implementation. The right partner ensures flawless execution, deep industry alignment, and a solution that supports your long-term strategy. That’s where our team excels. With proven experience across Manufacturing, Supply Chain, Online Retail, Logistics, Professional Services, Wholesale & Distribution, Food & Beverage, and eCommerce, we deliver complete end-to-end Odoo ERP solutions for startups, mid-sized businesses, and global enterprises alike. Our team consists of certified Odoo Technical, Functional, and Techno-Functional specialists supported by seasoned Business Analysts, Subject Matter Experts, and ERP Consultants. We build scalable, future-ready systems with seamless integrations that enhance efficiency, accuracy, and operational agility. Our clients gain streamlined workflows, reduced costs, smarter decision-making, and a clear competitive edge in an ever-evolving market.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.425327"
+      "scraped_at": "2026-04-09T07:51:32.372362"
     },
     {
       "region_code": "gb",
@@ -673,10 +1588,15 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/proven-strategy-ltd-27911881?country_id=222",
       "logo_url": "https://odoocdn.com/web/image/res.partner/27911881/image_128/PROVEN%20STRATEGY%20LTD?unique=05338ea",
-      "about_text": null,
-      "certifications_breakdown": [],
+      "about_text": "In a world where businesses struggle between strategic vision and execution reality, we bridge that gap. As an Official Odoo Partner, we combine deep operations consulting with certified ERP implementation - from strategy through deployment, training, and ongoing support.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:50.425720"
+      "scraped_at": "2026-04-09T07:51:32.625321"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "region_code": "ro",
   "country_code": "RO",
   "country_name": "Romania",
-  "scraped_at": "2026-04-09T05:59:12.140828",
+  "scraped_at": "2026-04-09T07:53:27.101966",
   "total_partners": 17,
   "source_url": "https://www.odoo.com/partners/country/romania-182",
   "partners": [
@@ -22,10 +22,60 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/sostenia-srl-5350747?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/5350747/image_128/SOSTENIA%20S.R.L.?unique=de1e88d",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.133639"
+      "about_text": "Sostenia is a specialized software company, focused on enhancing business processes through Digital Transformation. As an Odoo Gold Partner we were honored with the Best Starter Europe award in 2022. With a high level of expertise and successful digitization projects, we offer End-to-End implementation, Business Consultancy for companies of every size or complexity and Process Automation. Our solution portfolio has only top partners: Odoo and SAP ERP Systems UiPath Robotic Process Automation (RPA) DRUID Intelligent ChatBots FieldOS ContentSpeed Ecommerce platform in-house software development tailored on the clients’ own requirements, such as CRM, TMS, DMS, SKU, WS and BI. In our projects we were able to successfully integrate Odoo ERP with UiPath Software Robots and DRUID Intelligent ChatBots, creating an automated workflow for our clients.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 8
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 7
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:21.406866"
     },
     {
       "region_code": "ro",
@@ -43,10 +93,48 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/terrabit-solutions-4307451?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4307451/image_128/TERRABIT%20Solutions?unique=20d5a84",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.134100"
+      "about_text": "Established in 2004, TERRABIT has been dedicated to delivering top-notch IT services and software development solutions. Despite being a small team, our mission is clear: to empower entrepreneurs by offering innovative IT solutions that support and enhance their business activities. At TERRABIT, we are passionate advocates of the Odoo platform and actively collaborate with other community members to drive its advancement. As part of our commitment to fostering growth and accessibility, we develop and provide localization modules free of charge, ensuring that businesses of all sizes can leverage the full potential of Odoo. With a focus on quality, innovation, and customer satisfaction, TERRABIT continues to be a trusted partner for businesses seeking reliable IT solutions to fuel their success.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 17
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 7
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Agriculture",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:21.804270"
     },
     {
       "region_code": "ro",
@@ -64,10 +152,48 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/sampa-mind-com-srl-4612629?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4612629/image_128/Sampa%20Mind%20Com%20SRL?unique=9f224da",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.134523"
+      "about_text": "Odoo / SAP integrator. Software house. Our company is an experienced business solutions provider having in depth knowledge of customer processes and business best practices. Years of experience gave us a unique perspective in addressing robust business process decisions for our customers, so that they can avoid pitfalls and also be ready for growth. Our consultants led, for a decade, the #1 SAP partner in Romania, having been through more than 100 implementation projects. Sampa Mind portfolio includes: Odoo consulting, integration, implementation services for SME's SAP consulting, integration, implementation services for large companies Own software solutions for medium-large companies Sampa Profitability Management Sampa Transportation Management Sampa Quality and Auditing Sampa Planning and Budgeting Sampa Electronic Bidding Sampa Business Processes Management Sampa Logistics Traceability Sampa Balanced Scorecard",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 6
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 7
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 6
+        },
+        {
+          "industry": "Other Services",
+          "count": 4
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:22.208561"
     },
     {
       "region_code": "ro",
@@ -85,10 +211,36 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/diginesis-5959059?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/5959059/image_128/Diginesis?unique=535348b",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.134941"
+      "about_text": "The Romanian-Belgian company Diginesis meets the increasingly growing needs for business software solutions of organizations acting in various fields. These organizations have acknowledged the necessity to make the production process more effective by using tailor made applications. Priding upon a vast local and international experience of the technical and managerial team, added to the professional ethics and client-oriented working way, Diginesis has succeeded to become a respected and successful name in the software product and service market. Thus, Diginesis identifies itself as: The unique representative and development partner of Protime, the European leader on workforce management solutions; Representative of Odoo solution in Romania, solution that has enabled Odoo to become one of the fast growing company in the world; A software development partner for top companies all over Europe.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 6
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 6
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:22.750033"
     },
     {
       "region_code": "ro",
@@ -106,10 +258,44 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/dakai-soft-srl-68680?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/68680/image_128/DAKAI%20SOFT%20SRL?unique=858f1ea",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.135366"
+      "about_text": "Dakai develops and implements B2B software solutions for business resource management, with experience on the market since 2007. We constantly adapt to the technological requirements of the market, in this way we develop solutions that standardize internal resource management processes, with the aim of reducing costs, eliminating losses financial from the work flow and the efficiency of human resource management within a business.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 3
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:23.226268"
     },
     {
       "region_code": "ro",
@@ -127,10 +313,40 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/bisstech-srl-847206?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/847206/image_128/BISSTECH%20SRL?unique=1e72f9f",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.135791"
+      "about_text": "Our company is Odoo partner since 2013 and promotes cutting-edge ICT technologies in SMEs at national and at European level. We develop and automate customers business with the Odoo management software. We implement innovative solutions by means of process optimization, simulation technology, integrated business management tools, advanced maths and simulation. Thus, we foster the increase of productivity and the cost reduction in the companies of our customers, driving the consolidation of their market position. Our customers can choose between in-house or in-cloud ERP solutions.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 6
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:23.499758"
     },
     {
       "region_code": "ro",
@@ -148,10 +364,31 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/capps-ai-srl-23875682?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/23875682/image_128/CAPPS%20AI%20S.R.L.?unique=edd432d",
-      "about_text": null,
+      "about_text": "CAPPS (Cyber Advanced Project & Product Solutions), also known by our brand Capps.ai , is now an official Odoo Partner in Romania , headquartered in Timișoara . As a technology company with deep roots in cloud, software development, AI, DevOps, and cybersecurity, we bring a unique capability: we don’t just implement Odoo — we integrate it into your digital ecosystem . What We Do as Odoo Partner Odoo Implementation & Integration — We deliver modules (CRM, Sales, Inventory, Manufacturing, Accounting, HR etc.) tailored to your needs and fully integrated into your existing systems. Localization & Compliance — We ensure ANAF-compliant accounting flows, eFactura/eTransport, Romanian payroll, legal reporting — everything you need to run in Romania. AI & Automation Enhancements — Using our Capps.ai brand, we enrich your Odoo setup with intelligent automations, data insights, and AI-driven optimization. End-to-End Tech Services — Beyond Odoo: cloud infrastructure, DevOps pipelines, security audits, custom software, team augmentation — making CAPPS a full-stack technology partner. Industry Focus & Experience — We have experience across sectors: retail / POS, hospitality (restaurants, cafés), mobility & automotive (e.g. integrations with POS, back-office systems) Why Choose CAPPS as Your Odoo Partner Advantage Description Local & Compliant Deep understanding of Romanian fiscal, legal, and HR regulation ensures your Odoo system operates legally and efficiently. Technical Depth As a tech company, we don’t stop at configuration — we integrate, extend, and future-proof your stack. Scalable & Cloud-Ready We build with modern infrastructure (cloud deployments, DevOps, CI/CD) to support growth. Customer-Centric We tailor implementation strategies (from lean MVP to full-scale rollout) depending on your resources and objectives. Timișoara Base with National Reach You benefit from local presence for support & consulting, but also from a partner with national and international capabilities.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.136200"
+      "industries_breakdown": [
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:23.901426"
     },
     {
       "region_code": "ro",
@@ -169,10 +406,36 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/redbee-software-srl-11599106?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/11599106/image_128/Redbee%20Software%20SRL?unique=f8e7133",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.136617"
+      "about_text": "Succesul tău este prioritatea noastră. La Redbee, ne asigurăm că vei primi serviciile potrivite nevoilor tale. Cu o experiență de peste 6 ani în industria IT, noi știm că alegerea partenerului potrivit nu înseamnă doar competențe tehnice, ci obținerea de rezultate. Mai întâi business-ul, apoi tehnologia, deoarece oferim servicii de IT & Consultanță care se aliniază strategiei tale, nu invers. Expertiza noastră Odoo include: Consultanță Odoo & Analiză de business Implementare & Integrare Personalizare & Dezvoltare Suport continuu & Optimizare Migrare & Upgrade-uri Și multe altele Suntem o companie certificată ISO 9001:2015 și ISO 27001:2013 , cu operațiuni în Cluj-Napoca (România) și entități legale în Marea Britanie (Londra) și Statele Unite (New York), astfel garantăm calitate, securitate și conformitate la standarde internaționale. Suntem pregătiți să fim partenerul tău de încredere. Contactează-ne la: office@redbeesoftware.com ____________________________ Your success is our priority. At Redbee, we make sure you receive services tailored to your needs. With over 6 years of experience in the IT industry, we know that choosing the right partner is not just about technical skills, but about delivering results. Business first, technology next, as we provide IT & Consulting services that serve your strategy, not the other way around. Our Odoo expertise includes: Odoo Consulting & Business Analysis Implementation & Integration Customization & Development Ongoing Support & Optimization Odoo Migration & Upgrades And so much more We are an ISO 9001:2015 and ISO 27001:2013 certified company , with operations in Cluj-Napoca (Romania) and legal entities in the UK (London) and the US (New York), to support international collaboration and compliance. We’re excited to be your partner and eager to get started. Contact us at: office@redbeesoftware.com",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:24.406520"
     },
     {
       "region_code": "ro",
@@ -192,8 +455,21 @@
       "logo_url": "https://odoocdn.com/web/image/res.partner/9466623/image_128/INSIGHT%20AGENCY%20SRL?unique=ee95550",
       "about_text": null,
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.137030"
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:24.700159"
     },
     {
       "region_code": "ro",
@@ -211,10 +487,32 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/matteale-consulting-services-srl-15573651?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/15573651/image_128/MATTEALE%20CONSULTING%20SERVICES%20SRL?unique=a05fa63",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.137453"
+      "about_text": "What sets us apart: 🚀 Expertise in Digital Transformation and Business Strategy: We’ve been driving innovation and growth for businesses since 2020. Our strategies are tailored to your unique needs. -> We know how to align technology with your business goals to achieve lasting success. 📊 Strong Consulting Team with Industry Experience: Our consultants bring years of experience across various industries, ensuring solutions that are both practical and effective. -> We translate complex challenges into actionable strategies that deliver results. 🔍 Focus on Operational Excellence: We don’t just advise; we implement. Our focus is on creating efficient, scalable, and sustainable operations. -> This ensures that your business can thrive in the long term. 🛠️ Agile and Adaptable Approach: Whether it's a comprehensive digital transformation or a specific business challenge, we approach every project with agility. -> We are committed to delivering solutions that adapt to your evolving business needs. 🌍 Global Reach, Local Expertise: With successful projects in multiple countries, we combine global insights with local expertise to drive your business forward. -> Wherever your business operates, we’re there to support your growth. We for you - Our services: Consulting: Strategic consulting is the cornerstone of successful transformation. Business Strategy Development Digital Transformation Planning and Execution Change Management Training and Workshops Custom Solutions Development Integration with Existing Systems Services: We’re here for you, every step of the way. Project Management and Implementation Technical Support and Maintenance Dedicated Account Managers Vendor Management and Integration Support Financial Services: Driving financial efficiency and compliance. Financial Strategy and Planning Compliance with International Standards Cash Flow Management and Optimization Let's discuss how we can elevate your business. Matteale Consulting – Your Partner in Success! https://matteale.com",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:24.988295"
     },
     {
       "region_code": "ro",
@@ -232,10 +530,27 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/liftup-solutions-srl-18376735?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/18376735/image_128/Liftup%20Solutions%20SRL?unique=26ab9e0",
-      "about_text": null,
+      "about_text": "LiftUp your business with Odoo: simple, integrated and efficient. ⬆️ At LiftUp, we guide Romanian SMEs through a clear, structured digital transformation using Odoo. You don’t need multiple disconnected systems anymore. The LiftUp Journey: Assess, Implement, Support We start by assessing your current processes. Then we configure, migrate, and integrate Odoo seamlessly. Finally, we provide continuous support and help you evolve. Many businesses never get beyond spreadsheets, fragmented tools, or custom software that doesn’t talk to each other. That leads to errors, wasted time, and lack of clarity. Boost Your ROI with LiftUp & Odoo What our clients typically achieve: Cut costs by up to 30% with streamlined processes Get faster insights with real-time, centralized data Reduce errors by 50%+ , freeing your team for growth LiftUp delivers Odoo solutions that drive efficiency, clarity, and scalable growth, so you can focus on what really matters: growing your business. Let’s schedule your free assessment today or, contact us to see how Odoo fits your business.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.138072"
+      "industries_breakdown": [
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:25.206932"
     },
     {
       "region_code": "ro",
@@ -253,10 +568,28 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/cmg-nexa-srl-24600189?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24600189/image_128/CMG%20NEXA%20S.R.L.?unique=1349a57",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.138548"
+      "about_text": "We are a young, dynamic IT company established in Romania with talents working remotely across Europe. Founded to bring enterprise level professionalism to a market segment often overlooked by multinational corporations. From building custom software and solutions to cybersecurity expertise we are proud to have clients from Romania, Italy, Germany and United States. We believe in integrity, creativity and responsibility, delivering results that exceed expectations.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:25.558538"
     },
     {
       "region_code": "ro",
@@ -274,10 +607,20 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/logit-consulting-solutions-srl-22293485?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/22293485/image_128/LOGIT%20CONSULTING%20SOLUTIONS%20SRL?unique=3588eca",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.138979"
+      "about_text": "​ LOGIT was founded in 2012 by a team of experts with many years of experience in information technology and software engineering , specializing in the application of these fields across various sectors. Our extensive industry knowledge, particularly in managing complex data systems, enables us to deliver tailored solutions that meet the highest standards of quality. Together with our trusted partners, we provide top-tier software services and solutions. ​Our mission is to enhance our clients' profitability by optimizing business processes, improving productivity, profitability, and performance, thus increasing overall competitiveness through the use of leading software solutions. At the core of our operations are the values of professionalism, expertise, and accessibility. LOGIT places a strong emphasis on education and raising IT awareness and knowledge, as we believe that knowledge is the most valuable asset of any organization. ​In the realm of software and technology solutions, we are involved in a wide range of international projects, spanning from the initial stages of planning, analysis, and design, to the ongoing maintenance and support of solutions. LOGIT’s team comprises experts with substantial experience in delivering complex solutions for large-scale projects in multinational and multilingual environments across Europe, the United States, and the Middle East. For more information, visit: www.logit-solutions.com",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:25.863018"
     },
     {
       "region_code": "ro",
@@ -294,11 +637,21 @@
       "references_count": "2",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/new-peaks-srl-24589135?country_id=182",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/24589135/image_128/NEW%20PEAKS%20S.R.L.?unique=f267f67",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/24589135/image_128/NEW%20PEAKS%20S.R.L.?unique=6fe69bd",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.139467"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:26.134770"
     },
     {
       "region_code": "ro",
@@ -316,10 +669,24 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/softberry-digital-srl-22099567?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/22099567/image_128/SOFTBERRY%20DIGITAL%20S.R.L.?unique=765c832",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.139942"
+      "about_text": "Digitalizarea nu trebuie să doară. La Softberry Digital facem digitalizarea accesibilă. Suntem o echipă tânără și energică, iar ca partener oficial Odoo ajutăm IMM-urile și companiile să implementeze un ERP clar, modern și ușor de adoptat. Ne implicăm alături de clienți, eliminăm complexitatea și configurăm Odoo astfel încât să funcționeze exact pentru nevoile lor. Programează o discuție și vezi cum te putem ajuta. Softberry Digital",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:26.382850"
     },
     {
       "region_code": "ro",
@@ -337,10 +704,10 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/ambit-romania-srl-24594783?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24594783/image_128/AMBIT%20ROMANIA%20S.R.L.?unique=0c59c78",
-      "about_text": null,
+      "about_text": "Ambit Romania is a consulting and software implementation company, specialized in optimizing and digitalizing business processes through ERP solutions and integrated technologies. As part of Ambit Group, with headquarters in Switzerland and presence in six countries, we deliver high-quality business transformation projects based on a deep understanding of both local and international operations. With more than 10 years of experience in Microsoft Dynamics 365 Finance & Supply Chain Management and a growing focus on Odoo ERP, our team offers end-to-end implementation services, business process consultancy, and system integration for organizations of all sizes and industries. Our solution portfolio includes: • Odoo ERP – full-cycle implementation and customization • Microsoft Dynamics 365 Finance & Supply Chain Management • Power BI – business analytics and reporting • System integration and automation through APIs and custom developments By combining our ERP expertise with business knowledge and technical innovation, we help our clients achieve efficiency, transparency, and sustainable growth in their digital transformation journey.",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.140291"
+      "scraped_at": "2026-04-09T07:53:26.603681"
     },
     {
       "region_code": "ro",
@@ -358,10 +725,10 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/dprime-innovate-srl-26198653?country_id=182",
       "logo_url": "https://odoocdn.com/web/image/res.partner/26198653/image_128/DPRIME%20INNOVATE%20S.R.L.?unique=0ef7027",
-      "about_text": null,
+      "about_text": "Your Trusted Odoo ERP Partner in Romania Strategy, Implementation & Growth 📞 0765 804 885 | 📩 contact@dprimeinnovate.com | 🌐 https://dprimeinnovate.com At DPrime Innovate, we deliver more than software — we build scalable business systems powered by Odoo. From process analysis to custom development, we help companies digitalize operations, automate workflows, and gain real-time visibility across departments. Reliable. Transparent. Results-driven. As an official Odoo Partner, we combine business consulting with technical excellence to design ERP solutions that fit the way your company actually works. Our goal is simple: reduce operational costs, improve efficiency, and give you full control through one integrated platform. Certified Odoo expertise End-to-end ERP implementation Local business understanding + global best practices Scalable architecture for growing companies Long-term support and optimization Process Consulting & Analysis Turn complexity into clarity before implementation. We audit your workflows, identify inefficiencies, and design optimized business processes before configuring Odoo. This ensures your ERP supports growth instead of recreating old bottlenecks. Dedicated Project Leadership One point of responsibility. Zero confusion. A dedicated project manager coordinates teams, timelines, and risks — ensuring transparent communication and smooth delivery from discovery to go-live. Odoo ERP Implementation Deploy Odoo the right way — aligned with your business. We configure and tailor Odoo modules to unify sales, operations, accounting, inventory, HR, and more into a single source of truth. Automation & Integration Eliminate manual work through smart connectivity. Automate repetitive tasks and connect Odoo with local and global tools using APIs, integrations, and real-time data synchronization. Custom Development When standard ERP isn’t enough. We develop custom Odoo modules, workflows, and interfaces to match unique business requirements while keeping scalability and upgradeability in mind. Training & Continuous Support Adoption is everything. We train your team, provide documentation, and offer continuous support so your Odoo system remains stable, secure, and optimized as your company grows. Why companies choose us Strong mix of business consulting + technical expertise Transparent implementation methodology Proven ERP experience across industries Focus on measurable outcomes and ROI Long-term partnership approach, not one-time projects",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:12.140638"
+      "scraped_at": "2026-04-09T07:53:26.846058"
     }
   ]
 }

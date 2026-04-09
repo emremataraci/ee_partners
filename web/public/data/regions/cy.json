@@ -2,7 +2,7 @@
   "region_code": "cy",
   "country_code": "CY",
   "country_name": "Cyprus",
-  "scraped_at": "2026-04-09T05:58:20.326690",
+  "scraped_at": "2026-04-09T07:48:29.597142",
   "total_partners": 6,
   "source_url": "https://www.odoo.com/partners/country/cyprus-54",
   "partners": [
@@ -22,10 +22,60 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/eplan-consultants-ltd-3236072?country_id=54",
       "logo_url": "https://odoocdn.com/web/image/res.partner/3236072/image_128/Eplan%20Consultants%20Ltd?unique=a51cc91",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:20.324397"
+      "about_text": "Eplan Consultants Ltd was established in Cyprus in 2010 with the vision to be the leading cloud consultant and cloud services provider in Cyprus and in the region. We are a team of professionals with several years of work experience in the Information Technology and Telecommunications sector, doing consulting, development, training, implementation and design on project base or otherwise for various companies in Cyprus and abroad.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 11
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 10
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 5
+        },
+        {
+          "industry": "Other Services",
+          "count": 5
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:26.847132"
     },
     {
       "region_code": "cy",
@@ -43,10 +93,20 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/longrange-enterprises-ltd-21512896?country_id=54",
       "logo_url": "https://odoocdn.com/web/image/res.partner/21512896/image_128/LongRange%20Enterprises%20Ltd.?unique=7db52f7",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:20.324835"
+      "about_text": "LongRange Ltd. is an IT Consultant & Solutions Architect, with HQ in Limassol - Cyprus, and offices in Egypt, we have a very special focus on the Mediterranean Region. As IT Professionals, we believe we are in the business of facilitating the availability of world recognized, well tested standards that would enhance and enrich the means business is made in compliance with Global Requirements and Standards. From there; we strongly emphasize our own philosophy of knowing more everyday & developing our Know-How to serve our customers through top notch technologies and in more advanced ways, the direction we take is to team with world market leaders in the areas we cover. Through continuous communication with our partners and customers We provide the best understanding, knowledge and capabilities to optimally serve the needs &and challenges of modern business needs and regulations.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:27.417070"
     },
     {
       "region_code": "cy",
@@ -64,10 +124,44 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/4sight-group-ltd-cyprus-6177910?country_id=54",
       "logo_url": "https://odoocdn.com/web/image/res.partner/6177910/image_128/4Sight%20Group%20ltd.%20Cyprus?unique=99b2a51",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:20.325301"
+      "about_text": "4Sight Group is a multidisciplinary group based in Malta and Cyprus with the capacity to provide a plethora of services all related to the IT & Digital sector. 4Sight Group was established in 2007 and to date supports both the private and the public sectors. 4Sight Group operates internationally and supports customers in Malta, Cyprus, Italy, Ireland, UK and Morocco. Our Mission Our goal is to support companies in the challenges of Digital Transformation , providing consultative and strategic support and practical and operational. We analyse your company, understand its needs and develop effective solutions that allow you to reduce costs and waste, increase efficiency, increase customer satisfaction and increase your revenue. We believe that it is essential to put passion and experience serving customers, becoming not only a service provider but a trusted partner always at your side to help you manage digital transformation with awareness.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:27.763057"
     },
     {
       "region_code": "cy",
@@ -85,10 +179,52 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/logosnet-services-limited-3680912?country_id=54",
       "logo_url": "https://odoocdn.com/web/image/res.partner/3680912/image_128/Logosnet%20Services%20Limited?unique=23b9c16",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:20.325746"
+      "about_text": "Logosnet Services LTD was founded in 1995 and it was the first Internet Service Provider (ISP) , and amongst the first Information Technology Services Providers entering the Cyprus market. The company caters the needs of both the end-user as well as the corporate/government sector with a complete range of Information Technology services and solutions which are innovative, technologically advanced, secured, scalable, productive and effectively supported by our highly qualified professionals. Through a number of strong strategic alliances with global technological leaders, Logosnet Services LTD is poised to offer the most high-end and effective e-business solutions by remaining abreast of latest technology advancements and gaining access to the necessary technological insight, professional training and support. Logosnet premises and primary hosting and development service facilities are located in Nicosia, the capital of Cyprus and the centre of operations for organisations and institutions of the local corporate / business, government and educational sectors. Logosnet was selected by global international carriers to provide them with all the necessary telehouse services for establishing their PoP (Point of Presence) in Cyprus enabling them to expand their operations to the local market and the EMEA region and local institutions and organisations for their software implementation needs. With best practices in place Logosnet assures the highest level of availability, confidentiality and integrity to clients with mission critical equipment and sensitive operations. Physical prevention and detection security measures coupled with the expertise personnel, professionalism and cost effective solutions is making Logosnet the first choice for one stop shop for all your IT needs.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Science & Technology",
+          "count": 5
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:28.260129"
     },
     {
       "region_code": "cy",
@@ -106,10 +242,15 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/soft-g-co-ltd-26386280?country_id=54",
       "logo_url": "https://odoocdn.com/web/image/res.partner/26386280/image_128/Soft%20G%20Co.%20Ltd?unique=3a658d1",
-      "about_text": null,
+      "about_text": "SoftG was established in Cyprus in 2013 with the vision of becoming a leading cloud solution provider in Cyprus. SoftG operates as part of AR ComputerG Co. Ltd , benefiting from a strong group foundation and extended technical expertise. Our team consists of highly skilled professionals with many years of experience in the Information Technology and IT sector. We provide services including IT and cloud consulting, software development, POS Solutions, system design, implementation, and professional training , delivered on a project basis or through long-term partnerships.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:20.326158"
+      "industries_breakdown": [
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:28.678539"
     },
     {
       "region_code": "cy",
@@ -127,10 +268,19 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/business-revolution-pc-ltd-9151261?country_id=54",
       "logo_url": "https://odoocdn.com/web/image/res.partner/9151261/image_128/Business%20Revolution%20PC%20Ltd?unique=5bb1f4b",
-      "about_text": null,
+      "about_text": "Business Revolution PC Ltd , established in 2005, is a dynamic IT solutions provider based in Cyprus, serving more than 300 clients across healthcare, law, accounting, education, public sector, and trading industries. We deliver end-to-end technology services through five core business units: IT Support & Solutions, Security, Software Development, Managed Print Services, and Telecommunications. In recent years, we’ve expanded our footprint through strategic investments, including majority ownership of KCM Telecom and full acquisition of MelaniCyprus.com , enhancing our capabilities in cloud telephony and e-commerce for printer supplies. Our mission is to eliminate IT-related frustrations and bring back the excitement of running a business by providing secure, cost-effective, and reliable technology ecosystems. With a strong focus on sustainability , data protection , and business continuity , we offer tailored services such as: Cloud & on-premises infrastructure ERP and accounting software aligned with Cyprus tax compliance Custom software development Cybersecurity consulting and virtual CISO services Structured cabling and data center setup Cloud PBX and unified communications Document and print management, including MPS and secure disposals We are a trusted partner for businesses seeking IT innovation, system integration, and strategic advisory. Whether you're transforming digitally or optimizing existing infrastructure, Business Revolution is your reliable IT ally.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:20.326559"
+      "industries_breakdown": [
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:29.083987"
     }
   ]
 }

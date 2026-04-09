@@ -2,7 +2,7 @@
   "region_code": "rs",
   "country_code": "RS",
   "country_name": "Serbia",
-  "scraped_at": "2026-04-09T05:59:13.149380",
+  "scraped_at": "2026-04-09T07:53:28.846007",
   "total_partners": 2,
   "source_url": "https://www.odoo.com/partners/country/serbia-49",
   "partners": [
@@ -22,10 +22,51 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/modoolar-984196?country_id=49",
       "logo_url": "https://odoocdn.com/web/image/res.partner/984196/image_128/Modoolar?unique=cdc5d3e",
-      "about_text": null,
+      "about_text": "Discover Modoolar, the pioneering Odoo Gold Partner in Southeast Europe, with over 15 years of unparalleled expertise and a robust alliance with Odoo SA to deliver cutting-edge, intuitive business solutions that skyrocket profitability and operational efficiency. Specializing in implementing international complex projects that demand deep business analysis and bespoke development, we serve as your ultimate partner for seamless Odoo implementations tailored for SMEs and enterprises worldwide. Our full spectrum of premium services includes in-depth business analysis, strategic consulting, hands-on user training, custom development, DevOps/infrastructure support and dedicated ongoing maintenance — ensuring streamlined processes across key areas like CRM, Sales, Accounting, Retail and HRMS. With a proven, client-first methodology centered on simplicity, innovation, and efficiency, we deliver projects on time and within budget, empowering businesses to thrive in competitive global markets. As of 2024, we've established a US presence and are actively expanding operations across North America to bring our expertise closer to new markets. Partner with us and transform your vision into reality.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:13.148614"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 12
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 8
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 7
+        },
+        {
+          "industry": "Education",
+          "count": 6
+        },
+        {
+          "industry": "Other Services",
+          "count": 5
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:27.991428"
     },
     {
       "region_code": "rs",
@@ -43,10 +84,24 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/logit-20859535?country_id=49",
       "logo_url": "https://odoocdn.com/web/image/res.partner/20859535/image_128/LOGIT?unique=ef3ab3e",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:13.149154"
+      "about_text": "Logit provides end-to-end Odoo implementation and support, helping organizations integrate and optimize their core business processes. Building on years of experience with Odoo and decades of industry expertise, our team delivers reliable and scalable solutions aligned with each client’s business goals. Our approach combines strong technical expertise with deep business understanding. Through detailed business process analysis, solution design, custom development, user training, and ongoing support, we ensure smooth implementations and measurable results for our clients. The Logit team brings together experienced consultants, developers, and industry specialists who work closely with organizations to understand their operational challenges and translate them into effective digital solutions. By partnering closely with our clients, Logit helps companies increase efficiency, reduce operational complexity, and gain greater transparency and control across their business processes. Our goal is to turn Odoo into a stable and flexible foundation that supports long-term growth and continuous improvement.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:28.577054"
     }
   ]
 }

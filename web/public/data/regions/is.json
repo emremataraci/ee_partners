@@ -2,7 +2,7 @@
   "region_code": "is",
   "country_code": "IS",
   "country_name": "Iceland",
-  "scraped_at": "2026-04-09T05:58:54.830948",
+  "scraped_at": "2026-04-09T07:51:48.627492",
   "total_partners": 2,
   "source_url": "https://www.odoo.com/partners/country/iceland-105",
   "partners": [
@@ -22,10 +22,56 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/exigo-ehf-3510346?country_id=105",
       "logo_url": "https://odoocdn.com/web/image/res.partner/3510346/image_128/Exigo%20ehf.?unique=b75665b",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:54.830198"
+      "about_text": "Exigo hefur sérhæft sig í Odoo lausnum frá 2014 og við búum yfir mikill reynslu og þekkingu á Odoo lausnum. Hafðu samband við okkur og við aðstoðum ykkur við val á réttum lausnum sem hentar ykkar umhverfi og rekstri. Odoo hentar fyrirtækjum af öllum stærðum og gerðum og frábær lausn fyrir íslenskan markað. Odoo lausnirnar hjálpa fyrirtækjum að ná árangri með bókhaldskerfi og upplýsingakerfum sem er auðveld í notkun, búa yfir mikilli sjálfvirkni og þægilegu viðmóti sem auðvelt er að læra á og að nota. Frekari upplýsingar er að finna á vefnum okkar: https://www.exigo.is",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 5
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 3
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:46.874477"
     },
     {
       "region_code": "is",
@@ -43,10 +89,40 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/boðleið-þjonusta-ehf-6621770?country_id=105",
       "logo_url": "https://odoocdn.com/web/image/res.partner/6621770/image_128/Bo%C3%B0lei%C3%B0%20%C3%BEj%C3%B3nusta%20ehf?unique=31553aa",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:54.830693"
+      "about_text": "Boðleið er þjónustufyrirtæki í upplýsingatækni sem býður upp á fjölbreyttar rekstrarlausnir fyrir daglegan rekstur fyrirtækja. Rekstarlausnir Boðleiðar innihalda fjarskipti, netkerfi, net og gagnaöryggi, viðskiptahugbúnað, bókhaldsþjónustu og almenna tækniþjónustu. Boðleið er einnig með mikið úrval tæknibúnaðar eins og IP símtæki, heyrnartól, fjarfundabúnað, net og tölvubúnað. Boðleið hefur gert Odoo kerfið framúrskarandi á íslenskum markaði með þróun sinni á séríslenskum lausnum s.s. tengingum við skattinn, greiðslugáttir, bankana, þjóðskrá og íslenska skeytamiðlanir og margt fleira. Við hjá Boðleið erum sérfræðingar í að greina þarfir þíns reksturs, hjálpa þér að skilja alla möguleika sem koma til greina og svo í kjölfarið, koma öllum tæknimálum fyrirtækisins á besta mögulega stað. Það kostar ekkert að kynna sér málið betur! Taka samtalið við Boðleið Lesa meira um Odoo kerfið Öll starfsemi Boðleiðar miðar að því að vinna með fyrirtækjum í átt að einfaldari, sjálfvirkari, meira upplýsandi, öruggari og hagkvæmari upplýsingatækni. Boðleið gerir þetta með því að bjóða bestu lausnirnar með tilliti til kostnaðar. Boðleið gerir þetta einnig með því að veita framúrskarandi, persónulega þjónustu og ráðgjöf. Til að ná markmiðum okkar þá hófum við samstarf við Odoo. Boðleið is an IT service company which offers various IT solutions for companies day to day operations. The solutions are telecommunications, network operation, cyber and data security, business software, acconting service and technical assistance. Boðleið also offers equipment like IP phones, headsets, teleconferencing-, network- and computer equipment. Boðleið main goal is to make IT simple, with automation, more informative, more secure and cost effective. Boðleið achieves this by system integration and to offer the best solutions with regards to cost. Boðleið also focuses on offering the most excellent and personal service and consulting possible. To achieve our goals we partnered up with Odoo.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:47.160098"
     }
   ]
 }

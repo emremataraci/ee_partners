@@ -2,7 +2,7 @@
   "region_code": "se",
   "country_code": "SE",
   "country_name": "Sweden",
-  "scraped_at": "2026-04-09T05:59:14.179568",
+  "scraped_at": "2026-04-09T07:53:31.704014",
   "total_partners": 5,
   "source_url": "https://www.odoo.com/partners/country/sweden-189",
   "partners": [
@@ -22,10 +22,56 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/linserv-ab-857764?country_id=189",
       "logo_url": "https://odoocdn.com/web/image/res.partner/857764/image_128/Linserv%20AB?unique=a41dff3",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:14.177503"
+      "about_text": "Since 2002 Linserv has been helping companies and organisations to implement Open Source technology and systems. We provide our customers with both Business applications and IT infrastructure service. In this way we effectively bridge \"the gap\" between good infrastructure and good business solutions. Our goal is to be the obvious choice for companies that want a comprehensive IT partner who takes responsibility for the entire solution. Through our unique expertise and collaboration with leading distributors of services and equipment, we offer comprehensive IT services. We make Open Source easy. <https://youtu.be/jY7apYTyEAo?si=ud7Pqliz_swvjjas >",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 4
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 9
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 5
+        },
+        {
+          "industry": "Other Services",
+          "count": 5
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 4
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 3
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:29.945060"
     },
     {
       "region_code": "se",
@@ -43,10 +89,48 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/ucs-onedo-ab-21483030?country_id=189",
       "logo_url": "https://odoocdn.com/web/image/res.partner/21483030/image_128/UCS%20OneDo%20AB?unique=07bbe91",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:14.178135"
+      "about_text": "UCS OneDo är experter på Odoo, vi hjälper företag att digitalisera, effektivisera och växa – med lösningar som anpassas helt efter verksamhetens behov. Som certifierad Odoo Partner i Sverige erbjuder vi ett komplett tjänsteutbud – från rådgivning, implementation och integration till utbildning och löpande support. Tack vare vår kombinerade expertis inom affärssystem och ekonomi kan vi även tillhandahålla outsourcad redovisning direkt i Odoo, vilket ger en sömlös och effektiv ekonomihantering. Vi ser till att ditt Odoo-system fungerar smidigt, är skräddarsytt för din verksamhet och fortsätter att utvecklas i takt med dina mål. På UCS OneDo tror vi att teknik ska vara enkel, tydlig och skapa verkligt värde. Vårt uppdrag är att göra affärssystemet till ett verktyg som underlättar vardagen — inte ett hinder. UCS OneDo AB är specialiserade på tjänster kring Odoo. Bolaget hjälper företag att välja, implementera och förvalta hela eller delar av Odoo-plattformen, med fokus på systemanalys, implementation, integrationer, utbildning och support Vår ambition på UCS Group är att alla våra kunder erbjuds lösningar, produkter och tjänster efter deras behov och budget.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 5
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:30.516924"
     },
     {
       "region_code": "se",
@@ -64,10 +148,24 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/implefy-ab-2484628?country_id=189",
       "logo_url": "https://odoocdn.com/web/image/res.partner/2484628/image_128/Implefy%20AB?unique=ff33aee",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:14.178614"
+      "about_text": "IT and ERP systems have as a foundation to simplify everyday work for companies, allowing them to focuse on their core business. Nevertheless often ERP system becomes complex fast and inflexible. They require integration to different systems which makes both time and cost run away. We are a hungry and young company that share a passion for simplifying things and strive for developing towards the basic principle of ERP systems. Where the system is adjusted to your company rather than the other way around. One of the benefits of Odoo is that Implefy has access to the source code and therefore has the possibility to truly customize the system. Odoo is one of the fastest growing ERP systems currently on the market, and we at Implefy want to be a part and drive the evolution further.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:30.791829"
     },
     {
       "region_code": "se",
@@ -85,10 +183,10 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/flyt-consulting-as-16725795?country_id=189",
       "logo_url": "https://odoocdn.com/web/image/res.partner/16725795/image_128/Flyt%20Consulting%20AS?unique=26aeac0",
-      "about_text": null,
+      "about_text": "Flyt is a Gold Partner in Norway with extensive ERP experience, and they deliver full projects also in Sweden, including full accounting localization. They focus on the mid-size market with clients of typical size 25-500 employees. Contact syver@flytconsulting.no or call +4790669234 if you need a properly run Odoo project and a long term partner that can help you stay sharp also in the long run.",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:14.178984"
+      "scraped_at": "2026-04-09T07:53:31.118193"
     },
     {
       "region_code": "se",
@@ -106,10 +204,10 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/sprintit-oy-10995730?country_id=189",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10995730/image_128/Sprintit%20Oy?unique=f618f8c",
-      "about_text": null,
+      "about_text": "Do you think implementing ERP takes forever? Not with us! Your challenge is our challenge, and we solve it agilely step by step. We provide you with a solution that supports your growth and makes your work life better and smoother. SprintIT has been selected among the top three Odoo suppliers in Europe two years in a row, and we have been an Odoo Gold Partner in Finland since 2018. Your ERP project is in good hands with us!",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:14.179361"
+      "scraped_at": "2026-04-09T07:53:31.457097"
     }
   ]
 }

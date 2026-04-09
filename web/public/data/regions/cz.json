@@ -2,7 +2,7 @@
   "region_code": "cz",
   "country_code": "CZ",
   "country_name": "Czech Republic",
-  "scraped_at": "2026-04-09T05:58:21.258736",
+  "scraped_at": "2026-04-09T07:48:33.863349",
   "total_partners": 8,
   "source_url": "https://www.odoo.com/partners/country/czech-republic-55",
   "partners": [
@@ -22,10 +22,64 @@
       "certified_experts_count": "8",
       "profile_url": "https://www.odoo.com/partners/systee-sro-13106057?country_id=55",
       "logo_url": "https://odoocdn.com/web/image/res.partner/13106057/image_128/Systee%20s.r.o.?unique=3b19a68",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:21.255723"
+      "about_text": "Jsme Systee, technologická společnost založená lidmi, kteří se ERP systémům věnují desítky let – jako konzultanti, vývojáři i manažeři velkých implementačních projektů. Působíme především v České republice, máme týmy v Praze a Brně. Jsme jediným Odoo Gold partnerem v České republice a vyvíjíme také českou legislativu pro Odoo , která pokrývá všechny jeho klíčové oblasti, a to tak, aby byla vždy aktuální, dlouhodobě udržitelná u velkého počtu zákazníků a nevyžadovala individuální zásahy. Naším cílem je přinést českým firmám moderní ERP platformu, která dokáže nahradit roztříštěné systémy a propojit finance, obchod, výrobu, projekty i CRM do jednoho funkčního celku. Klíčové vlastnosti našeho řešení české legislativy: plná kompatibilita vždy s aktuální verzí => snadný přechod na novou verzi ​🛠️ Maximální využití vnitřních principů systému Odoo (žádné vlastní evidence) jednoduchá aktualizovatelnost => snadná aktualizace na novou verzi 📦 ​Samostatně instalovatelné balíčky => používáte jen to, co potřebujete kompatibilita s Odoo.s​h i provozem on-premise Zajímá vás, co náš legislativní balíček pokrývá? Navštivte Česká legislativa pro Odoo | Systee Chcete více informací o Systee, našich službách a naší legislativě? Kontaktujte nás nebo navštiv naše webové stránky www.systee.cz",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        },
+        {
+          "version": "Certified v18",
+          "count": 4
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 17
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 15
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 14
+        },
+        {
+          "industry": "Other Services",
+          "count": 12
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 7
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 6
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 5
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 4
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 3
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:30.526442"
     },
     {
       "region_code": "cz",
@@ -43,10 +97,64 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/origamis-sro-12101140?country_id=55",
       "logo_url": "https://odoocdn.com/web/image/res.partner/12101140/image_128/ORIGAMIS%20s.r.o.?unique=1844f9c",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:21.256292"
+      "about_text": "Poskládáme pro vás skvělý IT systém Jsme Origamis , certifikovaný Odoo partner a nadšení odborníci na digitalizaci firemních procesů. Pomáháme malým podnikům i rostoucím společnostem naplno využít potenciál Odoo – s minimem úprav a maximální péčí. Na čem si zakládáme Známe Odoo do detailu ERP systém Odoo máme v malíčku – máme za sebou desítky implementací v Česku i zahraničí. M áme vlastní programátorský tým Vše řešíme interně. Od drobných úprav až po vývoj nových aplikací na míru. P řizpůsobujeme Odoo českému trhu Vyvíjíme moduly pro české účetnictví, fakturaci, logistiku i napojení na lokální služby. J ednáme na rovinu Jsme féroví. Řekneme vám i to, kdy pro vás Odoo nemusí být to pravé řešení. Naše služby od A do Z Navrhneme řešení podle vašich procesů, systém přizpůsobíme, nasadíme a zaškolíme váš tým. Umíme si poradit i s migrací dat nebo složitějšími úpravami na míru. Po nasazení jsme dál k ruce a pomáháme vám systém dlouhodobě rozvíjet. Naše služby podrobně Česká lokalizace od Origamis Přizpůsobujeme Odoo českému prostředí tak, aby splňovalo všechny požadavky českého účetnictví a legislativy. Díky pravidelným aktualizacím a vlastnímu vývoji vám zajišťujeme, že vaše Odoo bude vždy aktuální a připravené na změny v legislativě. Základní účetnictví Základ, bez kterého je fungování v moderním světě lehce složitější / České překlady a specifická pole České QR Částečný odpočet záloh Standard českého čísla účtu Česká zálohová faktura Export plateb do internetového bankovnictví Základní logika pro český daňový systém Daňové číselníky Pole pro specificky daňové potřeby Základní přiznání k DPH Kontrolní a Souhrnné hlášení Daňové odpisy Daňové učetnictví Daňová povinnost se týká všech, ale proč to dělat složitě A další doplňkové moduly lokalizace nebo dopravců. Podívejte se na všechny naše moduly Naše zkušenosti: Za Origamis stojí tým Odoo konzultantů, vývojářů a projektových manažerů, kteří Odoo opravdu rozumí. Aktivně se vzděláváme, testujeme nové funkce a sdílíme zkušenosti s komunitou. Máme za sebou desítky implementací napříč odvětvími – od výroby a obchodu až po služby a IT. Pomáháme malým firmám růst a větším firmám zjednodušit složité procesy. Naši klienti oceňují naši systematičnost, rychlou reakci i lidský přístup . Chcete poskládat Odoo řešení, které vám opravdu sedne? Rádi si s vámi popovídáme o tom, co pro vás můžeme udělat. Kontaktujte nás",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:31.202933"
     },
     {
       "region_code": "cz",
@@ -64,10 +172,60 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/26house-sro-2896590?country_id=55",
       "logo_url": "https://odoocdn.com/web/image/res.partner/2896590/image_128/26HOUSE%20s.r.o.?unique=22e9b83",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:21.256738"
+      "about_text": "Jsme Odoo Partner pro Českou a Slovenskou republiku. Již více než 10 let pomáháme společnostem s digitální transformací a implementací ERP Odoo pro segment středních a velkých podniků. Poskytujeme LOKALIZACI ÚČETNICTVÍ dle české a slovenské legislativy. Podporujeme Odoo Open Source komunitu a přizpůsobujeme řešení pro verzi Odoo Enterprise. Věříme, že Odoo je ta správná All-in-one platforma, kterou kdy budete potřebovat pro řízení svého podnikání. • LOKALIZUJEME pro Vás webstránku Odoo.com a překládáme Odoo Enterprise moduly • ROZŠIŘUJEME náš tým konzultantů, analytiků, developerů, testerů a neustále pracujeme na užitečných rozšířeních Odoo podle potřeb našich zákazníků a jejich specifických procesů. • SPOJUJEME systémy v jeden celek. Vytvořili jsme mnohé konektory s nejpoužívanějšími nástroji třetích stran (POHODA, FinStat, Profesia, Humanet,..) • VZDĚLÁVÁME se neustále a pravidelně pro Vás připravujeme interaktivní webináře a tréninková videa dostupná bezplatně pro všechny: Odoo Czech & Slovak • BUDUJEME dobré a férové vztahy s klienty, partnery, dodavateli a zaměstnanci s cílem dlouhodobé a úspěšné spolupráce Naše služby: ByznysAnalýza | GAP Analýza | Instalace | Konfigurace | Customizace | Integrace | Migrace | Vlastní vývoj Odoo modulů | Školení | Podpora a údržba | Pronájem Odoo konzultantů, analytiků a vývojářů Online Účetnictví v Odoo: 26HOUSE Účetnictví Fakturujte v Odoo ZDARMA: 26HOUSE Faktura Získejte odpovědi, které potřebujete: 26HOUSE Zákazníci Rezervujte si bezplatnou demo prezentaci s námi: 26HOUSE Demo V roce 2021 jsme získali ocenění Odoo Community Awards: BEST TRANSLATOR",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 4
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 11
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Mining & Quarrying",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:31.730604"
     },
     {
       "region_code": "cz",
@@ -86,9 +244,14 @@
       "profile_url": "https://www.odoo.com/partners/technodat-develop-sro-24477459?country_id=55",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24477459/image_128/Technodat%20Develop%2C%20s.r.o?unique=efa3e6d",
       "about_text": null,
-      "certifications_breakdown": [],
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        }
+      ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:21.257084"
+      "scraped_at": "2026-04-09T07:48:32.092110"
     },
     {
       "region_code": "cz",
@@ -106,10 +269,52 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/dype-5636305?country_id=55",
       "logo_url": "https://odoocdn.com/web/image/res.partner/5636305/image_128/Dype?unique=76d9256",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:21.257487"
+      "about_text": "[find the English version below] Po můžeme v ám vy užít O DOO na ma ximum. J sme pro gresivní dat a-účetní f irma . Na če ském t rhu vy nikáme s vou sch opností pr opojit fi nance, d ata a tech nologie. Co umíme? Ch ytrá impl ementace O DOO O doo přiz působíme v ašim fi remním pr ocesům t ak, a by při nášelo sku tečnou ho dnotu. Na pr ojekt se dí váme n ejen tech nologicky, a le t aké o čima fin ančních a da tových konz ultantů. Nav rhneme cust omizace, k teré op ravdu fu ngují. Kon zultace s hod inovým C FO Po c elou d obu impl ementace bu dete m ít př ístup ke zku šenému C FO, k terý v ám po může opti malizovat fi nanční ří zení. P lná int egrace do ch ytré infr astruktury D YPE O doo pro pojujeme s nás troji, k teré už ve f irmě vyu žíváte. V aše d ata sje dnotíme a vyt voříme kom plexní a pře hledný sy stém. Kom pletní p éče o fi nance Ch cete pře nechat ří zení fi nancí prof esionálům? Na bízíme 360° fi nanční sl užby : úče tnictví, cont rolling, da tovou ana lytiku, B I, man ažerské úče tnictví i sl užby hod inového C FO. Opti malizace fir emních pr ocesů p ro \" AI d obu\" Při vádíme v aše roz hodování do n ové é ry. Po máháme v ám do stávat kv alitní a vč asné inf ormace d íky da tům, k ódu a u mělé inte ligenci. Fun gujeme j ako ex terní fi nanční od dělení p ro tu zemské i zah raniční st artupy a sc aleupy a tech nologické fi rmy . M ezi na šimi kl ienty na jdete ro stoucí fi rmy, j ako je n apř. Ni ceboy, Val atron, Fa bini n ebo Ap ify , nez iskové org anizace, a le i or gány st átní sp rávy (Po slanecká sn ěmovna Č R). Co zí skáte s D YPE? Spo jujeme šp ičkové úč etní a C FO sl užby s vl astním tech nologickým ře šením . Vyt vořili j sme apl ikaci, k terá pro pojuje ve škeré fi nanční nás troje, d ata a pr ocesy do je dnotné s mart infra struktury , s v íce n ež s to inte grovanými ná stroji a AI co- pilotem. U míme fi nance. U míme d ata. U míme tech nologie. Po můžeme v ám zje dnodušit pod nikání a zl epšit fi nanční zd raví v aší fi rmy. Kontaktujte nás Proč DYPE? ⭐ Jediná firma specializující se na účetnictví v Odoo v ČR a SR 🦸 Lídr digitální transformace v oblasti podnikových financí ✔️ Ready certifikovaný partner v14, v15 a v16 💡 Znalost Odoo od roku 2020 ⚙️ Vývoj vlastních účetních modulů a přizpůsobení Odoo vašim potřebám 📊 Finance od A do Z: od základního účetnictví přes BI reporty až po CFO level 🤖 Důraz na digitalizaci, využití dat a automatizace Kontaktujte nás Vybraní klienti, jejichž finance a účetnictví spravujeme v Odoo: Naši službu můžete snadno škálovat a rádi vás podpoříme při expanzi do zahraničí. Proto pokud hledáte zkušeného dlouhodobého partnera, který se vám o finance v Odoo postará opravdu profesionálně a moderně, jste na správném místě. Domluvte si konzultaci zdarma Jsme spolehlivý partner Jsme lídr v digitalizaci podnikových financí a jediná účetní firma v ČR a SR specializující se účetnictví v Odoo. ✔️ 150+ spokojených klientů včetně startupů, scaleupů, neziskovek i státních institucí 🏆 TOP 5 účetní firma roku 2022 🌍 Mezinárodní ocenění a účast ve finále V4 Startup Force a SASK Awards DYPE: Your specialist for accounting in Odoo We a re a pro gressive data- accounting f irm . On t he C zech ma rket, we s tand o ut f or o ur ab ility to co nnect fi nance, d ata, a nd tec hnology. Smart Odoo Implementation We ta ilor O doo to y our bu siness pro cesses to en sure it de livers r eal va lue. We ap proach e ach pr oject n ot o nly f rom a tech nological per spective b ut a lso th rough t he l ens of fin ancial a nd d ata con sulting. We de sign cust omizations t hat t ruly w ork. Consultations with an Hourly CFO Thr oughout t he impl ementation pr ocess, yo u'll h ave ac cess to an exp erienced C FO w ho w ill h elp op timize y our fin ancial man agement. Full Integration into the DYPE Smart Infrastructure We int egrate O doo w ith t he t ools y ou al ready u se in y our co mpany. We u nify y our d ata to cr eate a comp rehensive a nd tra nsparent sy stem. Comprehensive Financial Services W ant to l eave fin ancial man agement to t he prof essionals? We o ffer 360° fin ancial ser vices, inc luding acc ounting, cont rolling, d ata ana lytics, B I, man agerial acc ounting, a nd ho urly C FO ser vices. Process Optimization for the \"AI Era\" We b ring y our decis ion-making i nto t he n ew a ge. We h elp y ou ac cess high -quality, ti mely inf ormation th rough d ata, c ode, a nd art ificial inte lligence. We w ork w ith do mestic a nd inte rnational st artups a nd sca le-ups . A mong o ur cl ients a re fast -growing com panies l ike Ni ceboy, Val atron, Fa bini, a nd Ap ify , as w ell as non -profit orga nizations a nd gov ernments ( such as t he Ch amber of De puties of t he C zech Rep ublic). What Do You Get with DYPE? We co mbine to p-tier acc ounting a nd C FO se rvices w ith o ur pro prietary tech nological sol ution. W e've dev eloped an app lication t hat int egrates a ll fin ancial to ols, d ata, a nd pro cesses i nto a un ified s mart finance infra structure , fea turing o ver 100 int egrated t ools a nd an AI co- pilot. ​ Why DYPE? ⭐ The only company specializing in Odoo accounting in the Czech Republic and Slovakia 🦸 Leader of digital transformation in the field of corporate finance ✔️ Ready certified partner for v14, v15 and v16 💡 Knowledge of Odoo from 2020 ⚙️ Development of custom accounting modules and customization of Odoo to meet your needs 📊 Finance from A to Z: from basic accounting to BI reports to CFO level 🤖 Emphasis on digitalization, data usage and automation Our selected clients whose finance and accounting we manage in Odoo: You can easily scale our service and we will be also glad to support your business in expanding abroad. So if you're looking for an experienced long-term partner who can take care of your finances in Odoo in a truly professional and modern way, you've come to the right place. Schedule a free consultation We Are a Reliable Partner We are a leader in the digitalization of corporate finance and the only accounting firm in the Czech Republic and Slovakia specializing in Odoo accounting. ✔️ 150+ satisfied clients, including startups, scale-ups, non-profits, and government institutions 🏆 TOP 5 Accounting Firm of the Year 2022 🌍 International recognition and participation in the finals of V4 Startup Force and SASK Awards",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:32.353528"
     },
     {
       "region_code": "cz",
@@ -128,9 +333,39 @@
       "profile_url": "https://www.odoo.com/partners/engtech-14775748?country_id=55",
       "logo_url": "https://odoocdn.com/web/image/res.partner/14775748/image_128/EngTech?unique=eef2502",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:21.257892"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:32.983247"
     },
     {
       "region_code": "cz",
@@ -148,10 +383,28 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/digital-resources-13846291?country_id=55",
       "logo_url": "https://odoocdn.com/web/image/res.partner/13846291/image_128/Digital%20Resources?unique=2577f0d",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:21.258284"
+      "about_text": "Digital Resources je technologická společnost působící v oblasti ICT (informačních a komunikačních technologií). Poskytujeme profesionální služby v oblasti implementace podnikových informačních systémů, IT podpory a komplexních IT řešení. Proč si vybrat právě nás? Dlouholeté zkušenosti​ Na trhu působíme od roku 1997 a máme více než 350 tisíc stabilních zákazníků Vlastní technologie Vyvinuli jsme systém Intuo – Company Intelligence , který firmám pomáhá řídit a vyhodnocovat klíčové procesy. Silná pozice na trhu Aktivně působíme ve více než 19 zemích Evropy a staráme se o více než 14 tisíc spokojených uživatelů. Komplexní ICT služby Implementujeme DMS/ECM, CRM/BPM a ERP systémy, čímž firmám pomáháme s digitalizací a automatizací . Jaké jsou naše hodnoty? Spolupráce nás baví a o to víc, když vidíme výsledky . Za každým logem je příběh, řešení výzev a společný posun vpřed. Zde jsou příklady našich zákazníků, kterým dodáváme informační technologie a IT služby: Kontaktujte nás Zvažujete Odoo? Neváhejte nás kontaktovat, rádi si s Vámi domluvíme schůzku. Kontaktní formulář E-mail: info@digres.cz Tel.: +420 281 090 141 LinkedIn Facebook X",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:48:33.266695"
     },
     {
       "region_code": "cz",
@@ -169,10 +422,15 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/datastruct-sro-24913711?country_id=55",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24913711/image_128/DataStruct%20s.r.o.?unique=c0fa497",
-      "about_text": null,
-      "certifications_breakdown": [],
+      "about_text": "DataStruct s.r.o. is an Odoo implementation partner that brings together enterprise ERP delivery and applied machine learning — a combination no other Czech partner offers. We help manufacturing, logistics, and retail companies replace fragmented systems with a single, connected Odoo platform — then layer on predictive intelligence: demand forecasting, inventory optimization, warehouse slotting, and 3D bin packing that feed directly into Odoo workflows. We operate from Prague, at the heart of the Czech-German-Polish logistics triangle, serving clients across Europe and the Gulf region. What sets us apart: Odoo + AI in one engagement — Odoo handles the workflow, our forecasting engine handles the math. Demand models, reorder point optimization, and supplier reliability analysis feed directly into Odoo Procurement, Inventory, and MRP. SAP-to-Odoo migrations — Knowledge-graph-driven dependency mapping and AI-assisted custom module development. Proven 84% ERP cost reduction, 14-week migration timelines. Quantified results — 94% forecast accuracy, 41% inventory reduction, 45% warehouse productivity improvement, 40% spoilage reduction for perishables. Full-stack delivery — From requirements and GAP analysis through go-live, training, and ongoing support. 30+ Odoo modules deployed across clients. We specialize in Odoo Enterprise deployments for operations-heavy businesses — companies where inventory, procurement, manufacturing, and warehouse management are the core of the business, not just back-office functions.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:21.258631"
+      "scraped_at": "2026-04-09T07:48:33.611531"
     }
   ]
 }

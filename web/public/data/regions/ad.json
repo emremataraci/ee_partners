@@ -2,7 +2,7 @@
   "region_code": "ad",
   "country_code": "AD",
   "country_name": "Andorra",
-  "scraped_at": "2026-04-09T05:58:00.582456",
+  "scraped_at": "2026-04-09T07:46:30.662055",
   "total_partners": 3,
   "source_url": "https://www.odoo.com/partners/country/andorra-1",
   "partners": [
@@ -22,10 +22,44 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/bdr-group-slu-22015187?country_id=1",
       "logo_url": "https://odoocdn.com/web/image/res.partner/22015187/image_128/BDR%20GROUP%20SLU?unique=3ad5fcc",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:00.581276"
+      "about_text": "Impulsa tu negocio con BDR GROUP, expertos en Odoo En BDR GROUP llevamos más de seis años ayudando a empresas como la tuya a digitalizarse con Odoo. Somos partners oficiales y especialistas en implementación, personalización y soporte , adaptando el ERP a tus procesos reales para que funcione como tú necesitas. Con oficinas en Barcelona y Andorra , trabajamos con compañías de todos los sectores, optimizando desde la gestión financiera y el CRM, hasta la producción, logística y más . Nuestro objetivo es claro: que tu negocio gane en eficiencia, control y escalabilidad. Apostamos por la innovación, la cercanía y resultados reales . Transforma tu empresa con nosotros.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:46:29.404761"
     },
     {
       "region_code": "ad",
@@ -43,10 +77,27 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/panideas-slu-20923395?country_id=1",
       "logo_url": "https://odoocdn.com/web/image/res.partner/20923395/image_128/PANIDEAS%20SLU?unique=6402f5f",
-      "about_text": null,
+      "about_text": "Panideas S.L.U. es una empresa de consultoría especializada en la transformación digital. Como partner oficial de Odoo, implementamos soluciones integrales adaptadas a las necesidades reales de cada empresa, con un enfoque estratégico y orientado a resultados. Acompañamos a nuestros clientes en la mejora de sus procesos internos mediante la implementación de módulos clave como Ventas, Compras, Inventario, Contabilidad, CRM, Fabricación y muchos más… así como en el desarrollo de su presencia online gracias a herramientas de eCommerce y marketing digital. Nuestro valor añadido reside en la combinación de tecnología, experiencia y creatividad para generar un impacto real en la eficiencia operativa y el crecimiento comercial de las organizaciones que confían en nosotros. Es momento de hacer evolucionar tu empresa. ¿Empezamos?",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:00.581793"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:46:29.797607"
     },
     {
       "region_code": "ad",
@@ -64,10 +115,28 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/process-control-technology-andorra-24934006?country_id=1",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24934006/image_128/Process%20Control%20Technology%20Andorra?unique=5888831",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:00.582285"
+      "about_text": "Process Control neix el 1985 amb el desig de crear un model de relació comercial basat en la confiança, la transparència, la integritat i el compromís amb la satisfacció dels nostres clients. Aquest model comercial ha demostrat ser exitós al llarg dels anys, i un clar exemple d’això és haver estat guardonat amb el premi Best Partner Europe 2025.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:46:30.153935"
     }
   ]
 }

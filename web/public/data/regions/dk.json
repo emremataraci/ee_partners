@@ -2,7 +2,7 @@
   "region_code": "dk",
   "country_code": "DK",
   "country_name": "Denmark",
-  "scraped_at": "2026-04-09T05:58:27.285926",
+  "scraped_at": "2026-04-09T07:49:13.568744",
   "total_partners": 6,
   "source_url": "https://www.odoo.com/partners/country/denmark-58",
   "partners": [
@@ -22,10 +22,60 @@
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/flyt-consulting-as-14319474?country_id=58",
       "logo_url": "https://odoocdn.com/web/image/res.partner/14319474/image_128/Flyt%20Consulting%20AS.?unique=6fa4c1f",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:27.283388"
+      "about_text": "Når I vælger Odoo, har I allerede truffet et klogt valg. Det næste handler om at finde den rigtige partner, som forstår jeres forretning og dansk lovgivning, tør udfordre jer og leverer en løsning, der holder. Hos Flyt Consulting får I mere end teknisk ekspertise. I får en ærlig og erfaren samarbejdspartner med dyb forretningsforståelse, stærke økonomikompetencer og mere end 25 års erfaring med ERP-løsninger. Vi er tidligere kendt som FlexERP og i dag den største danske Odoo-partner, med lokal tilstedeværelse i både Danmark og Norge. Vi er samtidig den eneste danske Silver Partner og medlem af Best Odoo Partners-alliancen (BOP), hvor vi samarbejder, deler viden og erfaringer på tværs af landegrænser, til fordel for jer. Vi tror på ægte forretningsforståelse, ærlig rådgivning og robuste løsninger. Vi siger nej, når det er det rigtige for jeres projekt. Vi bygger på standard, og vi udvikler kun, når det skaber reel værdi. På den måde undgår I teknisk gæld og sikrer, at Odoo forbliver let at opgradere og vedligeholde. Vores Odoo-løsninger er godkendt som digitalt bogføringssystem under den danske bogføringslov (FOB-nr.: fob709278). Det betyder, at I trygt kan bruge Odoo som jeres bogføringssystem, uden behov for ekstra “Danmarkspakker” eller unødvendige tilpasninger. Klar til at få det fulde udbytte af Odoo? Lad os tage en uforpligtende snak om jeres behov og ambitioner. Vi hjælper jer hele vejen med indsigt, ærlighed og forretningsmæssig tyngde, så I kommer i mål med en løsning, der både virker og giver mening. Kontakt os i dag ​Book en demo​ Følg os på LinkedIn​ Flyt Consulting - Strømlin driften, saml alt i ét ERP",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 9
+        },
+        {
+          "industry": "Other Services",
+          "count": 6
+        },
+        {
+          "industry": "Agriculture",
+          "count": 4
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 4
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 3
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Real Estate",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:49:10.768779"
     },
     {
       "region_code": "dk",
@@ -43,10 +93,56 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/vk-data-aps-724251?country_id=58",
       "logo_url": "https://odoocdn.com/web/image/res.partner/724251/image_128/VK%20DATA%20ApS?unique=4393c48",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:27.283911"
+      "about_text": "Hos VK DATA ApS har vi siden 1994 været førende inden for levering af ERP-løsninger og digital transformation i Danmark. Som den første Odoo-partner i landet siden 2010, og nu som certificerede Odoo Silver Partnere, specialiserer vi os i skræddersyede ERP-løsninger, der imødekommer de specifikke behov for hver enkelt af vores kunder. Vores dybe forståelse og erfaring med både Odoo og deres tilgang gør os i stand til at tilbyde effektive og tilpassede løsninger. Den nye bogføringslov Som den første Odoo-partner i Danmark, godkendt for fuld overensstemmelse med den nye bogføringslov, tilbyder vi vores kunder sikkerhed og tryghed i deres regnskabsprocesser, sikrede at alle løsninger opfylder gældende lovgivning. Tilpassede ERP-løsninger Vores mål er at optimere operationel effektivitet og understøtte vækst for virksomheder af alle størrelser. Fra enkle systemer til små virksomheder til avancerede løsninger for større organisationer, sikrer vi en problemfri overgang og maksimal tilpasning til kundens behov. Sikkerhed og support Sikkerheden er højeste prioritet for os, derfor er alle vores løsninger hostet i EU-certificerede datacentre. Vi tilbyder en omfattende supportpakke, inklusive backup-håndtering og adgang til de seneste opdateringer og vedligeholdelse gennem Odoo, sikrende at dit system altid er ajourført og tilpasset dine behov. Vælg VK DATA som din partner Som din partner i digital transformation er VK DATA dedikeret til at sikre, at din Odoo-løsning ikke blot opfylder, men overgår dine forventninger. Lad os sammen tage skridtet mod en mere effektiv og innovativ fremtid. Kontakt os for at høre, hvordan vi kan hjælpe med at transformere din virksomhed med Odoo. Bogføringshjælp: https://vkdata.dk/bogfoeringshjaelp Hjemmeside: odoo.vkdata.dk Book en demo Kontakt os Book en potentialeafklaring",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 11
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 10
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 8
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 5
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 5
+        },
+        {
+          "industry": "Other Services",
+          "count": 5
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Agriculture",
+          "count": 2
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:49:11.347356"
     },
     {
       "region_code": "dk",
@@ -64,10 +160,52 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/odoo-house-aps-1089501?country_id=58",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1089501/image_128/Odoo%20House%20ApS?unique=e436624",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:27.284388"
+      "about_text": "At Odoo House, we are 100% focused on Odoo. We have worked with Odoo since 2010 and have gained extensive knowledge of the system. Our team consists of specialists who are ready to assist you with all types of tasks related to Odoo. Our goal is to continuously expand the possibilities within Odoo, ensuring that the system can be used optimally by Danish companies – always in full compliance with Danish standards and legislation. We value equal and respectful collaboration above all. You are always welcome to contact us for a conversation about Odoo. Read much more on our website Odoo House. Approved by the Danish Buisness Authority: fob390962",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 11
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 10
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 10
+        },
+        {
+          "industry": "Other Services",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 4
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:49:11.958125"
     },
     {
       "region_code": "dk",
@@ -85,10 +223,40 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/itpilot-aps-5220462?country_id=58",
       "logo_url": "https://odoocdn.com/web/image/res.partner/5220462/image_128/Itpilot%20ApS?unique=2f8efd0",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:27.284839"
+      "about_text": "Din certificerede Odoo-partner itpilot er et dansk softwareudviklings- og konsulenthus, der siden 2008 har hjulpet virksomheder med digital transformation og online tilstedeværelse. Med base i Viborg leverer virksomheden skræddersyede løsninger inden for websites, webshops, ERP og PIM. Bag itpilot står et team på mere end 20 specialister, der sikrer, at hver løsning er tilpasset kundens specifikke behov. Som certificeret Odoo-partner hjælper itpilot virksomheder fra forskellige brancher med at implementere og optimere deres Odoo-løsninger. Gennem Odoo’s brancheløsninger tilpasses systemet den enkelte virksomheds industri og forretningsbehov. Effektiv systemintegration med Odoo For mange virksomheder er det afgørende, at deres forskellige it-systemer fungerer problemfrit sammen. itpilot tilbyder derfor både rådgivning og implementering af integrationer mellem Odoo og andre it-systemer. Hvis der er behov for specialudviklede integrationer, kan itpilot også levere skræddersyede løsninger. Med erfaring siden 2008 har virksomheden udviklet et bredt udvalg af integrationer til forskellige it-systemer. Odoopilot – Et godkendt bogføringssystem itpilot står bag Odoopilot , en Odoo-løsning, der er godkendt af Erhvervsstyrelsen som bogføringssystem. Dette gør det muligt for virksomheder at benytte et godkendt bogføringssystem gennem Odoopilot. Odoopilot har FOB-nr.: fob913960 Fokus på høj it -sikkerhed Sikker håndtering af data er en kerneværdi hos itpilot, hvilket understreges af virksomhedens ISAE 3402 Type 2-erklæring. Denne erklæring dokumenterer, at der er effektive interne kontroller på plads, så data håndteres sikkert og i overensstemmelse med gældende lovgivning. Dermed kan kunder være trygge ved, at deres processer og informationer opbevares ansvarligt. Langsigtede samarbejder itpilot lægger vægt på at skabe langsigtede samarbejder med kunderne, hvor de fungerer både som strategiske rådgivere og eksekverende partnere. Formålet er at udvikle fremtidssikrede løsninger, der sikrer en solid og velfungerende it-platform for deres kunder. Kontakt og yderligere information Virksomheder, der ønsker at optimere deres forretning med Odoo, kan kontakte itpilot for en uforpligtende samtale eller booke en demo for at få indsigt i, hvordan Odoo kan skabe værdi. Kontakt Book en demo",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:49:12.514656"
     },
     {
       "region_code": "dk",
@@ -106,10 +274,27 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/forgeflow-danmark-aps-5404480?country_id=58",
       "logo_url": "https://odoocdn.com/web/image/res.partner/5404480/image_128/Forgeflow%20Danmark%20ApS?unique=cd550d7",
-      "about_text": null,
+      "about_text": "Digitalisér din virksomhed med ForgeFlow Hos ForgeFlow er vi en international IT-konsulentvirksomhed med kontorer i Barcelona og København , specialiseret i at hjælpe producenter og distributører med deres digitale omstilling. Vi er officiel Odoo-partner i både Spanien og Danmark , og vi støtter virksomheder i at tilpasse sig en stadig mere kompleks og foranderlig verden med effektive, skalerbare og skræddersyede teknologiske løsninger. Vi arbejder med Odoo som vores foretrukne platform for digital transformation. Vi har været Odoo-partnere siden 2014 , og vores certificerede team placerer os blandt de 10 største globale bidragsydere til udviklingen af Odoo-applikationer. 👉 Se vores moduler på Odoo Apps Vi har gennemført mere end 50 projekter verden over og er udviklerne bag Demand Driven MRP-modulet til Odoo , som er certificeret af Demand Driven Institute. 📄 Se den officielle certificering 🚀 Klar til at transformere din virksomhed? Vi hjælper dig med at digitalisere dine nøgleprocesser og optimere din forsyningskæde med løsninger, der passer til din vækst. Du har to måder at komme i gang på: 🔧 Prøv selv ForgeFlow Cloud Udforsk en personlig demo af Odoo i skyen, og opdag alt det, du kan opnå fra første øjeblik. 👉 Prøv ForgeFlow Cloud nu 📞 Kontakt vores team Vil du hellere tale med en ekspert og få hjælp trin for trin? Vi er her for at hjælpe dig. 👉 Kontakt os ⭐ Hvad siger vores kunder? ★★★★★ – “Livet før ForgeFlow var kaotisk. De hjalp os med at forstå, hvordan Odoo kunne understøtte forretningen, og hvordan processerne kunne gentænkes – takket være deres store erfaring og deres dygtige udviklere.” – Morten Petersen • Grundlægger af Hobbii A/S ★★★★★ – \"ForgeFlow har en god forståelse af de danske lovkrav og har hjulpet os med at gøre vores ERP-system fuldt ud kompatibelt.\" – Nathalie Brogaard • Chief Digital Officer ★★★★★ – “Når din virksomhed vokser, bliver alle operationer mere komplekse. At vide, at man har et team, der er klar til at hjælpe døgnet rundt, og som man kan kommunikere med, som om de sad på den anden side af skrivebordet, er en stor fordel for vores team.” – Emil Reeh • Medstifter og CEO for CPH Grooming ★★★★★ – “ForgeFlow har vundet vores fulde tillid. De har hjulpet os med at gennemføre en omfattende digital transformation af vores koncern, ved at integrere vores interne processer samt samarbejdet med leverandører og kunder – altid med rettidig levering og fremragende kvalitet.” – Morten Holm • Grundlægger og CEO for MOHO Group ApS ★★★★★ – “ForgeFlow tilbyder en unik kombination af fremragende teknisk ekspertise og evnen til at forstå, hvad vi forsøger at opnå inden for områder som lagerstyring, økonomi og regnskab eller produktion.” – Christian S. Eversull, MD • Grundlægger og CEO for Aust Manufacturing 👉 Vores kunder taler for sig selv. Læs vores kundecases og se, hvordan vi har hjulpet virksomheder som din med at øge deres operationelle effektivitet.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:27.285258"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:49:12.828710"
     },
     {
       "region_code": "dk",
@@ -128,9 +313,35 @@
       "profile_url": "https://www.odoo.com/partners/overblikk-as-17821790?country_id=58",
       "logo_url": "https://odoocdn.com/web/image/res.partner/17821790/image_128/Overblikk%20A-S?unique=c2d251e",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:27.285707"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:49:13.229682"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "region_code": "xk",
   "country_code": "XK",
   "country_name": "Kosovo",
-  "scraped_at": "2026-04-09T05:59:17.973760",
+  "scraped_at": "2026-04-09T07:53:44.091382",
   "total_partners": 4,
   "source_url": "https://www.odoo.com/partners/country/kosovo-315",
   "partners": [
@@ -22,10 +22,19 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/easysolutions-shpk-27355887?country_id=315",
       "logo_url": "https://odoocdn.com/web/image/res.partner/27355887/image_128/EasySolutions%20SHPK?unique=a06233f",
-      "about_text": null,
+      "about_text": "Easysolutions është kompani e specializuar në implementimin, personalizimin dhe mbështetjen e sistemeve ERP, me fokus të veçantë në Odoo. Si partner zyrtar i Odoo në Kosovë, ne ndihmojmë bizneset të digjitalizojnë proceset e tyre, të rrisin efikasitetin operacional dhe të përmirësojnë menaxhimin e përgjithshëm të kompanisë. Ne ofrojmë zgjidhje të plota për: Kontabilitet dhe Financa Shitje dhe CRM Menaxhim të Inventarit dhe Magazinës Prokurim Prodhim Burime Njerëzore E-commerce Menaxhim Projektesh Ekipi ynë kombinon ekspertizën teknike me përvojën praktike në biznes, duke ofruar implementim të strukturuar, trajnim profesional dhe mbështetje të vazhdueshme. Qëllimi ynë është të ofrojmë zgjidhje të personalizuara që përshtaten me nevojat specifike të çdo klienti. Në Easysolutions, ne besojmë se transformimi digjital nuk është vetëm instalim softueri – është optimizim i proceseve dhe krijim i vlerës reale për biznesin. 📍 Shërbejmë në të gjithë Kosovën dhe rajonin.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.972304"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:43.157055"
     },
     {
       "region_code": "xk",
@@ -46,7 +55,7 @@
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.972717"
+      "scraped_at": "2026-04-09T07:53:43.429260"
     },
     {
       "region_code": "xk",
@@ -64,10 +73,10 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/numinco-solutions-28174740?country_id=315",
       "logo_url": "https://odoocdn.com/web/image/res.partner/28174740/image_128/Numinco%20Solutions?unique=7bae030",
-      "about_text": null,
+      "about_text": "ENG: Numinco Solutions is a company specialized in ERP implementation, Business Intelligence, and advanced IT solutions for businesses aiming to improve efficiency and drive growth. As an official Odoo partner, we provide full implementation, configuration, customization, and ongoing support for clients in Kosovo and beyond. Our services include business process analysis, solution design, Odoo ERP implementation, integration with existing systems, and advanced reporting. We help companies automate operations, increase transparency, and make faster, data-driven decisions in real time. With experience across industries such as retail, distribution, manufacturing, and services, our team combines technical expertise with strong business understanding. Based in Kosovo and working internationally, we deliver direct support and practical solutions that create real value for our clients, covering fiscal and operational requirements. ALB: Numinco Solutions është kompani e specializuar në implementimin e sistemeve ERP, Business Intelligence dhe zgjidhjeve të avancuara IT për biznese që synojnë rritje dhe efikasitet operacional. Si partner zyrtar i Odoo, ofrojmë implementim të plotë, konfigurim, zhvillim të personalizuar dhe mbështetje të vazhdueshme për klientët në Kosovë dhe më gjerë. Shërbimet tona përfshijnë analizën e proceseve të biznesit, dizajnimin e zgjidhjeve të përshtatura, implementimin e Odoo ERP, integrime me sisteme ekzistuese dhe zhvillimin e raporteve të avancuara. Ne ndihmojmë kompanitë të automatizojnë operacionet, të rrisin transparencën dhe të marrin vendime të bazuara në të dhëna në kohë reale. Me përvojë në industri të ndryshme si retail, distribucion, prodhim dhe shërbime, ekipi ynë kombinon ekspertizë teknike me kuptim të proceseve biznesore. Të vendosur në Kosovë dhe aktivë edhe ndërkombëtarisht, ofrojmë mbështetje të drejtpërdrejtë dhe zgjidhje praktike që sjellin vlerë reale për klientët, duke mbuluar kërkesat fiskale dhe operacionale.",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.973179"
+      "scraped_at": "2026-04-09T07:53:43.619977"
     },
     {
       "region_code": "xk",
@@ -85,10 +94,10 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/zero-kosovo-10157619?country_id=315",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10157619/image_128/Zero%20%7C%20Kosovo?unique=88595cb",
-      "about_text": null,
+      "about_text": "We are \"The Odoo Experts\". We blueprint Odoo to built structural control by bringing operational clarity and give leadership the confidence to stop managing the mess and start leading the growth in the era of AI. Zero is a trusted International Odoo Partner established in 2019, delivering industry focused expertise that streamline operations, ensure compliance, and support scalable growth. With a proven methodology and international presence, we collaborate with clients across the globe. Our expertise spans key KOSOVO industries, including professional services, enabling businesses to boost productivity, reduce costs, and make smarter data-driven decisions with a scalable Odoo platform in the era of AI. Services Consulting Strategic analysis and system design to define structure, priorities, and the right Odoo architecture before execution. Standard Implementation Fast and structured deployment of Odoo using best-practice configurations for predictable, scalable operations. Custom Implementation Tailored Odoo system composition for complex businesses that require industry-specific workflows and governance. Custom Development Purpose-built extensions and integrations that enhance Odoo while preserving system stability and upgradeability. Support & Maintenance Ongoing system support to ensure performance, stability, and continuous improvement after go-live. Odoo Upgrades Safe and controlled upgrades that modernize your Odoo without disrupting operations or integrity. Coaching Expert guidance for teams to adopt Odoo correctly, make better system decisions, and avoid costly mistakes. Zero Apps Proprietary applications built by Zero to extend Odoo with proven functionality for specific operational needs.",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:17.973552"
+      "scraped_at": "2026-04-09T07:53:43.855164"
     }
   ]
 }

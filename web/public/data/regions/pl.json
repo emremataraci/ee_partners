@@ -2,7 +2,7 @@
   "region_code": "pl",
   "country_code": "PL",
   "country_name": "Poland",
-  "scraped_at": "2026-04-09T05:59:09.896112",
+  "scraped_at": "2026-04-09T07:53:12.417171",
   "total_partners": 15,
   "source_url": "https://www.odoo.com/partners/country/poland-173",
   "partners": [
@@ -22,10 +22,60 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/trilab-1795724?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1795724/image_128/Trilab?unique=014cd9f",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.889982"
+      "about_text": "W Trilab specjalizujemy się w pełnych wdrożeniach Odoo Enterprise (także Księgowość ), dostosowujemy system tak aby całość procesów efektywnie realizować w jednym narzędziu. Nasi konsultanci mają bogate doświadczenia we wdrożeniach dużych systemów EPR (SAP, Oracle EBS, Microsoft AX) przez co możemy podzielić się wiedzą i zaproponować optymalne rozwiązania. We have an expertise in complete implementations of Odoo Enterprise (including Accounting ) to process all workflows in single computer system. Our consultants have extensive experience with large ERP systems (SAP, Oracle EBS, Microsoft AX) so we can share our knowledge and suggest optimal solutions. Nasze aplikacje / Our Apps Śledź na bieżąco listę - budujemy nowe. Keep an eye on our apps listing - we're building new ones",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        },
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 21
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 18
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 11
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 4
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:02.507758"
     },
     {
       "region_code": "pl",
@@ -43,10 +93,60 @@
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/solvti-sp-z-o-o-5413599?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/5413599/image_128/Solvti%20sp.%20z%20o.%20o.?unique=4b9e90a",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.890494"
+      "about_text": "(Scroll down for english version) Wspieramy firmy poprzez optymalne wykorzystanie technologii W Solvti rozwiązujemy problemy biznesowe, które wykraczają poza zwykłą instalację modułu lub dodanie pola. W przeciwieństwie do innych firm programistycznych, które koncentrują się wyłącznie na dostarczaniu funkcji, naszym priorytetem jest dostarczanie rozwiązań, które zapewniają rzeczywistą wartość naszym klientom. Dążymy do rozwiązania źródła problemu Zawsze dokładamy wszelkich starań, aby spełnić wszelkie oczekiwania. Nasze podejście polega na koncentrowaniu się na potrzebach naszych klientów, zapewniając, że dostarczamy rozwiązania dostosowane do ich unikalnych wyzwań biznesowych. Specjalizujemy się w: Wdrożenie Odoo Oprócz poniższych referencji, wdrożyliśmy Odoo Community w kilku niemieckich firmach zatrudniających łącznie około 2000 pracowników. Znamy zarówno techniczne funkcjonowanie Odoo, jak i procesy biznesowe, które Odoo może usprawnić. Oprogramowanie na zamówienie Wdrażając Odoo musieliśmy opracować niestandardowe rozwiązania o wysokiej wydajności. Nasze doświadczenie wykracza poza Odoo i obejmuje inne technologie, dzięki czemu jesteśmy w stanie poradzić sobie z wieloma problemami biznesowymi przez zastosowanie technologii. Wsparcie techniczne Oferujemy wsparcie w wielu językach przez telefon, e-mail i wideo. Nasi specjaliści IT znajdują się w Polsce i mówią po Przykłady zadań, które możemy obsłużyć: ✅Import i eksport danych ✅Tworzenie i obsługa dokumentacji ✅Ogólne wsparcie IT dla pracowników ✅Automatyzacja bez użycia kodu ✅Wsparcie funkcjonalne Odoo ERP ✅Przygotowanie i analiza raportów ✅Szkolenia użytkowników, wdrażanie pracowników O nas Współpraca międzynarodowa W Solvti mamy doświadczenie w tworzeniu aplikacji Odoo ERP, które spełniają określone kryteria lokalnego prawa pracy. Od planowania po szkolenia, nasze kompleksowe usługi wdrożeniowe są dostosowane do potrzeb naszych klie. Solvti to >20-osobowy zespół zlokalizowany we Wrocławiu. Naszym nadrzędnym celem jest dostarczanie skutecznych rozwiązań dla konkretnych wyzwań operacyjnych naszych klientów. Dużo inwestujemy w osobiste cele rozwojowe naszych członków i w pielęgnowanie zdrowego środowiska zespołowego. Nasz myślący przyszłościowo zespół zawsze uważnie śledzi najnowsze osiągnięcia na scenie technologicznej, aby tworzyć wydajne i oparte na danych produkty dla nowoczesnych działań biznesowych Poznajmy się! Umów się na konsultację! Empowering Businesses with optimal use of Technology At Solvti, we like solving complex business problems that go beyond simply installing a module or adding a field. Unlike other software companies that focus solely on delivering features, we prioritize delivering solutions that provide real value to our clients. We aim to solve the source of the problem We always make every effort to fulfill every expectation. Our approach involves keeping a sharp focus on our clients' needs, ensuring that we provide tailored solutions that address their unique operational challenges. What we offer Odoo implementation Apart from the references below, we implemented Odoo Community in few German companies counting roughly 2000 employees in total. We are familiar with both technical functioning of Odoo, and business processes Odoo can streamline. Custom Software While implementing Odoo community for such large companies, we had to develop custom solutions with top-notch performance and efficient maintaining. Our expertise extends beyond Odoo to other technologies such as .NET, C#, Flutter, React, Apache Kafka, and FastAPI, allowing us to handle any business problem. Support Services We offer user support in multiple languages through phone, email, and video. Our IT specialists are located in Poland and speak: Examples of tasks we can handle include: ✅Data imports and exports ✅Documentation writing and maintenance ✅General IT support for your employees ✅No-code automation ✅Odoo ERP functional support ✅Report preparation and analysis ✅User trainings, employee onboarding​ International Collaboration At Solvti, we're experienced in developing Odoo ERP apps that meet the specific criteria of local labor laws. Our team specializes in localization and internationalization, ensuring that the system is configured to meet unique requirements of each market. From planning to training, our end-to-end implementation services are tailored to our clients' needs. About us Solvti is a team of 18 people, located in Wrocław, a metropolitan city in Poland. Our ultimate goal is to provide effective solutions to our clients’ specific operational challenges. We invest heavily in our members' personal development goals and in the nurturing of a healthy team environment. Our forward-thinking team always has a keen eye on the most recent developments in the tech scene to create efficient and data-driven products for modern business operations Let's get in touch! Schedule a free consultation",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        },
+        {
+          "version": "Certified v18",
+          "count": 4
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Construction & Renovation",
+          "count": 9
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 8
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 7
+        },
+        {
+          "industry": "Other Services",
+          "count": 6
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:02.964258"
     },
     {
       "region_code": "pl",
@@ -64,10 +164,64 @@
       "certified_experts_count": "8",
       "profile_url": "https://www.odoo.com/partners/ventortech-6072449?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/6072449/image_128/VentorTech?unique=6dd9839",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.890940"
+      "about_text": "You can find Polish version below. Odoo Gold Partner & Member of Best Odoo Partners Alliance (BOP) 🔷 Since 2012 with Odoo • 80+ experts • 150+ projects • 20+ countries VentorTech helps mid-size and enterprise companies automate and scale their operations with Odoo — from warehouse to eCommerce — as one of the most experienced partners worldwide. Estimate Your Odoo Project Why Companies Choose Us Large businesses: We focus on operationally complex businesses that need more than a basic Odoo setup. Our strength lies in combining business logic with technical excellence — delivering scalable, maintainable, and high-performance Odoo systems. Small and Medium businesses: We help small businesses get started fast with standard configurations and proven, ready-to-use Odoo solutions. This approach lets you launch quickly, minimize upfront investment, and start gaining real value from Odoo from day one — building a strong foundation for growth. ✅ Regardless of company size, we build solutions that simply work and scale with your business, from manufacturing and logistics to finance and eCommerce. Book a Meeting With Us Our advantages Since 2012 in the Odoo ecosystem Gold Partner & Best Odoo Partners Alliance (BOP) member Developers of top-rated Odoo apps used by 10,000+ companies Proven experience with mid-size and enterprise clients ($50M–$500M revenue): ASBIS , Utires , Exness , Accel Club , NC , VGG , and other Regular speakers at Odoo Experience for the past 10 years Global delivery with European quality and support Our Services Full-cycle Odoo implementation — from discovery to go-live, delivering 6–12-month Odoo projects for mid-size and enterprise clients. Quick-start & accounting setup — fast “box” implementations for smaller companies and localizations for fiscal needs. Technical audit & project takeover — independent Odoo code review, vendor change, or system stabilization. Odoo Upgrade & Migration — smooth transitions between Odoo versions or from legacy systems. Custom Odoo development — complex technical solutions without touching the Odoo core. Deployment of VentorTech modules — Ventor PRO , DirectPrint PRO , Shopify , Magento , WooCommerce , PrestaShop , QuickBooks connectors. Ongoing support & optimization — continuous improvement and long-term partnership. Integration architecture & API consulting — connecting Odoo with AI agents and your full ecosystem. Specialize In Warehouse & barcode automation (WMS, Ventor PRO) Manufacturing & MRP Sales, purchasing & CRM automation Accounting & finance localization (EU / US) eCommerce & marketplace integrations (Shopify, Magento, Amazon, WooCommerce) Custom Odoo apps & connectors Odoo & AI-powered automation Discuss My Project Our Apps Our products are not just tools — they represent our engineering standards. VentorTech apps are among the best-selling and most recommended Odoo solutions worldwide, trusted by both clients and Odoo partners for their stability, speed, and clean code quality. Ventor PRO : mobile Odoo WMS solution for warehouse automation Direct Print PRO : automated label & document printing from Odoo eCommerce connectors : seamless synchronization with popular eCommerce platforms ( Shopify , Magento , PrestaShop , WooCommerce ) Used by 10,000+ Odoo users globally, these tools accelerate implementation and prove our technical leadership within the Odoo ecosystem. Our Clients & Case Studies Trusted by companies worldwide, including WWF , Carrefour, Exness , ASBIS , Sunday Natural . We primarily serve growing businesses with 30–500 employees that seek to scale efficiently with Odoo. Selected success stories: 🇺🇸 Utires (US): Full Odoo rollout for inventory, sales and purchasing → 15X Growth. 🇪🇺 ASBIS (EU): Centralized accounting and consolidated reporting accross multi subsidiaries. 🇺🇸 TH Electronics (US): Scaled up 52% after migrating from a legacy system to Odoo. 🇦🇪 Deep Performance (UAE) : Odoo-based store and multi-company accounting → sales up from dozens to hundreds monthly. 🇵🇱 FieldBee by eFarmer (PL) : End-to-end production traceability from purchase to delivery. 🇩🇪 Darier&Cleef (DE) : Automated logistics and sales workflows → 3× faster operations and 95% fewer errors. 🇫🇷 SM Contact (FR) : Automated 10 months of manual work and saved over €22K annually. 🇺🇸 Shipux (US): Scaling warehouse operations toward 100K sq ft for FBA prep and fulfillment. 🇦🇺 Chemical House (AU) : Odoo for manufacturing, accounting, and website management across a multi-company setup. 🇺🇸 BuildMyPlace (US) : Seamless receive-pick-pack flow and faster, more accurate order handling. Review Our Full Portfolio Testimonials \"My dream of becoming a big company came true after working with VentorTech!\" Duraid Al Mhana, Owner of Deep Performance, a motorsports parts retailer, UAE “Thank you VentorTech for all the hard work throughout the years. Definitely would recommend for warehouse optimization and business process automation. Very reputable and great team to work with!” Volodymyr Barabakh, CEO of United Tires, #1 used tires reseller, USA “We have been working with VentorTech for five years and I would always do it the same way again!” Alexander Molter, Owner of Darier & Cleef, a tobacco reseller, Germany \"VentorTech understands real-world use case scenarios.” Rahul Anand, Founder of BuildMyPlace, a building materials store, USA “VentorTech has been a great asset for us and a big part of our success!” Thad Whittenburg, President of Kitchen and Bath Global Partners, VA, USA “We started working with VentorTech, and now we’re generating €2.8M in turnover with a team of 3.5 people — and the “half” is me.” Geert van den Berg, Owner of Multicare-Centrum.nl, a medtech retailer, Netherlands \"The critical criterion for success is not just picking the right software, but picking the right partner!\" Michael Scuderi, Managing Director at Chemical House, a chemical manufacturing company, Australia “What stands out most about VentorTech is their deep technical expertise in Odoo and their ability to translate complex operational challenges into clear, practical solutions.” Oleksandr Lynets, Production Director at FieldBee, IoT manufacturer of agricultural machines, Poland 💡 Looking for a reliable Odoo Partner to scale your business? Our consultants will help you assess your project and unlock Odoo’s full potential. Contact Us Today Contact us hello@ventor.tech 🇵🇱 +48 732 225 396 🇺🇸 +1 305 404 28 43 ventor.tech Odoo Gold Partner & członek Best Odoo Partners Alliance (BOP) 🔷 Od 2012 z Odoo • 80+ ekspertów • 150+ projektów • 20+ krajów VentorTech pomaga średnim i dużym firmom automatyzować i skalować ich operacje przy użyciu Odoo — od magazynu po eCommerce — jako jeden z najbardziej doświadczonych partnerów na świecie. Oszacuj Twój projekt Odoo Dlaczego firmy nas wybierają: Duże firmy: Skupiamy się na biznesach o złożonych operacjach, które potrzebują czegoś więcej niż podstawowej konfiguracji Odoo. Naszą siłą jest połączenie logiki biznesowej z doskonałością techniczną — dostarczając skalowalne, łatwe w utrzymaniu i wysokowydajne systemy Odoo. Małe i średnie firmy: Pomagamy małym firmom szybko rozpocząć pracę dzięki standardowym konfiguracjom oraz sprawdzonym, gotowym do użycia rozwiązaniom Odoo. To podejście pozwala szybko wystartować, zminimalizować inwestycję początkową i od pierwszego dnia czerpać realne korzyści z Odoo — budując solidną podstawę do rozwoju. ✅ Niezależnie od wielkości firmy , tworzymy rozwiązania, które po prostu działają i skalują się wraz z rozwojem biznesu — od produkcji i logistyki po finanse i eCommerce. Umów się z nami na spotkanie Nasze zalety: Od 2012 roku w ekosystemie Odoo Gold Partner & członek Best Odoo Partners Alliance (BOP) Deweloperzy najwyżej ocenianych aplikacji Odoo , używanych przez 10 000+ firm Realne doświadczenie we współpracy ze średnimi i dużymi przedsiębiorstwami (przychody $50M–$500M): ASBIS , Utires , Exness , Accel Club , NC , VGG i inne Regularni prelegenci na Odoo Experience przez ostatnie 10 lat Globalna realizacja z europejską jakością i wsparciem Nasze usługi Całościowa implementacja Odoo — od analizy do uruchomienia, realizacja projektów Odoo trwających 6–12 miesięcy dla firm średniej i dużej wielkości. Szybki start & konfiguracja księgowości — szybkie wdrożenia „pudełkowe” dla mniejszych firm oraz lokalizacje pod wymagania fiskalne. Audyt techniczny & przejęcie projektu — niezależny przegląd kodu Odoo, zmiana dostawcy lub stabilizacja systemu. Odoo Upgrade Odoo Upgrade & Migracja — płynne przejścia między wersjami Odoo lub z systemów legacy. Dedykowany rozwój Odoo — złożone rozwiązania techniczne bez modyfikowania core Odoo. Wdrożenie modułów VentorTech — Ventor PRO , DirectPrint PRO , Shopify , Magento , WooCommerce , PrestaShop , QuickBooks connectors. Stałe wsparcie & optymalizacja — ciągłe doskonalenie i długoterminowa współpraca. Architektura integracji & konsulting API — łączenie Odoo z agentami AI oraz całym ekosystemem Twoich systemów. Specjalizujemy się w Automatyzacji magazynu i kodów kreskowych (WMS, Ventor PRO) Produkcji i MRP Automatyzacji sprzedaży, zakupów i CRM Lokalizacji księgowości i finansów (UE / USA) Integracjach eCommerce i marketplace (Shopify, Magento, Amazon, WooCommerce) Dedykowanych aplikacjach i konektorach Odoo Automatyzacji opartej na Odoo i AI Porozmawiajmy o moim projekcie Nasze aplikacje Nasze produkty to nie tylko narzędzia — reprezentują nasze standardy inżynieryjne. Aplikacje VentorTech należą do najlepiej sprzedających się i najczęściej polecanych rozwiązań Odoo na świecie, cenionych przez klientów i partnerów Odoo za stabilność, szybkość oraz czystą jakość kodu. Ventor PRO Ventor PRO: mobilne rozwiązanie Odoo WMS do automatyzacji magazynu Direct Print PRO : automatyczne drukowanie etykiet i dokumentów z Odoo Konektory eCommerce: płynna synchronizacja z popularnymi platformami eCommerce ( Shopify , Magento , PrestaShop , WooCommerce ) Używane przez 10 000+ użytkowników Odoo na całym świecie, te narzędzia przyspieszają wdrożenia i potwierdzają nasze techniczne przywództwo w ekosystemie Odoo. Nasi klienci i case studies Zaufali nam klienci na całym świecie, w tym WWF, Carrefour, Exness, ASBIS, Sunday Natural. Obsługujemy przede wszystkim rozwijające się firmy zatrudniające 30–500 pracowników, które chcą skalować się efektywnie z Odoo. Wybrane projekty:: 🇺🇸 Utires (US) : Pełne wdrożenie Odoo dla magazynu, sprzedaży i zakupów → wzrost 15×. 🇪🇺 ASBIS (EU) : Scentralizowana księgowość i skonsolidowane raportowanie w wielu spółkach zależnych. 🇺🇸 TH Electronics (US) : Skalowanie o 52% po migracji z systemu legacy do Odoo. 🇦🇪 Deep Performance (UAE) : Sklep oparty na Odoo i księgowość wielofirmowa → wzrost sprzedaży z dziesiątek do setek miesięcznie. 🇵🇱 FieldBee by eFarmer (PL) : Śledzenie produkcji od zakupu do dostawy. 🇩🇪 Darier&Cleef (DE) : Zautomatyzowana logistyka i przepływy sprzedaży → operacje 3× szybsze i 95% mniej błędów. 🇫🇷 SM Contact (FR) : Zautomatyzowano 10 miesięcy ręcznej pracy i zaoszczędzono ponad €22K rocznie. 🇺🇸 Shipux (US) : Skalowanie operacji magazynowych w kierunku 100K sq ft dla FBA prep i fulfillment. 🇦🇺 Chemical House (AU): Odoo do zarządzania produkcją, księgowością i stroną internetową w środowisku wielofirmowym. 🇺🇸 BuildMyPlace (US): Płynny proces receive-pick-pack i szybsza, dokładniejsza obsługa zamówień. Zobacz nasze pełne portfolio Referencje „Moje marzenie o zostaniu dużą firmą spełniło się po rozpoczęciu współpracy z VentorTech!” Duraid Al Mhana,Właściciel Deep Performance, sprzedawca części motorsportowych, ZEA „Dziękuję VentorTech za całą ciężką pracę przez te lata. Zdecydowanie polecam do optymalizacji magazynu i automatyzacji procesów biznesowych. Renomowany i świetny zespół do współpracy!” Volodymyr Barabakh, CEO United Tires, największego sprzedawcy używanych opon w USA „Współpracujemy z VentorTech od pięciu lat i zrobiłbym to ponownie w ten sam sposób!” Alexander Molter,Właściciel Darier & Cleef, sprzedawca wyrobów tytoniowych, Niemcy „VentorTech rozumie rzeczywiste business case’y.” Rahul Anand, Założyciel BuildMyPlace, sklep z materiałami budowlanymi, USA „VentorTech był dla nas ogromnym atutem i dużą częścią naszego sukcesu!” Thad Whittenburg, Prezes Kitchen and Bath Global Partners, VA, USA „Zaczęliśmy współpracę z VentorTech, a teraz generujemy €2.8M obrotu przy zespole liczącym 3,5 osoby — a tą ‘połówką’ jestem ja.” Geert van den Berg, Właściciel Multicare-Centrum.nl, sprzedawca produktów medtech, Holandia „Kluczowym kryterium sukcesu nie jest wyłącznie wybór właściwego oprogramowania, ale także wybór właściwego partnera.” Michael Scuderi, Dyrektor Zarządzający w Chemical House, firmie z branży produkcji chemicznej, Australia „To, co najbardziej wyróżnia VentorTech, to ich dogłębna wiedza techniczna w zakresie Odoo oraz umiejętność przekładania złożonych wyzwań operacyjnych na jasne, praktyczne rozwiązania.” Oleksandr Lynets, Dyrektor Produkcji w FieldBee, producencie urządzeń IoT dla maszyn rolniczych, Polska 💡 Szukasz zaufanego partnera Odoo, aby skalować swój biznes? Nasi konsultanci pomogą ocenić Twój projekt i w pełni wykorzystać potencjał Odoo. Skontaktuj się z nami już dziś Kontakt: hello@ventor.tech 🇵🇱 +48 732 225 396 🇺🇸 +1 305 404 28 43 ventor.tech",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 5
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 13
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 7
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 7
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 5
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 3
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:03.353231"
     },
     {
       "region_code": "pl",
@@ -85,10 +239,56 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/myodoopl-sp-z-oo-10433764?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10433764/image_128/myOdoo.pl%20sp.%20z%20o.o.?unique=7a08e34",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.891351"
+      "about_text": "Jesteśmy największym zespołem wdrożeniowym systemu Odoo na terenie Polski. Specjalizujemy się w implementacjach pojedynczych modułów i kompleksowych rozwiązaniach dla najbardziej wymagających podmiotów. Od wielu lat działamy na rynku biznesowym, dostarczając rozwiązania teleinformatyczne dla małych i średnich przedsiębiorstw. Naszym zadaniem jest dostarczyć oczekiwane korzyści – w ustalonym czasie i w ramach wyznaczonego budżetu. Obok pełnego wykorzystania możliwości systemu Odoo tworzymy także własne moduły, dopasowując system do indywidualnych wymagań Klientów i obowiązujących w Polsce przepisów. Automatyzujemy i optymalizujemy procesy biznesowe, by w pełni wykorzystać zasoby firmy. Koncentrujemy się na dostarczeniu jak najprostszych rozwiązań, pokrywających w pełni potrzeby firmy, bez zbędnych dodatków. Czujemy się odpowiedzialni za powodzenie wdrożenia w możliwie najkrótszym czasie. We are the biggest Odoo implementation team from Poland, specialized both in implementation of individual modules and comprehensive solutions for the most demanding companies.Our team have been operating on b2b market for many years, providing ICT solutions for small and medium enterprises. Our constant goal is to deliver expected business solutions within the set time and budget. In addition to utilizing full potential of the Odoo system, we also create our own modules, tailoring the system to individual requirements and polish legal regulations. We automate and optimize business operations to maximize efficiency of Clients company resources. Each of our projects is focused on providing the simplest solutions which fully cover Clients needs, without unnecessary additions. We feel resposible for success of implementation in the shortest possible time.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 8
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 4
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 4
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:04.473882"
     },
     {
       "region_code": "pl",
@@ -106,10 +306,52 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/wedoo-psa-11271987?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/11271987/image_128/wedoo%20p.s.a.?unique=37aa102",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.891764"
+      "about_text": "W wedoo wiemy, że czas to pieniądz. Wiemy też, co zrobić, by go dla Ciebie zaoszczędzić. Potencjał rozwojowy małych i średnich firm jest niejednokrotnie hamowany przez nienowoczesne rozwiązania technologiczne i skomplikowane procesy. Dlatego od kilkunastu lat pomagamy firmom rosnąć, upraszczając i unowocześniając działania w nich zachodzące, podpowiadając najkorzystniejsze i najprostsze rozwiązania. Wdrażamy Odoo ERP w pełnym zakresie, dopasowując jego możliwości do każdego, nawet najmniejszego przedsiębiorstwa. Pozwól nam pomóc w usprawnieniu procesów i komunikacji w Twojej firmie. Wspólnie zidentyfikujemy potrzeby, znajdując optymalne rozwiązanie – Twój klucz do sukcesu.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 8
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 4
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:04.959981"
     },
     {
       "region_code": "pl",
@@ -127,10 +369,60 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/opsway-8578063?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/8578063/image_128/OpsWay?unique=b130d12",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.892225"
+      "about_text": "Przekształcamy firmy dla cyfrowej przyszłości (Scroll down for English version) 🦾 Rozszerz możliwości Odoo dzięki sztucznej inteligencji 📊 Wdrożenie Odoo oparte na ROI 🚫 Teoria ograniczeń w naszym modelu biznesowym OpsWay to zespół doświadczonych entuzjastów Odoo, którzy od ponad dekady pomagają firmom na całym świecie przechodzić cyfrową transformację. Jako Srebrny Partner Odoo wnosimy przejrzystość w sposób działania Twojej firmy - łącząc ludzi, procesy i strategię dzięki Odoo i AI, aby umożliwić mądrzejsze operacje, szybsze decyzje i zrównoważony rozwój. Ponad 10 lat transformacji biznesowej 30+ zrealizowanych projektów Odoo 50+ ekspertów i partnerów na całym świecie Dlaczego OpsWay? OpsWay to nie tylko partner wdrożeniowy Odoo. To zespół, który łączy ERP, automatyzację i sztuczną inteligencję, tworząc rozwiązania realnie usprawniające codzienną pracę firm. Nasze podejście opiera się na trzech filarach: Biznesowe myślenie o procesach, nie tylko o systemie AI w praktyce, wykorzystywane tam, gdzie przynosi realną wartość Stawiamy na standardowe funkcjonalności Odoo, aby rozwiązania były zgodne z najlepszymi praktykami branżowymi i kosztowo efektywne. AI Helpdesk Agent – inteligentna automatyzacja wsparcia AI Helpdesk Agent to nasz flagowy moduł, który integruje sztuczną inteligencję bezpośrednio z modułem Helpdesk w Odoo. Dzięki niemu możesz: wysyłać zgłoszenia do systemu AI, aby automatycznie analizować i odpowiadać na ticket’y klientów, prowadzić wielotorowe konwersacje z użytkownikami bez konieczności każdorazowej ingerencji człowieka, przetwarzać załączniki i kontekst rozmowy , poprawiając obsługę klienta, szkolić model AI na rzeczywistych przykładach zgłoszeń, dzięki czemu z czasem działa jeszcze trafniej. System inteligentnie decyduje, kiedy zgłoszenie może obsłużyć AI, a kiedy powinno trafić do agenta ludzkiego (np. w przypadku błędów AI lub konieczności eskalacji). AI Helpdesk Agent wspiera również tagowanie zgłoszeń (np. „AI Reply”, „AI Escalation”), co uporządkowuje i usprawnia pracę Twojego zespołu wsparcia. Dostępny w wersjach Odoo 16.0 → 18.0 i kompatybilny z Odoo Enterprise. AI Helpdesk Agent dostępny jest tutaj Zaawansowana konfiguracja produktów w praktyce Specjalizujemy się we wdrożeniach Odoo dla firm, które s przedają i produkują produkty konfigurowalne – tam, gdzie standardowe warianty produktów nie oddają rzeczywistej złożoności oferty W wielu branżach sprzedaż i produkcja produktów nie polega na wyborze z kilkunastu gotowych wariantów: klienci muszą określić zestaw opcji, zależności i parametrów , które bezpośrednio wpływają na ostateczną cenę, strukturę produktu i proces jego wytwarzania. Standardowe warianty Odoo generują wszystkie możliwe kombinacje atrybutów, co szybko prowadzi do ogromnej liczby wariantów nawet wtedy, gdy część kombinacji nie ma sensu. Pomagamy firmom uporządkować sprzedaż i produkcję produktów, które: ✅ mają wiele opcji i parametrów, ✅ nie pozwalają na dowolne łączenie wariantów, ✅ wymagają kontroli poprawności konfiguracji, ✅ mają cenę zależną od konkretnych wyborów klienta. Inteligentna konfiguracja zamiast tysięcy wariantów Projektujemy i modyfikujemy zaawansowane konfiguratory produktów, które: prowadzą użytkownika krok po kroku przez proces konfiguracji , automatycznie blokują niedozwolone kombinacje opcji, obsługują zależności i wykluczenia między parametrami, dynamicznie przeliczają cenę w trakcie konfiguracji, generują końcowy produkt dopiero po zakończeniu poprawnej konfiguracji. Dzięki temu: nie tworzy się tysięcy zbędnych wariantów w systemie, sprzedaż zawsze trafia do produkcji w poprawnej formie, eliminowane są błędy wynikające z ręcznych ustaleń. Spójność sprzedaży i produkcji Konfiguracja produktu staje się integralną częścią procesu: ofertowania, zamówienia sprzedaży, przygotowania produkcji. Na podstawie wybranych opcji Odoo może automatycznie przygotować odpowiednią strukturę produktu i koszt , co znacząco przyspiesza realizację zamówień i ogranicza ryzyko pomyłek. To rozwiązanie szczególnie dobrze sprawdza się w firmach produkcyjnych, gdzie każde zamówienie może być inne , ale proces musi pozostać powtarzalny i kontrolowany. Sukcesy naszych klientów Wspieramy firmy z różnych branż i rynków, dostarczając wdrożenia Odoo, które realnie usprawniają ich codzienną działalność. Produkcja i przemysł – wdrożenia Odoo obejmujące sprzedaż, planowanie produkcji, magazyn i koszty, umożliwiające lepszą kontrolę marż, terminów i rentowności (m.in. KHT Group , MILOO Electronics , EMPIS , Igloo ). Handel i dystrybucja – automatyzacja sprzedaży, zapasów i finansów, zapewniająca pełną widoczność stanów magazynowych i płynne realizacje zamówień (np. Gourmet Foods , Kizara Group ). Usługi i consulting – centralizacja CRM, projektów i rozliczeń w jednym systemie, co zwiększa efektywność zespołów i jakość obsługi klientów (np. Cider Consulting , Main Street Management , Canadian Tax Compliance ). E-commerce i obsługa klienta – integracja sprzedaży online i inteligentnego helpdesku, skracająca czas reakcji i redukująca ręczną obsługę zgłoszeń (np. BluPax Pharma , Boodmo ). Healthcare & non-profit – uporządkowanie procesów operacyjnych i finansowych, zapewniające transparentność i zgodność z regulacjami (np. Claimex , Infinite Services ). Nasze projekty realizujemy w Europie, Ameryce Północnej i na rynkach międzynarodowych – zawsze koncentrując się na mierzalnych efektach biznesowych, a nie tylko na konfiguracji systemu. Transforming businesses for a digital future 🦾 Extend Odoo’s capabilities with artificial intelligence 📊 ROI-driven Odoo implementation 🚫 Theory of Constraints at the core of our business model OpsWay is a team of experienced Odoo enthusiasts who have been helping companies around the world navigate digital transformation for over a decade. As an Odoo Silver Partner, we bring clarity to the way your business operates - connecting people, processes, and strategy through Odoo and AI to enable smarter operations, faster decision-making, and sustainable growth. ✅ 10+ years of business transformation ✅ 30+ delivered Odoo projects ✅ 50+ experts and partners worldwide Why OpsWay? OpsWay is more than an Odoo implementation partner. We are a team that combines ERP, automation, and artificial intelligence to deliver solutions that genuinely improve day-to-day business operations. Our approach is built on three core pillars: Business-driven process thinking, not just system implementation Practical use of AI, applied where it creates real value A strong focus on scalable and maintainable Odoo solutions AI Helpdesk Agent - intelligent support automation AI Helpdesk Agent is our flagship solution that integrates artificial intelligence directly into the Odoo Helpdesk module. It allows you to: send customer tickets to AI for automated analysis and responses, handle multi-threaded conversations without constant human involvement, process attachments and conversation context to improve service quality, t rain the AI model on real support cases so it becomes more accurate over time. The system intelligently decides when a ticket can be handled by AI and when it should be escalated to a human agent (for example, in complex cases or when escalation is required). AI Helpdesk Agent also supports ticket tagging (e.g. AI Reply , AI Escalation ), helping organize and streamline the work of your support team. Available for Odoo versions 16.0 → 18.0 and fully compatible with Odoo Enterprise . The AI support agent is available here. Advanced product configuration in practic We specialize in Odoo implementations for companies that sell and manufacture configurable products - where standard product variants do not reflect the real complexity of the offering. In many industries, sales and production are not about choosing from a limited number of predefined variants. Customers must define a set of options, dependencies, and parameters that directly affect the final price, product structure, and manufacturing process. Standard Odoo variants generate all possible attribute combinations, which quickly leads to an excessive number of variants, even when many combinations make no business sense. We help companies structure the sales and production of products that: ✅ include multiple options and parameters, ✅ do not allow free combination of variants, ✅ require strict configuration validation, ✅ have pricing dependent on customer selections. Smart configuration instead of thousands of variants We design and customize advanced product configurators that: guide users step by step through the configuration process, automatically block invalid option combinations, handle dependencies and exclusions between parameters, dynamically calculate pricing during configuration, , generate the final product only after a valid configuration is completed. As a result: thousands of unnecessary variants are not created in the system, sales orders always reach production in a correct and complete form, errors caused by manual adjustments are eliminated. Seamless alignment of sales and manufacturing Product configuration becomes an integral part of: quotations, sales orders, production preparation. Based on selected options, Odoo can automatically generate the appropriate product structure and cost, significantly speeding up order fulfillment and reducing the risk of errors. This approach works particularly well for manufacturing companies where each order may be unique , but the process must remain repeatable, structured, and fully controlled. Client success stories We support companies across multiple industries and markets, delivering Odoo implementations that bring real operational improvements. Manufacturing & industry - Odoo solutions covering sales, production planning, inventory, and costing, enabling better control over margins, deadlines, and profitability (e.g. KHT Group , MILOO Electronics , EMPIS , Igloo ). Trade & distribution - automation of sales, inventory, and financial processes, ensuring full stock visibility and smooth order fulfillment (e.g. Gourmet Foods , Kizara Group ). Services & consulting - centralized CRM, project management, and billing in a single system, increasing team efficiency and service quality (e.g. Cider Consulting , Main Street Management , Canadian Tax Compliance ). E-commerce & customer suppor t - integration of online sales and intelligent helpdesk solutions, reducing response times and manual workload (e.g. BluPax Pharma , Boodmo ). Healthcare & non-profit - structured operational and financial processes ensuring transparency and regulatory compliance (e.g. Claimex , Infinite Services ). We deliver projects across Europe, North America, and global markets - always focusing on measurable business outcomes , not just system configuration.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 5
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 10
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:05.362094"
     },
     {
       "region_code": "pl",
@@ -148,10 +440,40 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/icodelab-spoo-6804568?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/6804568/image_128/ICODELAB%20Sp.O.O.?unique=58cae6a",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.892737"
+      "about_text": "iCode is a company specializing in development of integrated management solutions for businesses of any size and scope. We successfully realize the projects for our clients from Europe, USA, Australia, Canada and other countries all over the world. We develop, implement and provide maintenance to corporate web-solutions based on Odoo. The team includes skilled consultants, analysts, Python, Javascript, HTML5, PostgresSQL, MySQL, MongoDB developers. We also perform software development in the field of BigData analysis and machine learning. Our development team possesses deep professional expertise, projecting experience, high motivation and responsibility in working with the most advanced technologies. iCode will help to increase the efficiency and transparency of your business processes and will introduce effective business management systems in accordance with your business requirements. Company benefits are the following: Odoo certified business analysts with experience in various industries. Dedicated team of experienced developers on each project. Full work transparency. Activities: Custom software development. Development and implementation of software solutions. Technologies: iOS/Android. Python//Django/JavaScript/C++/HTML. MySQL/Postgresql/MongoDB. The first step in exploring the benefits of using Odoo for your business is to start a dialogue. Contact us today. We'll give you a free demonstration of the system and show you how Odoo can improve your business. Leave an application on our website http://icodelab.eu/ and we'll contact you.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:07.783217"
     },
     {
       "region_code": "pl",
@@ -169,10 +491,40 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/openglobe-14166?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/14166/image_128/OpenGLOBE?unique=d739dc1",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.893169"
+      "about_text": "We are an Odoo service provider since 2010. We provide complete or partial Odoo solutions for all customers. We are the most experienced and the oldest Odoo solution provider in Poland. We are the biggest translation provider for Polish language for Odoo. We provide Polish specific modules for Polish law and Polish practice. We focus on Odoo development in Poland and Germany but our customers use our Odoo solutions around the world (e.g. in China, Canada). Jesteśmy dostawcą usług Odoo od 2010. Dostarczamy kompleksowe lub częściowe rozwiązania dla każdego klienta. Jesteśmy najbardziej doświadczonym i najwcześniejszym dostawcą rozwiązań Odoo w Polsce. Jesteśmy największym społecznościowym autorem tłumaczeń polskiej terminologii Odoo. Dostarczamy rozwiązania wymagane przez polskie prawo lub polską praktykę postępowania. Skupiamy się na rozwoju aplikacji Odoo dla Polski i Niemiec, ale nasze rozwiązania są stosowane u klientów na całym świecie (np. w Chinach, Kanadzie).",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 6
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:08.224411"
     },
     {
       "region_code": "pl",
@@ -190,10 +542,40 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/attomy-sp-z-oo-20287830?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/20287830/image_128/Attomy%20Sp.%20z%20o.o.?unique=4125f53",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.893576"
+      "about_text": "Tworzymy cyfrowe fundamenty pod nowoczesny, skalowalny i efektywny biznes 🟢 Wdrażamy Odoo i Shopify. Tworzymy synergię sprawnych procesów i skutecznego eCommerce. Attomy to strategiczny partner transformacji cyfrowej. Pomagamy stworzyć spójny system do zarządzania produkcją, logistyką i sprzedażą, by łatwiej skalować biznes i optymalizować koszty. Wdrożenie Odoo Kluczem do sukcesu jest nasza unikalna, podwójna ekspertyza. Dogłębnie znamy zarówno wdrożenia Odoo ERP, jak i świat eCommerce. Pozwala nam to projektować rozwiązania, które efektywnie łączą sprzedaż z kompleksowym zarządzaniem operacjami. Bezpłatna konsultacja Wdrażamy Odoo by Twój biznes pracował sprawniej Dobrze wdrożony system ERP to fundament efektywnego zarządzania nowoczesnym przedsiębiorstwem. Pozwala zintegrować kluczowe procesy - od finansów i sprzedaży po produkcję oraz magazyn - w jednym spójnym środowisku. W attomy podchodzimy do każdego wdrożenia indywidualnie, analizując specyfikę Twojej działalności i cele biznesowe, aby dostarczyć rozwiązanie idealnie dopasowane do Twoich potrzeb. Porozmawiajmy o Twoim projekcie \"Wdrożenie Odoo ERP to inwestycja, która zwraca się poprzez zwiększenie efektywności, redukcję kosztów i poprawę kontroli nad firmą. W attomy pomagamy naszym klientom wykorzystać pełen potencjał tego systemu, dostarczając kompleksowe i dopasowane do potrzeb rozwiązania.\" Arkadiusz Kornafel Odoo Consultant, attomy",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:08.743836"
     },
     {
       "region_code": "pl",
@@ -211,10 +593,24 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/innowise-sp-z-oo-12009146?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/12009146/image_128/Innowise%20Sp.%20z%20o.o?unique=3b27e7f",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.893953"
+      "about_text": "As an Odoo ERP development company, we handle all the Odoo consulting and development services: customisation, setup, maintenance, upgrades, and more. Whether you’re starting fresh or fine-tuning your system, we ensure it fits your business perfectly and keeps humming along. innowise.com +49 30 520 158 80 +49 30 520 158 80 +1 917 267 7727 +1 772 232 7337 +971 58 527 4499",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:09.298830"
     },
     {
       "region_code": "pl",
@@ -232,10 +628,23 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/paradygmat-ai-25137711?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/25137711/image_128/Paradygmat%20AI?unique=2b2479b",
-      "about_text": null,
+      "about_text": "Paradygmat AI – Inteligentne wdrożenia Odoo ERP i ekosystemu AI W Paradygmat AI wykraczamy poza ramy standardowej konfiguracji systemów ERP. Nie dostarczamy jedynie funkcji – dostarczamy kompletne rozwiązania, które budują strategiczną przewagę naszych klientów. Naszym priorytetem jest transformacja procesów operacyjnych w zautomatyzowane i wydajne środowisko pracy. Wierzymy w rozwiązania, które oferujemy. System Odoo ERP wdrożyliśmy i zoptymalizowaliśmy najpierw we własnej organizacji. Dzięki temu projektujemy procesy z perspektywy świadomego użytkownika i praktyka biznesu, dbając o to, by technologia realnie wspierała zespół, zamiast generować dodatkowe obciążenia. Nasze specjalizacje: Kompleksowe wdrożenia Odoo ERP: Projektowanie i optymalizacja procesów biznesowych w oparciu o najlepsze standardy rynkowe. Rozszerzenia AI i Agenci AI: Unikalna na rynku integracja systemu Odoo z dedykowanymi Agentami AI. Oferujemy zarówno gotowe rozwiązania typu „plug-and-play”, jak i tworzenie agentów na zamówienie, którzy pracują bezpośrednio na danych w Odoo, automatyzując analitykę i procesy decyzyjne. Oprogramowanie na zamówienie: Budowa niestandardowych modułów o wysokiej wydajności oraz zaawansowanych integracji zewnętrznych (API/EDI), łączących Odoo z Twoim ekosystemem biznesowym. O nas Paradygmat AI to zespół ekspertów zorientowanych na przyszłość. Stale monitorujemy najnowsze osiągnięcia w dziedzinie technologii i sztucznej inteligencji, aby dostarczać produkty oparte na danych, które redefiniują nowoczesne działania biznesowe. Telefon: +48695953363 Konsultacja Online: https://call.paradygmat.ai/konsultacja-odoo-erp Strona: https://paradygmat.ai/",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.894344"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:11.178810"
     },
     {
       "region_code": "pl",
@@ -254,9 +663,19 @@
       "profile_url": "https://www.odoo.com/partners/devqube-sp-z-oo-13793176?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/13793176/image_128/Devqube%20Sp.%20z%20o.o.?unique=c2c6729",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.894753"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:11.391397"
     },
     {
       "region_code": "pl",
@@ -274,10 +693,19 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/the-story-25238585?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/25238585/image_128/THE%20STORY?unique=f654856",
-      "about_text": null,
+      "about_text": "Nowi w Odoo. Doświadczeni w dowożeniu złożonych systemów. Nie ukrywamy tego: The Story jest nowym partnerem wdrożeniowym Odoo. I nie boimy się tego powiedzieć — bo doświadczenie, które wnosimy, wykracza daleko poza jedną platformę. Od 17 lat projektujemy i budujemy custom digital products : systemy ERP i CRM szyte pod realne procesy, platformy B2B i B2C, narzędzia analityczne, integracje z zewnętrznymi systemami (finanse, logistyka, produkcja, e-commerce). Odoo traktujemy nie jako „gotowy produkt”, ale jako solidny framework biznesowy , który — przy odpowiednim podejściu — można dopasować do niemal każdego modelu operacyjnego. Silny Python team. Realne customizacje, nie obejścia. Większość partnerów Odoo mówi o konfiguracji. My mówimy o architekturze, kodzie i odpowiedzialności za efekt . Dlaczego to ma znaczenie? bo niestandardowe procesy rzadko mieszczą się w checkboxach, bo integracje często wymagają logiki po stronie backendu, bo ERP ma wspierać biznes, a nie go ograniczać. W The Story nie kończymy pracy na uruchomieniu systemu. ERP to proces — nie jednorazowy projekt. Dlatego pracujemy w modelu: partnerskim iteracyjnym długofalowym Pomagamy klientom: zrozumieć możliwości Odoo, świadomie zaprojektować procesy, rozwijać system wraz z firmą, a nie przeciwko niej.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.895144"
+      "industries_breakdown": [
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:11.670243"
     },
     {
       "region_code": "pl",
@@ -295,10 +723,20 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/aiboost-społka-22260049?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/22260049/image_128/AIBOOST%20SP%C3%93%C5%81KA?unique=a34ccd1",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.895519"
+      "about_text": "Odoo Solutions: Driving Your Business Forward 💡 Wersja w języku polskim poniżej. At aiboost, we craft bespoke Odoo ERP solutions that get straight to the point: real results . We’re not about fitting you into a pre-made box; we optimize Odoo to your unique operations , ensuring rapid returns and clear ROI . Our team brings deep Odoo expertise, proven project experience, and insights across various sectors to every partnership. Consider us your transparent partner , simplifying complex processes and making your success our top priority. Our Comprehensive Odoo ERP Services aiboost offers a complete suite of Odoo ERP services to cover every stage of your digital transformation, from consulting to optimization : Odoo Consulting: Strategic guidance and needs assessment to maximize your Odoo investment. Odoo Implementation: Expert configuration, customization and development for seamless workflows. Data Migration: Secure, hassle-free data transfer into Odoo. System Integration: Connecting Odoo with your existing tools for a unified operational hub. Odoo Support & Maintenance: Reliable, ongoing assistance to keep your system running smoothly. Odoo Version Upgrades and Refactoring: Keeping your Odoo up-to-date and performing optimally. Hire Odoo Developers: Access skilled Odoo talent for specific projects or ongoing needs. AI for Odoo: Boost your Odoo with AI-driven solutions. Get predictive analytics, intelligent automation, and smarter data insights to drive efficiency and growth. The Odoo Modules Expertise We're experts in key modules like Inventory & Manufacturing, HR, Service & Projects, Finance & Accounting, Sales & CRM, Website & E-commerce . Industries We Empower We’ve partnered with businesses across diverse sectors , unlocking Odoo's full potential and delivering tailored solutions that drive real-world results. See how we’ve helped companies like yours in: 🛍 E-commerce & Retail Distribution 🚚 Wholesale 🏭 Manufacturing 🧬 IT, Tech & GameDev 🧑‍⚕️ Health & Wellness No matter your industry – from fashion to finance, manufacturing to medical equipment – our expertise ensures Odoo transforms your operations. Ready to transform your business with Odoo ? Visit Our Website 🇵🇱 W aiboost pomagamy firmom rozwijać się dzięki idealnie dopasowanym rozwiązaniom Odoo ERP . Stawiamy na konkretne rezultaty , automatyzując operacje, ujednolicając dane i zapewniając pewne skalowanie. Nasz zespół wnosi rozległą wiedzę techniczną o Odoo, bogate doświadczenie projektowe oraz unikalne spojrzenie na różne branże, co przekłada się na każde partnerstwo. Nie wtłaczamy Twojej firmy w sztywne ramy; Odoo dopasowujemy do Twoich unikalnych potrzeb operacyjnych . Koncentrujemy się na szybkim zwrocie z inwestycji (ROI) i błyskawicznym generowaniu wartości (Time to Value) . Jesteśmy Twoim transparentnym partnerem, upraszczając złożone procesy, bo Twój sukces to nasz sukces . Kompleksowe usługi Odoo ERP aiboost oferuje pełny pakiet usług Odoo ERP , obejmujący każdy etap transformacji cyfrowej – od doradztwa po optymalizację: Konsulting Odoo: Razem z nami precyzyjnie zdefiniujesz strategiczne cele i potrzeby Twojej firmy, by inwestycja w Odoo przyniosła maksymalny zwrot i realnie zwiększyła efektywność. Wdrożenia Odoo: Dopasujemy Odoo perfekcyjnie do specyfiki Twoich procesów – od produkcji witamin po logistykę. Gwarantujemy sprawną konfigurację i minimalizację zakłóceń. Migracja danych: Twoje cenne dane – bez względu na ich format – zostaną bezpiecznie i precyzyjnie przeniesione do Odoo. Eliminujemy ryzyko utraty informacji, byś mógł od razu skupić się na rozwoju, a nie martwić się o przeszłość. Integracja systemów: Połączymy Odoo z Twoimi obecnymi programami (np. systemami magazynowymi, e-commerce, księgowości), tworząc spójne centrum operacyjne, które eliminuje silosy danych i przyspiesza decyzje. Wsparcie i utrzymanie Odoo: Oferujemy niezawodne, proaktywne wsparcie, które gwarantuje ciągłość działania Twojego systemu Odoo. Jesteśmy obok, by szybko reagować na wszelkie potrzeby i zapewnić, że Twój biznes nigdy nie zwalnia tempa. Aktualizacja wersji i refaktoryzacja Odoo: Dbamy o to, by Twoje Odoo zawsze było na bieżąco z najnowszymi funkcjami i zabezpieczeniami. Regularne aktualizacje i optymalizacja kodu zapewniają maksymalną wydajność i przyszłościowość systemu, chroniąc Twoją inwestycję. Wynajem deweloperów Odoo: Potrzebujesz dedykowanych ekspertów Odoo do specyficznego projektu, pilnej integracji, czy stałego wsparcia? Udostępniamy najwyższej klasy specjalistów, którzy szybko i efektywnie zrealizują Twoje potrzeby, bez konieczności zatrudniania na pełen etat. AI dla Odoo: Wzmocnij swoje Odoo dzięki rozwiązaniom opartym na AI. Zyskaj analitykę predykcyjną, inteligentną automatyzację i sprytniejsze analizy danych, aby napędzać efektywność i rozwój. Ekspertyza w modułach Odoo Znamy Odoo od podszewki i wiemy, jak każdy moduł może usprawnić Twoją firmę. Specjalizujemy się w: Gospodarka Magazynowa i Produkcja: Kontrola zapasów, planowanie produkcji (np. witamin), śledzenie partii – od surowca do gotowego produktu. Finanse i Księgowość: Pełna zgodność z polskimi przepisami, automatyzacja procesów finansowych. Sprzedaż i CRM: Skuteczniejsze zarządzanie relacjami z klientami i procesami sprzedaży. ... i inne, dostosowane do Twoich potrzeb. Branże, które wspieramy Współpracujemy z firmami z rozmaitych sektorów, dostarczając spersonalizowane rozwiązania Odoo, które generują mierzalne rezultaty biznesowe. Jesteśmy szczególnie dumni z sukcesów naszych klientów w branżach takich jak: 🛍 E-commerce i Dystrybucja Detaliczna: Optymalizacja procesów sprzedaży online i zarządzania magazynem. 🏭 Produkcja: Od planowania surowców, przez kontrolę jakości, aż po zarządzanie gotowym produktem – szczególnie w branży spożywczej, farmaceutycznej i suplementów , gdzie liczy się precyzja i śledzenie partii. 🧑‍⚕️ Zdrowie i Wellness: Rozumiemy specyfikę regulacji i wymagań. 🧴 Dobra Konsumpcyjne / FMCG / Części Samochodowe: Odoo pomaga w zarządzaniu szybkimi obrotami i dystrybucją. ...i wiele innych! Sprawdź, jak pomogliśmy firmom takim jak Twoja. (ссылка на портфолио) Zainteresowany, jak Odoo może usprawnić produkcję i sprzedaż w Twojej firmie, np. w branży suplementów? Odwiedź naszą stronę i zobacz nasze studia przypadków!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:11.922273"
     },
     {
       "region_code": "pl",
@@ -316,10 +754,15 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/erpgo-pl-24178766?country_id=173",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24178766/image_128/ERPGO%20PL?unique=a9fcf11",
-      "about_text": null,
-      "certifications_breakdown": [],
+      "about_text": "We are a team of experienced ERP consultants specialising in Odoo implementation, customisation, and business automation . Our mission is to help businesses streamline operations, improve efficiency, and drive growth through smart ERP solutions. With expertise in Odoo ERP , we provide end-to-end consultancy services , from system setup to post-implementation support. Whether you’re a startup, SME, or large enterprise, we tailor ERP solutions to meet your specific needs.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:09.895908"
+      "scraped_at": "2026-04-09T07:53:12.217426"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "region_code": "pt",
   "country_code": "PT",
   "country_name": "Portugal",
-  "scraped_at": "2026-04-09T05:59:11.012940",
+  "scraped_at": "2026-04-09T07:53:20.478304",
   "total_partners": 14,
   "source_url": "https://www.odoo.com/partners/country/portugal-177",
   "partners": [
@@ -22,10 +22,64 @@
       "certified_experts_count": "8",
       "profile_url": "https://www.odoo.com/partners/thinkopen-solutions-portugal-2614?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/2614/image_128/ThinkOpen%20Solutions%20%28Portugal%29?unique=e36435e",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.006934"
+      "about_text": "Somos especialistas em ajudar empresas a tornarem-se mais competitivas através da implementação de soluções de gestão Odoo. Com uma equipa sénior e especializada, oferecemos um vasto know-how no desenho de soluções à medida de cada cliente, simplificando as operações de gestão de centenas de empresas, com soluções acessíveis, fáceis de utilizar e totalmente integradas. Escolher implementar Odoo com a ThinkOpen é uma decisão estratégica que maximizará o seu sucesso empresarial, a curto, médio e longo prazo: - Conhecimento e Competência Comprovados - Suporte e Acompanhamento Constantes - Capacidade de Implementar Soluções Personalizadas - Um Parceiro com Visão Estratégica para além da Implementação - Recursos Educativos Gratuitos - Serviço de Customer Success & Compromisso com a Satisfação do Cliente Deseja obter orientação personalizada sobre de que forma o Odoo pode dar resposta às suas necessidades empresariais? Visite https://thinkopen.solutions e entre em contacto.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        },
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 22
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 19
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 18
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 17
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 16
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 16
+        },
+        {
+          "industry": "Other Services",
+          "count": 14
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 10
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 10
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 8
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:13.548634"
     },
     {
       "region_code": "pt",
@@ -43,10 +97,64 @@
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/exo-1270483?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1270483/image_128/EXO?unique=d77cfff",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.007439"
+      "about_text": "Partner for magic! Na Exo Software, transformamos ideias em soluções extraordinárias. Somos uma equipa especializada em Odoo, com mais de uma década de experiência e um compromisso inabalável com a excelência. Ajudamos empresas a digitalizar, otimizar e crescer com tecnologia à medida das suas necessidades. Como parceiros Odoo e com a localização portuguesa mais completa do mercado, somos referência nacional na implementação de soluções ERP. A confiança dos nossos parceiros na Exo é reflexo da confiança, proximidade e resultados que entregamos. Do primeiro clique ao sucesso contínuo, o Odoo e a Exo são o seu verdadeiro Partners for magic! Agendar Reunião",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 10
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 8
+        },
+        {
+          "industry": "Other Services",
+          "count": 7
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 6
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 5
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 4
+        },
+        {
+          "industry": "Government",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:14.328113"
     },
     {
       "region_code": "pt",
@@ -64,10 +172,60 @@
       "certified_experts_count": "5",
       "profile_url": "https://www.odoo.com/partners/arxi-1047233?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1047233/image_128/ARXI?unique=d0b786c",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.007933"
+      "about_text": "We help organizations turn complexity into clarity. We work with companies facing challenges in managing their operations - fragmented processes, disconnected systems and limited visibility over their business. We structure how organizations operate, building a solid foundation for more efficient and controlled management. Where we create impact: We focus on critical areas of operations where lack of visibility, integration or structure limits performance. By connecting processes, systems and data, we create a cohesive foundation that simplifies operations, reduces friction and strengthens the organization’s ability to respond. The result is greater control, better-informed decisions and a business prepared to grow in a structured and sustainable way. How we bring clarity to organizations: Our approach is built on creating structure where there is complexity and connecting areas that often operate in isolation. We start with the business, not the technology - understanding the context, the challenges and how the organization truly operates, before designing solutions that work in practice. Rather than one-off interventions, we work with consistency and close collaboration, ensuring each solution evolves alongside the client and supports their growth. This is how we help companies gain control, reduce complexity and build solid foundations for sustainable growth. ARXI | From chaos to clarity Find more by visiting us at www.arxi.pt /arxilead /arxilead (PT) A Arxi ajuda organizações a transformar complexidade em clareza. Trabalhamos com empresas que enfrentam desafios na gestão das suas operações - processos dispersos, sistemas desconectados e falta de visibilidade sobre o negócio. Estruturamos a forma como a organização funciona, criando uma base sólida para uma gestão mais eficiente e controlada. Onde criamos impacto: Intervimos em pontos críticos da operação onde a falta de visibilidade, integração ou estrutura condiciona o desempenho das organizações. Ao ligar processos, sistemas e dados, criamos uma base coerente que permite simplificar operações, reduzir fricção e aumentar a capacidade de resposta do negócio. O impacto traduz-se em maior controlo, decisões mais informadas e uma organização preparada para crescer de forma sustentada. Como criamos clareza nas organizações: A nossa forma de trabalhar baseia-se na criação de estrutura onde existe complexidade e na ligação entre áreas que, muitas vezes, operam de forma isolada. Não partimos da tecnologia, mas sim do negócio - compreendemos o contexto, os desafios e a forma como a organização opera, para depois desenhar soluções que façam sentido na prática. Mais do que intervenções pontuais, trabalhamos com consistência e proximidade, garantindo que cada solução evolui com o cliente e acompanha o seu crescimento. É desta forma que ajudamos as empresas a ganhar controlo, reduzir complexidade e criar bases sólidas para crescer com consistência. ARXI | From chaos to clarity Descobre mais em www.arxi.pt /arxilead /arxilead",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 34
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 17
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 13
+        },
+        {
+          "industry": "Other Services",
+          "count": 10
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 9
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 6
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 5
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 5
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 5
+        },
+        {
+          "industry": "Education",
+          "count": 4
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:14.855966"
     },
     {
       "region_code": "pt",
@@ -85,10 +243,56 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/parametro-global-consultadoria-informatica-sa-13130490?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/13130490/image_128/Par%C3%A2metro%20Global%20%E2%80%93%20Consultadoria%20Inform%C3%A1tica%2C%20S.A.?unique=a4c1414",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.008419"
+      "about_text": "PT: A Parâmetro Global possui uma equipa altamente especializada e qualificada para a implementação de projetos na área das Tecnologias da Informação e Comunicação (TIC), com um vasto Know-How em diversas áreas de negócio. Temos experiência consolidada em setores tão diversos como a indústria, comércio, agroalimentar, controlo de qualidade, análise e logística. A nossa equipa está preparada para enfrentar os desafios tecnológicos mais complexos, adaptando-se às necessidades específicas de cada cliente e oferecendo soluções eficazes e inovadoras. Acreditamos que a excelência na implementação de projetos de TIC é essencial para o sucesso empresarial, e é isso que nos motiva a continuar a evoluir e a oferecer um serviço de alta qualidade aos nossos clientes. Conte connosco para impulsionar o seu negócio através das mais recentes tecnologias e das melhores práticas da indústria. Estamos comprometidos em ser o seu parceiro de confiança na busca pelo sucesso na era digital. EN: Parâmetro Global has a highly specialized and qualified team for implementing projects in the field of Information and Communication Technologies (ICT), with extensive know-how in various business areas. We have consolidated experience in diverse sectors such as industry, commerce, agribusiness, quality control, analysis, and logistics. Our team is prepared to tackle the most complex technological challenges, adapting to the specific needs of each client and offering effective and innovative solutions. We believe that excellence in ICT project implementation is essential for business success, and this motivates us to continue evolving and providing high-quality service to our clients. Count on us to boost your business through the latest technologies and best industry practices. We are committed to being your trusted partner in the pursuit of success in the digital age!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 10
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 9
+        },
+        {
+          "industry": "Other Services",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "NGO",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:15.565063"
     },
     {
       "region_code": "pt",
@@ -106,10 +310,44 @@
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/d4b-consultoria-e-solucoes-informaticas-unipessoal-lda-17984201?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/17984201/image_128/D4B%20-%20CONSULTORIA%20E%20SOLU%C3%87%C3%95ES%20INFORM%C3%81TICAS%2C%20UNIPESSOAL%20LDA?unique=1848617",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.008904"
+      "about_text": "Convertemos desafios de gestão em processos integrados e eficientes. 🚀 Acreditamos que a chave para uma gestão mais eficaz e um negócio mais competitivo reside numa parceria forte com a D4B.🤝 Aliamos a nossa profunda especialização técnica a um entendimento sólido das necessidades do seu negócio, para o/a ajudar a alcançar os seus objetivos. Desenhamos, implementamos e desenvolvemos soluções personalizadas que geram valor real para a sua organização bem como para os seus utilizadores. 🧭 - A Nossa Abordagem para o sucesso do seu projeto: 1 - Entender Bem o Objetivo: Primeiro, ouvimos para perceber exatamente o que precisa e o que define o sucesso para si. Definimos juntos o alvo a atingir. Benefício: Garantimos que estamos todos na mesma página e que o resultado final resolve o problema real. 2 - Manter Todos Ligados: Identificamos quem precisa de estar envolvido e mantemos uma comunicação clara e constante com todos. Benefício: Evitamos mal-entendidos e garantimos que o projeto avança de forma alinhada com as suas expectativas. 3 - Planear o Caminho Certo: Criamos um plano realista, com as etapas principais, e verificamos se é viável (tempo, custos, recursos). Pensamos nos desafios antes que eles apareçam. Benefício: Damos-lhe uma visão clara do processo e asseguramos que o projeto é entregue de forma eficiente e segura. 💎 - Os nossos valores Partilhados pela nossa equipa e vivenciados diariamente pelos nossos clientes, os nossos valores são a base de tudo o que fazemos — e a chave para o nosso sucesso. - Inovação, a nossa abordagem de melhoria continua permite encontrar as melhores soluções para o seu negócio - A paixão pela tecnologia e pelos desafios dos nossos clientes move a nossa equipa. - Compromisso, assumimos uma entrega de resultados, qualidade e confiança. 🛠️ - Os nossos serviços 🔸 Implementação, configuração e personalização do ERP Odoo 🔹 Desenvolvimento de módulo Odoo personalizado adaptado às suas necessidades. 🔸 Formação da equipa após a implementação do software. 🔹 Design de software personalizado para os seus processos de negócio exclusivos 🔸 Suporte e manutenção contínuos das suas ferramentas digitais 🔹 Consultoria estratégica de negócio para orientar a sua transformação Fale Connosco agora! [EN] We convert management challenges into integrated and efficient processes. 🚀 We believe that the key to more effective management and a more competitive business lies in a strong partnership with D4B.🤝 We combine our deep technical expertise with a solid understanding of your business needs to help you achieve your goals. We design, implement and develop customized solutions that generate real value for your organization as well as its users. 🧭- Our Approach to the success of your project: 1 - Understand the Objective Well: First, we listen to understand exactly what you need and what defines success for you. We define together the target to be reached. Benefit: We ensure we are all on the same page and that the end result solves the real problem. 2 - Keep Everyone Connected: We identify who needs to be involved and maintain clear and constant communication with everyone. Benefit: We avoid misunderstandings and ensure that the project progresses in line with your expectations. 3 - Planning the Right Path: We create a realistic plan, with the main steps, and check if it is viable (time, costs, resources). We think about challenges before they appear. Benefit: We give you a clear overview of the process and ensure the project is delivered efficiently and safely. 💎 - Our values: Shared by our team and lived daily by our customers, our values ​​are the foundation of everything we do and the key to our success. Innovation, our continuous improvement approach allows you to find the best solutions for your business The passion for technology and the challenges of our customers drives our team. Commitment, we assume the delivery of results, quality and trust. 🛠️ - Our services: 🔸 Implementation, configuration and customization of Odoo ERP 🔹 Development of a customized Odoo module adapted to your needs. 🔸 Team training after software implementation. 🔹 Custom software design for your unique business processes 🔸 Ongoing support and maintenance of your digital tools 🔹 Strategic business consulting to guide your transformation Contact Us Now!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        },
+        {
+          "version": "Certified v18",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:15.867200"
     },
     {
       "region_code": "pt",
@@ -127,10 +365,52 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/qdoo-consulting-lda-12558784?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/12558784/image_128/Qdoo%20Consulting%2C%20Lda?unique=5c0f4e3",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.009364"
+      "about_text": "GANHADORES DO ODOO BEST PARTNER EUROPE 2022 Implantador Ibérico com mais consultores certificados no Odoo em 2023 Gold Partners desde 2019 Somos uma empresa tecnológica , fundada em Barcelona em 2010, especializada na digitalização e na solução das necessidades de qualquer negócio com o software Odoo ERP, CRM y Business Intelligence . Abrangemos o todo o mercado português com o nosso escritório em Lisboa e no mercado espanhol com escritórios em Barcelona, Madrid, Sevilha e Bilbau ; Também oferecemos a possibilidade de desenvolver projetos de forma remota . Somos mais de 80 consultores com mais de 300 projetos concluídos . Na nossa equipa encontrará especialistas em logística, finanças, vendas, compras, administração de sistemas, programação, gestão de projetos, entre outros. A experiência adquirida permite-nos analisar e focar-nos em implementar, com o mínimo investimento e no menor tempo possível , o vosso projeto tecnológico. O nosso mantra é Serviço, Serviço e Serviço . A nossa metodologia baseia-se na proximidade com os clientes, adaptabilidade e agilidade, trabalho em equipa, aprendizagem e persistência . Contacte-nos e descubra como os nossos serviços podem ajudar o seu negócio! ODOO BEST PARTNER EUROPE 2022 WINNERS Iberian Implementer with the Most Odoo Certified Consultants in 2023 Gold Partners since 2019 Our technology company was founded in Barcelona in 2010, and we focus on digitizing and meeting the needs of any business using Odoo ERP, CRM, and Business Intelligence software . We serve the Portuguese market from our office in Lisbon and the Spanish market from offices in Barcelona, Madrid, Seville, and Bilbao , Additionally, we provide remote project development services . We are a company equipped with a team of over 80 skilled consultants who have completed more than 300 projects . Our team consists of experts in diverse areas including logistics, finance, sales, procurement, systems administration, programming, project management, and more. With our wealth of experience, we excel at analyzing and executing technological projects, delivering optimal results with minimal investment and rapid turnaround times . Our guiding principle is centered around Service, Service, and Service . We adhere to a methodology that prioritizes close collaboration with clients, adaptability, agility, teamwork, continuous learning, and perseverance . Contact us to discover how our services can benefit you!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Construction & Renovation",
+          "count": 5
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:16.116191"
     },
     {
       "region_code": "pt",
@@ -148,10 +428,44 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/imd-consultoria-e-inovacao-lda-11053728?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/11053728/image_128/IMD%20-%20Consultoria%20e%20Inova%C3%A7%C3%A3o%2C%20lda?unique=948d23a",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.009810"
+      "about_text": "Accelerate your digital transformation process in a single platform! Get in touch at info@imdigital.pt or check out our website: https://imdigital.pt/",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 6
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:16.624003"
     },
     {
       "region_code": "pt",
@@ -169,10 +483,40 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/open-source-integrators-europe-4756659?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4756659/image_128/Open%20Source%20Integrators%20Europe?unique=990afbf",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.010255"
+      "about_text": "PDF GRATUITO: Conheça os 4 Elementos Essenciais Para o Sucesso (ou Falhanço) da Sua Implementação Odoo Na OSI, já conduzimos muitas missões de resgate, ajudando empresas a recuperar implementações de Odoo num estado desafiante. Pelo caminho, a nossa equipa aprendeu muito acerca das armadilhas mais comuns em projetos de ERP. Descarregue o nosso PDF onde partilhamos as quatro razões principais pelas quais a sua implementação de ERP pode caminhar para uma situação difícil. Uma coisa é certa: quanto mais tempo estes problemas persistirem, mais difícil será a situação para a sua empresa. Descobrir como ultrapassar este problemas e conduzir com sucesso a sua implementação de ERP - clique na ligação abaixo. Descarregue PDF Gratuito Aqui SOBRE O PARCEIRO Confie no Parceiro Líder nos Estados Unidos Se procura um parceiro estratégico para o ajudar na sua implementação Odoo, veio ao sítio certo. A OSI é a principal fornecedora de serviços de integração Odoo, servindo clientes em todo o mundo com consultoria de negócio, mitigação de risco e serviços de implementação. Aproveitando a sua experiência em Odoo, a OSI trabalha directamente consigo para identificar e conceber estratégias eficazes para responder aos objectivos específicos do seu negócio. Através de uma cuidadosa configuração e personalização da sua plataforma Odoo ERP, a OSI dá aos seus clientes as ferramentas para melhorar processos, criar novos modelos de negócio, acelerar a transição digital, e gerar valor para a organização. Quer trabalhe na indústria transformadora, engenharia, construção e serviços públicos, ou no sector dos serviços, pode confiar na experiência da OSI para satisfazer as suas necessidades de serviços de implementação do Odoo. Primeiro dedicamos tempo para obter uma compreensão completa do seu negócio, com o objetivo de alinhar os objetivos do software ERP Odoo com os seus objectivos de negócio. O resultado é a maximização do seu investimento e mais valor. Os clientes que escolhem uma parceira com a OSI sentem vários benefícios: Eliminação de trabalho manual, redundâncias e erros. Alinhamento e simplificação de fluxos de trabalho. Desenvolvimento de novos modelos de negócio e iniciativas digitais. Maximizar recursos, reduzir custos, e aumento de resultados. Converter a volatilidade da cadeia de abastecimento num fator de sucesso. O seu Parceiro de Implementação Odoo Para Todas as Necessidades do Negócio Do ciclo de vida do produto à gestão de projetos, da gestão do armazém e da cadeia de fornecimento à entrega mais rápida de produtos e serviços online, na loja e no terreno, a OSI pode ajudá-lo a tirar o máximo partido do seu software Odoo ERP. Pode criar melhores produtos, responder à volatilidade do mercado, melhorar o desempenho do armazém e gerir melhor os projectos se tiver dados em tempo real, completos e precisos. Pode garantir entregas rápidas e clientes satisfeitos com uma gestão precisa do serviço no terreno. E pode controlar o seu estado financeiro com um sistema robusto que inclui contabilidade de custos e analítica. Isto é só o começo. A OSI tem conhecimento profundo que permite ajudar na implementação de soluções para as mais variadas necessidades de negócio: Contabilidade: Melhorar o registo, seguimento e o reporte de gastos e receitas, contas a receber e contas a pagar, tendo informação contabilística e financeira completa. Produção: Produzir produtos melhores,com maior qualidade e a custos mais baixos, chegar mais rapidamente ao mercado, e ganhar visibilidade em tempo real do processo produtivo. Inventário: Antecipar de forma mais rápida e precisa a procura e as necessidades de reabastecimento, usando controlos de inventário baseados em dados. CRM: Siga os dados de vendas desde o contacto com o potencial cliente, ao longo do seguimento da oportunidade, colocação da encomenda, entrega, e nova compra, até ao upsell, cross-sell e suporte pós-venda.. Comércio electrónico: Crie experiências de compra online excecionais, que vão de encontro aos seus clientes, facilmente integradas com os seus sistemas de gestão do negócio. Gestão de serviço de campo: Alinhe as operações dos seus colaboradores no terreno com os processos da empresa, para obter dados e conhecimento que, em última instância, permitem um serviço ao cliente excepcional. Pessoas e cultura: Coloque os seus colaboradores em primeiro lugar, utilizando aplicações de RH intuitivas que capacitam o seu pessoal e melhoram o recrutamento e a retenção. Parceiro do Ano Significa Foco na Excelência Acima de Tudo Isto é algo de que nos orgulhamos: a OSI foi o primeiro Odoo Gold Partner na América do Norte. E como um líder na comunidade Odoo, esforçamo-nos para continuar a demonstrar a nossa profunda experiência em Odoo em cada projecto em que trabalhamos. A nossa incansável dedicação e trabalho árduo valeu-nos conquistas como: Top Odoo Accounting Solution Provider - 2021, 2022 3 vezes Odoo Partner of the Year - North America - 2013, 2019, 2020, 2022 (nomeado) 20 Fornecedores de Soluções ERP Mais Promissores- 2021 20 Fornecedores de Soluções Field Service Management Solution Providers Mais Promissores - 2021 OCA Platinum Sponsor desde 2019 O nosso contributo para a Comunidade Odoo Temos publicadas mais de 200 apps Odoo Os nossos especialistas em ERP desenvolveram mais de 200 aplicações Odoo. Quer se trate de colaborar com outros membros da comunidade Odoo, ou de aplicações Odoo que nós próprios criámos, a OSI continua a aprofundar o seu empenho em ajudar a construir soluções ERP que podem ser utilizadas para as mais variadas necessidades de negócio. Autoria de Textos Importantes em Tecnologia Odoo \"Financial Accounting with Odoo\" - de Greg Mader, Presidente da Open Source Integrators. Aprenda a configurar a contabilidade do ERP Odoo para produzir resultados corretos e completos... à primeira. \"Odoo Development Essentials\" - de Daniel Reis, Diretor na Open Source Integrators Europe. Um estudo pormenorizado das ferramentas de desenvolvimento em Odoo, proporcionando técnicas de confiança para a criação e manutenção de aplicações de suporte ao negócio. Os profissionais da OSI põem as suas necessidades de implementação em primeiro lugar Os consultores da OSI aperfeiçoam continuamente muitas das melhores práticas em integração Odoo por todo o mundo. Eles fazem as perguntas certas para entender suas necessidades críticas de negócio e desenham as soluções Odoo certas para sua empresa crescer mesmo em tempos incertos. Como? A nossa equipa possui um conhecimento profundo da indústria, elevadas competências técnicas de TI e uma familiaridade dos detalhes ao trabalhar directamente com os clientes. Conseguem identificar formas de automatizar processos para reduzir a redundância, o trabalho manual e os erros. Podem integrar sistemas e aplicações para melhorar a visibilidade e o controle. Tira-se partido das ferramentas de análise e relatórios que funcionam a partir de qualquer local, para capacitar uma força de trabalho móvel através de dados acionáveis e informação relevante. Os especialistas Odoo da OSI fazem isso usando uma metodologia cientificamente verificada para o sucesso da integração em Odoo: A nossa equipa fornece soluções de ERP de código aberto usando um método cientificamente investigado e baseado em factos, necessário para a melhoria e manutenção do seu sistema. Abordamos cada projeto como o empreendimento único que é, seguindo um método comprovado de quatro passos: Analisar : A OSI realiza uma avaliação detalhada do seu ambiente atual, objetivos, cronograma, custo e a melhor maneira de construir um protótipo que melhor atenda às suas necessidades. ANALYZE Optimizar: A OSI trabalha diligentemente para simplificar e agilizar os fluxos de trabalho usando técnicas avançadas de gestão de processos de negócio. OPTIMIZE Automatizar: Usando a combinação certa de configuração e personalização do Odoo, os processos manuais e a gestão de dados ad-hoc transformam-se numa experiência digital integrada, contínua e coesa. AUTOMATE Transição : Porque a adopção continua a ser um catalisador crucial para o sucesso de uma implementação Odoo, a OSI faz o coaching, formação e apoio de forma garantir o sucesso da sua equipa. TRANSITION Acompanhe, forme e garanta o suporte aos membros da sua equipa, à medida que se adaptam aos novos sistemas operativos. Saiba mais sobre o nosso processo e o que esperar dele. SAIBA MAIS",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:16.939061"
     },
     {
       "region_code": "pt",
@@ -190,10 +534,35 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/typing-solutions-10632349?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10632349/image_128/TYPING%20SOLUTIONS?unique=a7d63f2",
-      "about_text": null,
+      "about_text": "💡 Typing Solutions (Portugal) — Parceiro Oficial Odoo Enterprise Mais de 6 anos de experiência como Parceiro Odoo Community. Agora também Enterprise. Na Typing Solutions , transformamos tecnologia em valor real para as empresas. Com mais de 6 anos de experiência como parceiros Odoo Community, somos especialistas em desenvolver, implementar e otimizar soluções de gestão personalizadas para os mais variados setores de atividade. Atualmente, reforçamos o nosso compromisso de excelência como Parceiro Oficial Odoo Enterprise , com um portfolio robusto e comprovado. Com uma equipa sénior altamente qualificada e uma abordagem orientada à performance, ajudamos as empresas a digitalizar e automatizar processos com soluções Odoo totalmente integradas, adaptadas à legislação e às exigências do mercado nacional — incluindo faturação certificada em Portugal (cumprindo com a Autoridade Tributária). Trabalhar com a Typing Solutions é escolher um parceiro estratégico, experiente, inovador e com um compromisso firme com os resultados. O que nos distingue: Experiência Reconhecida Mais de 80 projetos implementados com sucesso nos setores da saúde, telecomunicações, energia, retalho, indústria e serviços. Especialização em Odoo (Community e Enterprise) Desenvolvimento de módulos personalizados, integração com sistemas externos e total domínio funcional e técnico da plataforma. Faturação Certificada Portuguesa Soluções que garantem conformidade com as normas da Autoridade Tributária, incluindo comunicação SAF-T, QR Code, ATCUD e mais. Acompanhamento de Proximidade e Suporte Contínuo Consultoria funcional, formação prática e apoio técnico para equipas de todas as dimensões. Inovação com Inteligência Artificial e Automação Integração de IA, machine learning e automações de processos que elevam a produtividade dos nossos clientes. Formação e Documentação Funcional Capacitação completa dos utilizadores, com manuais, vídeos tutoriais e sessões de formação adaptadas ao negócio. Deseja compreender como o Odoo pode ser adaptado à realidade da sua empresa? Fale com a nossa equipa. ✅ Visite https://typingsolutions.pt ou marque uma reunião de diagnóstico gratuita.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.010695"
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:18.845731"
     },
     {
       "region_code": "pt",
@@ -211,10 +580,36 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/quantinfor-consultoria-informatica-lda-18316899?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/18316899/image_128/QUANTINFOR%20CONSULTORIA%20INFORMATICA%20LDA?unique=af790d6",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.011139"
+      "about_text": "Estamos sobretudo orientados para o mercado empresarial dedicando-nos ao fornecimento, implementação e personalização de soluções informáticas. As parcerias estabelecidas com marcas de referência, permitem-nos apresentar produtos e serviços de reconhecida qualidade e confiança. Apostamos fortemente na qualidade dos nossos serviços e implementamos em 2015 a norma ISO 9001.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:19.095799"
     },
     {
       "region_code": "pt",
@@ -233,9 +628,23 @@
       "profile_url": "https://www.odoo.com/partners/comsoftweb-sistemas-informaticos-lda-17570625?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/17570625/image_128/COMSOFTWEB-SISTEMAS%20INFORM%C3%81TICOS%2C%20LDA?unique=c215e90",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.011557"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:19.357693"
     },
     {
       "region_code": "pt",
@@ -253,10 +662,28 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/corvanis-lda-22363838?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/22363838/image_128/Corvanis%2C%20Lda.?unique=53cd1b1",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.011995"
+      "about_text": "Corvanis: Integrating Power with Purpose. At Corvanis, we understand that many businesses suffer from a critical disconnect between their foundational technology and their daily operations. This friction creates inefficiency and limits growth. Our mission is to be the master architects and engineers who bridge that gap. We don't just sell you software; we expertly design and build your complete digital structure, ensuring your foundational power perfectly empowers your operational intelligence. Our Philosophy: A Solid Foundation for Smart Growth. We believe every great business needs two things: an unshakeable foundation and an intelligent framework built upon it. The Foundation (The Core): We view your IT infrastructure as your business's foundation—it must be powerful, secure, and absolutely reliable. The Framework (The Applications): The framework is how your business lives, breathes, and grows. It's your sales processes, customer relationships, inventory, and financial management. This is the world of Odoo—the flexible, integrated suite of applications that touches every part of your team. The Corvanis story is this: We ensure your foundation empowers your framework, creating a seamless system where power and purpose work in absolute harmony. Why Partner with Corvanis? Solid & Dependable: We are trustworthy and provide stable, long-term solutions built to last. Integrated & Holistic: Our greatest skill is connecting disparate systems into a single, coherent whole. Intelligent & Pragmatic: We are expert problem-solvers who apply deep technical and business logic to solve complex challenges with practical, efficient solutions. Proven Methodology: We adhere to Odoo's established implementation methodology, which has a proven track record of achieving over 95% project success rates, with a primary focus on delivering projects on time and within budget. By choosing Corvanis, you are selecting more than just an IT provider. You are choosing an essential partner for any business looking to build a truly robust and intelligent future. Corvanis Website",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "NGO",
+          "count": 2
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:19.632209"
     },
     {
       "region_code": "pt",
@@ -274,10 +701,20 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/codnod-excelencia-digital-24300976?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24300976/image_128/Codnod%20Excel%C3%AAncia%20Digital?unique=eef1d38",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.012394"
+      "about_text": "Transforme gestão em excelência A Codnod é uma empresa de consultoria tecnológica focada em transformação digital e soluções cloud, especializada na implementação e otimização de Odoo ERP para empresas em crescimento em Portugal. Combinamos profundos conhecimentos de negócio com experiência técnica para desenhar sistemas de gestão integrados, escaláveis e alinhados com a realidade de cada organização. Apoiamos os nossos clientes ao longo de todo o ciclo de vida do projeto Odoo: desde a análise de processos e desenho da solução, à implementação, migração de dados, formação e suporte contínuo. O nosso objetivo é garantir adoção rápida, elevado retorno do investimento e uma plataforma preparada para crescer com o negócio. Para além do Odoo, desenvolvemos software à medida, agentes de IA e automações inteligentes, bem como infraestruturas cloud seguras e eficientes. Esta combinação permite-nos integrar o Odoo com outros sistemas, automatizar tarefas críticas e criar painéis de dados que apoiam decisões baseadas em informação em tempo real. Trabalhamos com PME e empresas em expansão em diversos setores, ajudando-as a otimizar operações, reduzir trabalho manual e ganhar visibilidade de ponta a ponta sobre o negócio. A Codnod privilegia uma abordagem próxima, transparente e orientada a resultados, construindo relações de longo prazo assentes em confiança e melhoria contínua. Se procura um parceiro Odoo em Portugal capaz de unir tecnologia, dados e processos numa única plataforma, a Codnod é o aliado certo para levar a sua empresa ao próximo nível de eficiência e competitividade.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:53:19.856029"
     },
     {
       "region_code": "pt",
@@ -295,10 +732,10 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/much-consulting-unipessoal-lda-9316320?country_id=177",
       "logo_url": "https://odoocdn.com/web/image/res.partner/9316320/image_128/MUCH.%20CONSULTING%2C%20UNIPESSOAL%2C%20LDA?unique=b76edc6",
-      "about_text": null,
+      "about_text": "We are a boutique consultancy based in the heart of Munich. Our customers are high growth start ups and medium sized companies. Besides implementing and integrating Odoo, we offer finance, management, process and automation consulting. much. enables growth We offer a range of services to tackle our customers growth pains. Thus, a hands-on approach, fast implementation on daily changing requirements and taking full responsibility is our key to successful projects. Typical challenges we solve are unstable cashflow, lack of scalability, high errors through a lack of standardization and inefficiency. Our solutions include: Standardizing, digitizing and documenting processes, custom modules to secure competitive advantages, cash cycle optimization through accounting & billing automation, enabling international sales in multiple languages, integration with business partners (e.g. logistics, suppliers) or avoiding manual work or error prone processes through automation. Overall, our customers can grow without hiring more operational personal, secure returns on scale, need less financing rounds and have more insights into there business. We have worked with a range of different ERP, CRM, Logistics & Production software platforms and believe Odoo Enterprise is the best choice for any company between one and 500 employees.",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:11.012754"
+      "scraped_at": "2026-04-09T07:53:20.284435"
     }
   ]
 }

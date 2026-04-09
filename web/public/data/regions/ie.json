@@ -2,7 +2,7 @@
   "region_code": "ie",
   "country_code": "IE",
   "country_name": "Ireland",
-  "scraped_at": "2026-04-09T05:58:53.947509",
+  "scraped_at": "2026-04-09T07:51:45.935710",
   "total_partners": 7,
   "source_url": "https://www.odoo.com/partners/country/ireland-99",
   "partners": [
@@ -22,10 +22,44 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/numla-7778145?country_id=99",
       "logo_url": "https://odoocdn.com/web/image/res.partner/7778145/image_128/Numla?unique=647c155",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:53.944594"
+      "about_text": "Congratulations on discovering Odoo! The next crucial step is selecting the perfect partner, as this choice is critical to your success. Numla, an Odoo partner based in Cork, distinguishes itself as the sole international Odoo partner headquartered in Ireland. We began our journey in 2017 and achieved Gold Partner status within the first year. You'll benefit from our extensive Irish experience spanning diverse industries – Manufacturing, eCommerce, Healthcare, Retail, Field Services, Logistics, HRM, Accountancy Services Management – to name a few. Our customized solutions come with fixed pricing and budget-friendly options, including monthly payment plans. We understand that your requirements may evolve and change, and we accommodate these needs without additional charges. Our flexibility enables us to take calculated risks with you, invest in a long-term relationship, and employ agile methodologies to ensure your business's success! Join us on a path to success! 🌟💼 🚀 Choose us as your partner and ascend to new heights! Visit our website www.numla.com Why you should work with us Agile Methodology Our team works with an agile project management approach. We do iterative development and make continuous improvements. We stay flexible to adapt to changing needs and priorities. Client-Centric Approach Our work starts with truly understanding what you exactly need. Then, we tailor solutions to meet your specific business requirements. We ensure effective communication and collaboration throughout the project. Proactively Driving Innovation We are proactive in identifying opportunities for digitalization and automation in your organization to simplify complicated processes. Get in touch with us",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 6
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:43.408736"
     },
     {
       "region_code": "ie",
@@ -43,10 +77,44 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/target-integration-ltd-15389?country_id=99",
       "logo_url": "https://odoocdn.com/web/image/res.partner/15389/image_128/Target%20Integration%20Ltd.?unique=d7d6d3a",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:53.945085"
+      "about_text": "Target Integration is a leading Odoo implementation partner in Ireland, specialising in ERP, CRM, digital transformation and automation. With three offices on the island of Ireland, Dublin, Cork, and Belfast, our team has helped many businesses across varied industries and market sectors to streamline their operations, increase productivity, and ultimately achieve their business goals. Our dedication lies in comprehending the pain points and distinct challenges faced by our clients. This enables us to deliver the most optimal solution, empowering business owners and directors to concentrate on running their enterprises and achieving their goals. Target Integration’s solutions are tailored to simplify processes, improve efficiency, and optimise Odoo’s full potential. Our team of experts provides exceptional service, ensuring clients receive the guidance and support they need before, during, and after the implementation process. We believe our success is directly influenced by and linked to our clients' success. We are committed to building long-term relationships and partnerships. Our quality management and information security standards are underpinned by ISO 9001 and ISO 27001 certification. In addition to our certifications, TI holds memberships with esteemed Irish affiliations such as the Small Firms Association (SFA) and the Irish Manufacturing Research (IMR). We work with organisations such as Local Enterprise Office (LEO) and Enterprise Ireland (EI) to help companies implement Odoo. Our wide range of Odoo services includes: Full implementation of Odoo, including customisation and integration. Data migration from your legacy software to Odoo, ensuring the preservation of historical data. Ongoing support and maintenance to ensure your systems run smoothly and minimise business interruption. Training and education for your staff to help them get the most out of Odoo. Successful businesses across multiple industries trust Target Integration, including those working in manufacturing, warehouse, logistics, and operations. With over 10 years of experience and proven expertise in Odoo implementation, we have helped clients automate their manual processes and integrate disparate systems to streamline procedures and benefit both businesses as usual, as well as provide insights and reporting. Check out our success story - https://www.odoo.com/blog/customer-reviews-6/envirobuild-harnesses-the-full-potential-with-odoo-1065 Case studies - https://targetintegration.com/case-study/ Book a call - https://targetintegration.com/contact-us/ Watch Now: Client Testimonial | I would highly recommend Target Integration - Eamon Wilson | Promowear",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 4
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:43.700275"
     },
     {
       "region_code": "ie",
@@ -64,10 +132,36 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/valeordo-16382021?country_id=99",
       "logo_url": "https://odoocdn.com/web/image/res.partner/16382021/image_128/Valeordo?unique=a46b38e",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:53.945553"
+      "about_text": "Your Trusted Odoo Partner for Business Transformation Maximise Your Business Potential with Valeordo : Where Operational Excellence Meets Financial Precision. Engaging with Valeordo means more than just a software upgrade. Our clients gain the unique advantage of a partner with deep-rooted expertise in both complex business operations and the accounting function. We specialise in transitioning businesses from restricted environments like Sage 50, QuickBooks, and Xero —as well as other traditional legacy packages—into Odoo’s high-performance, integrated ecosystem. We ensure your entire business speaks the same language as your finance team. What You Gain When You Partner with Valeordo When you choose Valeordo to manage your transition from Sage, QuickBooks, or Xero, your business secures three core pillars of value: 1. Guaranteed Financial Integrity & Deep Accounting Insight Transitioning accounts is a high-stakes task. With Valeordo, you gain a team that understands the nuances of Irish and UK accounting standards. Audit-Ready Migration: Move from legacy platforms with total confidence. We guarantee the accuracy of your opening balances, aged creditors, and debtors. Compliance by Design: Your system will be configured from day one to handle VAT, RCT, and Revenue reporting with zero friction. Real-Time Visibility: Gain the ability to see your true financial position at any moment, moving away from the \"delayed reporting\" cycles of traditional software. 2. Seamless Operational Integration Entry-level accounting software is often an island. Valeordo bridges the gap between your back office and your front-line operations. End-to-End Synergy: We synchronise your Warehouse, Manufacturing, and Sales workflows directly with your nominal ledger. Elimination of Silos: Gain a \"single source of truth.\" No more manual data entry between your operations and your Xero or Sage data—with Odoo, they become one. Process Optimisation: We don't just digitise your current mess; we refine your workflows to save time and reduce overheads. 3. Local Expertise & Hands-On Partnership We provide a level of accessibility that global implementers cannot match. Direct Access to Experts: You gain a dedicated project team that understands the Irish and UK business landscape. Reduced Risk: Our proven methodology for migrating from traditional accounting packages ensures a \"Go Live\" with minimal disruption to your daily trade. Staff Empowerment: Your team gains the skills they need through bespoke training, moving them from being \"software users\" to \"process owners.\" The Valeordo Guarantee: Deep Knowledge, Delivered. We pride ourselves on our dual-competency. Whether it's a complex manufacturing bill of materials or a sophisticated multi-currency consolidation, our deep knowledge of the accounting function and operational logic is guaranteed. Stop outgrowing your software. Start scaling your business with Valeordo. Would you like me to create a comparison table showing the specific benefits of moving from Xero/Sage/QuickBooks to Odoo to include on this page? Local Presence, Regional Reach: With offices in Limerick, Cork and Dublin, Valeordo Limited serves clients across Ireland and the UK, providing personalised and responsive support.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 4
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:44.266993"
     },
     {
       "region_code": "ie",
@@ -85,10 +179,35 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/smart-information-technologies-ireland-7169712?country_id=99",
       "logo_url": "https://odoocdn.com/web/image/res.partner/7169712/image_128/Smart%20Information%20Technologies%20Ireland?unique=b388d9d",
-      "about_text": null,
+      "about_text": "Smart IT Ireland - Delivering business agility and digital transformation solutions built on Odoo’s innovative platform. Smart IT is a Dublin based Odoo partner. Supported by our UK parent company, the country's largest and most successful Gold Odoo partner, we have completed more than 100 Odoo projects. We transform businesses with innovative ERP solutions delivered by our in-house consultants and developers, helping businesses operate efficiently and achieve competitive advantage. Find out more We work with small to medium-sized organizations to address business challenges from organizational growth and operational transformation, to cost management and market differentiation. SECTORS Finance Energy Manufacturing Retail Wholesale & Distribution Healthcare Food & Beverage Read more case studies here Focused solely on Odoo technology, our objective is to help you increase operational efficiency, employee productivity, make faster decisions based on real time information and ultimately deliver increased profitability using the Odoo platform. We adopt a management consultancy approach to meeting our clients' objectives. We start with pain points and gain a thorough understanding of your existing processes and legacy systems. We then map out an integrated business system solution. Depending on the complexity of the project we can use anything from a couple of Odoo modules to upwards of ten or twelve. ODOO MODULES Accounting CRM Helpdesk Email Marketing HR Sale Dashboard Documents Project Management Purchase Time sheet Website Social Media Marketing Planning Knowledge Production See more here Our Odoo service portfolio includes consultancy, customization, software development, implementation, system upgrades and integrations, ongoing support, and training. We also have a reputation in the Odoo community as the partner of choice for 'rescue' projects or deeply complex software development implementations. If you'd like to start your journey to digital transformation with Smart IT and Odoo, contact us today. Smart IT has offices in Ireland, the UK and Canada. Latest Case Studies ZELUS SPORTS – Nike Team Distributor The implementation of Odoo has had a dramatic impact on Zelus's speed and efficiency. Automation of warehouse logistics has sped up processes by more than 80%, with 100% accuracy. Read more here FORSBERG Forsberg had initially relied entirely on Excel spreadsheets to manage its Enterprise Resource Planning (ERP) processes. By 2012, this approach was too manual and restrictive for an ambitious, growing business, and the company installed an early version of the software known now as Odoo. Read more here CAMBRIDGE SATCHEL COMPANY \"We knew when we looked into Odoo and some of the case studies that it was the right solution for us. The final system created by Smart IT is excellent and has completely overhauled how we do things resulting in measurable time and cost savings. It has also reduced our lead times and stock holding requirements which has further benefited the company and our customers.\" Read more here",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:53.946040"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:44.578257"
     },
     {
       "region_code": "ie",
@@ -108,8 +227,17 @@
       "logo_url": "https://odoocdn.com/web/image/res.partner/2065746/image_128/Cirrus%20ERP%20Ltd?unique=03af872",
       "about_text": null,
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:53.946486"
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:44.974152"
     },
     {
       "region_code": "ie",
@@ -127,10 +255,28 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/combined-media-company-7935359?country_id=99",
       "logo_url": "https://odoocdn.com/web/image/res.partner/7935359/image_128/Combined%20Media%20Company?unique=57b3812",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:53.946947"
+      "about_text": "Combined Media, a Dublin-based digital agency, now offers comprehensive Odoo services to streamline business operations and drive growth. Their end-to-end solutions include: Consultation & Strategy : Assessing business processes to identify efficiency enhancements through Odoo. Implementation & Customisation : Configuring and tailoring Odoo to align with specific workflows and objectives. Integration Services : Seamlessly connecting Odoo with existing tools, platforms, and third-party applications. Training & Support : Providing expert training and ongoing assistance to ensure effective utilization of Odoo. Upgrades & Maintenance : Keeping systems updated with the latest Odoo features and enhancements. With years of expertise in digital transformation, Combined Media delivers scalable, user-friendly, and cost-effective solutions to help businesses maximize the potential of Odoo. Odoo ERP Modules Offered by Combined Media Combined Media provides a range of Odoo applications to cover every aspect of your business: Sales CRM : Manages leads, opportunities, and customer interactions, integrating advanced features for sales planning, email integration, and meeting organization. Sales Management : Handles the entire sales cycle from quotations and sales orders to delivery and invoicing, integrating seamlessly with inventory, accounting, and shipping. Inventory Inventory Management : Monitors stock movements, inventory levels, and warehouse activities, offering features like automated purchase orders, accurate stock control, and real-time inventory visibility. Human Resources HR Management : Oversees employee records, recruitment, payroll, expenses, leave management, appraisals, and timesheets, ensuring efficient human resource operations. Project Management Project Management : Provides tools for planning and tracking tasks, timesheets, issues, and projects, including scheduling using Gantt charts and configurable billing rates to streamline business processes. Manufacturing Manufacturing : Enables production planning, bill of materials management, work orders, and capacity scheduling, covering the full production cycle from product design to output. Website and E-commerce Website Builder : Allows the creation of responsive websites and e-commerce stores without coding, using a drag-and-drop editor and templating. E-commerce : Integrates with inventory, sales, and accounting modules to provide a seamless online shopping experience for customers. Marketing Marketing Automation : Offers email marketing, automated campaigns, events management, surveys, and social media integration to enhance marketing efforts. Point of Sale POS : Provides a touchscreen point-of-sale interface for physical stores and restaurants, handling cashier operations, payments, orders, and real-time inventory updates.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "NGO",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:45.266831"
     },
     {
       "region_code": "ie",
@@ -149,9 +295,14 @@
       "profile_url": "https://www.odoo.com/partners/mainline-solutions-limited-26087949?country_id=99",
       "logo_url": "https://odoocdn.com/web/image/res.partner/26087949/image_128/Mainline%20Solutions%20Limited?unique=fe272db",
       "about_text": null,
-      "certifications_breakdown": [],
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:53.947374"
+      "scraped_at": "2026-04-09T07:51:45.697492"
     }
   ]
 }

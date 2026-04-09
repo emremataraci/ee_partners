@@ -2,7 +2,7 @@
   "region_code": "hr",
   "country_code": "HR",
   "country_name": "Croatia",
-  "scraped_at": "2026-04-09T05:58:52.277446",
+  "scraped_at": "2026-04-09T07:51:40.598122",
   "total_partners": 8,
   "source_url": "https://www.odoo.com/partners/country/croatia-95",
   "partners": [
@@ -23,9 +23,59 @@
       "profile_url": "https://www.odoo.com/partners/e-sustavi-doo-1462710?country_id=95",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1462710/image_128/E-Sustavi%20doo?unique=f9c998c",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:52.274142"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        },
+        {
+          "version": "Certified v17",
+          "count": 7
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 14
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 9
+        },
+        {
+          "industry": "Other Services",
+          "count": 5
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 4
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Government",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:37.359533"
     },
     {
       "region_code": "hr",
@@ -43,10 +93,40 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/informacijska-rjesenja-nava-doo-2079197?country_id=95",
       "logo_url": "https://odoocdn.com/web/image/res.partner/2079197/image_128/Informacijska%20rje%C5%A1enja%20Nava%20d.o.o.?unique=194c585",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:52.274593"
+      "about_text": "Poduzeće Informacijska rješenja Nava d.o.o. već preko deset godina uspješno rješava probleme digitalizacije svojih klijenata nastupajući u svojstvu poslovnog konzultanta, dobavljača ODOO softverskog rješenja, i kontinuiranog partnera za podršku i poboljšanja. Razlika koju činimo, a klijent je prepoznaje jest u vrlo temeljitoj metodologiji preslikanoj iz najboljih svjetskih implementacijskih praksi, a također i mogućnosti prilagodbe softvera specifičnostima klijenta. Ovo rezultira da klijent dobije rješenje baš za ono što mu treba i koliko mu treba. Informacijska rješenja Nava d.o.o. has been successfully solving the digitalization problems of its clients for over a decade. We act as a business consultant, a supplier of ODOO software solutions, and a continuous partner for support and improvements. The difference we make, and the client recognizes it, is in a very thorough methodology mirrored from the world's best implementation practices, as well as the possibility of adapting the software to the specifics of the client. This results in the client getting a solution for exactly what he needs and how much he needs. https://www.nava.hr/",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Construction & Renovation",
+          "count": 4
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Agriculture",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:37.966438"
     },
     {
       "region_code": "hr",
@@ -64,10 +144,56 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/notus-it-doo-7308947?country_id=95",
       "logo_url": "https://odoocdn.com/web/image/res.partner/7308947/image_128/Notus%20IT%20d.o.o.?unique=f23af8f",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:52.275049"
+      "about_text": "ERP je srce poslovanja, zato ga oblikujemo prema vama. Razvijamo i prilagođavamo Odoo sustave specifičnim procesima i lokalnim zahtjevima , kako bi vaše poslovanje radilo jednostavnije i učinkovitije. Na taj način pripremamo vašu tvrtku za budućnost. Kao dio STORM grupe svojim klijentima postajemo one-stop-shop za cjelovitu implementaciju poslovnog sustava. Našu snagu čine ljudi – njihova stručnost, predanost i znatiželja. Svakom klijentu pristupamo individualno, s jasnim fokusom na ishod. Zato kontinuirano ulažemo u razvoj i obrazovanje zaposlenika, osiguravajući im pristup najnovijim tehnologijama i praksama kako bi uvijek mogli isporučiti rješenja koja vrijede . Razgovarajte s Odoo partnerom Naš pristup je jedinstven U potpunosti lokaliziran i prilagođen hrvatskom pravnom i zakonodavnom sustavu uz in-house razvoj web i mobilnih aplikacija omogućujemo vam da rastete brže. Rješenja za kompleksne poslovne procese Specijalizirani smo za tvrtke s 10 do 300+ korisnika. Digitaliziramo i optimiziramo prodaju, CRM, skladište, fakturiranje, računovodstvo, HR, obračun plaća i proizvodnju, sve u jednom centralnom sustavu. Uz custom razvoj, Odoo povezujemo s vašim postojećim alatima bez kompromisa. Odoo prilagođen hrvatskom tržištu Naša lokalizacija osigurava potpunu usklađenost s hrvatskim zakonima, porezima i poslovnim praksama, bez dodatnih prilagodbi i skrivenih troškova. Edukacija koja donosi rezultate Kroz strukturirane radionice pripremamo vaše timove za samostalan i učinkovit rad u Odoo sustavu od prvog dana. Brza i sigurna migracija podataka Preuzimamo odgovornost za prijenos početnih stanja i ključnih podataka kako biste mogli započeti rad bez zastoja i rizika. Razvoj aplikacija po mjeri Razvijamo mobilne i web aplikacije koje se savršeno uklapaju u vaš Odoo ekosustav i dodatno automatiziraju vaše poslovanje. Besplatni Odoo workshop Iskoristite besplatnu prezentaciju i saznajte kako Odoo može unaprijediti vaše poslovanje te kako izgleda implementacija. Bez brige o zakonima i izmjenama Uz naše zakonsko održavanje vaš Odoo sustav uvijek je ažuran i usklađen s važećim hrvatskim propisima. Sve na jednom mjestu “ključ u ruke” Kao dio STORM Grupe osiguravamo kompletnu IT podršku: infrastrukturu, sigurnost, cloud, data centar i nadzor za stabilan, siguran i skalabilan poslovni sustav. Industrije u kojima smo uspješno implementirali Odoo Implementirali smo Odoo rješenja u različitim industrijama, prilagođavajući sustav specifičnim poslovnim procesima i regulatornim zahtjevima svake djelatnosti. ICT i tehnološke tvrtke Upravljanje prodajom, projektima pretplatama i internim resursima Logistika i distribucija Optimizacija skladišta, isporuke, praćenja zaliha i operativnih procesa Hotelijerstvo Centralizirano upravljanje prodajom, financijama i operativnom procesima Uslužne djelatnosti Planiranje resursa, praćenje rada i obračun i fakturiranje usluga Automobilska industrija Upravljanje prodajom, servisima, izvještavanje i povezanim poslovnim procesima Telekomunikacije Upravljanje korisnicima, ugovorima, naplatom i podrškom Nakladništvo Upravljanje zalihama, distribucijom, pretplatama i obračunom autorskih prava Zdravstvo Kontrola evidencija, izvještavanja i usklađenost s regulativom Visoko obrazovanje Digitalizacija administrativnih i kadrovskih procesa Prepustite implementaciju Odoo sustava provjerenom partneru. Rezervirajte besplatni workshop",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:38.345305"
     },
     {
       "region_code": "hr",
@@ -85,10 +211,44 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/2p-doo-14066453?country_id=95",
       "logo_url": "https://odoocdn.com/web/image/res.partner/14066453/image_128/2P%20d.o.o.?unique=2b11c52",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:52.275510"
+      "about_text": "Your Trusted Partner for Odoo ERP System Implementation We help businesses optimize their operations and integrate key functions with the Odoo ERP system. Request a Free Consultation About Us 2P d.o.o. specializes in the implementation and maintenance of the Odoo ERP system with a focus on optimizing business processes, including finance, sales, procurement, manufacturing, and human resources. Our localization ensures full compliance with Croatian accounting regulations, allowing our clients to operate worry-free within the legal framework. Our vision is to help companies across Croatia achieve greater efficiency through digital transformation. Why Us? Extensive experience in business management Expertise in information technology and ERP systems Tailored solutions for clients’ specific needs Free initial consultations and presentations Developed accounting localization according to Croatian regulations Years of experience in finance and accounting Experience in ERP system implementation from both sides (as a recipient and provider of implementation services) Our Services Odoo ERP System Implementation Business requirements analysis ERP system planning and customization Integration with existing systems Data migration User training and continuous support Maintenance and Support Regular system maintenance Technical support and troubleshooting Upgrades and optimization Business and Financial Consulting Business process optimization Financial strategy planning Business decision consulting How We Work Step 1: Initial meeting to understand your business processes and challenges Step 2: Personalized presentation of the Odoo ERP solution, customized to your specific needs Step 3: Free consultations and solution proposal before the final decision This process ensures that our clients receive a solution tailored to their business goals. Vaš pouzdani partner za implementaciju Odoo ERP sustava Pomažemo poduzećima optimizirati poslovanje i integrirati ključne funkcije pomoću Odoo ERP sustava. Zatražite besplatne konzultacije O nama Tvrtka 2P d.o.o. specijalizirana je za implementaciju i održavanje Odoo ERP sustava s posebnim naglaskom na optimizaciju poslovnih procesa, uključujući financije, prodaju, nabavu, proizvodnju i ljudske resurse. Naša lokalizacija omogućuje potpuno usklađivanje s hrvatskim računovodstvenim propisima, pružajući našim klijentima bezbrižno poslovanje u skladu sa zakonom. Naša vizija je pomoći tvrtkama diljem Hrvatske da postignu veću učinkovitost kroz digitalnu transformaciju. Zašto mi? Dugogodišnje iskustvo u vođenju poslovanja Stručnost u informacijskoj tehnologiji i ERP sustavima Prilagodba rješenja specifičnim potrebama klijenata Besplatne inicijalne konzultacije i prezentacije Razvijena lokalizacija računovodstva prema hrvatskim propisima Višegodišnjo iskustvo rada u financijama i računovodstvu Iskustvo u implementaciji ERP sustava sa obje strane (kao primatelj i davatelj usluge implementacije) Naše usluge Implementacija Odoo ERP sustava Analiza poslovnih zahtjeva Planiranje i prilagodba ERP sustava Integracija s postojećim sustavima Migracija podataka Obuka korisnika i kontinuirana podrška Održavanje i podrška Redovito održavanje sustava Tehnička podrška i rješavanje problema Nadogradnje i optimizacija Poslovno i financijsko savjetovanje Optimizacija poslovnih procesa Planiranje financijskih strategija Savjetovanje o poslovnim odlukama Kako radimo? 1. korak: Inicijalni sastanak za razumijevanje vaših poslovnih procesa i izazova 2. korak: Personalizirana prezentacija Odoo ERP rješenja, prilagođena vašim specifičnim potrebama 3. korak: Besplatne konzultacije i prijedlog rješenja prije donošenja konačne odluke Ovaj proces osigurava da naši klijenti dobiju rješenje koje je skrojeno prema njihovim poslovnim ciljevima.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 5
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:38.630402"
     },
     {
       "region_code": "hr",
@@ -106,10 +266,35 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/ecodica-doo-8688791?country_id=95",
       "logo_url": "https://odoocdn.com/web/image/res.partner/8688791/image_128/Ecodica%20d.o.o.?unique=3d489c7",
-      "about_text": null,
+      "about_text": "We have built comprehensive and industry-specific enterprise resource planning systems using OpenERP/Odoo for over twelve years, helping companies to set themselves apart from the competition. Pioneering the first complete accounting localization for the Croatian market. Our team has planned and implemented ERP solutions for manufacturing, design and engineering, technology, and shipbuilding companies for over ten years and successfully realized more than fifty projects. We’ve gained specialized knowledge of the process needs of these industries and yet understand that every project and every business is different. With the expertise gained over the years, we offer advice on what is needed and what is unnecessary, saving both time and money when implementing a solution and resulting in a tailor-made platform created just for you. We’ve supported all of our clients every step of the way in their digital transformations and made them simple and successful. As worn as it sounds, your success is our success. And failure will never find a place on our to-do list. Specialized for service-based, engineering, and manufacturing businesses: CRM and Sales Management Procurement Warehouse Management Manufacturing (Industry 4.0, IoT, MES) Project Management Field Service Management Human Resource Management Resource Planning Accounting, Planning and Analysis, Controlling and Finance Document Management Business Intelligence Please visit us at Ecodica web site",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:52.275933"
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:39.038803"
     },
     {
       "region_code": "hr",
@@ -127,10 +312,52 @@
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/uvid-doo-1808902?country_id=95",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1808902/image_128/Uvid%20d.o.o.?unique=e00cd82",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:52.276396"
+      "about_text": "ASK FOR A DEMO!!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 5
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 10
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:39.454301"
     },
     {
       "region_code": "hr",
@@ -148,10 +375,28 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/neunag-pro-doo-9326055?country_id=95",
       "logo_url": "https://odoocdn.com/web/image/res.partner/9326055/image_128/NeunAg%20PRO%20d.o.o.?unique=a01093f",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:52.276819"
+      "about_text": "Experience in Various Sectors: Unleashing Odoo's Power NeunPRO is a newly established company comprising seasoned Odoo experts, adept at handling a wide range of Odoo projects. Our primary focus is on the markets in the Adriatic region, where we are recognized as Puzzle ERP, having executed numerous Odoo integrations and localizations. We take pride in our successful delivery of multinational projects spanning diverse industries, which serves as a testament to our expertise across various sectors. Having extensive experience in the realm of IT across multiple domains, including in-depth GAP analysis, mobile and native app development, integrations, data security, and cybersecurity, as well as support services and integrations of third-party vendor IT systems for prominent multinational corporations, we have developed a deep appreciation for Odoo. Odoo, with its potential to drive digital transformation and deliver outstanding value for our clients, has captured our hearts. Our commitment to build long-term client relationships led us to assemble a team of experts who enhance every project, drawing from their prior experience in implementing Odoo solutions for diverse clients. Our entire team has lots of experiences in Odoo various versions, ensuring access to the newest and most advanced features from the Odoo family. Nonetheless, even the most exceptional IT solutions won't facilitate your organization's growth unless you know how to harness them effectively. Given our primary concern with digitalizing company processes, we have made it our mission to become premier Odoo consultants. Our core objective is to ensure that you and your team can immediately maximize the potential of your ERP system. We are dedicated to adding tangible value to your company, and fortunately, we are passionate about delivering services that benefit our clients. It brings us immense satisfaction when clients continue to choose us as their Odoo partner, especially when they express the substantial positive impact Odoo has had on their operations. This is when we truly relish our role as Odoo partners. Areas of the market where we evaluated and analyzed companies and implemented Odoo solutions Procurement, Supply Chain, and Logistics: (Our experts bring professional working experience in Procurement, Supply Chain, and Logistics, having led and managed departments in Telecom and FMCG industries. We've helped organizations optimize these critical areas for maximum efficiency.) Customs, Transport, and Asset Management: Our team's expertise extends to Customs, Transport, and Asset Management, ensuring compliance and efficiency in these essential operations. Budgeting and Accounting: Our experts have professional experience in budgeting and accounting, assisting clients in managing their finances effectively and ensuring accurate financial reporting. Our team has developed various accounting localization in markets of Adriatic region that enables use of all 360-degree apps from Odoo 16 portfolio. Sourcing, Procure to Pay, and ERP Systems analysis: We've consulted in Sourcing, Procure to Pay, and ERP systems, helping organizations make informed procurement decisions and optimizing their ERP systems for seamless integration. GDPR Implementation and Cybersecurity: Our commitment to data security includes GDPR implementation and cybersecurity measures to protect sensitive information. Risk Management and Human Resources Consulting: We offer consulting in the fields of risk management and human resources, ensuring organizations are equipped to mitigate risks and manage their workforce effectively. Business Process Design and Financial Reporting: We specialize in designing and setting up business processes and procedures, as well as integrated systems for financial reporting and management. Mobile and Native App Development: We've developed mobile and native applications tailored to the specific needs of our clients, ensuring seamless integration with Odoo's ecosystem. Medical institutions: We've successfully delivered multination projects that span a wide range of industries, including healthcare and private medical institutions, showcasing our expertise in different sectors. EU, UN, USAID Projects: We have experience in all areas and industries, including projects funded by EU, UN, and USAID, demonstrating our capability to navigate complex international projects, which include Odoo implementation, as a solution for effective digitization of projects and their management.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:40.023335"
     },
     {
       "region_code": "hr",
@@ -169,10 +414,28 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/info3hr-4101604?country_id=95",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4101604/image_128/Info3.hr?unique=b443a0c",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:52.277252"
+      "about_text": "Info3 d.o.o. je razvio zaokruženu ERP funkcionalnost koja pokriva sve glavne funkcije poduzeća: nabava, prodaja, skladište, računovodstvo sa punom zakonskom funkcionalnošću, projekti, praćenje proizvodnje, dodatni moduli koji obogaćuju ERP: slanje e-računa, intrastat obrazac, fiskalizacija... Dosadašnje implementacije ERP rješenja radili smo u raznim granama djelatnosti - od drvne, metalne i tekstilne industrije; agencija, energetike, poliklinika, projektantskih i građevinskih tvrtki, preko procesne industrije i farmacije, pa sve do ugostiteljstva.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:40.339727"
     }
   ]
 }

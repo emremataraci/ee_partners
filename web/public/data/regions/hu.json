@@ -2,7 +2,7 @@
   "region_code": "hu",
   "country_code": "HU",
   "country_name": "Hungary",
-  "scraped_at": "2026-04-09T05:58:53.082823",
+  "scraped_at": "2026-04-09T07:51:42.562881",
   "total_partners": 3,
   "source_url": "https://www.odoo.com/partners/country/hungary-97",
   "partners": [
@@ -22,10 +22,60 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/online-erp-kft-21821663?country_id=97",
       "logo_url": "https://odoocdn.com/web/image/res.partner/21821663/image_128/Online%20ERP%20Kft.?unique=443d150",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:53.081548"
+      "about_text": "Online-ERP: Magyarország legnagyobb Odoo partnere Az Online-ERP nemcsak Magyarország legnagyobb Odoo partnere, hanem a nemzetközileg elismert Best Odoo Partners ( BOP ) Alliance hivatalos tagja is – egyedüliként Magyarországról. Alapító tagjai vagyunk a Magyarországi Odoo Partnerek Szövetségének ( MOPSZ ), és büszkén képviseljük ügyfeleink érdekeit a legmagasabb szinten. The English text can be read below! Miért válassz minket? Személyre szabott támogatás Nálunk az ügyfél az első! A rendszer teljes bevezetése alatt végigkísérünk, az első lépésektől kezdve érthető, üzletközpontú válaszokat nyújtva. Legyen szó üzleti folyamatról, ajánlatsablonról vagy testreszabásról, mi biztosítjuk a gördülékeny átállást. Specializált szakértelem Csapatunkban olyan tapasztalt szakértők dolgoznak, mint gyártástechnikusok, logisztikai szakemberek és pénzügyi tanácsadók, hogy minden iparági kihívásra megoldást kínáljunk. Tapasztalat nemzetközi projektekben Több országot átfogó, komplex Odoo bevezetéseket valósítunk meg, és szoros együttműködést folytatunk nemzetközi partnerekkel. Legyen szó rendszerek integrálásáról vagy határokon átívelő megoldásokról, csapatunk mindig készen áll a kihívásokra. Innováció és fejlesztés Több mint 2000 Odoo modult fejlesztettünk, így garantáljuk, hogy mindig a legmodernebb megoldásokat kínáljuk. Egyedi fejlesztéseinkkel biztosítjuk, hogy rendszereid mindig a céged igényeihez igazodjanak. Egyedi kedvezmények Jó kapcsolatainknak köszönhetően partnereink számára különleges Odoo kedvezményeket tudunk biztosítani, így nemcsak időt, hanem pénzt is megtakarítasz velünk. Magyar specifikációk és oktatás Kifejlesztettük a magyar jogszabályoknak megfelelő könyvelési és számlázási modulokat, valamint saját magyar nyelvű oktatóanyagokkal segítjük partnereinket. Ezekkel ügyfeleink könnyedén elsajátíthatják a rendszer használatát. Küldetésünk Célunk, hogy vállalkozásodat egyszerűbbé, gyorsabbá és költséghatékonyabbá tegyük. Segítünk automatizálni és rendszerezni az időigényes munkákat, hogy vállalkozásod a mechanikus működés helyett modern és sikeres irányítással fejlődhessen. Kövess minket a Facebook oldalunkon, és nézd meg YouTube csatornánkat a legfrissebb hírekért és oktatóvideókért! Ígérjük, hogy vállalkozásodat jobbá tesszük – appról appra! A Youtube csatornánkon rövid, magyar nyelvű tutorial videók formájában lépésről-lépésre megismertetjük az Odoo rejtelmeivel. Az alapoktól kezdve bevezetjük a gyakorlati alkalmazásba is, hogy Ön is megtapasztalhassa a pozitív hatásokat. Magyar Odoo zárt facebook csoportunkban az Odoo működéséről mutatunk hasznos tippeket. A csoport tagjaként felteheti kérdését, amelyekre Odoo szakértőink válaszolnak. Érdemes csatlakozni, mert más vállalkozások tapasztalatairól is olvashat itt, mellesleg kapcsolatépítésnek sem utolsó! Online-ERP: Hungary’s Largest Odoo Partner Online-ERP is not only Hungary’s largest Odoo partner but also the sole official member from Hungary of the internationally recognized Best Odoo Partners ( BOP ) Alliance. We are founding members of the Hungarian Odoo Partners Association ( MOPSZ ) and proudly represent our clients' interests at the highest level. Why Choose Us? Personalized Support Our customers come first! We guide you through the entire system implementation process, providing clear, business-focused answers from the very first steps. Whether it’s about a business process, quote template, or customization, we ensure a smooth transition. Specialized Expertise Our team includes experienced professionals such as manufacturing engineers, logistics experts, and financial advisors, offering solutions for every industry-specific challenge. Experience in International Projects We implement complex Odoo solutions spanning multiple countries and maintain close cooperation with international partners. Whether it’s system integration or cross-border solutions, our team is always ready to take on challenges. Innovation and Development With over 2,000 Odoo modules developed, we guarantee the most cutting-edge solutions. Our custom developments ensure that your systems always meet the needs of your business. Exclusive Discounts Thanks to our strong connections, we can offer our partners special Odoo discounts, helping you save not just time but money as well. Hungarian Specifications and Training We have developed accounting and invoicing modules that comply with Hungarian regulations and provide custom Hungarian-language training materials to assist our partners. These resources make it easy for our clients to master the system. Our Mission Our goal is to make your business simpler, faster, and more cost-efficient. We help automate and organize time-consuming tasks so that your business can shift from mechanical operations to modern and successful management. Follow us on Facebook and check out our YouTube channel for the latest news and tutorials! We promise to make your business better—app by app!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 25
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 21
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 7
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 7
+        },
+        {
+          "industry": "Other Services",
+          "count": 5
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:41.474679"
     },
     {
       "region_code": "hu",
@@ -43,10 +93,44 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/do-tech-10779560?country_id=97",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10779560/image_128/DO%20Tech?unique=9df4b37",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:53.082085"
+      "about_text": "Minden vállalatnak megvannak a maga egyedi igényei, kihívásai és követelményei – ezt szem előtt tartva a DOTech olyan specializált szolgáltatásokat kínál, amelyek az Odoo ERP rendszer fejlesztésére és testreszabására összpontosítanak. Célunk, hogy a rendszer maradéktalanul illeszkedjen vállalkozása folyamataihoz, munkafolyamataihoz és üzleti céljaihoz. Az Odoo minden elemét az Ön egyedi igényeihez igazítjuk, beleértve a funkciók és felületek testreszabását vagy módosítását is. Kiemelten fontos számunkra, hogy a magyarországi vállalkozások sajátos működési, jogszabályi és piaci igényeire szabott megoldásokat nyújtsunk, így a rendszer minden részlete a hazai környezethez igazodik. Szakértő fejlesztőkből és tanácsadókból álló csapatunk szorosan együttműködik Önnel annak érdekében, hogy olyan megoldást hozzunk létre, amely tökéletesen illeszkedik üzleti modelljéhez, optimalizálja a működés hatékonyságát, támogatja az adatvezérelt döntéshozatalt és biztos, skálázható alapot nyújt a növekedéshez. Akadozó folyamatokkal és integráció hiányával küzd? Átfogó Odoo ERP megoldásainkkal egy olyan mindent-egyben platformot kap, amely összekapcsolja a vállalat működési területeit, időt takarít meg a csapatának, és jelentősen növeli az üzleti hatékonyságot. Szeretne többet megtudni arról, hogyan valósítjuk meg megoldásainkat? A testreszabott Odoo ERP rendszer sikeres bevezetéséhez stratégiai, lépésről lépésre felépített megvalósítási módszertant alkalmazunk. Ez garantálja, hogy a végeredmény biztos lábakon álló, hatékony és maradéktalanul igazodik az üzleti célokhoz. Fázisokra bontott folyamatunk az alábbi lépésekből áll: 1. Indítás és tervezés: A szükségletek és igények részletes feltérképezése, a kulcsfontosságú szereplők bevonásával. 2. Folyamat analízis: Megvizsgáljuk, hogy az Odoo alapfunkciói mennyiben fedik a valós igényeket, és azonosítjuk a hiányosságokat vagy testreszabási szükségleteket. 3. Követelménytervezés: A testreszabás részletes tervének elkészítése, folyamatábrákkal, adatmodellekkel, UI-tervekkel és más dokumentumokkal. 4. Fejlesztés és testreszabás: Agilis módszertan mentén, rövid iterációkban dolgozunk, szoros együttműködéssel és a hosszú távon is fenntartható fejlesztésekre fókuszálva. 5. Tesztelés: Biztosítjuk, hogy minden fejlesztés kiváló minőségű legyen, jól teljesítsen és pontosan úgy működjön, ahogy elvárják. 6. Élesítés: A tesztelt és jóváhagyott megoldások átvezetése az éles környezetbe, a működés megszakításának minimalizálása mellett. A megvalósítás során mindig a legkritikusabb igényekkel kezdünk, hogy azonnali értéket teremtsünk, miközben stabil alapot építünk a későbbi fejlesztések számára. A „must-have”, „should-have” és „could-have” követelmények mentén haladva rugalmasan tudunk alkalmazkodni a változó üzleti igényekhez. Az első konzultáció és a folyamatfelmérés minden új partner számára díjmentes! Ez lehetőséget ad arra, hogy kötelezettségek nélkül mérjük fel a működés sajátosságait, és közösen meghatározzuk a leghatékonyabb fejlesztési irányt. Partnereinket a sikeres bevezetés után sem hagyjuk magukra! Szolgáltatásaink között szerepel: -rendelkezésre állás -tanácsadás -az Odoo és az egyéni fejlesztések frissítése -hosting szolgáltatás Milyen vállalkozásoknak, iparágaknak ajánljuk az Odoo bevezetését? Gyártás és termelés Automatizált folyamatok, pontos készletkezelés, hatékony üzemirányítás. Kereskedelem & e-commerce Nagykereskedelem, kiskereskedelem és webshopok egyetlen rendszerben, valós idejű készletadatokkal. Logisztika & raktározás Gyorsabb kiszállítás, átlátható raktárfolyamatok, optimalizált útvonalak. Szolgáltató cégek Projektkezelés, időnyilvántartás, számlázás – minden egy helyen. Építőipar & projektalapú vállalkozások Költségkontroll, erőforrás-tervezés, ütemezett kivitelezés. Vendéglátás & turizmus Éttermi és szállodai folyamatok integrált kezelése POS-tól a foglalásokig. Egészségügy & laborok Betegút-kezelés, időpontfoglalás, készlet- és eszköznyilvántartás. Mezőgazdaság & élelmiszeripar Termelési folyamatok digitalizálása a földtől az értékesítésig. A szoftver minden üzleti igényt képes lefedni, és vitathatatlanul a piacon ma elérhető legjobb teljes körű vállalatirányítási szoftverek közé tartozik.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 7
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:41.988986"
     },
     {
       "region_code": "hu",
@@ -64,10 +148,52 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/informatikai-uzleti-megoldasok-kft-18075149?country_id=97",
       "logo_url": "https://odoocdn.com/web/image/res.partner/18075149/image_128/Informatikai%20%C3%9Czleti%20Megold%C3%A1sok%20Kft.?unique=0fb0815",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:53.082600"
+      "about_text": "Kik vagyunk? (see in English below) Bár új cégformában működünk, büszkén mondhatjuk, hogy Magyarország egyik legrégebbi Odoo bevezetésével és fejlesztésével foglalkozó partnere vagyunk. Szakterületünk a pénzügy, de széleskörű tapasztalattal rendelkezünk kereskedelmi, szolgáltató és gyártó cégek Odoo rendszerbe való implementálásában is. Hogyan dolgozunk? Fejlesztéseket kizárólag akkor végezünk, amikor az valóban szükséges, így ügyfeleink számára költséget és időt takarítunk meg . Ugyanakkor a projektmenedzsment kiemelkedően fontos minden bevezetési folyamat során, és elengedhetetlen a sikeres projektek megvalósításához. Ügyfeleinktől csupán elkötelezettséget várunk el, minden egyéb feladatot mi magunk megoldunk, hogy a rendszert teljes mértékben a cégük igényeire szabjuk. A rendszer sikeres bevezetéshez elengedhetetlen az oktatás , akár csak a kulcsfelhasználók, akár az egész csapat számára. Minden tőlünk telhetőt megteszünk a sikeres implementációért és az elégedett ügyfélért! Kérdése van? Van már egy folyamatban lévő Odoo projektje, de elakadt, vagy esetleg csak alkalmi segítségre van szüksége? Esetleg még nem ismeri a szoftvert, de szeretné felfedezni a benne rejlő lehetőségeket? Segíthetünk! ​ ​ ​ Foglaljon egy időpontot! Who are we? Although we are a new company, we are proud to be one of the oldest Odoo implementation and development partners in Hungary. We specialise in finance, but also have extensive experience in implementing Odoo for commercial, service and manufacturing companies. How do we work? We only make developments when they are really needed, saving our customers time and money . At the same time, project management is of paramount importance in any implementation process and is essential to the success of projects. We expect only commitment from our clients, and we take care of all other tasks ourselves to ensure that the system is fully tailored to their business needs. Training is essential for a successful system implementation , either for key users or for the whole team. We will do our best for a successful implementation and a satisfied customer! Have a question? Do you have an ongoing Odoo project but are stuck or just need occasional help? Or maybe you're new to the software but want to explore its potential? We can help! ​ ​ ​ Book an appointment!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:51:42.292970"
     }
   ]
 }

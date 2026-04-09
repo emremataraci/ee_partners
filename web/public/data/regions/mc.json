@@ -2,7 +2,7 @@
   "region_code": "mc",
   "country_code": "MC",
   "country_name": "Monaco",
-  "scraped_at": "2026-04-09T05:59:01.789849",
+  "scraped_at": "2026-04-09T07:52:33.030889",
   "total_partners": 1,
   "source_url": "https://www.odoo.com/partners/country/monaco-133",
   "partners": [
@@ -22,10 +22,43 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/opensolution-1209776?country_id=133",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1209776/image_128/OPENSOLUTION?unique=cb8a56b",
-      "about_text": null,
+      "about_text": "OPENSOLUTION est une SSII Monégasque spécialisée dans l’intégration de solutions opensource et l’infogérance.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:01.789638"
+      "industries_breakdown": [
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Real Estate",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:32.695232"
     }
   ]
 }

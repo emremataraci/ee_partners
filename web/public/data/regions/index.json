@@ -1,309 +1,472 @@
 {
-  "generated_at": "2026-04-09T05:59:42.934867",
+  "generated_at": "2026-04-09T07:54:01.801757",
   "regions": [
     {
       "code": "ad",
       "country_code": "AD",
       "country_name": "Andorra",
       "partner_count": 3,
-      "scraped_at": "2026-04-09T05:58:00.582456",
-      "source_url": "https://www.odoo.com/partners/country/andorra-1"
+      "scraped_at": "2026-04-09T07:46:30.662055",
+      "source_url": "https://www.odoo.com/partners/country/andorra-1",
+      "levels": {
+        "Ready": 3
+      }
     },
     {
       "code": "al",
       "country_code": "AL",
       "country_name": "Albania",
       "partner_count": 7,
-      "scraped_at": "2026-04-09T05:58:01.374646",
-      "source_url": "https://www.odoo.com/partners/country/albania-6"
+      "scraped_at": "2026-04-09T07:46:35.421671",
+      "source_url": "https://www.odoo.com/partners/country/albania-6",
+      "levels": {
+        "Silver": 2,
+        "Ready": 5
+      }
     },
     {
       "code": "at",
       "country_code": "AT",
       "country_name": "Austria",
       "partner_count": 28,
-      "scraped_at": "2026-04-09T05:58:03.400654",
-      "source_url": "https://www.odoo.com/partners/country/austria-13"
+      "scraped_at": "2026-04-09T07:46:49.396083",
+      "source_url": "https://www.odoo.com/partners/country/austria-13",
+      "levels": {
+        "Gold": 3,
+        "Silver": 6,
+        "Ready": 19
+      }
     },
     {
       "code": "ba",
       "country_code": "BA",
       "country_name": "Bosnia and Herzegovina",
       "partner_count": 2,
-      "scraped_at": "2026-04-09T05:58:04.219162",
-      "source_url": "https://www.odoo.com/partners/country/bosnia-and-herzegovina-17"
+      "scraped_at": "2026-04-09T07:46:50.845257",
+      "source_url": "https://www.odoo.com/partners/country/bosnia-and-herzegovina-17",
+      "levels": {
+        "Ready": 2
+      }
     },
     {
       "code": "be",
       "country_code": "BE",
       "country_name": "Belgium",
       "partner_count": 128,
-      "scraped_at": "2026-04-09T05:58:14.579299",
-      "source_url": "https://www.odoo.com/partners/country/belgium-20"
+      "scraped_at": "2026-04-09T07:47:52.877911",
+      "source_url": "https://www.odoo.com/partners/country/belgium-20",
+      "levels": {
+        "Gold": 15,
+        "Silver": 32,
+        "Ready": 81
+      }
     },
     {
       "code": "bg",
       "country_code": "BG",
       "country_name": "Bulgaria",
       "partner_count": 6,
-      "scraped_at": "2026-04-09T05:58:15.506258",
-      "source_url": "https://www.odoo.com/partners/country/bulgaria-22"
+      "scraped_at": "2026-04-09T07:47:54.668690",
+      "source_url": "https://www.odoo.com/partners/country/bulgaria-22",
+      "levels": {
+        "Silver": 1,
+        "Ready": 5
+      }
     },
     {
       "code": "ch",
       "country_code": "CH",
       "country_name": "Switzerland",
       "partner_count": 49,
-      "scraped_at": "2026-04-09T05:58:19.391168",
-      "source_url": "https://www.odoo.com/partners/country/switzerland-41"
+      "scraped_at": "2026-04-09T07:48:26.018020",
+      "source_url": "https://www.odoo.com/partners/country/switzerland-41",
+      "levels": {
+        "Gold": 9,
+        "Silver": 6,
+        "Ready": 34
+      }
     },
     {
       "code": "cy",
       "country_code": "CY",
       "country_name": "Cyprus",
       "partner_count": 6,
-      "scraped_at": "2026-04-09T05:58:20.326690",
-      "source_url": "https://www.odoo.com/partners/country/cyprus-54"
+      "scraped_at": "2026-04-09T07:48:29.597142",
+      "source_url": "https://www.odoo.com/partners/country/cyprus-54",
+      "levels": {
+        "Silver": 2,
+        "Ready": 4
+      }
     },
     {
       "code": "cz",
       "country_code": "CZ",
       "country_name": "Czech Republic",
       "partner_count": 8,
-      "scraped_at": "2026-04-09T05:58:21.258736",
-      "source_url": "https://www.odoo.com/partners/country/czech-republic-55"
+      "scraped_at": "2026-04-09T07:48:33.863349",
+      "source_url": "https://www.odoo.com/partners/country/czech-republic-55",
+      "levels": {
+        "Gold": 1,
+        "Silver": 3,
+        "Ready": 4
+      }
     },
     {
       "code": "de",
       "country_code": "DE",
       "country_name": "Germany",
       "partner_count": 68,
-      "scraped_at": "2026-04-09T05:58:26.396168",
-      "source_url": "https://www.odoo.com/partners/country/germany-56"
+      "scraped_at": "2026-04-09T07:49:09.842867",
+      "source_url": "https://www.odoo.com/partners/country/germany-56",
+      "levels": {
+        "Gold": 8,
+        "Silver": 13,
+        "Ready": 47
+      }
     },
     {
       "code": "dk",
       "country_code": "DK",
       "country_name": "Denmark",
       "partner_count": 6,
-      "scraped_at": "2026-04-09T05:58:27.285926",
-      "source_url": "https://www.odoo.com/partners/country/denmark-58"
+      "scraped_at": "2026-04-09T07:49:13.568744",
+      "source_url": "https://www.odoo.com/partners/country/denmark-58",
+      "levels": {
+        "Silver": 1,
+        "Ready": 5
+      }
     },
     {
       "code": "ee",
       "country_code": "EE",
       "country_name": "Estonia",
       "partner_count": 4,
-      "scraped_at": "2026-04-09T05:58:28.323814",
-      "source_url": "https://www.odoo.com/partners/country/estonia-63"
+      "scraped_at": "2026-04-09T07:49:16.704301",
+      "source_url": "https://www.odoo.com/partners/country/estonia-63",
+      "levels": {
+        "Gold": 2,
+        "Ready": 2
+      }
     },
     {
       "code": "es",
       "country_code": "ES",
       "country_name": "Spain",
       "partner_count": 81,
-      "scraped_at": "2026-04-09T05:58:35.742134",
-      "source_url": "https://www.odoo.com/partners/country/spain-67"
+      "scraped_at": "2026-04-09T07:50:05.001701",
+      "source_url": "https://www.odoo.com/partners/country/spain-67",
+      "levels": {
+        "Gold": 9,
+        "Silver": 32,
+        "Ready": 40
+      }
     },
     {
       "code": "fi",
       "country_code": "FI",
       "country_name": "Finland",
       "partner_count": 8,
-      "scraped_at": "2026-04-09T05:58:36.857957",
-      "source_url": "https://www.odoo.com/partners/country/finland-69"
+      "scraped_at": "2026-04-09T07:50:08.985764",
+      "source_url": "https://www.odoo.com/partners/country/finland-69",
+      "levels": {
+        "Gold": 2,
+        "Silver": 1,
+        "Ready": 5
+      }
     },
     {
       "code": "fr",
       "country_code": "FR",
       "country_name": "France",
       "partner_count": 125,
-      "scraped_at": "2026-04-09T05:58:47.986074",
-      "source_url": "https://www.odoo.com/partners/country/france-74"
+      "scraped_at": "2026-04-09T07:51:19.364646",
+      "source_url": "https://www.odoo.com/partners/country/france-74",
+      "levels": {
+        "Gold": 11,
+        "Silver": 21,
+        "Ready": 93
+      }
     },
     {
       "code": "gb",
       "country_code": "GB",
       "country_name": "United Kingdom",
       "partner_count": 32,
-      "scraped_at": "2026-04-09T05:58:50.425867",
-      "source_url": "https://www.odoo.com/partners/country/united-kingdom-222"
+      "scraped_at": "2026-04-09T07:51:32.942692",
+      "source_url": "https://www.odoo.com/partners/country/united-kingdom-222",
+      "levels": {
+        "Gold": 4,
+        "Silver": 5,
+        "Ready": 23
+      }
     },
     {
       "code": "gr",
       "country_code": "GR",
       "country_name": "Greece",
       "partner_count": 7,
-      "scraped_at": "2026-04-09T05:58:51.353505",
-      "source_url": "https://www.odoo.com/partners/country/greece-86"
+      "scraped_at": "2026-04-09T07:51:36.374968",
+      "source_url": "https://www.odoo.com/partners/country/greece-86",
+      "levels": {
+        "Silver": 1,
+        "Ready": 6
+      }
     },
     {
       "code": "hr",
       "country_code": "HR",
       "country_name": "Croatia",
       "partner_count": 8,
-      "scraped_at": "2026-04-09T05:58:52.277446",
-      "source_url": "https://www.odoo.com/partners/country/croatia-95"
+      "scraped_at": "2026-04-09T07:51:40.598122",
+      "source_url": "https://www.odoo.com/partners/country/croatia-95",
+      "levels": {
+        "Gold": 1,
+        "Silver": 4,
+        "Ready": 3
+      }
     },
     {
       "code": "hu",
       "country_code": "HU",
       "country_name": "Hungary",
       "partner_count": 3,
-      "scraped_at": "2026-04-09T05:58:53.082823",
-      "source_url": "https://www.odoo.com/partners/country/hungary-97"
+      "scraped_at": "2026-04-09T07:51:42.562881",
+      "source_url": "https://www.odoo.com/partners/country/hungary-97",
+      "levels": {
+        "Silver": 2,
+        "Ready": 1
+      }
     },
     {
       "code": "ie",
       "country_code": "IE",
       "country_name": "Ireland",
       "partner_count": 7,
-      "scraped_at": "2026-04-09T05:58:53.947509",
-      "source_url": "https://www.odoo.com/partners/country/ireland-99"
+      "scraped_at": "2026-04-09T07:51:45.935710",
+      "source_url": "https://www.odoo.com/partners/country/ireland-99",
+      "levels": {
+        "Ready": 7
+      }
     },
     {
       "code": "is",
       "country_code": "IS",
       "country_name": "Iceland",
       "partner_count": 2,
-      "scraped_at": "2026-04-09T05:58:54.830948",
-      "source_url": "https://www.odoo.com/partners/country/iceland-105"
+      "scraped_at": "2026-04-09T07:51:48.627492",
+      "source_url": "https://www.odoo.com/partners/country/iceland-105",
+      "levels": {
+        "Ready": 2
+      }
     },
     {
       "code": "it",
       "country_code": "IT",
       "country_name": "Italy",
       "partner_count": 60,
-      "scraped_at": "2026-04-09T05:58:58.329233",
-      "source_url": "https://www.odoo.com/partners/country/italy-106"
+      "scraped_at": "2026-04-09T07:52:15.913311",
+      "source_url": "https://www.odoo.com/partners/country/italy-106",
+      "levels": {
+        "Gold": 6,
+        "Silver": 16,
+        "Ready": 38
+      }
     },
     {
       "code": "lt",
       "country_code": "LT",
       "country_name": "Lithuania",
       "partner_count": 9,
-      "scraped_at": "2026-04-09T05:58:59.226808",
-      "source_url": "https://www.odoo.com/partners/country/lithuania-128"
+      "scraped_at": "2026-04-09T07:52:20.750079",
+      "source_url": "https://www.odoo.com/partners/country/lithuania-128",
+      "levels": {
+        "Gold": 1,
+        "Silver": 2,
+        "Ready": 6
+      }
     },
     {
       "code": "lu",
       "country_code": "LU",
       "country_name": "Luxembourg",
       "partner_count": 17,
-      "scraped_at": "2026-04-09T05:59:00.267733",
-      "source_url": "https://www.odoo.com/partners/country/luxembourg-129"
+      "scraped_at": "2026-04-09T07:52:29.914291",
+      "source_url": "https://www.odoo.com/partners/country/luxembourg-129",
+      "levels": {
+        "Gold": 2,
+        "Silver": 6,
+        "Ready": 9
+      }
     },
     {
       "code": "lv",
       "country_code": "LV",
       "country_name": "Latvia",
       "partner_count": 3,
-      "scraped_at": "2026-04-09T05:59:01.173485",
-      "source_url": "https://www.odoo.com/partners/country/latvia-130"
+      "scraped_at": "2026-04-09T07:52:31.851200",
+      "source_url": "https://www.odoo.com/partners/country/latvia-130",
+      "levels": {
+        "Silver": 1,
+        "Ready": 2
+      }
     },
     {
       "code": "mc",
       "country_code": "MC",
       "country_name": "Monaco",
       "partner_count": 1,
-      "scraped_at": "2026-04-09T05:59:01.789849",
-      "source_url": "https://www.odoo.com/partners/country/monaco-133"
+      "scraped_at": "2026-04-09T07:52:33.030889",
+      "source_url": "https://www.odoo.com/partners/country/monaco-133",
+      "levels": {
+        "Ready": 1
+      }
     },
     {
       "code": "me",
       "country_code": "ME",
       "country_name": "Montenegro",
       "partner_count": 1,
-      "scraped_at": "2026-04-09T05:59:02.585469",
-      "source_url": "https://www.odoo.com/partners/country/montenegro-50"
+      "scraped_at": "2026-04-09T07:52:33.979793",
+      "source_url": "https://www.odoo.com/partners/country/montenegro-50",
+      "levels": {
+        "Ready": 1
+      }
     },
     {
       "code": "mk",
       "country_code": "MK",
       "country_name": "North Macedonia",
       "partner_count": 2,
-      "scraped_at": "2026-04-09T05:59:03.529827",
-      "source_url": "https://www.odoo.com/partners/country/north-macedonia-137"
+      "scraped_at": "2026-04-09T07:52:35.302593",
+      "source_url": "https://www.odoo.com/partners/country/north-macedonia-137",
+      "levels": {
+        "Ready": 2
+      }
     },
     {
       "code": "mt",
       "country_code": "MT",
       "country_name": "Malta",
       "partner_count": 5,
-      "scraped_at": "2026-04-09T05:59:04.452585",
-      "source_url": "https://www.odoo.com/partners/country/malta-146"
+      "scraped_at": "2026-04-09T07:52:37.941211",
+      "source_url": "https://www.odoo.com/partners/country/malta-146",
+      "levels": {
+        "Silver": 2,
+        "Ready": 3
+      }
     },
     {
       "code": "nl",
       "country_code": "NL",
       "country_name": "Netherlands",
       "partner_count": 51,
-      "scraped_at": "2026-04-09T05:59:08.136357",
-      "source_url": "https://www.odoo.com/partners/country/netherlands-159"
+      "scraped_at": "2026-04-09T07:52:59.219912",
+      "source_url": "https://www.odoo.com/partners/country/netherlands-159",
+      "levels": {
+        "Gold": 7,
+        "Silver": 6,
+        "Ready": 38
+      }
     },
     {
       "code": "no",
       "country_code": "NO",
       "country_name": "Norway",
       "partner_count": 4,
-      "scraped_at": "2026-04-09T05:59:08.951175",
-      "source_url": "https://www.odoo.com/partners/country/norway-160"
+      "scraped_at": "2026-04-09T07:53:01.250817",
+      "source_url": "https://www.odoo.com/partners/country/norway-160",
+      "levels": {
+        "Gold": 1,
+        "Silver": 1,
+        "Ready": 2
+      }
     },
     {
       "code": "pl",
       "country_code": "PL",
       "country_name": "Poland",
       "partner_count": 15,
-      "scraped_at": "2026-04-09T05:59:09.896112",
-      "source_url": "https://www.odoo.com/partners/country/poland-173"
+      "scraped_at": "2026-04-09T07:53:12.417171",
+      "source_url": "https://www.odoo.com/partners/country/poland-173",
+      "levels": {
+        "Gold": 3,
+        "Silver": 3,
+        "Ready": 9
+      }
     },
     {
       "code": "pt",
       "country_code": "PT",
       "country_name": "Portugal",
       "partner_count": 14,
-      "scraped_at": "2026-04-09T05:59:11.012940",
-      "source_url": "https://www.odoo.com/partners/country/portugal-177"
+      "scraped_at": "2026-04-09T07:53:20.478304",
+      "source_url": "https://www.odoo.com/partners/country/portugal-177",
+      "levels": {
+        "Gold": 2,
+        "Silver": 3,
+        "Ready": 9
+      }
     },
     {
       "code": "ro",
       "country_code": "RO",
       "country_name": "Romania",
       "partner_count": 17,
-      "scraped_at": "2026-04-09T05:59:12.140828",
-      "source_url": "https://www.odoo.com/partners/country/romania-182"
+      "scraped_at": "2026-04-09T07:53:27.101966",
+      "source_url": "https://www.odoo.com/partners/country/romania-182",
+      "levels": {
+        "Gold": 1,
+        "Silver": 4,
+        "Ready": 12
+      }
     },
     {
       "code": "rs",
       "country_code": "RS",
       "country_name": "Serbia",
       "partner_count": 2,
-      "scraped_at": "2026-04-09T05:59:13.149380",
-      "source_url": "https://www.odoo.com/partners/country/serbia-49"
+      "scraped_at": "2026-04-09T07:53:28.846007",
+      "source_url": "https://www.odoo.com/partners/country/serbia-49",
+      "levels": {
+        "Gold": 1,
+        "Ready": 1
+      }
     },
     {
       "code": "se",
       "country_code": "SE",
       "country_name": "Sweden",
       "partner_count": 5,
-      "scraped_at": "2026-04-09T05:59:14.179568",
-      "source_url": "https://www.odoo.com/partners/country/sweden-189"
+      "scraped_at": "2026-04-09T07:53:31.704014",
+      "source_url": "https://www.odoo.com/partners/country/sweden-189",
+      "levels": {
+        "Silver": 2,
+        "Ready": 3
+      }
     },
     {
       "code": "si",
       "country_code": "SI",
       "country_name": "Slovenia",
       "partner_count": 5,
-      "scraped_at": "2026-04-09T05:59:15.264996",
-      "source_url": "https://www.odoo.com/partners/country/slovenia-192"
+      "scraped_at": "2026-04-09T07:53:34.183151",
+      "source_url": "https://www.odoo.com/partners/country/slovenia-192",
+      "levels": {
+        "Silver": 2,
+        "Ready": 3
+      }
     },
     {
       "code": "sk",
       "country_code": "SK",
       "country_name": "Slovakia",
       "partner_count": 6,
-      "scraped_at": "2026-04-09T05:59:16.126843",
-      "source_url": "https://www.odoo.com/partners/country/slovakia-194"
+      "scraped_at": "2026-04-09T07:53:37.683205",
+      "source_url": "https://www.odoo.com/partners/country/slovakia-194",
+      "levels": {
+        "Silver": 1,
+        "Ready": 5
+      }
     },
     {
       "code": "tr",
@@ -311,23 +474,36 @@
       "country_name": "Türkiye",
       "partner_count": 29,
       "scraped_at": "2026-03-21T12:56:59.414334",
-      "source_url": "https://www.odoo.com/tr_TR/partners/country/turkiye-215"
+      "source_url": "https://www.odoo.com/tr_TR/partners/country/turkiye-215",
+      "levels": {
+        "Gold": 2,
+        "Silver": 6,
+        "Ready": 21
+      }
     },
     {
       "code": "ua",
       "country_code": "UA",
       "country_name": "Ukraine",
       "partner_count": 10,
-      "scraped_at": "2026-04-09T05:59:17.161455",
-      "source_url": "https://www.odoo.com/partners/country/ukraine-220"
+      "scraped_at": "2026-04-09T07:53:42.339288",
+      "source_url": "https://www.odoo.com/partners/country/ukraine-220",
+      "levels": {
+        "Gold": 3,
+        "Silver": 2,
+        "Ready": 5
+      }
     },
     {
       "code": "xk",
       "country_code": "XK",
       "country_name": "Kosovo",
       "partner_count": 4,
-      "scraped_at": "2026-04-09T05:59:17.973760",
-      "source_url": "https://www.odoo.com/partners/country/kosovo-315"
+      "scraped_at": "2026-04-09T07:53:44.091382",
+      "source_url": "https://www.odoo.com/partners/country/kosovo-315",
+      "levels": {
+        "Ready": 4
+      }
     }
   ]
 }

@@ -2,7 +2,7 @@
   "region_code": "mt",
   "country_code": "MT",
   "country_name": "Malta",
-  "scraped_at": "2026-04-09T05:59:04.452585",
+  "scraped_at": "2026-04-09T07:52:37.941211",
   "total_partners": 5,
   "source_url": "https://www.odoo.com/partners/country/malta-146",
   "partners": [
@@ -22,10 +22,56 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/4sight-technologies-limited-1660848?country_id=146",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1660848/image_128/4Sight%20Technologies%20Limited?unique=c718fd2",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:04.450672"
+      "about_text": "4Sight Group is a multidisciplinary group based in Malta and Cyprus with the capacity to provide a plethora of services all related to the IT & Digital sector. 4Sight Group was established in 2007 and to date supports both the private and the public sectors. 4Sight Group operates internationally and supports customers in Malta, Cyprus, Italy, Ireland, UK and Morocco. Our Mission Our goal is to support companies in the challenges of Digital Transformation , providing consultative and strategic support and practical and operational. We analyse your company, understand its needs and develop effective solutions that allow you to reduce costs and waste, increase efficiency, increase customer satisfaction and increase your revenue. We believe that it is essential to put passion and experience serving customers, becoming not only a service provider but a trusted partner always at your side to help you manage digital transformation with awareness.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 8
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 6
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 4
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 4
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 2
+        },
+        {
+          "industry": "Households",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:36.279031"
     },
     {
       "region_code": "mt",
@@ -43,10 +89,60 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/prettyneat-software-10295580?country_id=146",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10295580/image_128/PrettyNeat%20Software?unique=8e53cef",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:04.451156"
+      "about_text": "We are a full-stack software development house. Timely delivery, uncompromising quality, and transparency of process are our guiding principles. We care deeply about product experience and we're focused on delivering truly world-class software that people love using. We work collaboratively with enterprises, small businesses, and startups to find elegant solutions to prickly problems.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 7
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 6
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:36.642486"
     },
     {
       "region_code": "mt",
@@ -64,10 +160,52 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/aviense-ltd-10491690?country_id=146",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10491690/image_128/Aviense%20Ltd.?unique=076a536",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:04.451597"
+      "about_text": "Welcome to Aviense Ltd. – Your Trusted Odoo Partner in Malta. At Aviense Ltd., we specialize in delivering tailored business management solutions powered by Odoo, the world’s most versatile and scalable ERP system. As an official Odoo Partner, we leverage our growing expertise and understanding of Odoo’s extensive suite of business applications to help companies streamline their operations and drive growth. Why Choose Aviense Ltd.? With years of experience in the field, Aviense Ltd. offers a unique combination of technical expertise, personalized service, and a deep understanding of the business needs of companies in Malta and beyond. Here’s why businesses trust us: End-to-end Odoo Services: From initial consultation and system setup to customization, training, and ongoing support, we ensure that your Odoo implementation is smooth, effective, and tailored to your exact needs. Tailored Solutions for Your Business: Our team of Odoo professionals works closely with your business to understand your challenges and craft solutions that improve efficiency, transparency, and productivity. Industry-Specific Expertise: Whether you are in retail, field services, import and distribution, or any other sector, we have the knowledge to adapt Odoo’s extensive capabilities to your specific industry requirements. Continuous Support &amp; Development: Our commitment doesn’t end with implementation. Aviense offers continuous support and enhancement services, helping your business stay ahead with the latest Odoo updates and features. Odoo – Transforming Businesses Worldwide Odoo is more than just an ERP system; it's a comprehensive business management solution with over 10,000 apps that cover everything from accounting, sales, and HR to CRM, inventory management, and e-commerce. As a fully integrated platform, Odoo empowers businesses to automate processes, enhance collaboration, and make data-driven decisions. Your Partner in Digital Transformation At Aviense Ltd., we understand that every business is different. Our strength lies in our ability to create custom solutions that integrate seamlessly into your existing operations, no matter the size or complexity of your business. Our goal is to help you harness the full potential of Odoo to: Optimize operational efficiency Enhance customer satisfaction Drive business growth Improve decision-making through real-time data and reporting Let’s Work Together Discover how Aviense Ltd. can revolutionise your business with Odoo. Whether you're looking to implement a new system, improve your current operations, or scale up as you grow, we are here to help. Get in touch with us today to schedule a consultation, and let’s explore the power of Odoo together.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:36.992945"
     },
     {
       "region_code": "mt",
@@ -85,10 +223,32 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/centric-24942457?country_id=146",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24942457/image_128/Centric?unique=529397e",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:04.452029"
+      "about_text": "Established in 2003, our business has grown alongside the changing needs of the local market. In 2022, we broadened our direction into IT solutions and identified ERP as a major step forward, not only for strengthening our own internal operations, but also for helping other businesses across the Maltese islands improve the way they work. We saw that many local micro and small businesses needed practical, accessible systems to better manage sales, accounting, inventory, customer relationships, reporting, and day-to-day workflows, and ERP became a natural solution to support that transformation. Today, we focus on setting up and implementing Odoo ERP systems for local micro and small businesses, helping them centralise operations, reduce manual work, improve visibility across departments, and build a stronger digital foundation for growth. Our goal is to make ERP more accessible to businesses that want to modernise, become more efficient, and operate with better control and structure. Alongside our ERP services, we also operate a retail technology store and provide a wider range of IT-related services. These include website development, IT and network solutions, cloud management services, on-site visits for customers who require technical assistance at their home or business premises, and device repairs. This broader hands-on experience in technology allows us to support clients from multiple angles and better understand the real operational challenges businesses face, making our ERP approach more practical and grounded.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:37.254793"
     },
     {
       "region_code": "mt",
@@ -106,10 +266,20 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/carabao-limited-6875892?country_id=146",
       "logo_url": "https://odoocdn.com/web/image/res.partner/6875892/image_128/Carabao%20Limited?unique=b87365d",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:04.452422"
+      "about_text": "Carabao is a high‑performing Odoo Partner dedicated to helping organisations accelerate growth, eliminate operational inefficiencies, and unlock powerful digital capabilities through expertly delivered Odoo implementations. We combine strong business knowledge, technical depth, and industry‑specific expertise to deliver Odoo solutions that don’t just work — they transform how teams operate. We specialise in two mission‑critical verticals where accuracy, speed, and operational clarity directly impact profitability: 🍽️ Food & Beverage Operators (Restaurants, Bars, Cafeterias, Take‑aways & QSR Chains) Front‑of‑house or back‑of‑house — we help hospitality operators run smoother, faster, and more profitably. Our solutions are designed for real‑life foodservice environments, supporting everything from quick‑service turnover to complex multi‑location operations. Our Food & Beverage Industry Add‑On for Odoo elevates standard Odoo to a hospitality‑grade solution with features built specifically for operators such as restaurants, bars, cafeterias, catering, take‑aways and franchise/QSR businesses: Advanced POS Features for ultra‑fast ordering, multi‑station flows, table management, delivery/take‑away, promotions, loyalty, and more. Kitchen Preparation Module with recipe building, ingredient structures, food costing, bill of materials, and step‑by‑step preparation workflows that guide kitchen teams in real time. Catch‑Weight Handling for ingredients and products purchased, stocked, or sold by variable weight (meat, fish, deli, produce, bakery, etc.). POS Hardware Integrations for printers, scanners, kitchen screens, scales, payment terminals, and KDS workflows. Real‑Time BI Dashboards offering insight into sales, food cost, labour ratios, wastage, stock turns, menu profitability, store performance and more. With Carabao, hospitality businesses gain unified operations from ordering to kitchen to inventory to accounting — all inside a single platform that scales effortlessly with their growth. 🧩 Professional Services & Project‑Based Businesses We empower service‑driven organisations — consultancies, engineering firms, agencies, maintenance providers, and project‑based companies — to deliver projects with clarity, accuracy, and financial control. Our Odoo implementations streamline your entire project lifecycle: Smarter quoting & proposal workflows Accurate project planning & resource allocation Time, expense & deliverable tracking Automated invoicing & milestone billing Profitability insights across teams, customers & projects Seamless collaboration between sales, delivery, accounting & management We don’t just deploy Odoo — we align it directly to your operational model so teams work faster, leaders gain real‑time visibility, and profitability increases through process optimisation. Why Businesses Choose Carabao ✓ Industry Expertise + Technical Excellence Our team blends deep domain experience with strong technical and architectural capability. We design scalable Odoo ecosystems that eliminate complexity and deliver measurable business results. ✓ Implementation Done Right We follow a structured, proven methodology: Analyse — Understand your business, map processes, identify improvements Design — Build a future‑ready operating model on top of Odoo Implement — Configure, migrate, integrate and customise where needed Optimise — Train, refine, and continuously improve ✓ A Partner for Long‑Term Growth Our work doesn’t end at go‑live. We stay with you — improving processes, stabilising operations, and helping your business evolve with Odoo releases, new modules, and new opportunities. ✓ Rescue & Turnaround Capabilities If your current Odoo project is stuck, delayed, or under‑delivering, we step in quickly with hands‑on leadership and tactical expertise to bring it back on track. Carabao — Your Odoo Partner for Continuous Performance Whether you're running a fast‑paced kitchen, a multi‑branch hospitality business, or a project‑driven professional services operation, Carabao delivers Odoo solutions that reduce manual work, unify processes, strengthen decision‑making, and enable scale. We don’t just implement Odoo. We make Odoo your competitive edge.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:37.676047"
     }
   ]
 }

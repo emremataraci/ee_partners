@@ -2,7 +2,7 @@
   "region_code": "ee",
   "country_code": "EE",
   "country_name": "Estonia",
-  "scraped_at": "2026-04-09T05:58:28.323814",
+  "scraped_at": "2026-04-09T07:49:16.704301",
   "total_partners": 4,
   "source_url": "https://www.odoo.com/partners/country/estonia-63",
   "partners": [
@@ -22,10 +22,60 @@
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/impactic-ou-1700274?country_id=63",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1700274/image_128/Impactic%20O%C3%9C?unique=44657fd",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:28.321986"
+      "about_text": "Impactic OÜ started providing POS solutions based on Odoo. We emerged quickly from just POS systems and now we are offering full grade ERP solutions and consultation services for different Odoo verisons. Our team is passionate about delivering deployments and support always on time.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 4
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 29
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 11
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 5
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Government",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:49:14.564222"
     },
     {
       "region_code": "ee",
@@ -43,10 +93,48 @@
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/avatud-lahendused-ou-1134164?country_id=63",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1134164/image_128/Avatud%20Lahendused%20O%C3%9C?unique=891a101",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:28.322656"
+      "about_text": "Oleme Baltikumi üks suurimaid Odoo partnereid ja teenusepakkujaid. Meie kliendid on keskmise suurusega kasvuettevõtted, kelle konkurentsivõime aluseks on efektiivsed ja innovaatilised äriprotsessid. Enamik projekte oleme teinud kaubandus-, tööstus-, teenus- ja teenindusettevõtetele. Meie kliendid peavad Odoo suurimateks tugevusteks lihtsust, mugavust ja kiiret kasutuselevõttu, suurt hulka valmislahendusi ja soodsust võrreldes teiste sarnaste lahendustega. Meie juurutusprotsessi puhul hindavad nad selget tegevuskava ja läbipaistvust, mille tagavad otsesuhtlus ja kliendiportaal. Meie meeskond jaguneb Tallinna ja Tartu kontori vahel. Lisaks standardlahenduste juurutamisele pakume hõlpsalt tarnitavaid lisamooduleid ja järelteenindust, kasutajatuge, koolitusi, loome keerukamaid liidestusi ning rätseplahendusi. Oleme välja töötanud ja uuendame pidevalt Odoo Eesti paketti, mis sisaldab eestipõhiseidraamatupidamise ja palgaarvestuse seadistusi ning katab muid kohalike kasutajate vajadusi. We are a certified partner of Odoo serving clients in Estonia as well as Scandinavia. We have offices in Tallinn and Tartu. By leveraging Odoo and custom solutions, we help our clients break free from software models that are costly, difficult to use and outdated. Whether conceptual design, implementation or customizing of your system, we can support you with our expertise and experience from numerous Odoo projects. For us, customers’ needs and transparency are of utmost importance. We localize and customize Odoo to fit any use case. Our dedicated analysts and developers extend Odoo’s fully integrated suite with localizations, third-party applications for vertical industries or specific business processes. We can also build specific integrations which are designed to integrate with other business solutions you are already using. Our online customer portal provides a dedicated space for the customers to easily manage and track the information and progress of their development projects and support requests.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 5
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 32
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 8
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:49:15.210566"
     },
     {
       "region_code": "ee",
@@ -64,10 +152,40 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/erp-partner-ou-12801892?country_id=63",
       "logo_url": "https://odoocdn.com/web/image/res.partner/12801892/image_128/ERP%20Partner%20O%C3%9C?unique=9f21bd4",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:28.323166"
+      "about_text": "ERP Partner OÜ is a new and ambitious Odoo partner in Estonia, dedicated to delivering comprehensive and tailored ERP solutions that meet the unique needs of companies across various industries. Our mission is to enhance business efficiency and support growth through the seamless integration of Odoo’s versatile platform. ERP Partner OÜ on uus ja ambitsioonikas Odoo partner Eestis, kes on pühendunud pakkuma terviklikke ja kohandatud ERP-lahendusi, mis vastavad erinevate tööstusharude ettevõtete unikaalsetele vajadustele. Meie missioon on tõsta ettevõtete efektiivsust ja toetada nende kasvu Odoo mitmekülgse platvormi sujuva integreerimise kaudu. Meie teenused: Kohandatud Odoo juurutused: Meie spetsialistid kohandavad Odoo modulaarse süsteemi vastavalt teie ettevõtte konkreetsetele vajadustele, tagades personaalse ja tõhusa ERP-lahenduse. Abi Odoo hankimisel: Pakume hanke projektijuhi teenust, aidates teil kaardistada vajadused koostada hanketingimused ERP tarkvara partneri valimiseks. Omades kogemust Odoo rakendamisel head ülevaadet tarkvara võimalustest saame luua just teile optimaalse plaani, minimeerides lisaarenduse vajadused. Abi Odoo juurutamisel: Pakume ka juurutuse kliendipoolse projektijuhi teenust juhul, kui kasutate juurutamiseks mõnda teist Odoo partnerit Konsultatsioon ja tugi: Pakume konsultatsiooni ja asjakohast tuge, et aidata teil maksimeerida Odoo ERPi rakendamisest tulenevad eelised alates esialgsest seadistamisest kuni hilisema tõhusa kasutamiseni. Koolitus ja arendus: Pakume teie vajadustest lähtuvaid koolitusprogramme, et anda teie meeskonnale vajalikud teadmised ja oskused Odoo platvormi täielikuks ärakasutamiseks. Miks valida ERP Partner OÜ? Valdkondlik oskusteave: Meie meeskonnal on laialdane kogemus erinevates sektorites, mis võimaldab meil pakkuda lahendusi, mis vastavad just teie väljakutsetele. Pühendumus kvaliteedile: Oleme pühendunud pakkuma kõrgekvaliteedilisi teenuseid, tagades, et teie ERP-süsteem juurutatakse tõhusalt ja edukalt. Kliendikeskne lähenemine: Seame teie ärilised eesmärgid esikohale, töötades teiega tihedalt koos, et välja töötada lahendused, mis toetavad teie edu ja kasvu. Valige ERP Partner OÜ , et viia oma äritegevus järgmisele tasemele Odoo ERP-süsteemi abil, mis on kohandatud vastama just teie ettevõtte vajadustele. Vaata lisaks www.erppartner.ee",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:49:15.850327"
     },
     {
       "region_code": "ee",
@@ -85,10 +203,27 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/nixor-ee-as-4270257?country_id=63",
       "logo_url": "https://odoocdn.com/web/image/res.partner/4270257/image_128/Nixor%20EE%20AS?unique=695319a",
-      "about_text": null,
+      "about_text": "As an Odoo partner, Nixor not only promotes this excellent platform but also utilizes it extensively within our own operations. We've successfully migrated all of our main processes to Odoo, demonstrating our commitment to its capabilities. At Nixor, we leverage IT solutions to enhance business efficiency and elevate customer experiences. For over 30 years, we've pioneered a range of innovative technologies that have boosted efficiency for businesses in Estonia, Latvia, and Lithuania. In collaboration with selected external partners, we systematically analyze industry trends and contribute to the development and implementation of innovative solutions that provide competitive advantages. We have a deep understanding of market needs and recognize the potential of technology to offer transformative opportunities. By working closely with our partners, we develop innovative solutions that not only improve business efficiency and customer experiences but also set new industry standards. Over time, these standards become widely adopted and expected. With our large team of developers and our dedicated 7-day-a-week support service, Nixor is committed to delivering reliable and exceptional service. We have focused our Odoo services on manufacturing and retail companies.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:28.323600"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:49:16.187613"
     }
   ]
 }

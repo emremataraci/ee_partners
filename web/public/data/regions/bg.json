@@ -2,7 +2,7 @@
   "region_code": "bg",
   "country_code": "BG",
   "country_name": "Bulgaria",
-  "scraped_at": "2026-04-09T05:58:15.506258",
+  "scraped_at": "2026-04-09T07:47:54.668690",
   "total_partners": 6,
   "source_url": "https://www.odoo.com/partners/country/bulgaria-22",
   "partners": [
@@ -25,7 +25,7 @@
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:15.503617"
+      "scraped_at": "2026-04-09T07:47:53.875487"
     },
     {
       "region_code": "bg",
@@ -46,7 +46,7 @@
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:15.504094"
+      "scraped_at": "2026-04-09T07:47:54.008720"
     },
     {
       "region_code": "bg",
@@ -67,7 +67,7 @@
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:15.504548"
+      "scraped_at": "2026-04-09T07:47:54.139208"
     },
     {
       "region_code": "bg",
@@ -88,7 +88,7 @@
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:15.504990"
+      "scraped_at": "2026-04-09T07:47:54.270503"
     },
     {
       "region_code": "bg",
@@ -109,7 +109,7 @@
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:15.505442"
+      "scraped_at": "2026-04-09T07:47:54.399085"
     },
     {
       "region_code": "bg",
@@ -130,7 +130,7 @@
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:58:15.505983"
+      "scraped_at": "2026-04-09T07:47:54.539720"
     }
   ]
 }

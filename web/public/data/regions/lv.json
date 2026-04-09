@@ -2,7 +2,7 @@
   "region_code": "lv",
   "country_code": "LV",
   "country_name": "Latvia",
-  "scraped_at": "2026-04-09T05:59:01.173485",
+  "scraped_at": "2026-04-09T07:52:31.851200",
   "total_partners": 3,
   "source_url": "https://www.odoo.com/partners/country/latvia-130",
   "partners": [
@@ -22,10 +22,56 @@
       "certified_experts_count": "5",
       "profile_url": "https://www.odoo.com/partners/midis-rsez-1306266?country_id=130",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1306266/image_128/Midis%20RSEZ?unique=adcb1ec",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:01.172143"
+      "about_text": "Midis is one of the leading ERP (Enterprise Resource Planning) systems developer in Latvia, founded in 2010. The company provides full development process from analysis of requirements and software architecture build, finishing with QA, support and user training for enterprises and government sector. The main priority is detailed research of customer’s needs, allowing us to deliver high-quality solutions and efficient organization of work. The company’s main strategic way is ERP systems development, containing modules like CRM, CMS, Warehousing, e-commerce, logistics, accountancy, and others. Our experience allows us promptly find the right tools for projects. Midis provides its services within the following sectors: entrepreneurship, finance, manufacturing, public administration, trade and many others.Technologies employed are globally recognized and meets international standards such as ISO 27001, ISO/IEC 23270, ISO/IEC 23271, PCI, W3C and others. Our target is to exceed expected! We bring Odoo solutions to the next level.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 4
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 9
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 7
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:30.792280"
     },
     {
       "region_code": "lv",
@@ -43,10 +89,40 @@
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/lailio-solutions-sia-2024248?country_id=130",
       "logo_url": "https://odoocdn.com/web/image/res.partner/2024248/image_128/Lailio%20Solutions%20SIA?unique=34426ee",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:01.172757"
+      "about_text": "Lailio is an international IT technology company. We work relentlessly to develop your business, provide you with most suitable solutions and we are proud to offer the best opportunities to automate management processes. We develop and implement the most efficient and convenient business management systems for your company, which will not only help you to improve the quality of work, but allow to track, plan and improve company's resources distribution to reap maximum efficiency out of your operations. We have chosen to use Odoo system internally to enable our experienced specialists to plan their work efficiently and encourage our partners and clients to do the same. Odoo is a great tool to improve and automate business processes in order to devote more time to core business needs and dedicate on becoming one of the leading company in IT technology industry with high quality standards and excellent reputation. Qualities, which are appreciated by our customers. Core of our team are specialists working in IT industry for more than 25 years. Our experts continuously follow IT industry's latest developments and innovations. Combining accumulated knowledge and international experience we will help you find answers regarding the right business management software for your specific needs. Our customer service operates 24/7. Head office located in Riga, Latvia. Our services: • Custom Application Development Services • QA and Software Testing Services • App Maintenance Services • API Integration Services • IT Security Services • Data Backup and Recovery Services • Software Deployment Services • Infrastructure Support Services • Software Migration Services • System Integration Services ​",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Real Estate",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Government",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:31.321839"
     },
     {
       "region_code": "lv",
@@ -64,10 +140,36 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/allegro-it-2085484?country_id=130",
       "logo_url": "https://odoocdn.com/web/image/res.partner/2085484/image_128/Allegro%20IT?unique=ddb95fb",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T05:59:01.173301"
+      "about_text": "Allegro IT is the company with Odoo (OpenERP) experience since 2011. Our goal is to ensure the best business management solutions for small and medium companies in Latvia by providing localization solutions and services. We have a strong experience in administration, integration and development of highly specialized modules for Odoo as well.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Education",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-09T07:52:31.582198"
     }
   ]
 }
