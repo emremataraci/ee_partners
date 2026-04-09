@@ -9,6 +9,7 @@ import PartnerDetailPanel from '../components/PartnerDetailPanel'
 import CompareModal from '../components/CompareModal'
 import Skeleton from '../components/Skeleton'
 import { REFERENCE_RANGES } from '../constants/filters'
+import { PARTNER_LEVELS } from '../constants/partnerLevels'
 import '../components/CompareModal.css'
 
 const DEFAULT_RANGE = { min: 0, max: 0 }
@@ -103,7 +104,7 @@ function Home() {
   }
 
   const [filters, setFilters] = useState({
-    levels: ['Gold', 'Silver', 'Ready', 'Learning'],
+    levels: PARTNER_LEVELS,
     selectedRefRanges: [],
     selectedCities: [],
     selectedIndustries: [],

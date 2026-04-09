@@ -1,0 +1,201 @@
+{
+  "app": {
+    "loading": "Partnerdaten werden geladen..."
+  },
+  "header": {
+    "title": "Odoo-Partnerkarte",
+    "searchPlaceholder": "Partner suchen...",
+    "compare": "Vergleichen ({{count}}/3)",
+    "menuAria": "Menü öffnen",
+    "languageSwitcher": "Sprachauswahl"
+  },
+  "sidebar": {
+    "filters": "Filter",
+    "partnerCount": "/ {{totalCount}} Partner",
+    "partnerLevel": "Partnerstufe",
+    "references": "Referenzen",
+    "city": "Stadt",
+    "additionalFilters": "Zusätzliche Filter",
+    "industry": "Branche",
+    "satisfaction": "Zufriedenheitsbereich",
+    "certificates": "Anzahl Zertifikate",
+    "min": "Min",
+    "max": "Max",
+    "disclaimer": "Datenquelle: Odoo Partner Directory."
+  },
+  "home": {
+    "ranges": {
+      "0-25": "0 - 25 Referenzen",
+      "26-50": "26 - 50 Referenzen",
+      "50+": "50+ Referenzen"
+    },
+    "maxCompareAlert": "Sie können maximal 3 Partner vergleichen.",
+    "map": "Karte",
+    "list": "Liste",
+    "size": "Größe",
+    "sort": "Sortieren nach",
+    "reference": "Referenzen",
+    "avgUsers": "Durchschn. Nutzer",
+    "chartArea": "Diagrammfläche",
+    "numReferences": "Anzahl Referenzen",
+    "numAvgUsers": "Durchschnittliche Nutzerzahl",
+    "color": "Farbe",
+    "partnerLevel": "Partnerstufe",
+    "footerDesc": "Diese Daten wurden aus öffentlich zugänglichen Informationen im Odoo Partner Directory zusammengestellt."
+  },
+  "listView": {
+    "emptyState": "Es wurden keine Partner gefunden, die zu den Filtern passen. Bitte ändern Sie die Filter und versuchen Sie es erneut.",
+    "countMsg": "{{count}} Partner werden angezeigt",
+    "hintMsg": "Klicken Sie auf eine Spalte zum Sortieren · Klicken Sie auf eine Zeile für Details",
+    "columns": {
+      "partner": "Partner",
+      "level": "Stufe",
+      "city": "Stadt",
+      "references": "Referenzen",
+      "avgUsers": "Durchschn. Nutzer",
+      "largeProject": "Großprojekt",
+      "expert": "Experte",
+      "compare": "Vergleichen"
+    }
+  },
+  "treeMap": {
+    "emptyState": "Es wurden keine Partner gefunden, die zu den Filtern passen. Bitte ändern Sie die Filter und versuchen Sie es erneut.",
+    "users": "Nutzer",
+    "ref": "Ref",
+    "location": "Standort",
+    "avgUsers": "Durchschn. Nutzer",
+    "reference": "Referenzen",
+    "experts": "Zertifizierte Experten",
+    "turkey": "Türkei"
+  },
+  "levels": {
+    "Gold": "Gold",
+    "Silver": "Silber",
+    "Ready": "Ready",
+    "Learning": "Learning"
+  },
+  "detailPanel": {
+    "close": "Schließen",
+    "tabs": {
+      "overview": "Übersicht",
+      "competencies": "Kompetenzen",
+      "industries": "Branchen",
+      "footprint": "Kundenbasis",
+      "certifications": "Zertifikate & Team"
+    },
+    "metrics": {
+      "references": "Referenzen",
+      "avgUsers": "Durchschn. Nutzer",
+      "largeProject": "Großprojekt",
+      "experts": "Zertifizierte Experten",
+      "userSub": "Nutzer"
+    },
+    "comingSoon": {
+      "soon": "Daten folgen in Kürze",
+      "competencies": "Kompetenzen & Module"
+    },
+    "info": {
+      "title": "Allgemeine Informationen",
+      "level": "Stufe",
+      "city": "Stadt",
+      "address": "Adresse",
+      "turkey": "Türkei"
+    },
+    "buttons": {
+      "removeCompare": "Aus Vergleich entfernen",
+      "addCompare": "Zum Vergleich hinzufügen",
+      "contact": "Kontakt",
+      "fullPage": "Zur Detailseite ↗"
+    }
+  },
+  "compareModal": {
+    "title": "Partnervergleich",
+    "close": "Schließen",
+    "emptyState": "Sie haben noch keine Partner zum Vergleichen ausgewählt.",
+    "backToList": "Zurück zur Liste",
+    "removeFromCompare": "Aus Vergleich entfernen",
+    "metrics": {
+      "references": "Referenzen",
+      "avgUsers": "Durchschnittliche Nutzer",
+      "largeProject": "Großprojekt-Nutzer",
+      "experts": "Zertifizierte Experten"
+    },
+    "buttons": {
+      "contact": "Kontakt",
+      "viewOnSite": "Auf der Seite ansehen ↗"
+    },
+    "turkey": "Türkei"
+  },
+  "contactModal": {
+    "title": "Kontakt mit {{partnerName}}",
+    "close": "Schließen",
+    "success": {
+      "title": "Anfrage erhalten!",
+      "descPart1": "Ihre Nachricht wurde erfolgreich an das Team von ",
+      "descPart2": " gesendet. Das Team wird Sie so schnell wie möglich kontaktieren."
+    },
+    "form": {
+      "name": "Vollständiger Name *",
+      "namePlaceholder": "Max Mustermann",
+      "company": "Unternehmen *",
+      "companyPlaceholder": "Name Ihres Unternehmens",
+      "phone": "Telefon *",
+      "phonePlaceholder": "+49 XXX XXX XXXX",
+      "email": "E-Mail *",
+      "emailPlaceholder": "beispiel@firma.de",
+      "consentPart1": "Ich stimme zu, die in diesem Formular eingegebenen Informationen mit ",
+      "consentPart2": " zu teilen. *",
+      "submit": "Senden"
+    }
+  },
+  "partnerUpdateModal": {
+    "trigger": "Partnerprofil aktualisieren",
+    "title": "Partnerprofil aktualisieren",
+    "close": "Schließen",
+    "description": "Nutzen Sie dieses Formular, wenn Informationen in Ihrem Profil fehlen, veraltet oder falsch sind.",
+    "success": {
+      "title": "Anfrage erhalten",
+      "description": "Ihre Aktualisierungsanfrage für {{partnerName}} wurde an unser Team gesendet. Wir melden uns nach der Prüfung bei Ihnen."
+    },
+    "form": {
+      "partnerName": "Partnername",
+      "contactName": "Ansprechpartner *",
+      "contactNamePlaceholder": "Vollständiger Name",
+      "email": "E-Mail *",
+      "emailPlaceholder": "beispiel@firma.de",
+      "phone": "Telefon *",
+      "phonePlaceholder": "+49 XXX XXX XXXX",
+      "message": "Nachricht *",
+      "messagePlaceholder": "Beschreiben Sie kurz, welche Informationen aktualisiert werden sollen.",
+      "submit": "Anfrage senden"
+    }
+  },
+  "partnerProfile": {
+    "meta": {
+      "title": "{{partnerName}} | Odoo-Partnerprofil",
+      "defaultTitle": "Odoo Türkei Partner"
+    },
+    "loading": "Partnerdetails werden geladen...",
+    "backToMap": "Zurück zur Partnerkarte",
+    "noLogo": "Kein Logo",
+    "unknown": "Unbekannt",
+    "aboutFallback": "Für diesen Partner ist noch keine ausführliche Beschreibung verfügbar.",
+    "notFound": {
+      "title": "Partner nicht gefunden",
+      "description": "Der gesuchte Partner existiert nicht im System oder die URL ist ungültig.",
+      "back": "Zurück zur Karte"
+    },
+    "metrics": {
+      "references": "Referenzanzahl",
+      "avgUsers": "Durchschnittliche Nutzer",
+      "largeProject": "Großprojekt-Nutzer",
+      "experts": "Zertifizierte Experten"
+    },
+    "sections": {
+      "about": "Über uns",
+      "industries": "Branchenverteilung (Referenzen)",
+      "certifications": "Zertifizierte Fachgebiete"
+    },
+    "certCount": "{{count}} Experten"
+  }
+}

@@ -6,7 +6,8 @@
     "title": "Odoo Partner Discovery Map",
     "searchPlaceholder": "Search partners...",
     "compare": "Compare ({{count}}/3)",
-    "menuAria": "Open menu"
+    "menuAria": "Open menu",
+    "languageSwitcher": "Language switcher"
   },
   "sidebar": {
     "filters": "Filters",
@@ -67,7 +68,14 @@
     "experts": "Certified Expert",
     "turkey": "Turkey"
   },
+  "levels": {
+    "Gold": "Gold",
+    "Silver": "Silver",
+    "Ready": "Ready",
+    "Learning": "Learning"
+  },
   "detailPanel": {
+    "close": "Close",
     "tabs": {
       "overview": "Overview",
       "competencies": "Competencies",
@@ -161,5 +169,33 @@
       "messagePlaceholder": "Briefly describe the information you want updated.",
       "submit": "Send request"
     }
+  },
+  "partnerProfile": {
+    "meta": {
+      "title": "{{partnerName}} | Odoo Partner Profile",
+      "defaultTitle": "Odoo Turkey Partners"
+    },
+    "loading": "Loading partner details...",
+    "backToMap": "Back to Discovery Map",
+    "noLogo": "No logo",
+    "unknown": "Unknown",
+    "aboutFallback": "There is no detailed description for this partner yet.",
+    "notFound": {
+      "title": "Partner not found",
+      "description": "The partner you are looking for does not exist in the system or the URL is invalid.",
+      "back": "Back to Map"
+    },
+    "metrics": {
+      "references": "References",
+      "avgUsers": "Average Users",
+      "largeProject": "Large Project Users",
+      "experts": "Certified Experts"
+    },
+    "sections": {
+      "about": "About",
+      "industries": "Industry Breakdown (References)",
+      "certifications": "Certified Expertise"
+    },
+    "certCount": "{{count}} Experts"
   }
 }

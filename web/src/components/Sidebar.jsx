@@ -2,6 +2,7 @@ import { motion } from 'framer-motion'
 import { Filter, ChevronDown } from 'lucide-react'
 import { useState } from 'react'
 import { REFERENCE_RANGES } from '../constants/filters'
+import { PARTNER_LEVELS, getLevelLabel } from '../constants/partnerLevels'
 import { useTranslation } from 'react-i18next'
 
 const MotionAside = motion.aside
@@ -135,14 +136,14 @@ function Sidebar({
 
                 {openSections.level && (
                     <div className="section-content">
-                        {['Gold', 'Silver', 'Ready', 'Learning'].map(level => (
+                        {PARTNER_LEVELS.map(level => (
                             <label key={level} className="checkbox-label">
                                 <input
                                     type="checkbox"
                                     checked={filters.levels.includes(level)}
                                     onChange={() => toggleLevel(level)}
                                 />
-                                <span className={`level-badge ${level.toLowerCase()}`}>{level}</span>
+                                <span className={`level-badge ${level.toLowerCase()}`}>{getLevelLabel(level, t)}</span>
                             </label>
                         ))}
                     </div>

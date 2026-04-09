@@ -6,7 +6,8 @@
     "title": "Odoo Partner Keşif Haritası",
     "searchPlaceholder": "Partner ara...",
     "compare": "Karşılaştır ({{count}}/3)",
-    "menuAria": "Menüyü aç"
+    "menuAria": "Menüyü aç",
+    "languageSwitcher": "Dil seçici"
   },
   "sidebar": {
     "filters": "Filtreler",
@@ -67,7 +68,14 @@
     "experts": "Sertifikalı Uzman",
     "turkey": "Türkiye"
   },
+  "levels": {
+    "Gold": "Gold",
+    "Silver": "Silver",
+    "Ready": "Ready",
+    "Learning": "Learning"
+  },
   "detailPanel": {
+    "close": "Kapat",
     "tabs": {
       "overview": "Genel Bakış",
       "competencies": "Yetkinlikler",
@@ -161,5 +169,33 @@
       "messagePlaceholder": "Güncellemek istediğiniz bilgileri kısaca yazın.",
       "submit": "Talebi gönder"
     }
+  },
+  "partnerProfile": {
+    "meta": {
+      "title": "{{partnerName}} | Odoo Partner Profili",
+      "defaultTitle": "Odoo Türkiye Partnerleri"
+    },
+    "loading": "Partner detayları yükleniyor...",
+    "backToMap": "Keşif Haritasına Dön",
+    "noLogo": "Logosuz",
+    "unknown": "Bilinmiyor",
+    "aboutFallback": "Bu partner hakkında henüz detaylı bir açıklama bulunmamaktadır.",
+    "notFound": {
+      "title": "Partner bulunamadı",
+      "description": "Aradığınız partner sistemde mevcut değil veya URL hatalı.",
+      "back": "Haritaya Dön"
+    },
+    "metrics": {
+      "references": "Referans Sayısı",
+      "avgUsers": "Ortalama Kullanıcı",
+      "largeProject": "Büyük Proje Üye",
+      "experts": "Sertifikalı Uzman"
+    },
+    "sections": {
+      "about": "Hakkımızda",
+      "industries": "Sektörel Dağılım (Referanslar)",
+      "certifications": "Sertifikalı Uzmanlıklar"
+    },
+    "certCount": "{{count}} Uzman"
   }
 }

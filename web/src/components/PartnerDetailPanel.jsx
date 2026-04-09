@@ -5,13 +5,9 @@ import { useTranslation } from 'react-i18next'
 import ContactModal from './ContactModal'
 import './ContactModal.css'
 import { generateSlug } from '../utils'
+import { getLevelLabel } from '../constants/partnerLevels'
 
-const TABS = [
-  { id: 'overview', label: 'Genel Bakış' },
-  { id: 'competencies', label: 'Yetkinlikler' },
-  { id: 'industries', label: 'Sektörler' },
-  { id: 'certifications', label: 'Sertifikalar & Ekip' },
-]
+const TABS = ['overview', 'competencies', 'industries', 'certifications']
 
 function MetricCard({ label, value, sub, color }) {
   return (
@@ -92,7 +88,7 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                   <span
                     className={`level-badge ${partner.level?.toLowerCase()}`}
                   >
-                    {partner.level}
+                    {getLevelLabel(partner.level, t)}
                   </span>
                 </div>
                 <div className="detail-info-row">
@@ -161,7 +157,7 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                     <h2 className="detail-partner-name">{partner.name}</h2>
                     <div className="detail-partner-sub">
                       <span className={`level-badge ${partner.level?.toLowerCase()}`}>
-                        {partner.level}
+                        {getLevelLabel(partner.level, t)}
                       </span>
                       {partner.displayCity && (
                         <span className="detail-partner-city">
@@ -176,7 +172,7 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                   </div>
                 </div>
 
-                <button className="detail-close-btn" onClick={onClose} aria-label="Kapat" style={{ flexShrink: 0 }}>
+                <button className="detail-close-btn" onClick={onClose} aria-label={t('detailPanel.close')} style={{ flexShrink: 0 }}>
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
                     <line x1="18" y1="6" x2="6" y2="18" />
                     <line x1="6" y1="6" x2="18" y2="18" />
@@ -224,13 +220,13 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
 
             {/* Tabs */}
             <div className="detail-tabs">
-              {TABS.map(tab => (
+              {TABS.map(tabId => (
                 <button
-                  key={tab.id}
-                  className={`detail-tab ${activeTab === tab.id ? 'detail-tab--active' : ''}`}
-                  onClick={() => setActiveTab(tab.id)}
+                  key={tabId}
+                  className={`detail-tab ${activeTab === tabId ? 'detail-tab--active' : ''}`}
+                  onClick={() => setActiveTab(tabId)}
                 >
-                  {t(`detailPanel.tabs.${tab.id}`)}
+                  {t(`detailPanel.tabs.${tabId}`)}
                 </button>
               ))}
             </div>

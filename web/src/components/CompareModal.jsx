@@ -4,6 +4,7 @@ import { useNavigate } from 'react-router-dom'
 import { generateSlug } from '../utils'
 import { useTranslation } from 'react-i18next'
 import ContactModal from './ContactModal'
+import { getLevelLabel } from '../constants/partnerLevels'
 
 export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
   const { t } = useTranslation()
@@ -70,7 +71,7 @@ export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
                       ) : <div className="compare-logo-placeholder" />}
                       <h3>{p.name}</h3>
                       <div style={{ display: 'flex', gap: '8px', alignItems: 'center', flexWrap: 'wrap' }}>
-                        <span className={`level-badge ${p.level?.toLowerCase()}`}>{p.level}</span>
+                        <span className={`level-badge ${p.level?.toLowerCase()}`}>{getLevelLabel(p.level, t)}</span>
                         <span className="compare-city">{p.displayCity || t('compareModal.turkey')}</span>
                       </div>
                     </div>

@@ -2,9 +2,15 @@ import { Search, Map, Menu } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 
+const LANGUAGE_OPTIONS = [
+  { code: 'tr', label: 'TR', flag: '🇹🇷', nativeName: 'Türkçe' },
+  { code: 'en', label: 'EN', flag: '🇬🇧', nativeName: 'English' },
+  { code: 'de', label: 'DE', flag: '🇩🇪', nativeName: 'Deutsch' }
+]
+
 function Header({ searchQuery, setSearchQuery, comparedPartners, onOpenCompare, onToggleSidebar }) {
   const { t, i18n } = useTranslation()
-  const currentLang = i18n.resolvedLanguage || i18n.language
+  const currentLang = (i18n.resolvedLanguage || i18n.language || 'tr').split('-')[0]
 
   return (
     <header className="header">
@@ -33,22 +39,7 @@ function Header({ searchQuery, setSearchQuery, comparedPartners, onOpenCompare, 
       </div>
 
       {/* Spacer & Compare Action & Language Toggle */}
-      <div className="header-right" style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-        <div className="language-toggle" style={{ display: 'flex', gap: '4px', border: '1px solid var(--border)', borderRadius: '6px', padding: '2px' }}>
-          <button 
-            onClick={() => i18n.changeLanguage('tr')} 
-            style={{ padding: '4px 8px', border: 'none', background: currentLang?.includes('tr') ? 'var(--accent)' : 'transparent', color: currentLang?.includes('tr') ? 'white' : 'var(--text-light)', borderRadius: '4px', cursor: 'pointer', fontSize: '13px', fontWeight: 600 }}
-          >
-            TR
-          </button>
-          <button 
-            onClick={() => i18n.changeLanguage('en')} 
-            style={{ padding: '4px 8px', border: 'none', background: currentLang?.includes('en') ? 'var(--accent)' : 'transparent', color: currentLang?.includes('en') ? 'white' : 'var(--text-light)', borderRadius: '4px', cursor: 'pointer', fontSize: '13px', fontWeight: 600 }}
-          >
-            EN
-          </button>
-        </div>
-
+      <div className="header-right">
         {comparedPartners?.length > 0 && (
           <button 
             className="compare-header-btn" 
@@ -57,6 +48,29 @@ function Header({ searchQuery, setSearchQuery, comparedPartners, onOpenCompare, 
             {t('header.compare', { count: comparedPartners.length })}
           </button>
         )}
+
+        <div
+          className="language-toggle"
+          aria-label={t('header.languageSwitcher')}
+        >
+          {LANGUAGE_OPTIONS.map(({ code, label, flag, nativeName }) => {
+            const isActive = currentLang === code
+
+            return (
+              <button
+                key={code}
+                type="button"
+                aria-pressed={isActive}
+                title={nativeName}
+                className={`language-toggle-btn ${isActive ? 'language-toggle-btn--active' : ''}`}
+                onClick={() => i18n.changeLanguage(code)}
+              >
+                <span className="language-toggle-flag" aria-hidden="true">{flag}</span>
+                <span className="language-toggle-label">{label}</span>
+              </button>
+            )
+          })}
+        </div>
       </div>
     </header>
   )

@@ -2,8 +2,7 @@ import { useState, useMemo, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import EmptyState from './EmptyState'
 import { useTranslation } from 'react-i18next'
-
-const LEVEL_ORDER = { Gold: 0, Silver: 1, Ready: 2, Learning: 3 }
+import { LEVEL_ORDER, getLevelLabel } from '../constants/partnerLevels'
 
 const SortIcon = ({ column, sortKey, sortDir }) => {
   if (sortKey !== column) {
@@ -143,7 +142,7 @@ function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleC
                 </td>
                 <td>
                   <span className={`level-badge ${partner.level?.toLowerCase()}`}>
-                    {partner.level}
+                    {getLevelLabel(partner.level, t)}
                   </span>
                 </td>
                 <td className="td-city">{partner.displayCity || '—'}</td>

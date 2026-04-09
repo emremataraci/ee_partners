@@ -3,6 +3,7 @@ import { Treemap, ResponsiveContainer } from 'recharts'
 import { motion } from 'framer-motion'
 import EmptyState from './EmptyState'
 import { getLevelPalette } from '../constants/levelPalette'
+import { getLevelLabel } from '../constants/partnerLevels'
 
 // Darken hex color by a ratio (0 = original, 1 = black)
 const darkenHex = (hex, amount) => {
@@ -254,7 +255,7 @@ function TreeMapChart({ partners, areaMetric, onPartnerClick }) {
                 >
                     <div className="tooltip-name">{tooltipData.name}</div>
                     <div className="tooltip-level" data-level={tooltipData.level?.toLowerCase()}>
-                        {tooltipData.level}
+                        {getLevelLabel(tooltipData.level, t)}
                     </div>
                     <div className="tooltip-details">
                         <div className="tooltip-row">
