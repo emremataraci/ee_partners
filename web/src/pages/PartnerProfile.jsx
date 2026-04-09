@@ -1,63 +1,77 @@
-import { useParams, Link } from 'react-router-dom'
+import { useParams, Link, useSearchParams } from 'react-router-dom'
 import { useState, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
-import { generateSlug } from '../utils'
+import { generateSlug, extractPartnerId } from '../utils'
 import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip } from 'recharts'
 import PartnerUpdateModal from '../components/PartnerUpdateModal'
 import LanguageBadges from '../components/LanguageBadges'
-import { getPartnerLanguageCodes } from '../constants/partnerLanguages'
+import { DEFAULT_REGION, isSupportedRegion, normalizeRegionCode } from '../constants/regions'
 import { getLevelLabel } from '../constants/partnerLevels'
+import { loadRegionDataset } from '../data/partnerData'
+import { enhancePartner } from '../lib/partners'
 import { loadPartnerLocaleContent, normalizeLanguage, getPartnerLocalizedField } from '../partnerContent'
 import '../App.css'
 
 export default function PartnerProfile() {
   const { t, i18n } = useTranslation()
   const { slug } = useParams()
+  const [searchParams] = useSearchParams()
   const [partner, setPartner] = useState(null)
   const [loading, setLoading] = useState(true)
   const [isUpdateModalOpen, setIsUpdateModalOpen] = useState(false)
   const [trContent, setTrContent] = useState({})
   const [activeLocaleContent, setActiveLocaleContent] = useState({})
   const currentLanguage = normalizeLanguage(i18n.resolvedLanguage || i18n.language)
+  const selectedRegion = isSupportedRegion(searchParams.get('region'))
+    ? normalizeRegionCode(searchParams.get('region'))
+    : DEFAULT_REGION
+  const selectedPartnerId = searchParams.get('id') || ''
 
   useEffect(() => {
-    // In production this might be an API call
-    // Using relative path for Vite dev server / build 
-    // We assume base is /ee_partners/ as per vite.config.js
+    setLoading(true)
+
+    const loadDefaultContent = selectedRegion === 'tr'
+      ? loadPartnerLocaleContent('tr')
+      : Promise.resolve({})
+    const loadActiveContent = selectedRegion === 'tr' && currentLanguage !== 'tr'
+      ? loadPartnerLocaleContent(currentLanguage)
+      : Promise.resolve({})
+
     Promise.all([
-      fetch('/ee_partners/odoo_partners.json').then(res => res.json()),
-      loadPartnerLocaleContent('tr'),
-      currentLanguage === 'tr' ? Promise.resolve({}) : loadPartnerLocaleContent(currentLanguage)
+      loadRegionDataset(selectedRegion),
+      loadDefaultContent,
+      loadActiveContent
     ])
       .then(([data, defaultContent, localizedContent]) => {
-        const normalizeCity = (city) => city ? city.split('/')[0].split(',')[0].trim() : null
-        const found = data.partners.find(p => generateSlug(p.name) === slug)
+        const found = data.partners.find((candidate) => {
+          if (selectedPartnerId) {
+            return extractPartnerId(candidate.profile_url) === selectedPartnerId
+          }
+
+          return generateSlug(candidate.name) === slug
+        })
 
         setTrContent(defaultContent)
-        setActiveLocaleContent(currentLanguage === 'tr' ? defaultContent : localizedContent)
+        setActiveLocaleContent(
+          selectedRegion === 'tr'
+            ? (currentLanguage === 'tr' ? defaultContent : localizedContent)
+            : {}
+        )
 
         if (found) {
-          const rawCity = found.city === 'Türkiye' ? found.country : found.city
-          setPartner({
-            ...found,
-            average_users: parseInt(found.average_project_size?.match(/\d+/)?.[0] || '0'),
-            large_users: parseInt(found.large_project_size?.match(/\d+/)?.[0] || '0'),
-            references: parseInt(found.references_count || '0'),
-            experts: parseInt(found.certified_experts_count || '0'),
-            spoken_languages: getPartnerLanguageCodes(found),
-            displayCity: normalizeCity(rawCity)
-          })
+          setPartner(enhancePartner(found, selectedRegion, currentLanguage))
         } else {
           setPartner(null)
         }
 
         setLoading(false)
       })
-      .catch(err => {
-        console.error('Error loading partner profile:', err)
+      .catch((error) => {
+        console.error('Error loading partner profile:', error)
+        setPartner(null)
         setLoading(false)
       })
-  }, [slug, currentLanguage])
+  }, [currentLanguage, selectedPartnerId, selectedRegion, slug])
 
   // Set SEO meta title
   useEffect(() => {
@@ -83,7 +97,7 @@ export default function PartnerProfile() {
       <div style={{ padding: '60px', textAlign: 'center' }}>
         <h2>{t('partnerProfile.notFound.title')}</h2>
         <p>{t('partnerProfile.notFound.description')}</p>
-        <Link to="/" className="btn-primary" style={{ marginTop: '20px', display: 'inline-block' }}>
+        <Link to={`/?region=${selectedRegion}`} className="btn-primary" style={{ marginTop: '20px', display: 'inline-block' }}>
           {t('partnerProfile.notFound.back')}
         </Link>
       </div>
@@ -94,15 +108,20 @@ export default function PartnerProfile() {
 
   // Helper for metrics
   const getMetric = (val, suffix = '') => val > 0 ? `${val} ${suffix}`.trim() : t('partnerProfile.unknown')
-  const shortDescription = getPartnerLocalizedField(slug, activeLocaleContent, 'short_description')?.trim()
-    || getPartnerLocalizedField(slug, trContent, 'short_description')?.trim()
-  const aboutText = getPartnerLocalizedField(slug, activeLocaleContent, 'about_text')?.trim()
-    || getPartnerLocalizedField(slug, trContent, 'about_text')?.trim()
-  const detailDescription = aboutText || t('partnerProfile.aboutFallback')
+  const shortDescription = selectedRegion === 'tr'
+    ? getPartnerLocalizedField(slug, activeLocaleContent, 'short_description')?.trim()
+      || getPartnerLocalizedField(slug, trContent, 'short_description')?.trim()
+    : ''
+  const aboutText = selectedRegion === 'tr'
+    ? getPartnerLocalizedField(slug, activeLocaleContent, 'about_text')?.trim()
+      || getPartnerLocalizedField(slug, trContent, 'about_text')?.trim()
+    : ''
+  const detailDescription = aboutText || partner.about_text?.trim() || t('partnerProfile.aboutFallback')
+  const backToMapTarget = `/?region=${selectedRegion}`
 
   return (
     <div className="profile-page-container" style={{ padding: '40px', maxWidth: '1200px', margin: '0 auto' }}>
-      <Link to="/" style={{ color: 'var(--accent)', textDecoration: 'none', marginBottom: '24px', display: 'flex', alignItems: 'center', gap: '8px', fontWeight: '500' }}>
+      <Link to={backToMapTarget} style={{ color: 'var(--accent)', textDecoration: 'none', marginBottom: '24px', display: 'flex', alignItems: 'center', gap: '8px', fontWeight: '500' }}>
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
           <line x1="19" y1="12" x2="5" y2="12"></line>
           <polyline points="12 19 5 12 12 5"></polyline>
@@ -123,9 +142,9 @@ export default function PartnerProfile() {
             <span className={`level-badge ${partner.level?.toLowerCase()}`} style={{ fontSize: '14px', padding: '6px 12px' }}>
               {getLevelLabel(partner.level, t)}
             </span>
-            {partner.displayCity && (
+            {partner.displayLocation && (
               <span style={{ color: 'var(--text-light)', display: 'flex', gap: '4px', alignItems: 'center' }}>
-                📍 {partner.displayCity}
+                📍 {partner.displayLocation}
               </span>
             )}
           </div>

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useNavigate } from 'react-router-dom'
-import { generateSlug } from '../utils'
+import { buildPartnerProfileUrl } from '../utils'
 import { useTranslation } from 'react-i18next'
 import ContactModal from './ContactModal'
 import { getLevelLabel } from '../constants/partnerLevels'
@@ -72,7 +72,7 @@ export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
                       <h3>{p.name}</h3>
                       <div style={{ display: 'flex', gap: '8px', alignItems: 'center', flexWrap: 'wrap' }}>
                         <span className={`level-badge ${p.level?.toLowerCase()}`}>{getLevelLabel(p.level, t)}</span>
-                        <span className="compare-city">{p.displayCity || t('compareModal.turkey')}</span>
+                        <span className="compare-city">{p.displayLocation}</span>
                       </div>
                     </div>
 
@@ -104,7 +104,7 @@ export default function CompareModal({ isOpen, onClose, partners, onRemove }) {
                         </button>
                         <button 
                           className="compare-btn-secondary" 
-                          onClick={() => { navigate(`/partners/${generateSlug(p.name)}`); onClose(); }}
+                          onClick={() => { navigate(buildPartnerProfileUrl(p)); onClose(); }}
                           style={{ padding: '8px', background: 'var(--bg)', color: 'var(--text)', border: '1px solid var(--border)', borderRadius: '6px', cursor: 'pointer', fontWeight: 500 }}
                         >
                           {t('compareModal.buttons.viewOnSite')}

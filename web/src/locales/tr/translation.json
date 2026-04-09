@@ -5,6 +5,10 @@
   "header": {
     "title": "Odoo Partner Keşif Haritası",
     "searchPlaceholder": "Partner ara...",
+    "regionLabel": "Region:",
+    "regionSearchPlaceholder": "Ülke veya kod ara...",
+    "regionSwitcher": "Bölge seçici",
+    "regionNoResults": "Eşleşen ülke bulunamadı.",
     "compare": "Karşılaştır ({{count}}/3)",
     "menuAria": "Menüyü aç",
     "languageSwitcher": "Dil seçici"
@@ -184,7 +188,7 @@
   "partnerProfile": {
     "meta": {
       "title": "{{partnerName}} | Odoo Partner Profili",
-      "defaultTitle": "Odoo Türkiye Partnerleri"
+      "defaultTitle": "Odoo Avrupa Partnerleri"
     },
     "loading": "Partner detayları yükleniyor...",
     "backToMap": "Keşif Haritasına Dön",

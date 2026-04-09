@@ -199,6 +199,7 @@ function TreeMapChart({ partners, areaMetric, onPartnerClick }) {
                     large_users: p.large_users,
                     experts: p.experts,
                     displayCity: p.displayCity,
+                    displayLocation: p.displayLocation,
                     profile_url: p.profile_url,
                     index,
                     maxMetric,
@@ -260,7 +261,7 @@ function TreeMapChart({ partners, areaMetric, onPartnerClick }) {
                     <div className="tooltip-details">
                         <div className="tooltip-row">
                             <span>{t('treeMap.location')}</span>
-                            <span>{tooltipData.displayCity || t('treeMap.turkey')}</span>
+                            <span>{tooltipData.displayLocation}</span>
                         </div>
                         <div className="tooltip-row">
                             <span>{t('treeMap.avgUsers')}</span>

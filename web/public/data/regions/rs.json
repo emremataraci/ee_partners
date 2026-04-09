@@ -1,0 +1,52 @@
+{
+  "region_code": "rs",
+  "country_code": "RS",
+  "country_name": "Serbia",
+  "scraped_at": "2026-04-09T05:59:13.149380",
+  "total_partners": 2,
+  "source_url": "https://www.odoo.com/partners/country/serbia-49",
+  "partners": [
+    {
+      "region_code": "rs",
+      "country_code": "RS",
+      "name": "Modoolar",
+      "level": "Gold",
+      "city": "Belgrade",
+      "district": "",
+      "country": "Serbia",
+      "full_address": "Belgrade, 11000",
+      "rating_percentage": "86",
+      "average_project_size": "34 users",
+      "large_project_size": "~500 users",
+      "references_count": "37",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/partners/modoolar-984196?country_id=49",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/984196/image_128/Modoolar?unique=cdc5d3e",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-09T05:59:13.148614"
+    },
+    {
+      "region_code": "rs",
+      "country_code": "RS",
+      "name": "LOGIT",
+      "level": "Ready",
+      "city": "Belgrade",
+      "district": "",
+      "country": "Serbia",
+      "full_address": "Belgrade, 11070",
+      "rating_percentage": "100",
+      "average_project_size": "7 users",
+      "large_project_size": "~20 users",
+      "references_count": "4",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/partners/logit-20859535?country_id=49",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/20859535/image_128/LOGIT?unique=ef3ab3e",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-09T05:59:13.149154"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "region_code": "me",
+  "country_code": "ME",
+  "country_name": "Montenegro",
+  "scraped_at": "2026-04-09T05:59:02.585469",
+  "total_partners": 1,
+  "source_url": "https://www.odoo.com/partners/country/montenegro-50",
+  "partners": [
+    {
+      "region_code": "me",
+      "country_code": "ME",
+      "name": "MONTEX ELEKTRONIKA",
+      "level": "Ready",
+      "city": "Podgorica",
+      "district": "",
+      "country": "Montenegro",
+      "full_address": "Podgorica, 81009",
+      "rating_percentage": "75",
+      "average_project_size": "7 users",
+      "large_project_size": "~40 users",
+      "references_count": "8",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/partners/montex-elektronika-19702?country_id=50",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/19702/image_128/MONTEX%20ELEKTRONIKA?unique=05f1748",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-09T05:59:02.585387"
+    }
+  ]
+}

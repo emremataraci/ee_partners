@@ -22,3 +22,28 @@ export const generateSlug = (name) => {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)+/g, '')
 }
+
+export const extractPartnerId = (profileUrl) => {
+  if (!profileUrl) return ''
+
+  const match = profileUrl.match(/-(\d+)(?:\?|$)/) || profileUrl.match(/\/(\d+)(?:\/|$)/)
+  return match?.[1] || ''
+}
+
+export const buildPartnerProfileUrl = (partner) => {
+  const slug = generateSlug(partner?.name)
+  const searchParams = new URLSearchParams()
+  const regionCode = partner?.region_code || partner?.region
+  const partnerId = partner?.partner_id || extractPartnerId(partner?.profile_url)
+
+  if (regionCode) {
+    searchParams.set('region', regionCode)
+  }
+
+  if (partnerId) {
+    searchParams.set('id', partnerId)
+  }
+
+  const query = searchParams.toString()
+  return `/partners/${slug}${query ? `?${query}` : ''}`
+}

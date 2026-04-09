@@ -1,0 +1,1137 @@
+{
+  "scraped_at": "2026-03-21T12:56:59.414334",
+  "total_partners": 29,
+  "source_url": "https://www.odoo.com/tr_TR/partners/country/turkiye-215",
+  "partners": [
+    {
+      "name": "Codequarters",
+      "level": "Gold",
+      "city": "Ankara",
+      "district": "Çankaya",
+      "country": "Türkiye",
+      "full_address": "88, Türkiye, Ankara, Çankaya, 06510",
+      "rating_percentage": "88",
+      "average_project_size": "28 kullanıcı",
+      "large_project_size": "~200 kullanıcı",
+      "references_count": "55",
+      "certified_experts_count": "7",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/codequarters-679964?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/679964/image_128/Codequarters?unique=3b11142",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı19",
+          "count": 2
+        },
+        {
+          "version": "Sertifikalı18",
+          "count": 4
+        },
+        {
+          "version": "Sertifikalı17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 14
+        },
+        {
+          "industry": "Toptan / Perakende",
+          "count": 14
+        },
+        {
+          "industry": "Gıda / Konukseverlik / Turizm",
+          "count": 3
+        },
+        {
+          "industry": "Kamu hizmetleri / Enerji / Su temini",
+          "count": 3
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 2
+        },
+        {
+          "industry": "Kamu Yönetimi",
+          "count": 2
+        },
+        {
+          "industry": "Bilim ve teknoloji",
+          "count": 2
+        },
+        {
+          "industry": "Tarım",
+          "count": 1
+        },
+        {
+          "industry": "Sağlık / Sosyal Hizmetler / Farmasötik",
+          "count": 1
+        },
+        {
+          "industry": "Finans/Sigorta",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:55:57.134790"
+    },
+    {
+      "name": "Eska Yazılım ve Danışmanlık A.Ş.",
+      "level": "Gold",
+      "city": "İstanbul",
+      "district": "",
+      "country": "Türkiye",
+      "full_address": "82, Türkiye, İstanbul, 34149",
+      "rating_percentage": "82",
+      "average_project_size": "11 kullanıcı",
+      "large_project_size": "~100 kullanıcı",
+      "references_count": "38",
+      "certified_experts_count": "7",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/eska-yazılım-ve-danısmanlık-as-5856007?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/5856007/image_128/Eska%20Yaz%C4%B1l%C4%B1m%20ve%20Dan%C4%B1%C5%9Fmanl%C4%B1k%20A.%C5%9E.?unique=f136a60",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı19",
+          "count": 5
+        },
+        {
+          "version": "Sertifikalı18",
+          "count": 1
+        },
+        {
+          "version": "Sertifikalı17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 16
+        },
+        {
+          "industry": "Toptan / Perakende",
+          "count": 12
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 5
+        },
+        {
+          "industry": "Kamu hizmetleri / Enerji / Su temini",
+          "count": 1
+        },
+        {
+          "industry": "Hizmet ve danışmanlık",
+          "count": 1
+        },
+        {
+          "industry": "Tarım",
+          "count": 1
+        },
+        {
+          "industry": "Taşımacılık / Lojistik",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:55:59.276295"
+    },
+    {
+      "name": "Rasard Teknoloji",
+      "level": "Silver",
+      "city": "İstanbul",
+      "district": "GEBZE",
+      "country": "Türkiye",
+      "full_address": "85, Türkiye, İstanbul, GEBZE, 41480",
+      "rating_percentage": "85",
+      "average_project_size": "10 kullanıcı",
+      "large_project_size": "~40 kullanıcı",
+      "references_count": "45",
+      "certified_experts_count": "3",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/rasard-teknoloji-10709490?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/10709490/image_128/Rasard%20Teknoloji?unique=437c51a",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 2
+        },
+        {
+          "version": "Sertifikalı17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 16
+        },
+        {
+          "industry": "Gıda / Konukseverlik / Turizm",
+          "count": 8
+        },
+        {
+          "industry": "Toptan / Perakende",
+          "count": 8
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 4
+        },
+        {
+          "industry": "Hizmet ve danışmanlık",
+          "count": 3
+        },
+        {
+          "industry": "Sağlık / Sosyal Hizmetler / Farmasötik",
+          "count": 3
+        },
+        {
+          "industry": "Kamu hizmetleri / Enerji / Su temini",
+          "count": 3
+        },
+        {
+          "industry": "İnşaat ve Yenileme",
+          "count": 2
+        },
+        {
+          "industry": "Eğitim",
+          "count": 2
+        },
+        {
+          "industry": "Tarım",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:01.381202"
+    },
+    {
+      "name": "Drysharks Consulting and trading LTD",
+      "level": "Silver",
+      "city": "Bursa",
+      "district": "Görükle",
+      "country": "Türkiye",
+      "full_address": "90, Türkiye, Bursa, Görükle, 3300",
+      "rating_percentage": "90",
+      "average_project_size": "13 kullanıcı",
+      "large_project_size": "~200 kullanıcı",
+      "references_count": "44",
+      "certified_experts_count": "3",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/drysharks-consulting-and-trading-ltd-11421873?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/11421873/image_128/Drysharks%20Consulting%20and%20trading%20LTD?unique=b1d2373",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 1
+        },
+        {
+          "version": "Sertifikalı17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 23
+        },
+        {
+          "industry": "Toptan / Perakende",
+          "count": 6
+        },
+        {
+          "industry": "Hizmet ve danışmanlık",
+          "count": 3
+        },
+        {
+          "industry": "Sağlık / Sosyal Hizmetler / Farmasötik",
+          "count": 3
+        },
+        {
+          "industry": "Gıda / Konukseverlik / Turizm",
+          "count": 2
+        },
+        {
+          "industry": "İnşaat ve Yenileme",
+          "count": 2
+        },
+        {
+          "industry": "Eğlence",
+          "count": 2
+        },
+        {
+          "industry": "Kamu hizmetleri / Enerji / Su temini",
+          "count": 2
+        },
+        {
+          "industry": "Madencilik",
+          "count": 1
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:03.190123"
+    },
+    {
+      "name": "Projet Solutions",
+      "level": "Silver",
+      "city": "İstanbul",
+      "district": "Levent",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, İstanbul, Levent, 34400",
+      "rating_percentage": "100",
+      "average_project_size": "11 kullanıcı",
+      "large_project_size": "~100 kullanıcı",
+      "references_count": "26",
+      "certified_experts_count": "4",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/projet-solutions-27214238?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/27214238/image_128/Projet%20Solutions?unique=3391314",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı19",
+          "count": 1
+        },
+        {
+          "version": "Sertifikalı18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 8
+        },
+        {
+          "industry": "Toptan / Perakende",
+          "count": 6
+        },
+        {
+          "industry": "Bilim ve teknoloji",
+          "count": 3
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 3
+        },
+        {
+          "industry": "Taşımacılık / Lojistik",
+          "count": 1
+        },
+        {
+          "industry": "Hizmet ve danışmanlık",
+          "count": 1
+        },
+        {
+          "industry": "İnşaat ve Yenileme",
+          "count": 1
+        },
+        {
+          "industry": "Kamu hizmetleri / Enerji / Su temini",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:05.311210"
+    },
+    {
+      "name": "Kıta Yazılım",
+      "level": "Silver",
+      "city": "İstanbul",
+      "district": "",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, İstanbul, 11520",
+      "rating_percentage": "100",
+      "average_project_size": "7 kullanıcı",
+      "large_project_size": "~50 kullanıcı",
+      "references_count": "25",
+      "certified_experts_count": "3",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/kta-yazlm-12223392?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/12223392/image_128/K%3Fta%20Yaz%3Fl%3Fm?unique=3436f33",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 11
+        },
+        {
+          "industry": "Toptan / Perakende",
+          "count": 4
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 2
+        },
+        {
+          "industry": "Bilim ve teknoloji",
+          "count": 2
+        },
+        {
+          "industry": "Hizmet ve danışmanlık",
+          "count": 2
+        },
+        {
+          "industry": "Taşımacılık / Lojistik",
+          "count": 1
+        },
+        {
+          "industry": "Sağlık / Sosyal Hizmetler / Farmasötik",
+          "count": 1
+        },
+        {
+          "industry": "Gıda / Konukseverlik / Turizm",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:07.383324"
+    },
+    {
+      "name": "ALKEDOS TEKNOLOJİ A.Ş.",
+      "level": "Silver",
+      "city": "İstanbul",
+      "district": "Bakırköy",
+      "country": "Türkiye",
+      "full_address": "Türkiye, İstanbul, Bakırköy, 34770",
+      "rating_percentage": null,
+      "average_project_size": "18 kullanıcı",
+      "large_project_size": "~200 kullanıcı",
+      "references_count": "10",
+      "certified_experts_count": "3",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/alkedos-teknoloji-as-17943352?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/17943352/image_128/ALKEDOS%20TEKNOLOJ%C4%B0%20A.%C5%9E.?unique=35ae37d",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Eğitim",
+          "count": 2
+        },
+        {
+          "industry": "Toptan / Perakende",
+          "count": 2
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 1
+        },
+        {
+          "industry": "İnşaat ve Yenileme",
+          "count": 1
+        },
+        {
+          "industry": "Üretim / Bakım",
+          "count": 1
+        },
+        {
+          "industry": "Tarım",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:09.410517"
+    },
+    {
+      "name": "MindDX Dijital Dönüşüm Teknolojileri San. Ve Tic. A.Ş.",
+      "level": "Silver",
+      "city": "Istanbul",
+      "district": "",
+      "country": "Türkiye",
+      "full_address": "Türkiye, Istanbul, 34218",
+      "rating_percentage": null,
+      "average_project_size": "16 kullanıcı",
+      "large_project_size": "~40 kullanıcı",
+      "references_count": "8",
+      "certified_experts_count": "4",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/minddx-dijital-donusum-teknolojileri-san-ve-tic-as-17922279?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/17922279/image_128/MindDX%20Dijital%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%20Teknolojileri%20San.%20Ve%20Tic.%20A.%C5%9E.?unique=3c0e256",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı19",
+          "count": 1
+        },
+        {
+          "version": "Sertifikalı18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 6
+        },
+        {
+          "industry": "Kamu hizmetleri / Enerji / Su temini",
+          "count": 1
+        },
+        {
+          "industry": "Mesken",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:11.518704"
+    },
+    {
+      "name": "Boraq Group",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "BAĞCILAR",
+      "country": "Türkiye",
+      "full_address": "81, Türkiye, İstanbul, BAĞCILAR, 34218",
+      "rating_percentage": "81",
+      "average_project_size": "12 kullanıcı",
+      "large_project_size": "~100 kullanıcı",
+      "references_count": "20",
+      "certified_experts_count": "2",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/boraq-group-1275410?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1275410/image_128/Boraq%20Group?unique=75f65fc",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 1
+        },
+        {
+          "version": "Sertifikalı17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Toptan / Perakende",
+          "count": 8
+        },
+        {
+          "industry": "Üretim / Bakım",
+          "count": 6
+        },
+        {
+          "industry": "Finans/Sigorta",
+          "count": 3
+        },
+        {
+          "industry": "Gıda / Konukseverlik / Turizm",
+          "count": 2
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 1
+        },
+        {
+          "industry": "Kamu hizmetleri / Enerji / Su temini",
+          "count": 1
+        },
+        {
+          "industry": "Taşımacılık / Lojistik",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:13.430461"
+    },
+    {
+      "name": "ERP YAZILIM DANIŞMANLIK A.Ş.",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "",
+      "country": "Türkiye",
+      "full_address": "Türkiye, İstanbul, 34912",
+      "rating_percentage": null,
+      "average_project_size": "8 kullanıcı",
+      "large_project_size": "~40 kullanıcı",
+      "references_count": "12",
+      "certified_experts_count": "3",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/erp-yazilim-danismanlik-as-15389595?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/15389595/image_128/ERP%20YAZILIM%20DANI%C5%9EMANLIK%20A.%C5%9E.?unique=01422e0",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 2
+        },
+        {
+          "version": "Sertifikalı17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 6
+        },
+        {
+          "industry": "İnşaat ve Yenileme",
+          "count": 2
+        },
+        {
+          "industry": "Hizmet ve danışmanlık",
+          "count": 1
+        },
+        {
+          "industry": "Gıda / Konukseverlik / Turizm",
+          "count": 1
+        },
+        {
+          "industry": "Mesken",
+          "count": 1
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:15.254662"
+    },
+    {
+      "name": "7Gates Interactive Technologies",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "Istanbul",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, İstanbul, Istanbul, 34350",
+      "rating_percentage": "100",
+      "average_project_size": "13 kullanıcı",
+      "large_project_size": "~30 kullanıcı",
+      "references_count": "8",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/7gates-interactive-technologies-21423?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/21423/image_128/7Gates%20Interactive%20Technologies?unique=e019ba4",
+      "certifications_breakdown": [],
+      "industries_breakdown": [
+        {
+          "industry": "Toptan / Perakende",
+          "count": 5
+        },
+        {
+          "industry": "Üretim / Bakım",
+          "count": 1
+        },
+        {
+          "industry": "Sağlık / Sosyal Hizmetler / Farmasötik",
+          "count": 1
+        },
+        {
+          "industry": "Taşımacılık / Lojistik",
+          "count": 1
+        },
+        {
+          "industry": "Hizmet ve danışmanlık",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:17.330017"
+    },
+    {
+      "name": "PATRİON İLERİ TEKNOLOJİ SİSTEMLERİ ANONİM ŞİRKETİ",
+      "level": "Ready",
+      "city": "İzmir",
+      "district": "",
+      "country": "Türkiye",
+      "full_address": "90, Türkiye, İzmir, 35170",
+      "rating_percentage": "90",
+      "average_project_size": "7 kullanıcı",
+      "large_project_size": "~20 kullanıcı",
+      "references_count": "8",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/patrion-ileri-teknoloji-sistemleri-anonim-sirketi-13221334?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/13221334/image_128/PATR%C4%B0ON%20%C4%B0LER%C4%B0%20TEKNOLOJ%C4%B0%20S%C4%B0STEMLER%C4%B0%20ANON%C4%B0M%20%C5%9E%C4%B0RKET%C4%B0?unique=cbb2e38",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Sağlık / Sosyal Hizmetler / Farmasötik",
+          "count": 3
+        },
+        {
+          "industry": "Üretim / Bakım",
+          "count": 3
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 1
+        },
+        {
+          "industry": "Hizmet ve danışmanlık",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:19.249327"
+    },
+    {
+      "name": "Ekol Yazılım A.S.",
+      "level": "Ready",
+      "city": "Ankara",
+      "district": "",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, Ankara, 06010",
+      "rating_percentage": "100",
+      "average_project_size": "6 kullanıcı",
+      "large_project_size": "~30 kullanıcı",
+      "references_count": "6",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/ekol-yazılım-as-15555518?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/15555518/image_128/Ekol%20Yaz%C4%B1l%C4%B1m%20A.S.?unique=3ac38a5",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Gıda / Konukseverlik / Turizm",
+          "count": 1
+        },
+        {
+          "industry": "Hizmet ve danışmanlık",
+          "count": 1
+        },
+        {
+          "industry": "Taşımacılık / Lojistik",
+          "count": 1
+        },
+        {
+          "industry": "Bilim ve teknoloji",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:22.545512"
+    },
+    {
+      "name": "Magnus Bilgi Teknolojileri A.Ş.",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "",
+      "country": "Türkiye",
+      "full_address": "75, Türkiye, İstanbul, 11520",
+      "rating_percentage": "75",
+      "average_project_size": "4 kullanıcı",
+      "large_project_size": "~10 kullanıcı",
+      "references_count": "5",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/magnus-bilgi-teknolojileri-as-18744901?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/18744901/image_128/Magnus%20Bilgi%20Teknolojileri%20A.%C5%9E.?unique=0de7bc6",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 2
+        },
+        {
+          "industry": "Sağlık / Sosyal Hizmetler / Farmasötik",
+          "count": 1
+        },
+        {
+          "industry": "Bilim ve teknoloji",
+          "count": 1
+        },
+        {
+          "industry": "Toptan / Perakende",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:24.449695"
+    },
+    {
+      "name": "Cabri Bilgi Teknolojileri",
+      "level": "Ready",
+      "city": "Bursa",
+      "district": "Nilüfer",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, Bursa, Nilüfer, 16500",
+      "rating_percentage": "100",
+      "average_project_size": "3 kullanıcı",
+      "large_project_size": "~20 kullanıcı",
+      "references_count": "4",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/cabri-bilgi-teknolojileri-22777395?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/22777395/image_128/Cabri%20Bilgi%20Teknolojileri?unique=70ff8ca",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Toptan / Perakende",
+          "count": 1
+        },
+        {
+          "industry": "Bilim ve teknoloji",
+          "count": 1
+        },
+        {
+          "industry": "Üretim / Bakım",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:26.435113"
+    },
+    {
+      "name": "One Stop System",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "Istanbul",
+      "country": "Türkiye",
+      "full_address": "Türkiye, İstanbul, Istanbul, 11520",
+      "rating_percentage": null,
+      "average_project_size": "3 kullanıcı",
+      "large_project_size": "~5 kullanıcı",
+      "references_count": "3",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/one-stop-system-19253175?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/19253175/image_128/One%20Stop%20System?unique=d816364",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Emlak",
+          "count": 3
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:28.750076"
+    },
+    {
+      "name": "Vis Marin Insaat ve Bilisim Hiz. San ve Dis Tic Ltd Sti.",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "Beşiktaş",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, İstanbul, Beşiktaş, 34673",
+      "rating_percentage": "100",
+      "average_project_size": "7 kullanıcı",
+      "large_project_size": "~30 kullanıcı",
+      "references_count": "3",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/vis-marin-insaat-ve-bilisim-hiz-san-ve-dis-tic-ltd-sti-1234989?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1234989/image_128/Vis%20Marin%20Insaat%20ve%20Bilisim%20Hiz.%20San%20ve%20Dis%20Tic%20Ltd%20Sti.?unique=1e7d28d",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Gıda / Konukseverlik / Turizm",
+          "count": 1
+        },
+        {
+          "industry": "BT / İletişim / Pazarlama",
+          "count": 1
+        },
+        {
+          "industry": "Toptan / Perakende",
+          "count": 1
+        },
+        {
+          "industry": "Üretim / Bakım",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:30.668748"
+    },
+    {
+      "name": "Akko Makina Sanayi ve Ticaret A.Ş.",
+      "level": "Ready",
+      "city": "Konya",
+      "district": "Konya",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, Konya, Konya, 42160",
+      "rating_percentage": "100",
+      "average_project_size": "22 kullanıcı",
+      "large_project_size": "~100 kullanıcı",
+      "references_count": "2",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/akko-makina-sanayi-ve-ticaret-as-17326101?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/17326101/image_128/Akko%20Makina%20Sanayi%20ve%20Ticaret%20A.%C5%9E.?unique=1325aa5",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:32.834973"
+    },
+    {
+      "name": "TMS Teknoloji Yazılım ve Makina San. Tic. Ltd. Şti",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "Çekmeköy",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, İstanbul, Çekmeköy, 34782",
+      "rating_percentage": "100",
+      "average_project_size": "5 kullanıcı",
+      "large_project_size": "~20 kullanıcı",
+      "references_count": "2",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/tms-teknoloji-yazılım-ve-makina-san-tic-ltd-sti-14986605?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/14986605/image_128/TMS%20Teknoloji%20Yaz%C4%B1l%C4%B1m%20ve%20Makina%20San.%20Tic.%20Ltd.%20%C5%9Eti?unique=ab3989e",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Üretim / Bakım",
+          "count": 1
+        },
+        {
+          "industry": "Toptan / Perakende",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:35.000901"
+    },
+    {
+      "name": "TÜM TEKNOLOJİ ÜRETİM MERKEZİ YAZILIM SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "İstanbul",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, İstanbul, İstanbul, Başakşehir",
+      "rating_percentage": "100",
+      "average_project_size": "6 kullanıcı",
+      "large_project_size": "~20 kullanıcı",
+      "references_count": "2",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/tum-teknoloji-uretim-merkezi-yazilim-sanayi-ve-ticaret-anonim-sirketi-25265607?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/25265607/image_128/T%C3%9CM%20TEKNOLOJ%C4%B0%20%C3%9CRET%C4%B0M%20MERKEZ%C4%B0%20YAZILIM%20SANAY%C4%B0%20VE%20T%C4%B0CARET%20ANON%C4%B0M%20%C5%9E%C4%B0RKET%C4%B0?unique=99cfe0d",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Toptan / Perakende",
+          "count": 1
+        },
+        {
+          "industry": "Gıda / Konukseverlik / Turizm",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:37.233617"
+    },
+    {
+      "name": "Dataliva Bilişim Hizmetleri A.Ş.",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "Istanbul",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, İstanbul, Istanbul, 34000",
+      "rating_percentage": "100",
+      "average_project_size": "16 kullanıcı",
+      "large_project_size": "~30 kullanıcı",
+      "references_count": "1",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/dataliva-bilisim-hizmetleri-as-18073842?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/18073842/image_128/Dataliva%20Bili%C5%9Fim%20Hizmetleri%20A.%C5%9E.?unique=243b344",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Toptan / Perakende",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-03-21T12:56:41.806889"
+    },
+    {
+      "name": "Techpark Investments LTD.",
+      "level": "Ready",
+      "city": "Girne KKTC",
+      "district": "",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, Girne KKTC, 11520",
+      "rating_percentage": "100",
+      "average_project_size": "15 kullanıcı",
+      "large_project_size": "~30 kullanıcı",
+      "references_count": "1",
+      "certified_experts_count": "3",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/techpark-investments-ltd-25119098?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/25119098/image_128/Techpark%20Investments%20LTD.?unique=9c188e4",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı19",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [],
+      "scraped_at": "2026-03-21T12:56:43.905511"
+    },
+    {
+      "name": "APLOVA YÖNETİM DANIŞMANLIK VE BİLGİ TEKNOLOJİLERİ ANONİM ŞİRKETİ",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "Üsküdar",
+      "country": "Türkiye",
+      "full_address": "Türkiye, İstanbul, Üsküdar, 34000",
+      "rating_percentage": null,
+      "average_project_size": "0 kullanıcı",
+      "large_project_size": "~0 kullanıcı",
+      "references_count": "0",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/aplova-yonetim-danismanlik-ve-bilgi-teknolojileri-anonim-sirketi-26230190?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/26230190/image_128/APLOVA%20Y%C3%96NET%C4%B0M%20DANI%C5%9EMANLIK%20VE%20B%C4%B0LG%C4%B0%20TEKNOLOJ%C4%B0LER%C4%B0%20ANON%C4%B0M%20%C5%9E%C4%B0RKET%C4%B0?unique=07162e9",
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-03-21T12:56:45.852997"
+    },
+    {
+      "name": "AS GROUP ENERJI MUHENDISLIK HIZMETLERI SANAYI VE TICARET ANONIM SIRKETI",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "Eyüpsultan",
+      "country": "Türkiye",
+      "full_address": "Türkiye, İstanbul, Eyüpsultan, 34077",
+      "rating_percentage": null,
+      "average_project_size": "0 kullanıcı",
+      "large_project_size": "~0 kullanıcı",
+      "references_count": "0",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/as-group-enerji-muhendislik-hizmetleri-sanayi-ve-ticaret-anonim-sirketi-26966611?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/26966611/image_128/AS%20GROUP%20ENERJI%20MUHENDISLIK%20HIZMETLERI%20SANAYI%20VE%20TICARET%20ANONIM%20SIRKETI?unique=5890410",
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-03-21T12:56:47.898017"
+    },
+    {
+      "name": "Arktos ERP",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "Üsküdar",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, İstanbul, Üsküdar, 34660",
+      "rating_percentage": "100",
+      "average_project_size": "4 kullanıcı",
+      "large_project_size": "~5 kullanıcı",
+      "references_count": "0",
+      "certified_experts_count": "3",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/arktos-erp-25862464?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/25862464/image_128/Arktos%20ERP?unique=9b767aa",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı19",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [],
+      "scraped_at": "2026-03-21T12:56:49.893387"
+    },
+    {
+      "name": "DİTRASOL BİLGİ SİSTEMLERİ A.Ş.",
+      "level": "Ready",
+      "city": "İzmir",
+      "district": "BAYRAKLI",
+      "country": "Türkiye",
+      "full_address": "Türkiye, İzmir, BAYRAKLI, 35530",
+      "rating_percentage": null,
+      "average_project_size": "0 kullanıcı",
+      "large_project_size": "~0 kullanıcı",
+      "references_count": "0",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/ditrasol-bilgi-sistemleri-as-28212943?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/28212943/image_128/D%C4%B0TRASOL%20B%C4%B0LG%C4%B0%20S%C4%B0STEMLER%C4%B0%20A.%C5%9E.?unique=7fa3fc2",
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-03-21T12:56:52.001956"
+    },
+    {
+      "name": "LIFE TO FUTURE TEKNOLOJİ SANAYİ TİCARET ANONİM  ŞİRKETİ",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "Avcılar",
+      "country": "Türkiye",
+      "full_address": "Türkiye, İstanbul, Avcılar, 34320",
+      "rating_percentage": null,
+      "average_project_size": "0 kullanıcı",
+      "large_project_size": "~0 kullanıcı",
+      "references_count": "0",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/life-to-future-teknoloji-sanayi-ticaret-anonim-sirketi-28599391?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/28599391/image_128/LIFE%20TO%20FUTURE%20TEKNOLOJ%C4%B0%20SANAY%C4%B0%20T%C4%B0CARET%20ANON%C4%B0M%20%20%C5%9E%C4%B0RKET%C4%B0?unique=2ea72a9",
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-03-21T12:56:53.978405"
+    },
+    {
+      "name": "Solvera Yazılım",
+      "level": "Ready",
+      "city": "Ankara",
+      "district": "OSTIM OSB/YENIMAHALLE",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, Ankara, OSTIM OSB/YENIMAHALLE, 06374",
+      "rating_percentage": "100",
+      "average_project_size": "10 kullanıcı",
+      "large_project_size": "~10 kullanıcı",
+      "references_count": "0",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/solvera-yazılım-24112289?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/24112289/image_128/Solvera%20Yaz%C4%B1l%C4%B1m?unique=9aa0622",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [],
+      "scraped_at": "2026-03-21T12:56:55.698616"
+    },
+    {
+      "name": "İNVOLİT BİLİŞİM ANONİM ŞİRKETİ",
+      "level": "Ready",
+      "city": "İstanbul",
+      "district": "Istanbul",
+      "country": "Türkiye",
+      "full_address": "100, Türkiye, İstanbul, Istanbul, 11520",
+      "rating_percentage": "100",
+      "average_project_size": "10 kullanıcı",
+      "large_project_size": "~10 kullanıcı",
+      "references_count": "0",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/tr_TR/partners/involit-bilisim-anonim-sirketi-25464810?country_id=215",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/25464810/image_128/%C4%B0NVOL%C4%B0T%20B%C4%B0L%C4%B0%C5%9E%C4%B0M%20ANON%C4%B0M%20%C5%9E%C4%B0RKET%C4%B0?unique=e0b4d48",
+      "certifications_breakdown": [
+        {
+          "version": "Sertifikalı19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [],
+      "scraped_at": "2026-03-21T12:56:57.488107"
+    }
+  ],
+  "region_code": "tr",
+  "country_code": "TR",
+  "country_name": "Türkiye"
+}

@@ -1,6 +1,7 @@
 import { Search, Map, Menu } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
+import RegionSelect from './RegionSelect'
 
 const LANGUAGE_OPTIONS = [
   { code: 'tr', label: 'TR', flag: '🇹🇷', nativeName: 'Türkçe' },
@@ -8,7 +9,15 @@ const LANGUAGE_OPTIONS = [
   { code: 'de', label: 'DE', flag: '🇩🇪', nativeName: 'Deutsch' }
 ]
 
-function Header({ searchQuery, setSearchQuery, comparedPartners, onOpenCompare, onToggleSidebar }) {
+function Header({
+  searchQuery,
+  setSearchQuery,
+  selectedRegion,
+  onRegionChange,
+  comparedPartners,
+  onOpenCompare,
+  onToggleSidebar
+}) {
   const { t, i18n } = useTranslation()
   const currentLang = (i18n.resolvedLanguage || i18n.language || 'tr').split('-')[0]
 
@@ -36,9 +45,13 @@ function Header({ searchQuery, setSearchQuery, comparedPartners, onOpenCompare, 
             className="search-input"
           />
         </div>
+
+        <RegionSelect
+          selectedRegion={selectedRegion}
+          onChange={onRegionChange}
+        />
       </div>
 
-      {/* Spacer & Compare Action & Language Toggle */}
       <div className="header-right">
         {comparedPartners?.length > 0 && (
           <button 

@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import ContactModal from './ContactModal'
 import './ContactModal.css'
-import { generateSlug } from '../utils'
+import { buildPartnerProfileUrl } from '../utils'
 import { getLevelLabel } from '../constants/partnerLevels'
 import LanguageBadges from './LanguageBadges'
 
@@ -94,7 +94,7 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                 </div>
                 <div className="detail-info-row">
                   <span className="detail-info-key">{t('detailPanel.info.city')}</span>
-                  <span className="detail-info-val">{partner.displayCity || t('detailPanel.info.turkey')}</span>
+                  <span className="detail-info-val">{partner.displayLocation}</span>
                 </div>
                 <div className="detail-info-row">
                   <span className="detail-info-key">{t('detailPanel.info.languages')}</span>
@@ -166,13 +166,13 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                       <span className={`level-badge ${partner.level?.toLowerCase()}`}>
                         {getLevelLabel(partner.level, t)}
                       </span>
-                      {partner.displayCity && (
+                      {partner.displayLocation && (
                         <span className="detail-partner-city">
                           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                             <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" />
                             <circle cx="12" cy="9" r="2.5" />
                           </svg>
-                          {partner.displayCity}
+                          {partner.displayLocation}
                         </span>
                       )}
                     </div>
@@ -221,7 +221,7 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
               <div style={{ marginTop: '12px', width: '100%' }}>
                 <button
                   className="detail-profile-btn"
-                  onClick={() => navigate(`/partners/${generateSlug(partner.name)}`)}
+                  onClick={() => navigate(buildPartnerProfileUrl(partner))}
                   style={{ width: '100%', justifyContent: 'center', border: '1px solid var(--border)', background: 'var(--white)', color: 'var(--text)' }}
                 >
                   {t('detailPanel.buttons.fullPage')}

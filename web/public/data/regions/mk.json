@@ -1,0 +1,52 @@
+{
+  "region_code": "mk",
+  "country_code": "MK",
+  "country_name": "North Macedonia",
+  "scraped_at": "2026-04-09T05:59:03.529827",
+  "total_partners": 2,
+  "source_url": "https://www.odoo.com/partners/country/north-macedonia-137",
+  "partners": [
+    {
+      "region_code": "mk",
+      "country_code": "MK",
+      "name": "Nava IT Skopje",
+      "level": "Ready",
+      "city": "Skopje",
+      "district": "",
+      "country": "North Macedonia",
+      "full_address": "Skopje, 1000",
+      "rating_percentage": null,
+      "average_project_size": "0 users",
+      "large_project_size": "~0 users",
+      "references_count": "0",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/partners/nava-it-skopje-23650395?country_id=137",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/23650395/image_128/Nava%20IT%20Skopje?unique=096f3eb",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-09T05:59:03.529187"
+    },
+    {
+      "region_code": "mk",
+      "country_code": "MK",
+      "name": "Sydea NMK",
+      "level": "Ready",
+      "city": "Skopje",
+      "district": "",
+      "country": "North Macedonia",
+      "full_address": "Skopje, 1000",
+      "rating_percentage": null,
+      "average_project_size": "0 users",
+      "large_project_size": "~0 users",
+      "references_count": "0",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/partners/sydea-nmk-29329764?country_id=137",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/29329764/image_128/Sydea%20NMK?unique=448baac",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-09T05:59:03.529618"
+    }
+  ]
+}

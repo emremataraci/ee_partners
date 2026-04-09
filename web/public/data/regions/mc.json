@@ -1,0 +1,31 @@
+{
+  "region_code": "mc",
+  "country_code": "MC",
+  "country_name": "Monaco",
+  "scraped_at": "2026-04-09T05:59:01.789849",
+  "total_partners": 1,
+  "source_url": "https://www.odoo.com/partners/country/monaco-133",
+  "partners": [
+    {
+      "region_code": "mc",
+      "country_code": "MC",
+      "name": "OPENSOLUTION",
+      "level": "Ready",
+      "city": "Monaco",
+      "district": "",
+      "country": "Monaco",
+      "full_address": "Monaco, 98000",
+      "rating_percentage": "94",
+      "average_project_size": "10 users",
+      "large_project_size": "~100 users",
+      "references_count": "20",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/partners/opensolution-1209776?country_id=133",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1209776/image_128/OPENSOLUTION?unique=cb8a56b",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-09T05:59:01.789638"
+    }
+  ]
+}

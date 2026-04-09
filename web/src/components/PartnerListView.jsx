@@ -55,8 +55,8 @@ function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleC
         aVal = LEVEL_ORDER[a.level] ?? 99
         bVal = LEVEL_ORDER[b.level] ?? 99
       } else if (sortKey === 'city') {
-        aVal = (a.displayCity || '').toLowerCase()
-        bVal = (b.displayCity || '').toLowerCase()
+        aVal = (a.displayLocation || '').toLowerCase()
+        bVal = (b.displayLocation || '').toLowerCase()
         return sortDir === 'asc' ? aVal.localeCompare(bVal) : bVal.localeCompare(aVal)
       } else {
         aVal = a[sortKey] ?? 0
@@ -145,7 +145,7 @@ function PartnerListView({ partners, onPartnerClick, comparedPartners, onToggleC
                     {getLevelLabel(partner.level, t)}
                   </span>
                 </td>
-                <td className="td-city">{partner.displayCity || '—'}</td>
+                <td className="td-city">{partner.displayLocation || '—'}</td>
                 <td className="td-metric">
                   {partner.references > 0
                     ? <span className="metric-pill metric-pill--ref">{partner.references}</span>

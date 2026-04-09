@@ -1,0 +1,52 @@
+{
+  "region_code": "is",
+  "country_code": "IS",
+  "country_name": "Iceland",
+  "scraped_at": "2026-04-09T05:58:54.830948",
+  "total_partners": 2,
+  "source_url": "https://www.odoo.com/partners/country/iceland-105",
+  "partners": [
+    {
+      "region_code": "is",
+      "country_code": "IS",
+      "name": "Exigo ehf.",
+      "level": "Ready",
+      "city": "Kópavogur",
+      "district": "",
+      "country": "Iceland",
+      "full_address": "Kópavogur, 201",
+      "rating_percentage": "85",
+      "average_project_size": "6 users",
+      "large_project_size": "~40 users",
+      "references_count": "26",
+      "certified_experts_count": "2",
+      "profile_url": "https://www.odoo.com/partners/exigo-ehf-3510346?country_id=105",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/3510346/image_128/Exigo%20ehf.?unique=b75665b",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-09T05:58:54.830198"
+    },
+    {
+      "region_code": "is",
+      "country_code": "IS",
+      "name": "Boðleið þjónusta ehf",
+      "level": "Ready",
+      "city": "Kópavogur",
+      "district": "",
+      "country": "Iceland",
+      "full_address": "Kópavogur, 201",
+      "rating_percentage": "74",
+      "average_project_size": "12 users",
+      "large_project_size": "~100 users",
+      "references_count": "23",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/partners/boðleið-þjonusta-ehf-6621770?country_id=105",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/6621770/image_128/Bo%C3%B0lei%C3%B0%20%C3%BEj%C3%B3nusta%20ehf?unique=31553aa",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-09T05:58:54.830693"
+    }
+  ]
+}

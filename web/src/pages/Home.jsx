@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useTranslation } from 'react-i18next'
+import { useSearchParams } from 'react-router-dom'
 import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
 import TreeMapChart from '../components/TreeMapChart'
@@ -9,38 +10,19 @@ import PartnerDetailPanel from '../components/PartnerDetailPanel'
 import CompareModal from '../components/CompareModal'
 import Skeleton from '../components/Skeleton'
 import { REFERENCE_RANGES } from '../constants/filters'
-import { getPartnerLanguageCodes } from '../constants/partnerLanguages'
 import { PARTNER_LEVELS } from '../constants/partnerLevels'
+import {
+  REGION_STORAGE_KEY,
+  detectPreferredRegion,
+  isSupportedRegion,
+  normalizeRegionCode
+} from '../constants/regions'
+import { loadRegionDataset } from '../data/partnerData'
+import { DEFAULT_RANGE, buildNumericBounds, enhancePartner } from '../lib/partners'
 import '../components/CompareModal.css'
 
-const DEFAULT_RANGE = { min: 0, max: 0 }
-
-const parseNumericValue = (value) => {
-  if (value === null || value === undefined || value === '') return null
-  if (typeof value === 'number') return Number.isFinite(value) ? value : null
-
-  const match = String(value).match(/\d+(?:[.,]\d+)?/)
-  if (!match) return null
-
-  return Number(match[0].replace(',', '.'))
-}
-
-const buildNumericBounds = (values) => {
-  const validValues = values.filter(value => Number.isFinite(value))
-
-  if (!validValues.length) {
-    return { ...DEFAULT_RANGE }
-  }
-
-  return {
-    min: Math.min(...validValues),
-    max: Math.max(...validValues)
-  }
-}
-
-const sortLabels = (values) => (
-  [...values].sort((a, b) => a.localeCompare(b, 'tr'))
-)
+const sortLabels = (values, locale) => [...values].sort((a, b) => a.localeCompare(b, locale))
+const getValidRegion = (value) => (isSupportedRegion(value) ? normalizeRegionCode(value) : null)
 
 const isDefaultRange = (range, bounds) => (
   range.min === bounds.min && range.max === bounds.max
@@ -48,19 +30,13 @@ const isDefaultRange = (range, bounds) => (
 
 const MotionDiv = motion.div
 
-// Normalize city names
-const normalizeCity = (city) => {
-  if (!city) return null
-  const normalized = city.trim()
-  // Fix İstanbul variations
-  if (normalized.toLowerCase() === 'istanbul' || normalized === 'İstanbul') {
-    return 'İstanbul'
-  }
-  return normalized
-}
-
 function Home() {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
+  const [searchParams, setSearchParams] = useSearchParams()
+  const currentLanguage = (i18n.resolvedLanguage || i18n.language || 'tr').split('-')[0]
+  const preferredRegion = useMemo(() => detectPreferredRegion(), [])
+  const regionParam = searchParams.get('region')
+  const selectedRegion = getValidRegion(regionParam) || preferredRegion
   const [partners, setPartners] = useState([])
   const [loading, setLoading] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
@@ -123,41 +99,42 @@ function Home() {
   const [areaMetric, setAreaMetric] = useState('references')
   // areaMetric: 'references' | 'average_users'
 
-  useEffect(() => {
-    fetch('/ee_partners/odoo_partners.json')
-      .then(res => res.json())
-      .then(data => {
-        // Parse and enhance partner data
-        const enhancedPartners = data.partners.map(p => {
-          const rawCity = p.city === 'Türkiye' ? p.country : p.city
-          const industries = (p.industries_breakdown ?? [])
-            .map(item => item.industry?.trim())
-            .filter(Boolean)
-          const averageUsers = parseNumericValue(p.average_project_size) ?? 0
-          const largeUsers = parseNumericValue(p.large_project_size) ?? 0
-          const references = parseNumericValue(p.references_count) ?? 0
-          const experts = parseNumericValue(p.certified_experts_count) ?? 0
-          const rating = parseNumericValue(p.rating_percentage)
+  const handleRegionChange = (nextRegion) => {
+    const normalizedRegion = getValidRegion(nextRegion) || preferredRegion
+    const nextParams = new URLSearchParams(searchParams)
+    nextParams.set('region', normalizedRegion)
+    setSearchParams(nextParams, { replace: true })
+  }
 
-          return {
-            ...p,
-            average_users: averageUsers,
-            large_users: largeUsers,
-            references,
-            experts,
-            rating,
-            industries,
-            spoken_languages: getPartnerLanguageCodes(p),
-            displayCity: normalizeCity(rawCity),
-            districtValue: parseNumericValue(p.district) ?? 0
-          }
-        })
+  useEffect(() => {
+    if (!getValidRegion(regionParam)) {
+      const nextParams = new URLSearchParams(searchParams)
+      nextParams.set('region', selectedRegion)
+      setSearchParams(nextParams, { replace: true })
+    }
+
+    window.localStorage.setItem(REGION_STORAGE_KEY, selectedRegion)
+  }, [preferredRegion, regionParam, searchParams, selectedRegion, setSearchParams])
+
+  useEffect(() => {
+    setSelectedPartner(null)
+    setComparedPartners([])
+  }, [selectedRegion])
+
+  useEffect(() => {
+    setLoading(true)
+
+    loadRegionDataset(selectedRegion)
+      .then((data) => {
+        const enhancedPartners = data.partners.map((partner) => enhancePartner(partner, selectedRegion, currentLanguage))
 
         const uniqueCities = sortLabels(
-          [...new Set(enhancedPartners.map(p => p.displayCity))].filter(Boolean)
+          [...new Set(enhancedPartners.map(p => p.displayCity))].filter(Boolean),
+          currentLanguage
         )
         const uniqueIndustries = sortLabels(
-          [...new Set(enhancedPartners.flatMap(p => p.industries))].filter(Boolean)
+          [...new Set(enhancedPartners.flatMap(p => p.industries))].filter(Boolean),
+          currentLanguage
         )
         const ratingBounds = buildNumericBounds(enhancedPartners.map(p => p.rating))
         const certificateBounds = buildNumericBounds(enhancedPartners.map(p => p.experts))
@@ -180,11 +157,26 @@ function Home() {
 
         setLoading(false)
       })
-      .catch(err => {
-        console.error('Error loading partners:', err)
+      .catch((error) => {
+        console.error(`Error loading partners for region ${selectedRegion}:`, error)
+        setPartners([])
+        setFilterOptions({
+          cities: [],
+          industries: [],
+          ratingBounds: { ...DEFAULT_RANGE },
+          certificateBounds: { ...DEFAULT_RANGE }
+        })
+        setFilters({
+          levels: PARTNER_LEVELS,
+          selectedRefRanges: [],
+          selectedCities: [],
+          selectedIndustries: [],
+          ratingRange: { ...DEFAULT_RANGE },
+          certificateRange: { ...DEFAULT_RANGE }
+        })
         setLoading(false)
       })
-  }, [])
+  }, [currentLanguage, selectedRegion])
 
   const filteredPartners = useMemo(() => {
     let result = partners
@@ -194,7 +186,7 @@ function Home() {
       const query = searchQuery.toLowerCase()
       result = result.filter(p =>
         p.name.toLowerCase().includes(query) ||
-        p.displayCity?.toLowerCase().includes(query)
+        p.displayLocation?.toLowerCase().includes(query)
       )
     }
 
@@ -311,7 +303,8 @@ function Home() {
       <Header
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
-        areaMetric={areaMetric}
+        selectedRegion={selectedRegion}
+        onRegionChange={handleRegionChange}
         comparedPartners={comparedPartners}
         onOpenCompare={() => setIsCompareModalOpen(true)}
         onToggleSidebar={() => setSidebarOpen(prev => !prev)}

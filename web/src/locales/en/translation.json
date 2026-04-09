@@ -5,6 +5,10 @@
   "header": {
     "title": "Odoo Partner Discovery Map",
     "searchPlaceholder": "Search partners...",
+    "regionLabel": "Region:",
+    "regionSearchPlaceholder": "Search country or code...",
+    "regionSwitcher": "Region switcher",
+    "regionNoResults": "No matching country found.",
     "compare": "Compare ({{count}}/3)",
     "menuAria": "Open menu",
     "languageSwitcher": "Language switcher"
@@ -184,7 +188,7 @@
   "partnerProfile": {
     "meta": {
       "title": "{{partnerName}} | Odoo Partner Profile",
-      "defaultTitle": "Odoo Turkey Partners"
+      "defaultTitle": "Odoo Europe Partners"
     },
     "loading": "Loading partner details...",
     "backToMap": "Back to Discovery Map",

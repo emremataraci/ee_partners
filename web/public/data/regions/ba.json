@@ -1,0 +1,52 @@
+{
+  "region_code": "ba",
+  "country_code": "BA",
+  "country_name": "Bosnia and Herzegovina",
+  "scraped_at": "2026-04-09T05:58:04.219162",
+  "total_partners": 2,
+  "source_url": "https://www.odoo.com/partners/country/bosnia-and-herzegovina-17",
+  "partners": [
+    {
+      "region_code": "ba",
+      "country_code": "BA",
+      "name": "Wolfinne d.o.o.",
+      "level": "Ready",
+      "city": "Prijedor",
+      "district": "",
+      "country": "Bosnia and Herzegovina",
+      "full_address": "Prijedor, 79203",
+      "rating_percentage": "100",
+      "average_project_size": "3 users",
+      "large_project_size": "~10 users",
+      "references_count": "6",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/partners/wolfinne-doo-17908197?country_id=17",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/17908197/image_128/Wolfinne%20d.o.o.?unique=e4f1bf0",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-09T05:58:04.218648"
+    },
+    {
+      "region_code": "ba",
+      "country_code": "BA",
+      "name": "Inovado D.O.O.",
+      "level": "Ready",
+      "city": "Gračanica",
+      "district": "",
+      "country": "Bosnia and Herzegovina",
+      "full_address": "Gračanica, 75320",
+      "rating_percentage": "100",
+      "average_project_size": "3 users",
+      "large_project_size": "~20 users",
+      "references_count": "4",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/partners/inovado-doo-20226988?country_id=17",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/20226988/image_128/Inovado%20D.O.O.?unique=608579e",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-09T05:58:04.219028"
+    }
+  ]
+}
