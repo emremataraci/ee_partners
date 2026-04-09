@@ -422,6 +422,35 @@ body {
 .level-badge.ready { background: var(--ready); color: var(--ready-text); }
 .level-badge.learning { background: var(--learning); color: var(--learning-text); }
 
+.language-badge-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.language-badge-group--right {
+  justify-content: flex-end;
+}
+
+.language-badge-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  background: #f4f7fb;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.language-badge-flag {
+  font-size: 14px;
+  line-height: 1;
+}
+
 .range-slider {
   width: 100%;
   height: 4px;
@@ -1062,6 +1091,18 @@ body {
   flex-wrap: wrap;
 }
 
+.detail-language-strip {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.detail-language-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-light);
+}
+
 .detail-partner-city {
   display: flex;
   align-items: center;
@@ -1251,6 +1292,21 @@ body {
 .detail-info-val--wrap {
   text-align: right;
   line-height: 1.4;
+}
+
+.profile-language-strip {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 20px;
+}
+
+.profile-language-label {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-light);
 }
 
 /* Coming Soon Placeholder */

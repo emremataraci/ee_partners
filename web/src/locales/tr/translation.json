@@ -74,8 +74,16 @@
     "Ready": "Ready",
     "Learning": "Learning"
   },
+  "partnerLanguages": {
+    "tr": "Türkçe",
+    "en": "İngilizce",
+    "de": "Almanca"
+  },
   "detailPanel": {
     "close": "Kapat",
+    "communicationLanguages": {
+      "title": "İletişim Dilleri"
+    },
     "tabs": {
       "overview": "Genel Bakış",
       "competencies": "Yetkinlikler",
@@ -98,6 +106,7 @@
       "title": "Genel Bilgiler",
       "level": "Seviye",
       "city": "Şehir",
+      "languages": "İletişim",
       "address": "Adres",
       "turkey": "Türkiye"
     },
@@ -184,6 +193,9 @@
       "title": "Partner bulunamadı",
       "description": "Aradığınız partner sistemde mevcut değil veya URL hatalı.",
       "back": "Haritaya Dön"
+    },
+    "communicationLanguages": {
+      "title": "İletişim Dilleri"
     },
     "metrics": {
       "references": "Referans Sayısı",

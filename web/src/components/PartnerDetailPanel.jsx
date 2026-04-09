@@ -6,6 +6,7 @@ import ContactModal from './ContactModal'
 import './ContactModal.css'
 import { generateSlug } from '../utils'
 import { getLevelLabel } from '../constants/partnerLevels'
+import LanguageBadges from './LanguageBadges'
 
 const TABS = ['overview', 'competencies', 'industries', 'certifications']
 
@@ -95,6 +96,12 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                   <span className="detail-info-key">{t('detailPanel.info.city')}</span>
                   <span className="detail-info-val">{partner.displayCity || t('detailPanel.info.turkey')}</span>
                 </div>
+                <div className="detail-info-row">
+                  <span className="detail-info-key">{t('detailPanel.info.languages')}</span>
+                  <div className="detail-info-val">
+                    <LanguageBadges languages={partner.spoken_languages} className="language-badge-group--right" />
+                  </div>
+                </div>
                 {partner.full_address && (
                   <div className="detail-info-row">
                     <span className="detail-info-key">{t('detailPanel.info.address')}</span>
@@ -168,6 +175,10 @@ function PartnerDetailPanel({ partner, onClose, comparedPartners, onToggleCompar
                           {partner.displayCity}
                         </span>
                       )}
+                    </div>
+                    <div className="detail-language-strip">
+                      <span className="detail-language-label">{t('detailPanel.communicationLanguages.title')}</span>
+                      <LanguageBadges languages={partner.spoken_languages} />
                     </div>
                   </div>
                 </div>

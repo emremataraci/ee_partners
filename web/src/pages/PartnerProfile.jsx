@@ -4,6 +4,8 @@ import { useTranslation } from 'react-i18next'
 import { generateSlug } from '../utils'
 import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip } from 'recharts'
 import PartnerUpdateModal from '../components/PartnerUpdateModal'
+import LanguageBadges from '../components/LanguageBadges'
+import { getPartnerLanguageCodes } from '../constants/partnerLanguages'
 import { getLevelLabel } from '../constants/partnerLevels'
 import { loadPartnerLocaleContent, normalizeLanguage, getPartnerLocalizedField } from '../partnerContent'
 import '../App.css'
@@ -42,6 +44,7 @@ export default function PartnerProfile() {
             large_users: parseInt(found.large_project_size?.match(/\d+/)?.[0] || '0'),
             references: parseInt(found.references_count || '0'),
             experts: parseInt(found.certified_experts_count || '0'),
+            spoken_languages: getPartnerLanguageCodes(found),
             displayCity: normalizeCity(rawCity)
           })
         } else {
@@ -131,6 +134,10 @@ export default function PartnerProfile() {
               {shortDescription}
             </p>
           )}
+          <div className="profile-language-strip">
+            <span className="profile-language-label">{t('partnerProfile.communicationLanguages.title')}</span>
+            <LanguageBadges languages={partner.spoken_languages} />
+          </div>
         </div>
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', minWidth: '200px' }}>

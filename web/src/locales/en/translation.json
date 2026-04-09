@@ -74,8 +74,16 @@
     "Ready": "Ready",
     "Learning": "Learning"
   },
+  "partnerLanguages": {
+    "tr": "Turkish",
+    "en": "English",
+    "de": "German"
+  },
   "detailPanel": {
     "close": "Close",
+    "communicationLanguages": {
+      "title": "Communication Languages"
+    },
     "tabs": {
       "overview": "Overview",
       "competencies": "Competencies",
@@ -98,6 +106,7 @@
       "title": "General Info",
       "level": "Level",
       "city": "City",
+      "languages": "Communication",
       "address": "Address",
       "turkey": "Turkey"
     },
@@ -184,6 +193,9 @@
       "title": "Partner not found",
       "description": "The partner you are looking for does not exist in the system or the URL is invalid.",
       "back": "Back to Map"
+    },
+    "communicationLanguages": {
+      "title": "Communication Languages"
     },
     "metrics": {
       "references": "References",

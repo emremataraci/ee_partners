@@ -9,6 +9,7 @@ import PartnerDetailPanel from '../components/PartnerDetailPanel'
 import CompareModal from '../components/CompareModal'
 import Skeleton from '../components/Skeleton'
 import { REFERENCE_RANGES } from '../constants/filters'
+import { getPartnerLanguageCodes } from '../constants/partnerLanguages'
 import { PARTNER_LEVELS } from '../constants/partnerLevels'
 import '../components/CompareModal.css'
 
@@ -146,6 +147,7 @@ function Home() {
             experts,
             rating,
             industries,
+            spoken_languages: getPartnerLanguageCodes(p),
             displayCity: normalizeCity(rawCity),
             districtValue: parseNumericValue(p.district) ?? 0
           }

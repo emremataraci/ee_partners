@@ -74,8 +74,16 @@
     "Ready": "Ready",
     "Learning": "Learning"
   },
+  "partnerLanguages": {
+    "tr": "Türkisch",
+    "en": "Englisch",
+    "de": "Deutsch"
+  },
   "detailPanel": {
     "close": "Schließen",
+    "communicationLanguages": {
+      "title": "Kommunikationssprachen"
+    },
     "tabs": {
       "overview": "Übersicht",
       "competencies": "Kompetenzen",
@@ -98,6 +106,7 @@
       "title": "Allgemeine Informationen",
       "level": "Stufe",
       "city": "Stadt",
+      "languages": "Kommunikation",
       "address": "Adresse",
       "turkey": "Türkei"
     },
@@ -184,6 +193,9 @@
       "title": "Partner nicht gefunden",
       "description": "Der gesuchte Partner existiert nicht im System oder die URL ist ungültig.",
       "back": "Zurück zur Karte"
+    },
+    "communicationLanguages": {
+      "title": "Kommunikationssprachen"
     },
     "metrics": {
       "references": "Referenzanzahl",
