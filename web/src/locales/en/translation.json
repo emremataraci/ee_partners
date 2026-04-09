@@ -152,6 +152,8 @@
       "phonePlaceholder": "+1 XXX XXX XXXX",
       "email": "Email *",
       "emailPlaceholder": "example@company.com",
+      "needsDescription": "Needs Description *",
+      "needsDescriptionPlaceholder": "Briefly describe your needs, expectations, or project scope.",
       "consentPart1": "I agree to share the information I entered in this form with ",
       "consentPart2": ". *",
       "submit": "Submit"

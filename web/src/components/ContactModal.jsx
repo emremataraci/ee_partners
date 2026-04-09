@@ -9,6 +9,7 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
     company: '',
     phone: '',
     email: '',
+    needsDescription: '',
     consent: false
   })
   const [isSubmitted, setIsSubmitted] = useState(false)
@@ -16,7 +17,7 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
   // Reset state when opening
   useEffect(() => {
     if (isOpen) {
-      setFormData({ name: '', company: '', phone: '', email: '', consent: false })
+      setFormData({ name: '', company: '', phone: '', email: '', needsDescription: '', consent: false })
       setIsSubmitted(false)
     }
   }, [isOpen])
@@ -38,8 +39,14 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    // Simulated API call
-    console.log('Form submitted for', partnerName, formData)
+    const contactRequestPayload = {
+      partnerName,
+      ...formData,
+      submittedAt: new Date().toISOString()
+    }
+
+    // Replace this with the API/mail integration.
+    console.log('Contact request submitted', contactRequestPayload)
     setIsSubmitted(true)
     
     // Auto-close after 3 seconds
@@ -137,6 +144,18 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
                     value={formData.email}
                     onChange={handleChange}
                     placeholder={t('contactModal.form.emailPlaceholder')}
+                  />
+                </div>
+
+                <div className="form-group">
+                  <label htmlFor="needsDescription">{t('contactModal.form.needsDescription')}</label>
+                  <textarea
+                    id="needsDescription"
+                    name="needsDescription"
+                    required
+                    value={formData.needsDescription}
+                    onChange={handleChange}
+                    placeholder={t('contactModal.form.needsDescriptionPlaceholder')}
                   />
                 </div>
 

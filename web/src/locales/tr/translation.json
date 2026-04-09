@@ -152,6 +152,8 @@
       "phonePlaceholder": "05XX XXX XX XX",
       "email": "E-posta *",
       "emailPlaceholder": "ornek@sirket.com",
+      "needsDescription": "İhtiyaç Tanımı *",
+      "needsDescriptionPlaceholder": "İhtiyacınızı, beklentilerinizi veya proje kapsamını kısaca yazın.",
       "consentPart1": "Bu talep formunda girdiğim bilgilerin ",
       "consentPart2": " ile paylaşılmasını onaylıyorum. *",
       "submit": "Gönder"

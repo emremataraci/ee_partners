@@ -152,6 +152,8 @@
       "phonePlaceholder": "+49 XXX XXX XXXX",
       "email": "E-Mail *",
       "emailPlaceholder": "beispiel@firma.de",
+      "needsDescription": "Bedarfsbeschreibung *",
+      "needsDescriptionPlaceholder": "Beschreiben Sie kurz Ihren Bedarf, Ihre Erwartungen oder den Projektumfang.",
       "consentPart1": "Ich stimme zu, die in diesem Formular eingegebenen Informationen mit ",
       "consentPart2": " zu teilen. *",
       "submit": "Senden"
