@@ -142,10 +142,20 @@
   "contactModal": {
     "title": "{{partnerName}} ile İletişime Geç",
     "close": "Kapat",
+    "helper": "{{appName}} üzerinden {{partnerName}} ekibine talep gönderiyorsunuz.",
     "success": {
       "title": "Talebiniz Alındı!",
       "descPart1": "Mesajınız ",
       "descPart2": " ekibine başarıyla iletildi. En kısa sürede sizinle iletişime geçecekler."
+    },
+    "error": {
+      "config": "{{appName}} için şu EmailJS alanları eksik: {{fields}}.",
+      "default": "Mesaj gönderilemedi. Lütfen tekrar deneyin.",
+      "fields": {
+        "serviceId": "Service ID",
+        "templateId": "Template ID",
+        "publicKey": "Public Key"
+      }
     },
     "form": {
       "name": "İsim Soyisim *",
@@ -160,7 +170,8 @@
       "needsDescriptionPlaceholder": "İhtiyacınızı, beklentilerinizi veya proje kapsamını kısaca yazın.",
       "consentPart1": "Bu talep formunda girdiğim bilgilerin ",
       "consentPart2": " ile paylaşılmasını onaylıyorum. *",
-      "submit": "Gönder"
+      "submit": "Gönder",
+      "submitting": "Gönderiliyor..."
     }
   },
   "partnerUpdateModal": {

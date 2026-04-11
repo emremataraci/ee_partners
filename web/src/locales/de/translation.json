@@ -142,10 +142,20 @@
   "contactModal": {
     "title": "Kontakt mit {{partnerName}}",
     "close": "Schließen",
+    "helper": "Sie senden Ihre Anfrage über {{appName}} an das Team von {{partnerName}}.",
     "success": {
       "title": "Anfrage erhalten!",
       "descPart1": "Ihre Nachricht wurde erfolgreich an das Team von ",
       "descPart2": " gesendet. Das Team wird Sie so schnell wie möglich kontaktieren."
+    },
+    "error": {
+      "config": "Für {{appName}} fehlen noch diese EmailJS-Felder: {{fields}}.",
+      "default": "Die Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
+      "fields": {
+        "serviceId": "Service ID",
+        "templateId": "Template ID",
+        "publicKey": "Public Key"
+      }
     },
     "form": {
       "name": "Vollständiger Name *",
@@ -160,7 +170,8 @@
       "needsDescriptionPlaceholder": "Beschreiben Sie kurz Ihren Bedarf, Ihre Erwartungen oder den Projektumfang.",
       "consentPart1": "Ich stimme zu, die in diesem Formular eingegebenen Informationen mit ",
       "consentPart2": " zu teilen. *",
-      "submit": "Senden"
+      "submit": "Senden",
+      "submitting": "Wird gesendet..."
     }
   },
   "partnerUpdateModal": {

@@ -1,28 +1,39 @@
-import { useState, useEffect } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useTranslation } from 'react-i18next'
+import emailjs from '@emailjs/browser'
+import './ContactModal.css'
+
+const APP_NAME = 'ee - best partner finder'
+const EMAILJS_SERVICE_ID = 'service_6e1uavf'
+const EMAILJS_TEMPLATE_ID = 'template_gnsb30p'
+const EMAILJS_PUBLIC_KEY = 'y5_s9_addnsiDKMv7'
+const INITIAL_FORM_DATA = {
+  name: '',
+  company: '',
+  phone: '',
+  email: '',
+  message: '',
+  consent: false
+}
 
 export default function ContactModal({ isOpen, onClose, partnerName }) {
   const { t } = useTranslation()
-  const [formData, setFormData] = useState({
-    name: '',
-    company: '',
-    phone: '',
-    email: '',
-    needsDescription: '',
-    consent: false
-  })
+  const formRef = useRef(null)
+  const [formData, setFormData] = useState(INITIAL_FORM_DATA)
   const [isSubmitted, setIsSubmitted] = useState(false)
+  const [isSubmitting, setIsSubmitting] = useState(false)
+  const [submitError, setSubmitError] = useState('')
 
-  // Reset state when opening
   useEffect(() => {
     if (isOpen) {
-      setFormData({ name: '', company: '', phone: '', email: '', needsDescription: '', consent: false })
+      setFormData(INITIAL_FORM_DATA)
       setIsSubmitted(false)
+      setIsSubmitting(false)
+      setSubmitError('')
     }
   }, [isOpen])
 
-  // Esc key to close
   useEffect(() => {
     const handler = (e) => { if (e.key === 'Escape') onClose() }
     window.addEventListener('keydown', handler)
@@ -31,28 +42,54 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
 
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target
+    if (submitError) {
+      setSubmitError('')
+    }
+
     setFormData(prev => ({
       ...prev,
       [name]: type === 'checkbox' ? checked : value
     }))
   }
 
-  const handleSubmit = (e) => {
+  const missingConfigFields = [
+    [EMAILJS_SERVICE_ID, t('contactModal.error.fields.serviceId')],
+    [EMAILJS_TEMPLATE_ID, t('contactModal.error.fields.templateId')],
+    [EMAILJS_PUBLIC_KEY, t('contactModal.error.fields.publicKey')]
+  ]
+    .filter(([value]) => value.startsWith('YOUR_EMAILJS_'))
+    .map(([, label]) => label)
+
+  const handleSubmit = async (e) => {
     e.preventDefault()
-    const contactRequestPayload = {
-      partnerName,
-      ...formData,
-      submittedAt: new Date().toISOString()
+
+    if (missingConfigFields.length > 0) {
+      setSubmitError(t('contactModal.error.config', {
+        appName: APP_NAME,
+        fields: missingConfigFields.join(', ')
+      }))
+      return
     }
 
-    // Replace this with the API/mail integration.
-    console.log('Contact request submitted', contactRequestPayload)
-    setIsSubmitted(true)
-    
-    // Auto-close after 3 seconds
-    setTimeout(() => {
-      onClose()
-    }, 3000)
+    setIsSubmitting(true)
+    setSubmitError('')
+
+    try {
+      await emailjs.sendForm(
+        EMAILJS_SERVICE_ID,
+        EMAILJS_TEMPLATE_ID,
+        formRef.current,
+        { publicKey: EMAILJS_PUBLIC_KEY }
+      )
+
+      setFormData(INITIAL_FORM_DATA)
+      setIsSubmitted(true)
+    } catch (error) {
+      console.error('EmailJS send failed', error)
+      setSubmitError(t('contactModal.error.default'))
+    } finally {
+      setIsSubmitting(false)
+    }
   }
 
   if (!isOpen) return null
@@ -94,7 +131,11 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
                 <p>{t('contactModal.success.descPart1')}<strong>{partnerName}</strong>{t('contactModal.success.descPart2')}</p>
               </motion.div>
             ) : (
-              <form onSubmit={handleSubmit} className="contact-form">
+              <form ref={formRef} onSubmit={handleSubmit} className="contact-form">
+                <p className="contact-form-helper">
+                  {t('contactModal.helper', { appName: APP_NAME, partnerName })}
+                </p>
+
                 <div className="form-group">
                   <label htmlFor="name">{t('contactModal.form.name')}</label>
                   <input
@@ -148,16 +189,19 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
                 </div>
 
                 <div className="form-group">
-                  <label htmlFor="needsDescription">{t('contactModal.form.needsDescription')}</label>
+                  <label htmlFor="message">{t('contactModal.form.needsDescription')}</label>
                   <textarea
-                    id="needsDescription"
-                    name="needsDescription"
+                    id="message"
+                    name="message"
                     required
-                    value={formData.needsDescription}
+                    value={formData.message}
                     onChange={handleChange}
                     placeholder={t('contactModal.form.needsDescriptionPlaceholder')}
                   />
                 </div>
+
+                <input type="hidden" name="partner_name" value={partnerName} readOnly />
+                <input type="hidden" name="project_name" value={APP_NAME} readOnly />
 
                 <div className="form-checkbox-group">
                   <label className="checkbox-label">
@@ -174,8 +218,14 @@ export default function ContactModal({ isOpen, onClose, partnerName }) {
                   </label>
                 </div>
 
-                <button type="submit" className="submit-btn" disabled={!formData.consent}>
-                  {t('contactModal.form.submit')}
+                {submitError ? (
+                  <p className="contact-form-alert contact-form-alert--error" role="alert">
+                    {submitError}
+                  </p>
+                ) : null}
+
+                <button type="submit" className="submit-btn" disabled={!formData.consent || isSubmitting}>
+                  {isSubmitting ? t('contactModal.form.submitting') : t('contactModal.form.submit')}
                 </button>
               </form>
             )}

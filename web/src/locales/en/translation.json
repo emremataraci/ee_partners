@@ -142,10 +142,20 @@
   "contactModal": {
     "title": "Contact {{partnerName}}",
     "close": "Close",
+    "helper": "You are sending a request to the {{partnerName}} team via {{appName}}.",
     "success": {
       "title": "Request Received!",
       "descPart1": "Your message has been successfully sent to the ",
       "descPart2": " team. They will contact you as soon as possible."
+    },
+    "error": {
+      "config": "These EmailJS fields are still missing for {{appName}}: {{fields}}.",
+      "default": "Message could not be sent. Please try again.",
+      "fields": {
+        "serviceId": "Service ID",
+        "templateId": "Template ID",
+        "publicKey": "Public Key"
+      }
     },
     "form": {
       "name": "Full Name *",
@@ -160,7 +170,8 @@
       "needsDescriptionPlaceholder": "Briefly describe your needs, expectations, or project scope.",
       "consentPart1": "I agree to share the information I entered in this form with ",
       "consentPart2": ". *",
-      "submit": "Submit"
+      "submit": "Submit",
+      "submitting": "Sending..."
     }
   },
   "partnerUpdateModal": {

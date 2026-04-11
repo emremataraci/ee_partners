@@ -11,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "framer-motion": "^12.29.2",
     "i18next": "^25.10.3",
     "i18next-browser-languagedetector": "^8.2.1",
