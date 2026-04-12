@@ -2,31 +2,10 @@
   "region_code": "ch",
   "country_code": "CH",
   "country_name": "Switzerland",
-  "scraped_at": "2026-04-09T07:48:26.018020",
+  "scraped_at": "2026-04-12T20:02:14.689315",
   "total_partners": 49,
   "source_url": "https://www.odoo.com/partners/country/switzerland-41",
   "partners": [
-    {
-      "region_code": "ch",
-      "country_code": "CH",
-      "name": "Dynapps SA",
-      "level": "Gold",
-      "city": "Martigny",
-      "district": "",
-      "country": "Switzerland",
-      "full_address": "Martigny, 1920",
-      "rating_percentage": "96",
-      "average_project_size": "13 users",
-      "large_project_size": "~200 users",
-      "references_count": "154",
-      "certified_experts_count": "6",
-      "profile_url": "https://www.odoo.com/partners/dynapps-sa-22361595?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/22361595/image_128/Dynapps%20SA?unique=79c06ef",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:56.027499"
-    },
     {
       "region_code": "ch",
       "country_code": "CH",
@@ -43,10 +22,139 @@
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/d4e-digital4efficiency-sarl-2332854?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/2332854/image_128/D4E%20-%20Digital4Efficiency%20S%C3%A0rl?unique=e2a87ca",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:56.159035"
+      "about_text": "Digital4Efficiency (D4E) est un intégrateur Odoo certifié, actif depuis 2019. Nous sommes spécialisés dans la création de solutions verticales pour les PM avec un objectif clair : Simplifier la gestion, automatiser les tâches répétitives et améliorer la performance de votre entreprise. Avec des bureaux à Genève , Sion et Barcelone , nous restons proches de nos clients et de leurs réalités terrain. Notre équipe est composée de consultants fonctionnels, développeurs, chefs de projets et experts métiers. Nous travaillons main dans la main avec vous, avec des solutions pensées pour être concrètes, rapides à mettre en œuvre, et orientées résultats. Antonio , fondateur de D4E Profil LinkedIn Laetitia , chargée de relation client Profil LinkedIn Tous deux vous accompagnent personnellement dans la réussite de votre projet. Nos solutions métiers prêtes à l’emploi Suite verticale Elvy , intégrée à Odoo : ElvyBât : Gestion de chantier, suivi des temps, matériel, rapports, rentabilité ➜ Elvy Doc : GED intelligente, classement automatique, workflows validés Elvy Print : Gestion de contrats d'impression, maintenance, facturation automatisée Elvy Law : Dossiers juridiques, prestations, facturation, temps passé ElvyDistrib Distribution B2B avec EDI intégré (Migros, Coop, etc.) ElvyTrack : Suivi des temps et matériel par équipe ou collaborateur Envie d’en savoir plus ? Vous cherchez un projet Odoo ou une solution prête à l’emploi, adaptée à votre métier et accompagnée par des experts proches de vous ? 👉 Nous sommes là pour vous. Découvrez nous - Visitez notre nouveau site Prenez le temps de nous partager votre besoin Suivez-nous sur Linkedin pour ne rien rater",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 5
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Construction & Renovation",
+          "count": 42
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 18
+        },
+        {
+          "industry": "Other Services",
+          "count": 16
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 14
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 10
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 9
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 7
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 5
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 4
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 3
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:33.560127"
+    },
+    {
+      "region_code": "ch",
+      "country_code": "CH",
+      "name": "Dynapps SA",
+      "level": "Gold",
+      "city": "Martigny",
+      "district": "",
+      "country": "Switzerland",
+      "full_address": "Martigny, 1920",
+      "rating_percentage": "96",
+      "average_project_size": "13 users",
+      "large_project_size": "~200 users",
+      "references_count": "153",
+      "certified_experts_count": "6",
+      "profile_url": "https://www.odoo.com/partners/dynapps-sa-22361595?country_id=41",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/22361595/image_128/Dynapps%20SA?unique=5b038a6",
+      "about_text": "Nous digitalisons votre entreprise dans Odoo Que vous cherchiez à déployer rapidement Odoo ou à optimiser des processus spécifiques, Dynapps SA est votre partenaire de confiance. Qu’il s’agisse d’une PME ou d’une grande organisation , nous adaptons notre approche à vos besoins spécifiques et à vos ambitions de croissance. Notre valeur ajoutée : une double expertise qui nous permet de proposer des solutions complètes, flexibles et durables pour accompagner chaque entreprise. We digitalise your business processes in Odoo Whether you are looking to quickly deploy Odoo or optimize specific processes, Dynapps SA is your trusted partner. Whether it is a small or medium-sized organization , we adapt our approach to your specific needs and growth ambitions. Our added value : a double expertise that allows us to offer complete, flexible and sustainable solutions to support each company. Avec nos bureaux à Bulle dans le canton de Fribourg et à Martigny en Valais, nous couvrons toute la Suisse romande. Nous avons de solides références dans le domaine du logiciel et nous sommes certifiés « Swiss made software + hosted in Switzerland ». With our offices in Bulle in the canton of Fribourg and in Martigny in Valais, we cover all of French-speaking part of Switzerland. We have solid references in the domain of the software and we are certified «Swiss made software + hosted in Switzerland ». Connaissances & expérience Avec nos années de connaissance d’Odoo et d’expérience dans diverses industries, nous savons parfaitement comment vous aider de manière ciblée. Le plus grand partenaire en Europe Dynapps est le plus grand implémenteur Odoo en Europe. Avec plus de 600 implémentations dont +140 en Suisse dans diverses industries, vous êtes sûr de profiter de tous les avantages d’Odoo. Service & Support Un nouveau logiciel ERP affecte l’ensemble de votre entreprise. Nous vous aidons à intégrer Odoo auprès de tous les membres de votre entreprise. Demandez à n’importe lequel de nos 12’000 utilisateurs actifs d’Odoo. Knowledge & experience With our years of knowledge of Odoo and experience in various industries, we know perfectly how to help you in a targeted way. The largest partner in Europe Dynapps is the largest Odoo implementer in Europe. With more than 600 implementations including +140 in Switzerland in various industries, you are sure to enjoy all the advantages of Odoo. Service & Support A new ERP software affects your entire company. We help you integrate Odoo with all the members of your company. Ask any of our 12,000 active Odoo users. Dynapps LinnkedIn Youtube",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 24
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 21
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 19
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 18
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 13
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 10
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 8
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 6
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 5
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 4
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:34.425140"
     },
     {
       "region_code": "ch",
@@ -57,17 +165,71 @@
       "district": "Zürich",
       "country": "Switzerland",
       "full_address": "Zürich, Zürich, 8005",
-      "rating_percentage": "99",
+      "rating_percentage": "100",
       "average_project_size": "44 users",
       "large_project_size": "~1300 users",
-      "references_count": "132",
+      "references_count": "133",
       "certified_experts_count": "41",
       "profile_url": "https://www.odoo.com/partners/braintec-schweiz-27661067?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/27661067/image_128/braintec%20Schweiz?unique=cf48b16",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:56.289495"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/27661067/image_128/braintec%20Schweiz?unique=494645b",
+      "about_text": "Founded in Switzerland in 2000, braintec is now the leading Odoo partner in Europe. We offer a full range of services for digitalization with the Odoo business software and develop customized, efficient ERP solutions for companies in Switzerland, Germany, and Austria. braintec.com | LinkedIn | Instagram | YouTube 👉 Book your Odoo demo or personalized consultation with the experts at braintec! Services Customized services for the digitalization of business processes. Consulting Implementation Customizing Support Hosting Training Migration Solutions Country-specific and customized Odoo solutions, extensions, add-ons, interfaces, and more. Finance HR-Suite Swissdec-certified payroll accounting Productivity Website and SEO Global Odoo Rollout Industries State-of-the-art industry solutions with the highest quality standards for companies of all sizes. Odoo Industry Solutions Odoo for start-ups and small businesses Odoo for SMEs Odoo for large enterprises 💎 Dedicated customer care team and industry expertise in finance, manufacturing, transport, logistics, consumer goods, hospitality, retail, eCommerce, non-profit organizations and associations, energy, telecommunications and IT, public administration, service and consulting sectors, healthcare, education, real estate, and more. 400+ leading and internationally active companies rely on braintec Odoo references Customer Stories Get in touch Our strengths 🏵 Odoo Gold Partner in Switzerland with offices in Zürich, Basel, Bern, Brig and Lausanne 🏆 Best Odoo Partner Europe 2023, 2021, 2020, 2016 🤝 Odoo Partner since 2009 💯 % focused on Odoo Enterprise 👤 80+ employees across 16 locations in five countries 🎓 The most certified Odoo experts worldwide Discover how braintec works and engages as a leading Odoo partner braintec: Ihr Odoo Gold Partner in der Schweiz Odoo Solutions by braintec for businesses in Switzerland HR-Suite Fully integrated HR management system, including extended time tracking following Swiss regulations and Swissdec-certified payroll accounting with unified reporting (ELM). HR-Suite Swissdec-certified payroll accounting Timesheet Premium Finance Digitale Rechnungsstellung mit standardisierter Schnittstelle zu PostFinance für eBill und QR-Rechnungen. Prüfungsstandard PS 880 des Instituts der Wirtschaftsprüfer (IDW) für eine ordnungsgemässe digitale Finanzbuchhaltung. Odoo eBill GoBD API with Z3 export compliant with IDW PS 880 Document Management Odoo EDI-Connector for standardized electronic data exchange in EDI format (Electronic Data Interchange). EDI-Connector Reference Project: Institutional Catering",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 8
+        },
+        {
+          "version": "Certified v18",
+          "count": 17
+        },
+        {
+          "version": "Certified v17",
+          "count": 16
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 27
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 19
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 18
+        },
+        {
+          "industry": "Other Services",
+          "count": 17
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 12
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 9
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 6
+        },
+        {
+          "industry": "Real Estate",
+          "count": 6
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 6
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 4
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:35.597626"
     },
     {
       "region_code": "ch",
@@ -85,10 +247,64 @@
       "certified_experts_count": "24",
       "profile_url": "https://www.odoo.com/partners/camptocamp-sa-1135?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/1135/image_128/Camptocamp%20SA?unique=a21f212",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:56.429869"
+      "about_text": "Partenaire Odoo de confiance depuis 2006. Experts des intégrations complexes comme standards en Suisse, France et Allemagne. Vertrauenswürdiger Odoo Partner seit 2006. Experten für komplexe wie auch standardisierte Integrationen in der Schweiz, Frankreich und Deutschland. Qu'est ce qui nous distingue ? Was uns auszeichnet? Nous travaillons avec Odoo depuis 2006, bien avant qu’il ne devienne la solution ERP mondiale qu’il est aujourd’hui. Au fil des années, nous avons acquis une connaissance approfondie de la manière dont Odoo peut s’adapter à toutes sortes d’organisations. Notre force, c’est notre polyvalence : nous proposons des implémentations standard rapides lorsque l’efficacité est primordiale, et nous mobilisons créativité et expertise technique pour les projets plus complexes et sur mesure. Demandez une démo | Contactez-nous Wir arbeiten mit Odoo seit 2006 – lange bevor es zu dem globalen ERP-Schwergewicht wurde, das es heute ist. Im Laufe der Jahre haben wir ein tiefes Verständnis dafür entwickelt, wie man Odoo für unterschiedlichste Organisationen nutzbar macht. Unsere Stärke liegt in unserer Vielseitigkeit: Wir realisieren schnelle, standardisierte Implementierungen, wenn Effizienz gefragt ist, und bringen Kreativität und technisches Know-how in komplexere, massgeschneiderte Projekte ein – genau dann, wenn es nötig ist. Demo anfordern | Kontaktieren Sie uns Nous sommes convaincus qu’Odoo est un outil extraordinaire, capable de servir presque toutes les entreprises, à condition d’avoir les bonnes personnes à ses côtés. C’est là que nous intervenons. Du secteur de la logistique médicale aux boissons en passant par les énergies vertes, nous accompagnons la transformation numérique dans des secteurs variés, toujours en nous adaptant aux besoins réels de nos clients. Notre approche est pragmatique et collaborative. Que vous ayez besoin d’une solution sur mesure ou que vous souhaitiez rester proche du standard Odoo (demandez-nous notre offre Odoo Smartcamp !), nous nous adaptons à votre contexte. L’hébergement peut se faire sur Odoo.sh, notre cloud local optimisé ou votre propre infrastructure. Nous soutenons également les modèles de co-création, en accompagnant progressivement votre équipe vers plus d’autonomie. Formation et support sont disponibles pour vous y aider. Wir sind überzeugt, dass Odoo ein aussergewöhnliches Werkzeug ist, das fast jedes Unternehmen unterstützen kann – vorausgesetzt, die richtigen Menschen stehen dahinter. Und da kommen wir ins Spiel. Von der Logistik im Gesundheitswesen über Getränke bis hin zu grüner Energie – wir begleiten die digitale Transformation in verschiedensten Branchen, stets angepasst an die tatsächlichen Bedürfnisse unserer Kunden. Unser Ansatz ist pragmatisch und kooperativ. Ob massgeschneiderte Lösung oder möglichst nahe am Odoo Standard (fragen Sie nach unserem Odoo Smartcamp-Angebot!) – wir passen uns Ihrem Kontext an. Das Hosting kann auf Odoo.sh, in unserer optimierten lokalen Cloud oder auf Ihrer eigenen Infrastruktur erfolgen. Wir unterstützen auch Co-Creation-Modelle, bei denen Ihr internes Team mit unserer Begleitung schrittweise mehr Verantwortung übernimmt. Schulung und Support helfen Ihnen, die gewünschte Unabhängigkeit zu erreichen. Chez Camptocamp, nous pensons que la mise en œuvre d’un logiciel métier est avant tout un projet humain. Nos équipes locales vous accompagnent de l’appel initial à la formation finale, en veillant à votre satisfaction tout au long du projet. ​ Découvrez notre philosophie Bei Camptocamp sind wir überzeugt: Die Einführung einer Business-Software ist in erster Linie ein menschliches Projekt. Unsere lokalen Teams begleiten Ihr Projekt von der ersten Anfrage bis zur letzten Schulung – und sorgen dafür, dass Sie zufrieden sind. ​ Entdecken Sie unsere Philosophie La confiance est au cœur de notre manière de travailler. Vertrauen steht im Mittelpunkt unserer Arbeitsweise. ​​Ils nous font confiance Sie vertrauen uns Convaincu(e) ? Demandez une démo | Contactez-nous Überzeugt? Demo anfordern | Kontaktieren Sie uns",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 9
+        },
+        {
+          "version": "Certified v18",
+          "count": 8
+        },
+        {
+          "version": "Certified v17",
+          "count": 7
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 23
+        },
+        {
+          "industry": "Other Services",
+          "count": 22
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 17
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 12
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 11
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 9
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 9
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 8
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 5
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:36.302127"
     },
     {
       "region_code": "ch",
@@ -105,11 +321,65 @@
       "references_count": "118",
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/open-net-sarl--294?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/-294/image_128/Open%20Net%20S%C3%A0rl?unique=731e421",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:56.569194"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/-294/image_128/Open%20Net%20S%C3%A0rl?unique=31c127c",
+      "about_text": "\" Open Net Sàrl est le plus ancien partenaire d’Odoo au niveau mondial, tout comme son intégrateur de référence en Suisse Romande. Cela fait plus de 20 ans que nous conseillons et accompagnons, tous les jours, PME / PMI, Start-ups et associations grâce à notre équipe de développeurs analystes expérimentés, tous localisés à Lausanne. Par une offre globale comprenant analyse, design web, développement, formation et hébergement, nous favorisons une collaboration enrichissante et rentable qui vous permet d'obtenir le meilleur d'Odoo ce, en neutralité CO2 depuis 2019 !",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 3
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 18
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 18
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 14
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 10
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 10
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 9
+        },
+        {
+          "industry": "Other Services",
+          "count": 8
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 8
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 7
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 7
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:37.258809"
     },
     {
       "region_code": "ch",
@@ -123,14 +393,68 @@
       "rating_percentage": "95",
       "average_project_size": "13 users",
       "large_project_size": "~200 users",
-      "references_count": "90",
+      "references_count": "92",
       "certified_experts_count": "10",
       "profile_url": "https://www.odoo.com/partners/nalios-sarl-6751342?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/6751342/image_128/Nalios%20S%C3%A0rl?unique=e7d8c5c",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:56.700213"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/6751342/image_128/Nalios%20S%C3%A0rl?unique=ee83678",
+      "about_text": "Supporting your GROWTH and Help you SAVE TIME Avec plus de 12 d'expérience sur Odoo, Nalios est le partenaire à la croissance la plus rapide en Belgique ! Notre solide expérience d'Odoo nous permet d'accompagner des entreprises de toute taille et de tout secteur dans la structuration, digitalisation et développement de leurs activités via une intégration Odoo sur mesure. Notre expertise sectorielle (industrie, retail, agroalimentaire, etc.) nous permet de comprendre vos enjeux spécifiques et de proposer des solutions adaptées à vos défis métiers. Avec une équipe de 50+ experts certifiés Odoo, nous combinons écoute active, audit approfondi de vos processus et mise en place de solutions personnalisées. Notre approche privilégie une relation de proximité, un service d'excellence et un accompagnement réactif, pour garantir une transition fluide vers Odoo. Transformez dès maintenant votre gestion d’entreprise avec un partenaire de confiance. Pourquoi choisir Nalios? Odoo Gold Partner certifié Nalios est un partenaire Gold Odoo reconnu, avec une expertise de plus de 12 ans dans l’écosystème Odoo. L’équipe inclut d’anciens consultants Odoo S.A.,cumulant plus de 11 ans d’expérience en implémentation, personnalisation et support. Approche sectorielle variée Expertise dans des secteurs variés : industrie, agroalimentaire, services, retail (exemples : Groupe Atlantic, Colona, XLG&CO). Compréhension fine des enjeux spécifiques à chaque secteur Méthodologie complète Audit des processus, accompagnement personnalisé, transfert de données et support réactif pour garantir une intégration Odoo fluide. Nous misons sur un service d'excellence pour garantir la réussit de votre projet ! Proximité géographique ​ Avec maintenant 9 agences Nalios, nous sommes présents en Belgique, France, Suisse et Antilles-Guyane, avec des équipes locales pour un support réactif et une relation de confiance Vous souhaitez en apprendre davantage ? Utilisez les outils gratuits de Nalios pour soutenir votre évolution ! Faites un audit numérique : 100% en ligne et gratuit ! Guides de mise en œuvre et conseils : Consultez les livres blancs. Pour un accompagnement Local : Prenez un RDV avec nos experts Odoo",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 5
+        },
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 17
+        },
+        {
+          "industry": "Other Services",
+          "count": 12
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 10
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 9
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 8
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 7
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 7
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 6
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 6
+        },
+        {
+          "industry": "Real Estate",
+          "count": 4
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:38.079315"
     },
     {
       "region_code": "ch",
@@ -141,17 +465,71 @@
       "district": "",
       "country": "Switzerland",
       "full_address": "Zürich, 8050",
-      "rating_percentage": "98",
-      "average_project_size": "26 users",
+      "rating_percentage": "95",
+      "average_project_size": "27 users",
       "large_project_size": "~400 users",
-      "references_count": "63",
+      "references_count": "62",
       "certified_experts_count": "26",
       "profile_url": "https://www.odoo.com/partners/twiotech-ag-4713686?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/4713686/image_128/twio.tech%20AG?unique=3f00ee5",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:56.830136"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/4713686/image_128/twio.tech%20AG?unique=b5c913c",
+      "about_text": "Du suchst einen Partner mit dem du deine Vision realisieren kannst, der für dich dafür den Kampf in den Details kämpft, der sich echt gut auskennt mit Businessprozessen, für dich auch mal was aufräumt, der dir Best Practices zeigt, dich schätzt und mit den Calls erstaunlich oft auch lustig sind? Manche Dinge im Leben sind ganz einfach: 📞 Ruf uns an . 🚀 +41 43 589 60 70 Kontaktieren Sie uns Hier kennen wir uns aus: ✅ Handel (von regional bis international, von online bis stationär, von B2C bis B2B, von Seife bis Zahlungsterminals) ✅ Deeptech Scale-Ups (Drohnen, so richtig Bleeding Edge AI Software, Diagnostics) ✅ Service (Industrieanlagen, Velomechaniker (klingt einfach - bis es sieben Niederlassungen sind) ✅ Erneuerbare Energien (Elektromobilität, Solar) ✅ Fertigung (Medtech, Elektronik, Kosmetik, Zahlungsterminals, Seifen) ✅ Werbeartikel (Pro Tipp: Das ist richtig anspruchsvoll abzubilden wenn es richtig sein soll!) ✅ Beratung (IT, HR, Projekte) ✅ Tourismus (Events, Kursverwaltung, Destinationen) ✅ NGOs (ja wir finden gesellschaftliches Engagement super und ja wir geben deshalb gerne Rabatt) Das alles entlang der gesamten Wertschöpfungskette vom ersten Anruf eines Leads bis zum Reporting der Resultate. Und natürlich immer skalierbar und mit passenden Prozessen. Wenn es kompliziert wird, 📞 ruf uns an . Wir kennen uns auch mit den echt schwierigen Themen aus. Wir sind in der Lage, die Werteflüsse in deinem internationalen Fertigungsunternehmen zu konzipieren und umzusetzen. Wir können unterschiedliche Rechnungslegungsstandards umsetzen, wir können Transfer Pricing Models umsetzen. Wir haben gnadenlose Traceability in MedTech-Unternehmen mit mehrstufigen Subunternehmerflows umgesetzt. Wir können dein Webshop Frontend schön machen. Du hast grosse Pläne? Wir machen auch regelmässig Internationalisierungsprojekte mit verbundenen Unternehmen im Ausland und sorgen dafür, dass die Konsolidierung klappt und dein CFO nie wieder etwas von SAP hören will. Wenn es möglichst einfach sein soll, ruf uns auch an. Wir lieben auch ganz einfache Flows und machen sehr gerne Projekte mit kleineren Unternehmen mit einfachen, aber soliden 2 Prozessen. Wir geben dir die Tipps, die du brauchst damit du möglichst einfach zum Ziel kommst. Wenn es innerhalb einer Woche live gehen und möglichst gratis sein soll, ruf uns vielleicht nicht an. Du hast Odoo schon implementiert, hast aber in den Finanzen ein Durcheinander? Wir räumen das Ding auf für dich. Unser Team hat schon die wildesten Buchhaltungen wieder gerade gezogen. Und danach zeigen wir dir, wie du die Aufräumaktion in Zukunft vermeiden kannst. Und weil wir uns mit Finanzen so richtig gut auskennen, kannst du uns auch gleich deine gesamte Buchhaltung abgeben. Wir erledigen die Verbuchung von Kreditoren, Debitoren, Spesen, Kreditkartenabrechnungen, Bankabgleich, Mehrwertsteuer und Jahresabschlussbuchungen. Wir nutzen Odoo so effizient, dass wir das alles zum monatlichen Fixpreis anbieten können. Frag uns! 🚀 +41 43 589 60 70 Kontaktieren Sie uns Wir haben angefangen mit zwei Klappstühlen, null Kunden und grossen Plänen. Jetzt sind wir ein echt schlagkräftiges Team, auf das du dich verlassen kannst. Komm zu uns, hier geht's ab. (Transparentes Projektmanagement mit klaren Deadlines und proaktivem Budgettracking sowie technische Expertise und Spezialistenteams haben wir natürlich auch und das ist uns auch ECHT wichtig, aber es klingt halt nicht so spannend und kommt deshalb hier erst ganz am Schluss und erst noch in Klammern)",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 12
+        },
+        {
+          "version": "Certified v18",
+          "count": 11
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 13
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 10
+        },
+        {
+          "industry": "Other Services",
+          "count": 9
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 5
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 5
+        },
+        {
+          "industry": "NGO",
+          "count": 5
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 5
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 5
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 3
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:38.961540"
     },
     {
       "region_code": "ch",
@@ -168,11 +546,61 @@
       "references_count": "35",
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/simpit-gmbh-1397858?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1397858/image_128/simpit%20GmbH?unique=2f5bbbe",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:56.959015"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1397858/image_128/simpit%20GmbH?unique=d99f064",
+      "about_text": "Die simpit GmbH hat eine langjährige Erfahrung in der Arbeit mit Odoo-Lösungen und bringt umfassendes Wissen über den Schweizer Markt mit. Unsere Spezialisierung liegt in der Bereitstellung massgeschneiderter Business-Anwendungen, die genau auf die Bedürfnisse und Anforderungen unserer Kunden abgestimmt sind. Unser Ziel ist es, Unternehmen bei ihrer digitalen Transformation zu unterstützen und sie durch technische Herausforderungen zu entlasten, indem wir ihnen eine nahtlose, stets aktuelle Odoo-Implementierung bieten. Bei Simpit verfolgen wir einen einzigartigen Ansatz, der darauf abzielt, die Besonderheiten jedes Unternehmens in präzise Softwarelösungen zu übersetzen. Unabhängig davon, ob Sie ein Start-up oder ein etabliertes Unternehmen sind, in der Produktion, im Handel oder im Dienstleistungssektor tätig sind, bieten wir Ihnen die Flexibilität und die Funktionalität, die Sie benötigen, um Ihr Unternehmen effizient zu führen und zu expandieren. Wir bieten eine breite Palette von spezialisierten Branchenlösungen an und unsere Odoo-Software hat sich in einer Vielzahl von Geschäftsfeldern bewährt. Indem wir Innovation und Praxis miteinander verbinden, gestalten wir aktiv die Zukunft der Unternehmenssoftware. Bei all unseren Projekten legen wir grossen Wert auf Datenschutz und Compliance, und wir sorgen dafür, dass Ihre Daten sicher in der Schweiz gespeichert werden. Vertrauen Sie auf Simpit GmbH, wenn Sie eine Odoo-Lösung suchen, die wirklich auf Ihre Bedürfnisse zugeschnitten ist. Mit unserem umfangreichen Wissen und unserer Erfahrung in vielen Branchen und Funktionen beraten wir Sie persönlich und implementieren Ihre individuellen Anpassungen. Bei Simpit sind Sie in sicheren und kompetenten Händen.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 4
+        },
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 7
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 4
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:39.695380"
     },
     {
       "region_code": "ch",
@@ -189,11 +617,53 @@
       "references_count": "8",
       "certified_experts_count": "8",
       "profile_url": "https://www.odoo.com/partners/sword-technologies-sa-12731367?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/12731367/image_128/Sword%20Technologies%20SA?unique=cd5104a",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:57.090104"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/12731367/image_128/Sword%20Technologies%20SA?unique=89548e3",
+      "about_text": "Libérez le potentiel de vos services avec Sword Technologies SA Chez Sword Technologies SA, nous croyons qu’un projet n’est pas une fin en soi : il est le moteur qui fait évoluer vos services et leur donne une vraie valeur ajoutée. La gouvernance et la méthodologie ne sont pas que des concepts techniques : ce sont les fondations qui garantissent la réussite et la pérennité de vos projets. Notre mission : transformer vos idées en résultats tangibles Forts de plus de 10 ans d’expérience , nous vous accompagnons dans la définition, l’optimisation et la gouvernance de vos services, avec une approche alliant rigueur, innovation et vision stratégique. Notre valeur ajoutée ? Relier analyse métier, excellence opérationnelle et performance financière pour maximiser l’impact de vos projets et programmes. Nos domaines d’expertise Nous vous accompagnons dans tous les axes clés du développement et de la gestion de vos services : Business & Finance : élaboration de business plans, audit et planification financière, comptabilité et paie en Suisse. Processus & Organisation : Business Process Management (BPM), analyse métier, gouvernance IT et ITSM, Service Desk, PMO. Projets & Transformation : gestion de projets et programmes (PMI, SCRUM, change management). Architecture & Technologie : IT enterprise architecture, solutions ERP avec plus de 10 ans d’implémentations réussies sur Odoo (Open ERP) . Pourquoi Sword Technologies SA ? Parce que nous ne nous contentons pas d’exécuter vos projets : nous faisons en sorte qu’ils créent durablement de la valeur pour votre organisation et vos clients. Présents à Sion, Eysins et Genève , nos équipes locales vous accompagnent avec proximité et expertise.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 4
+        },
+        {
+          "version": "Certified v18",
+          "count": 3
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:40.386381"
     },
     {
       "region_code": "ch",
@@ -211,10 +681,60 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/simplidoo-sarl-22574793?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/22574793/image_128/Simplidoo%20S%C3%A0rl?unique=9916b57",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:57.219334"
+      "about_text": "Pourquoi choisir Simpli'Doo ? 🎯 Simplifier, c’est notre métier Chez Simplidoo , nous sommes convaincus que la gestion d’entreprise ne doit pas être un casse-tête. Partenaire Odoo basé en Valais, nous accompagnons les PME et organisations de services dans la mise en place de solutions simples, intégrées et efficaces, afin de gagner en performance, visibilité et sérénité . Nous aidons nos clients à structurer leurs processus, centraliser leurs données et exploiter pleinement le potentiel d’Odoo, sans complexité inutile. 💼 Une expertise à 360° au service des PME Notre force repose sur une solide expérience en finance, comptabilité, ressources humaines, gestion d’entreprise et pilotage de projets , acquise dans des environnements suisses et internationaux. Cette vision globale nous permet de comprendre rapidement vos enjeux métiers et de proposer des solutions concrètes et pragmatiques, notamment dans des secteurs tels que : Les fiduciaires et services financiers Sociétés de services Conseil et gestion de projets Organisations associatives et structures à taille humaine … et bien d’autres encore. 🧰 Nos services Odoo incluent : Nous vous accompagnons à chaque étape de votre projet Odoo : Analyse de vos besoins et conseil fonctionnel Implémentation d’Odoo en privilégiant le standard Paramétrage et structuration des processus Formation des utilisateurs et prise en main Support et accompagnement post-déploiement Notre approche est basée sur la co-construction : nous travaillons avec vos équipes pour que vous compreniez et maîtrisiez votre outil, avec pour objectif une autonomie durable. Vos prochains pas avec Simpli'Doo 🔗 🌐 Visitez notre site web 📅 Prenez rendez-vous À propos Simplidoo a été fondée par Jérémy Crettenand et Olivier Michel , avec la volonté commune de proposer une approche simple, pragmatique et orientée métier de l’ERP Odoo. Jérémy Crettenand – Directeur & associé Titulaire d’un brevet fédéral de spécialiste en finance et comptabilité, Jérémy dispose de plus de 15 ans d’expérience en entreprise et en fiduciaire. Il a conduit des projets Odoo pour des structures en Suisse ainsi qu’à l’international (États-Unis, Chili, Pérou), ce qui lui a permis de développer une vision globale et très concrète des enjeux financiers, RH et organisationnels des entreprises. Il accompagne aujourd’hui les clients de Simplidoo dans l’analyse des besoins, l’implémentation d’Odoo et l’optimisation des processus, avec une approche humaine, structurée et orientée résultats. Olivier Michel – Associé Olivier est issu du monde de l’ERP et de l’informatique de gestion. Il a notamment été directeur d’une société ERP , ce qui lui confère une solide expérience dans la structuration d’offres, la gestion de projets complexes et le développement d’organisations actives dans les solutions de gestion. Au sein de Simplidoo, Olivier intervient comme associé stratégique , en soutien à la structuration de la société, à la vision long terme et à l’organisation globale. Il n’intervient pas dans les projets opérationnels clients, mais apporte un cadre et une expertise précieuse au développement de Simpli’Doo. Une équipe opérationnelle engagée Simplidoo s’appuie sur une équipe expérimentée et complémentaire : Cécile Délitroz , cheffe de projet, issue de la finance et de la comptabilité, avec une expérience en fiduciaire, banque et PME. Elle accompagne les clients dans la mise en place, la structuration et l’optimisation de leur ERP Odoo. Patrick Clivaz , chef de projet et informaticien de gestion, spécialisé dans les systèmes d’information et la conduite de projets complexes, apportant une expertise technique et organisationnelle solide. Cette complémentarité permet à Simplidoo d’aborder chaque projet Odoo sous un angle métier, financier et technique , tout en restant proche des réalités du terrain. Une approche humaine et personnalisée 🤝 Pas d’usine à gaz ici : Simpli'Doo, c’est un accompagnement de proximité, fait avec soin. Vous bénéficiez d’une écoute active, d’un suivi fluide et d’une vraie relation de confiance. Références clients 🏢 Nous avons la chance de collaborer avec des entreprises valaisannes dans des secteurs variés. ➡️ Découvrez-les ci-dessous...",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 9
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 6
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 6
+        },
+        {
+          "industry": "Real Estate",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 4
+        },
+        {
+          "industry": "Agriculture",
+          "count": 3
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:41.008445"
     },
     {
       "region_code": "ch",
@@ -232,10 +752,64 @@
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/onesolutions-klevia-sa-18161594?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/18161594/image_128/OneSolutions%20Klevia%20SA?unique=cf915e3",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:57.349217"
+      "about_text": "Partenaire certifié Odoo en Suisse OneSolutions accompagne les entreprises suisses dans la digitalisation de leurs processus métiers grâce à Odoo. Forts de plus de 10 ans d’expérience dans la transformation digitale et l’intégration ERP, nous aidons PME, ETI et organisations à optimiser leur gestion et accélérer leur croissance. Reconnus comme Odoo Silver Partner en Suisse, nous mettons cette expertise au service des PME suisses. Zertifizierter Odoo Partner in der Schweiz OneSolutions unterstützt Schweizer Unternehmen bei der Digitalisierung ihrer Geschäftsprozesse mit Odoo. Mit mehr als zehn Jahren Erfahrung in der digitalen Transformation und der ERP-Integration helfen wir KMU, mittelständischen Unternehmen und Organisationen, ihre Verwaltung zu optimieren und ihr Wachstum zu beschleunigen. Als anerkannter Odoo Silver Partner in der Schweiz stellen wir dieses Know-how Schweizer KMU gezielt zur Verfügung. Nos expertises Odoo Un accompagnement complet et sur mesure pour répondre à vos besoins : • Finance & Comptabilité • Ressources Humaines & Paie • CRM & Relation client • E-commerce & Web marketing • Production & Supply Chain • Connecteurs, IA & automatisation Notre méthodologie Des projets cadrés, agiles et réussis : • Cadrage et analyse de vos processus • Intégration et configuration Odoo • Développements spécifiques si nécessaire • Formation utilisateurs pour garantir autonomie • Support et évolutions continues Pourquoi choisir OneSolutions ? • +10 ans d’expérience ERP • Présence en France et Odoo Silver Partner en Suisse • Experts métiers (finance, RH, commerce, production) & développeurs certifiés • Méthodologie basée sur les Trusted Philosophies Unsere Odoo Expertise Die Experten von OneSolutions bieten Ihnen eine umfassende und maßgeschneiderte Begleitung, um Ihre Bedürfnisse optimal zu erfüllen: • Finanzen & Buchhaltung • Human Resources & Lohnabrechnung • CRM & Kundenbeziehungen • E-Commerce & Webmarketing • Produktion & Supply Chain • Connectoren, KI & Automatisierung Unsere Methodologie Strukturierte, agile und erfolgreiche Projekte: • Strukturierung und Analyse Ihrer Prozesse • Integration und Konfiguration von Odoo • Individuelle Entwicklungen bei Bedarf • Anwenderschulung zur Sicherstellung der Autonomie • Kontinuierlicher Support und Weiterentwicklungen Warum OneSolutions wählen? • Über 10 Jahre ERP-Erfahrung • Odoo Silber Partner in der Schweiz • Fachexperten u.a. für Finanzen, HR, Handel, Produktion & zertifizierte Entwickler • Methodik basierend auf den Trusted Philosophies Les Trusted Philosophies, notre ADN Chez OneSolutions SAS, chaque projet Odoo repose sur trois piliers : Die Trusted Philosophies, unsere DNA Bei OneSolutions basiert jedes Odoo-Projekt auf drei Säulen: Prêts à transformer vos processus avec Odoo ? Débloquez le plein potentiel de votre entreprise avec OneSolutions et Odoo : une gestion plus fluide, des équipes autonomes et des décisions plus rapides. Bereit, Ihre Prozesse mit Odoo zu transformieren? Entfalten Sie das volle Potenzial Ihres Unternehmens mit OneSolutions und Odoo, für reibungslose Abläufe, autonome Teams und schnellere Entscheidungen.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 3
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 6
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 4
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 4
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 3
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Education",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:42.046244"
     },
     {
       "region_code": "ch",
@@ -252,11 +826,61 @@
       "references_count": "44",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/nivels-gmbh-416213?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/416213/image_128/nivels%20GmbH?unique=39f2434",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:57.479831"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/416213/image_128/nivels%20GmbH?unique=0d2df81",
+      "about_text": "nivels GmbH ist dein Schweizer Odoo-Partner mit Sitz in Chur und Zürich. Mit mehr als 9 Jahren Erfahrung in der Weiterentwicklung, Erweiterung und Upgrade von Odoo-Lösungen verfügt nivels über ein fundiertes Odoo-Knowhow. Die nivels GmbH fokussiert sich auf das Beraten von Schweizer KMUs. Unsere Erweiterungen sind im Bereich Engineering, Produktion, Ingenieurwesen, Handel, Dienstleistungen und Weinhandel ( www.vinoo.ch) ) sowie Erweiterungen für die Schweizer Gesetzgebung. Wir realisieren eine massgeschneiderte Geschäftssoftware auf deine Bedürfnisse angepasst und betreuen diese auch nachhaltig – selbstverständlich mit Schulung, Wartung und Supportleistungen. Wenn gewünscht, betreiben wir deine neue Lösung innerhalb unserer sicheren Cloudinfrastruktur. nivels GmbH freut sich auf deinen Kontakt!",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 15
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 8
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 5
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 3
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "ECO liable to deduct TCS u/s 52",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:42.736179"
     },
     {
       "region_code": "ch",
@@ -273,11 +897,65 @@
       "references_count": "40",
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/latus-gmbh-10528344?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/10528344/image_128/Latus%20GmbH?unique=8e082cd",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:57.610237"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/10528344/image_128/Latus%20GmbH?unique=1863eb4",
+      "about_text": "Wir helfen Ihnen gerne, Ihre Prozesse in Odoo abzubilden. Wir sind Odoo Partner in der Schweiz und spezialisiert auf komplexe Projekte. Wir analysieren Ihr Unternehmen und richten Ihre Prozesse schlank und effizient in Odoo ein.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 2
+        },
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 9
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 6
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 5
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 4
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 3
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Real Estate",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:43.492564"
     },
     {
       "region_code": "ch",
@@ -294,11 +972,61 @@
       "references_count": "23",
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/consenso-gmbh-12974485?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/12974485/image_128/consenso%20GmbH?unique=023a922",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:57.739877"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/12974485/image_128/consenso%20GmbH?unique=2391772",
+      "about_text": "DER ODOO-PARTNER AUS BASEL, DER INNOVATION UND REGIONALITÄT VEREINT: CONSENSO. ​ CONSENSO - benannt nach dem spanischen Wort für Konsens , verkörpern wir einen kollaborativen, kooperativen und integrativen Ansatz . Unsere Teamkultur ist einzigartig – jedes Mitglied ist nicht nur ein Mitarbeiter, sondern ein eigenständiger Partner, der in der Lage ist, Initiativen zu leiten und von uns auch bei eigenen Unternehmungen unterstützt wird. Wir verbinden fortschrittliche Technologielösungen mit strategischem Verständnis, um die Transformation von Unternehmen voranzutreiben. Wir wurden im September 2021 von Leandro Aeschlimann gegründet und haben es uns zur Aufgabe gemacht, Unternehmen mit den richtigen Tools und Strategien auszustatten, um Daten zu ihrem Wettbewerbsvorteil zu nutzen. Wir bei CONSENSO sind mehr als ein Beratungsunternehmen und IT-Dienstleister. Wir sind Partner, die den technologischen Wandel gemeinsam gestalten und nutzen wollen. Wenn Sie Fragen haben oder eine mögliche Zusammenarbeit besprechen möchten, zögern Sie bitte nicht, uns zu kontaktieren. Wir freuen uns darauf, herauszufinden, wie wir Ihnen helfen können, Ihre Geschäftsprozesse zu optimieren und bedeutende Ergebnisse zu erzielen.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Other Services",
+          "count": 4
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 4
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:44.285441"
     },
     {
       "region_code": "ch",
@@ -316,10 +1044,60 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/abilium-gmbh-2777252?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/2777252/image_128/Abilium%20GmbH?unique=bbe6a7c",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:57.869463"
+      "about_text": "Von IoT-Anwendungen bis hin zu Webapplikationen und Apps – wir finden die passende Lösung. Abilium entwickelt und verwendet neueste Technologien und Standards, um die Probleme von großen und kleinen Kunden kostengünstig und effizient zu lösen. ✔️ Standort Bern CH ✔️ Beratung, Integration und individuelle Entwicklung ✔️ Spezialist für Schnittstellen, Apps und Webdesign Warum wir? Dank jahrelanger Odoo Erfahrung realisieren wir innovative ERP-Projekte, dabei bieten wir kompetente Beratung, Installation sowie die Migration von bestehenden Systemen an. Unsere besten Erfolgsgeschichten: Modehaus Oesch AG Aptomet Sie sind bereit, Ihre Geschäftsprozesse optimal zu gestalten und Ihre Ideen in die Wirklichkeit umzusetzen? Dann sind wir der richtige Odoo Partner für Sie! Unter +41 31 552 30 10 oder per E-Mail beantworten wir gerne Ihre Anfragen. Oder bestellen Sie direkt hier",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 6
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 4
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Government",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:45.203004"
     },
     {
       "region_code": "ch",
@@ -337,10 +1115,51 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/open-future-sarl-5931413?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/5931413/image_128/Open%20Future%20S%C3%A0rl?unique=9be4d1e",
-      "about_text": null,
+      "about_text": "Accompagnement Chaque entreprise étant unique, notre accompagnement vous fournit un soutien proactif depuis la phase de consultation jusqu’à la mise en œuvre. Notre engagement est d'assurer une transition en douceur vers une gestion intégrée et optimale de votre entreprise. Voyez ça comme la locomotive Odoo à laquelle nous accrochons les différents wagon de vos départements (Marketing-Pré vente, Vente et Devis, Comptabilité, Gestion de projets, etc...) au fur et à mesure de leurs implémentation Odoo, le tout roulant sur les rails OpenFuture qui vous amènerons à destination. ADN OpenFuture Evolution En tant que partenaire stratégique, nous évoluons avec votre entreprise en adaptant constamment Odoo à vos processus internes afin de répondre ainsi aux évolutions de votre secteur et assurer une réussite continue. Nous vous accompagnons également lors des mises à jour vers les nouvelles version proposées chaque année par Odoo. What's New in Odoo 17 Pourquoi OpenFuture En choisissant OpenFuture, vous choisissez un partenaire qui transcende la simple fourniture de logiciels, offrant une expertise, un soutien et une personnalisation qui propulsent votre entreprise vers l’avant. Notre contribution à la communauté Odoo Afin de contribuer à une meilleure localisation Suisse, nos experts ont développé un module OpenFuture qui dialogue avec La Poste Suisse afin de vérifier / mettre à jour les adresses postale suisses de votre base de donnée Odoo: Nous avons également intégré la base de donnée des codes postaux et localités suisses. Le train OpenFuture Testez nous Nous nous déplaçons volontiers à votre rencontre. Les 2 premières heures de consultation sont offertes à tout nouveau client!",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:57.999948"
+      "industries_breakdown": [
+        {
+          "industry": "Construction & Renovation",
+          "count": 7
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 7
+        },
+        {
+          "industry": "Other Services",
+          "count": 6
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 6
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 5
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 5
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 4
+        },
+        {
+          "industry": "Agriculture",
+          "count": 4
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:45.807901"
     },
     {
       "region_code": "ch",
@@ -358,10 +1177,60 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/jumpto-jura-berne-3384074?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/3384074/image_128/JumpTo%20-%20Jura-Berne?unique=119ee51",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:58.129061"
+      "about_text": "Actif depuis 2019 en Suisse romande, JumpTo accompagne les entreprises de toutes tailles dans l'informatisation de leurs procédures, afin de permettre aux dirigeants de ces entreprises de se concentrer sur l'essentiel : leur passion, leur métier. JumpTo propose un premier contact, une démonstration de l'outil Odoo, une analyse des processus et une planification pour implémenter les divers modules nécessaires à l'activité. L'équipe JumpTo se rend disponible pour former et apporter un support de suivi à tout moment. Qui sommes-nous? JumpTo signifie \"sautes dans...\" le numérique. Nous sommes une petite entreprise très engagée dans la relation client et dans l'investissement numérique de notre région rurale. Pour certaine génération, l'informatique fait encore bien peur, malgré la nécessité qui est indéniable. C'est pourquoi, nous sommes là, prêt à accompagner les PME dans chacune des étapes à faire pour sauter dans le numérique et devenir efficace, sans prise de tête, ni porte monnaie qui se vide. Pour mieux comprendre, voici notre histoire . Nos valeurs nous sont chères... Nous souhaitons être : Honnêtes, transparents, et cohérents Au service au dessus du profit Respectueux et bienveillant Justes et équitables Sérieux et qualitatifs Un service personnalisé qui est accessible à tout un chacun Nous comprenons que chaque entreprise a des besoins uniques et souhaite se concentrer sur son milieu d'expertise et non sur de l'informatique. C'est pourquoi, notre équipe propose: 1. de prendre contacte avec vous autour d'un café pour découvrir vos besoins spécifiques 2. de vous faire une petite démonstration d'Odoo 3. de faire une analyse de vos processus et outil actuels 4. une planifier une implémentation tout en intégrant vos données 5. de vous former, vous et votre équipe 6. de rester disponible pour un suivi et du support Tout cela vous parles? Nous nous ferions un plaisir de vous rencontrer : Contactez-nous",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 6
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 6
+        },
+        {
+          "industry": "Other Services",
+          "count": 6
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 5
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 5
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 3
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Agriculture",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:46.518590"
     },
     {
       "region_code": "ch",
@@ -375,14 +1244,60 @@
       "rating_percentage": "92",
       "average_project_size": "3 users",
       "large_project_size": "~20 users",
-      "references_count": "37",
+      "references_count": "38",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/idea-to-forge-sarl-6667970?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/6667970/image_128/Idea%20to%20Forge%20Sarl?unique=1b6d3b1",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:58.259876"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/6667970/image_128/Idea%20to%20Forge%20Sarl?unique=1f089bd",
+      "about_text": "Nous vous aidons à maximiser votre efficacité opérationnelle, en optimisant vos processus sans bouleverser vos méthodes de travail, grâce à des solutions personnalisées qui transforment vos défis quotidiens en opportunités de croissance.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 6
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 4
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:47.142909"
     },
     {
       "region_code": "ch",
@@ -399,11 +1314,52 @@
       "references_count": "33",
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/crz-14126799?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/14126799/image_128/CRZ?unique=d1f8ac3",
-      "about_text": null,
+      "logo_url": "https://odoocdn.com/web/image/res.partner/14126799/image_128/CRZ?unique=7814f6b",
+      "about_text": "CRZ Sàrl est une entreprise spécialisée dans le conseil et l'accompagnement des entreprises, offrant une expertise approfondie dans plusieurs domaines clés pour optimiser les performances et la compétitivité de ses clients. CRZ propose les services et conseils suivants : Gestion d'entreprise (Optimisation de l'organisation interne, en intervenant sur les processus, la gestion de projets, les ressources humaines et la comptabilité de base.) Production (Amélioration des performances industrielle en optimisant les processus, les outils de production, l’industrialisation et la gestion des stocks.) Commerce international (Soutine dans les activités d’import/export, en conseillant sur la certification, la logistique, les régimes douaniers et les stratégies d’expansion à l’étranger. L'équipe de CRZ est composée de professionnels expérimentés, notamment :​ CRZ Coralie Rappaz , co-fondatrice, possède 20 ans d'expérience dans la gestion administrative d'une entreprise exportatrice, avec des compétences en organisation, management, gestion de projet et ressources humaines. Titulaire d'un brevet fédéral de spécialiste de commerce international, elle conseille et accompagne les entreprises sur les questions liées à l'import/export.​ CRZ Raphaël Zufferey , co-fondateur, détient un brevet fédéral d'expert en production et cumule 20 ans d'expérience dans l'industrie. Il maîtrise la planification et la coordination des flux de production, aidant les entreprises à optimiser leurs processus pour éliminer les retards et réduire les coûts de stockage.​ CRZ Nadine Schmid , spécialiste en ressources humaines, elle accompagne les entreprises dans la mise en place de structures RH efficaces, le suivi des collaborateurs et la résolution des problématiques humaines au quotidien. Forte de son expérience et de ses compétences pointues, elle aide également les clients à définir et structurer les salaires en accord avec les normes et les exigences légales. CRZ Sàrl s'engage à être aux côtés de ses clients pour la réalisation de leurs projets, en offrant des solutions adaptées et en améliorant ensemble les processus de l'entreprise.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:58.389811"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 8
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 4
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 4
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:47.954885"
     },
     {
       "region_code": "ch",
@@ -414,17 +1370,58 @@
       "district": "",
       "country": "Switzerland",
       "full_address": "Yvorne VD, 1853",
-      "rating_percentage": "90",
-      "average_project_size": "8 users",
+      "rating_percentage": "87",
+      "average_project_size": "7 users",
       "large_project_size": "~100 users",
-      "references_count": "32",
+      "references_count": "31",
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/925-interactive-sarl-9780031?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/9780031/image_128/925%20interactive%20S%C3%A0rl?unique=886e5a1",
-      "about_text": null,
+      "logo_url": "https://odoocdn.com/web/image/res.partner/9780031/image_128/925%20interactive%20S%C3%A0rl?unique=5576483",
+      "about_text": "Nous accompagnons les PME suisses dans la mise en place d’Odoo avec une expertise en migrations complexes, intégrations et développements sur mesure. Spécialistes des transitions depuis WinBIZ, nous concevons des systèmes ERP robustes, centralisés et évolutifs. Services Implémentation complète d’Odoo Migration depuis WinBIZ et autres ERP Reprise et structuration de données Développements spécifiques Odoo (modules, automatisations) Intégrations API (systèmes métiers, outils externes, IoT) Optimisation des processus métier Support et maintenance Formation des équipes Expertises clés Comptabilité suisse & Swissdec RH & gestion des salaires Gestion de projet & feuilles de temps Logistique & stock Ventes & CRM Automatisation avancée des workflows Multi-sociétés / multi-structures Secteurs d'activités PME de services structurées Fiduciaires et cabinets comptables Entreprises techniques / terrain PME en croissance nécessitant un ERP structurant Spécialisation différenciante Nous sommes spécialisés dans les projets nécessitant : migration depuis des systèmes existants (WinBIZ, solutions locales) intégration avec des outils tiers (API) automatisation avancée des processus développement sur mesure Nous intervenons là où les solutions standards atteignent leurs limites. Localisation Suisse (Chablais / Vaud / Valais) Interventions dans toute la Suisse romande Pourquoi nous choisir Expertise en migrations complexes (WinBIZ → Odoo) Capacité à gérer des projets nécessitant développement spécifique Intégration avancée avec systèmes tiers (API) Approche orientée structuration et performance Prendre rendez-vous",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:58.519023"
+      "industries_breakdown": [
+        {
+          "industry": "Construction & Renovation",
+          "count": 9
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 4
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 3
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Government",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:48.792513"
     },
     {
       "region_code": "ch",
@@ -442,10 +1439,51 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/mint-system-gmbh-3365849?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/3365849/image_128/Mint%20System%20GmbH?unique=2e7e7c6",
-      "about_text": null,
+      "about_text": "Wir sind ein Team von Spezialisten für Management-Software. Auf Basis von Führungserfahrung in der Industrie und Fachkenntnis im Software-Engineering kennen wir Lösungen die funktionieren. Mit Open Source Software implementieren wir Systeme in einem erstklassigen Preis-Leistungs-Verhältnis.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:59.807543"
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 7
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 6
+        },
+        {
+          "industry": "Agriculture",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Households",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:51.071310"
     },
     {
       "region_code": "ch",
@@ -462,11 +1500,57 @@
       "references_count": "28",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/prisme-solutions-informatique-sa--408?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/-408/image_128/Prisme%20Solutions%20Informatique%20SA?unique=02e6d1d",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:59.938912"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/-408/image_128/Prisme%20Solutions%20Informatique%20SA?unique=93901fd",
+      "about_text": "Prisme Solutions Informatique SA est une société spécialisée depuis plus de 25 ans dans l'intégration des ERP. Nous sommes affiliés à Odoo depuis avril 2010. Quelques points clés: PARTENARIAT: notre but est d’établir une relation durable de partenariat tant avec le distributeur Odoo qu’avec nos clients, ceci basée sur une confiance réciproque. Nos objectifs sont la gestion de projets en fixant des objectifs précis afin de respecter les coûts et les délais. RESSOURCES: nos collaborateurs ont une forte expérience dans la conception et la mise en oeuvre de solutions en adéquation avec les fonctions offertes par l'ERP. Grâce à notre savoir faire, nous pouvons également adapter et développer les fonctionnalités du logiciel afin de répondre aux besoins du client. Notre infrastructure alliée à notre présence locale permet à nos clients de bénéficier d’un service de qualité et d’un très bon niveau de support. INTEGRATEUR: c'est notre métier de base, nous proposons un concept d’intégration qui s’appuie sur une méthode et un savoir-faire de longue date. Nous mettons ces compétences au service de la solution Odoo. STRATEGIE: la couverture et la richesse fonctionnelle de Odoo nous ont amenés à orienter notre stratégie sur ce produit. Allié à notre très forte expérience en gestion industrielle, commerciale et financière, nous sommes certains de répondre aux besoins de nombreuses PME. METIER: nous avons acquis une expérience métier riche et complète auprès de nos divers clients. Nos compétences couvrent les domaines de la gestion de production, la distribution en gros, la vente au détail ainsi que le domaine des services et prestations. EFFICACITE: notre but est de réaliser vos projets avec efficacité et qualité. Nous serions ravis de vous présenter plus en détail notre société et la solution Odoo. N’hésitez pas à nous contacter pour un entretien.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Education",
+          "count": 5
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 5
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:51.875431"
     },
     {
       "region_code": "ch",
@@ -483,11 +1567,57 @@
       "references_count": "19",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/sinovo-gmbh-14601715?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/14601715/image_128/Sinovo%20GmbH?unique=e45d493",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:00.069231"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/14601715/image_128/Sinovo%20GmbH?unique=367dffa",
+      "about_text": "Sinovo bietet innovative und massgeschneiderte Beratungskonzepte, die speziell auf die individuellen Bedürfnisse der Kunden zugeschnitten sind. Dabei liegt unser Fokus insbesondere Grenzen der klassischen Treuhanddienstleistungen und Unternehmensberatung neu zu definieren, indem wir konsequent auf Digitalisierung und Automatisierung setzen.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 5
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:52.662861"
     },
     {
       "region_code": "ch",
@@ -505,10 +1635,39 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/visto-consulting-sa-13619907?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/13619907/image_128/Visto%20Consulting%20SA?unique=5b36ebb",
-      "about_text": null,
+      "about_text": "Visto Consulting est une équipe d’experts avec des compétences techniques multisectorielles. Notre culture est basée sur une orientation «client» à long terme, par opposition à une orientation commerciale à court terme. Forts d’une dizaine d’années d’expérience et de partenariat avec nos clients, nous avons développé et mis en place des solutions agiles dans plusieurs secteurs d’activité : assurance, pharma, banque, formation, négoce et services. Avec une notre partenariat Odoo, nous accompagnons les entreprises dans l’implémentation et la personnalisation de leur ERP, quel que soit la taille ou le secteur d’activité. Nos services · Conseil aux entreprises : analyse des besoins et des processus pour déterminer le moyen le plus efficace de les automatiser au sein d’Odoo · Implémentation et configuration : nous effectuons différents types de personnalisation d'Odoo, depuis les modifications de conception de haut niveau jusqu'aux extensions de fonctionnalités au niveau du code et aux intégrations personnalisées · Intégration : nos experts assurent une couverture de bout en bout des processus métier en intégrant la plateforme à l'environnement informatique existant, aux systèmes d'entreprise internes et aux applications tierces. · Support : fournir des services d'assistance complets après la mise en œuvre d'Odoo pour aider nos clients à maintenir les bonnes performances de la plateforme Odoo et à accroître l'adoption par les utilisateurs. Nous proposons des services de support spécifiques basés sur des SLA (Service Level Agreements)",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:00.199699"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 5
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:53.355630"
     },
     {
       "region_code": "ch",
@@ -527,9 +1686,39 @@
       "profile_url": "https://www.odoo.com/partners/qodo-digital-sa-27749150?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/27749150/image_128/Qodo%20Digital%20SA?unique=4899883",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:00.328463"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Agriculture",
+          "count": 4
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:54.021618"
     },
     {
       "region_code": "ch",
@@ -546,11 +1735,40 @@
       "references_count": "16",
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/sodexis-sarl-8536678?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/8536678/image_128/Sodexis%20S%C3%A0rl?unique=5b36ebb",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/8536678/image_128/Sodexis%20S%C3%A0rl?unique=5a19953",
       "about_text": null,
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:00.459781"
+      "industries_breakdown": [
+        {
+          "industry": "Science & Technology",
+          "count": 4
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "Education",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:54.694513"
     },
     {
       "region_code": "ch",
@@ -567,11 +1785,45 @@
       "references_count": "13",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/prostep-it-services-sa-12503484?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/12503484/image_128/ProStep%20IT%20Services%20SA?unique=a84f208",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:00.599328"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/12503484/image_128/ProStep%20IT%20Services%20SA?unique=5247e0d",
+      "about_text": "ProStep IT Services SA vous accompagne sur la globalité des thèmes liés à l'organisation et à la digitalisation. Nous accompagnons les entreprises afin d'atteindre leurs objectifs stratégiques dans un environnement technologique en constante évolution. Nous nous engageons à fournir des solutions personnalisées et optimales auprès de nos clients. Vous profitez de solutions optimisées, toujours enrichies des dernières avancées technologiques et évolutives, le tout dans des budgets respectés et maîtrisés.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:55.301603"
     },
     {
       "region_code": "ch",
@@ -589,10 +1841,40 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/esselab-gmbh-24175210?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/24175210/image_128/EsseLab%20GmbH?unique=93248a4",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:00.729305"
+      "about_text": "Your digital innovation partner Chi siamo EsseLab è un partner Odoo con sede in Svizzera, specializzato nella digitalizzazione delle PMI e delle aziende strutturate. Offriamo implementazione completa di Odoo , integrazione di sistemi e consulenza IT avanzata , con un focus su soluzioni ERP scalabili e personalizzate. Lavoriamo al fianco delle PMI e aziende strutturate in Ticino, nella Svizzera francese e in tutta la Confederazione. Il nostro approccio Combiniamo competenze multidisciplinari – ERP, CRM, AI e sviluppo su misura – con una profonda conoscenza del tessuto imprenditoriale svizzero. Lavoriamo a stretto contatto con i nostri clienti per adattare Odoo alle reali esigenze del business , ottimizzando processi, riducendo costi e aumentando l’efficienza operativa. Grazie all’esperienza del nostro team e a un approccio pragmatico, supportiamo le imprese lungo l’intero percorso di trasformazione digitale: dall'analisi strategica all'implementazione, fino al supporto continuativo e alla formazione. Con EsseLab, Odoo diventa uno strumento strategico di crescita, innovazione e competitività. Visita il nostro sito",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:55.945444"
     },
     {
       "region_code": "ch",
@@ -610,10 +1892,27 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/eurex-ge-sa-11708460?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/11708460/image_128/EUREX%20GE%20SA?unique=b8234e2",
-      "about_text": null,
+      "about_text": "Présent dans six pays, dont la Suisse, le Groupe Eurex se distingue par une approche unique du déploiement d’Odoo, fondée sur son expertise fiduciaire. Plus qu’un intégrateur certifié, Eurex accompagne les entreprises grâce à sa connaissance approfondie du pilotage d’entreprise et des besoins concrets de leurs dirigeants – en fiscalité, conseil juridique, services RH, audit et consulting. Cette double compétence fait d’Eurex un partenaire stratégique, intervenant à chaque étape : de l’analyse de vos processus, à l’implémentation de l’ERP Odoo, jusqu’à la formation de vos employés. En tant qu’utilisateur d’Odoo pour ses besoins internes, Eurex évalue le succès d’un projet à l’intégration durable des applications de l’ERP par vos collaborateurs.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:00.859509"
+      "industries_breakdown": [
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:56.666755"
     },
     {
       "region_code": "ch",
@@ -631,10 +1930,32 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/golden-consulting-gmbh-14985304?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/14985304/image_128/Golden%20Consulting%20GmbH?unique=445d3a2",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:00.990167"
+      "about_text": "​Spezialisierte ERP-Implementierungen für Schweizer Buchhaltungsthemen. Optimierung der Prozesse, Steuerkonformität und Effizienzsteigerung. Vertrauen Sie unserer Expertise für erfolgreiche ERP-Implementierungen in der Schweiz.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 6
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:57.319307"
     },
     {
       "region_code": "ch",
@@ -653,9 +1974,35 @@
       "profile_url": "https://www.odoo.com/partners/eclypsys-sarl-18139869?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/18139869/image_128/Eclypsys%20S%C3%A0rl?unique=e644de3",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:18.626223"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Entertainment / Media",
+          "count": 3
+        },
+        {
+          "industry": "Government",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:58.097358"
     },
     {
       "region_code": "ch",
@@ -666,17 +2013,38 @@
       "district": "",
       "country": "Switzerland",
       "full_address": "Genève, 1201",
-      "rating_percentage": "82",
+      "rating_percentage": "90",
       "average_project_size": "8 users",
       "large_project_size": "~30 users",
       "references_count": "9",
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/exponent-9091927?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/9091927/image_128/Exponent?unique=5b36ebb",
-      "about_text": null,
+      "about_text": "Exponent est une entreprise suisse innovante spécialisée dans la digitalisation, l’automatisation et l’intégration des systèmes métiers . En tant que partenaire Odoo , nous accompagnons les organisations dans la mise en place de solutions ERP complètes et personnalisées , parfaitement alignées avec leurs processus internes. Notre équipe pluridisciplinaire associe expertise en gestion d’entreprise, comptabilité, automatisation et intelligence artificielle pour offrir des solutions globales et évolutives. Nous aidons les PME, cabinets fiduciaires et entreprises de services à rationaliser leurs opérations, automatiser les tâches répétitives et centraliser l’information dans un environnement Odoo fluide et performant. Chez Exponent, nous plaçons la compréhension des besoins métiers au cœur de chaque projet. Nous transformons la complexité en simplicité en intégrant Odoo avec les outils existants (Bexio, Float, Notion, Google Workspace, etc.) et en développant des connecteurs intelligents qui garantissent une interopérabilité totale. Notre mission : permettre aux entreprises de se concentrer sur leur croissance, pendant qu’Odoo et nos solutions pilotent efficacement les opérations quotidiennes.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:18.750455"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:58.774060"
     },
     {
       "region_code": "ch",
@@ -696,8 +2064,37 @@
       "logo_url": "https://odoocdn.com/web/image/res.partner/13755029/image_128/Cobalt%20Technologies%20S%C3%A0rl?unique=3874055",
       "about_text": null,
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:18.878886"
+      "industries_breakdown": [
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:59.541115"
     },
     {
       "region_code": "ch",
@@ -714,74 +2111,80 @@
       "references_count": "7",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/dig-it-360-gmbh-15978418?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/15978418/image_128/DIG%20IT%20360%20GmbH?unique=05e4332",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/15978418/image_128/DIG%20IT%20360%20GmbH?unique=161e2fb",
       "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:19.009699"
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:02:01.172437"
     },
     {
       "region_code": "ch",
       "country_code": "CH",
       "name": "JLD Design Informatique SA",
       "level": "Ready",
-      "city": "Gland",
-      "district": "",
+      "city": "Vaud",
+      "district": "Gland",
       "country": "Switzerland",
-      "full_address": "Gland, 1196",
+      "full_address": "Vaud, Gland, 1196",
       "rating_percentage": "100",
       "average_project_size": "6 users",
       "large_project_size": "~20 users",
       "references_count": "6",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/jld-design-informatique-sa-10855856?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/10855856/image_128/JLD%20Design%20Informatique%20SA?unique=5b36ebb",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:19.129528"
-    },
-    {
-      "region_code": "ch",
-      "country_code": "CH",
-      "name": "Ansam Holding SA",
-      "level": "Ready",
-      "city": "Vaud",
-      "district": "Nyon",
-      "country": "Switzerland",
-      "full_address": "Vaud, Nyon, 1260",
-      "rating_percentage": "100",
-      "average_project_size": "8 users",
-      "large_project_size": "~30 users",
-      "references_count": "5",
-      "certified_experts_count": "2",
-      "profile_url": "https://www.odoo.com/partners/ansam-holding-sa-23765752?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/23765752/image_128/Ansam%20Holding%20SA?unique=5aabb9f",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:19.248970"
-    },
-    {
-      "region_code": "ch",
-      "country_code": "CH",
-      "name": "Core Business Solutions",
-      "level": "Ready",
-      "city": "Vaud",
-      "district": "Nyon 2",
-      "country": "Switzerland",
-      "full_address": "Vaud, Nyon 2, CH-1260",
-      "rating_percentage": "92",
-      "average_project_size": "8 users",
-      "large_project_size": "~30 users",
-      "references_count": "5",
-      "certified_experts_count": "0",
-      "profile_url": "https://www.odoo.com/partners/core-business-solutions-19165972?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/19165972/image_128/Core%20Business%20Solutions?unique=7130351",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:19.379699"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/10855856/image_128/JLD%20Design%20Informatique%20SA?unique=9ee32af",
+      "about_text": "Bonjour à tous, Nous sommes ravis de vous présenter notre entreprise en tant que partenaire Odoo. Avec plus de 25 ans d'expérience dans le domaine des systèmes de gestion d'entreprise (ERP), nous avons acquis une expertise approfondie et une compréhension fine des besoins variés de nos clients. Notre mission Notre mission est de vous accompagner dans la transformation digitale de votre entreprise en vous offrant un environnement sur mesure, adaptés à vos spécificités et à vos objectifs de croissance. Grâce à notre partenariat avec Odoo, nous sommes en mesure de vous proposer une plateforme intégrée, flexible et évolutive qui couvre l'ensemble de vos processus métier, de la comptabilité à la gestion des stocks, en passant par les ventes et les ressources humaines. Pourquoi choisir notre entreprise ? Expertise éprouvée : Avec plus de vingt-cinq ans d'expérience, nous avons mené à bien de nombreux projets ERP dans divers secteurs. Cette expertise, fruit du travail de nos équipes de Business Analysts et de développeurs, est mise à profit quotidiennement dans les nouveaux projets Odoo qui nous sont confiés. Approche personnalisée : Nous croyons en l'importance d'une solution sur mesure. Chaque projet est unique, et nous nous engageons à comprendre vos besoins spécifiques pour y répondre de manière optimale. Support continu : Notre engagement ne s'arrête pas à la mise en œuvre. Nous offrons un support continu et des formations pour garantir que votre équipe tire le meilleur parti de la solution Odoo. Nos services incluent : Analyse des besoins et conseil stratégique Implémentation et personnalisation de la solution Odoo Formation et support utilisateur Maintenance et évolution de votre système Odoo Nous sommes convaincus que notre collaboration avec Odoo et notre expertise de longue date vous permettront de relever vos défis opérationnels et d'atteindre vos objectifs de manière efficace et durable. N’hésitez pas à nous contacter, nous nous ferons un plaisir d’étudier votre projet et la mise en œuvre d’Odoo au sein de votre entreprise. Contactez-nous JLD Design Informatique SA",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:02:01.797323"
     },
     {
       "region_code": "ch",
@@ -799,10 +2202,71 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/2bit-digital-gmbh-16379947?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/16379947/image_128/2BIT%20Digital%20GmbH?unique=c517287",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:19.509789"
+      "about_text": "Wir sind ein junges und dynamisches Team von Experten für Softwareentwicklung, Data Engineering, IT-Consulting und IT-Personalverleih. Wir setzen auf agile Methoden und enge Zusammenarbeit mit unseren Kunden, um deren Bedürfnisse und Ziele bestmöglich zu verstehen. Dabei ist uns auch die persönliche Beziehung zu unseren Kunden sehr wichtig. Unsere erfahrenen IT-Experten begleiten Sie von der IT-Strategie bis zur Umsetzung. Wir verstehen, dass Technologie oft komplex sein kann, daher vermeiden wir Fach-Chinesisch und kommunizieren klar und verständlich. Unser Ziel ist es, Ihnen dabei zu helfen, komplexe IT-Themen zu verstehen und die bestmöglichen Entscheidungen zu treffen. Darüber hinaus bieten wir Ihnen die Möglichkeit, Fachpersonen auf Zeit zu engagieren, um Ihre individuellen Anforderungen optimal zu erfüllen.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:02:02.476660"
+    },
+    {
+      "region_code": "ch",
+      "country_code": "CH",
+      "name": "Ansam Holding SA",
+      "level": "Ready",
+      "city": "Vaud",
+      "district": "Nyon",
+      "country": "Switzerland",
+      "full_address": "Vaud, Nyon, 1260",
+      "rating_percentage": "100",
+      "average_project_size": "4 users",
+      "large_project_size": "~10 users",
+      "references_count": "4",
+      "certified_experts_count": "2",
+      "profile_url": "https://www.odoo.com/partners/ansam-holding-sa-23765752?country_id=41",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/23765752/image_128/Ansam%20Holding%20SA?unique=faa5b8a",
+      "about_text": "Qui nous sommes Ansam est une société de services informatiques active en Suisse romande. Nous réunissons IT fondamentale et IT métier pour offrir un accompagnement complet. Notre philosophie : vous proposer Odoo lorsqu’il est réellement pertinent, l’exploiter correctement sans « tordre » le système, et l’intégrer dans votre écosystème pour un outil simple, cohérent et durable Envie d’échanger ? Prenez rendez-vous avec l’un.e de nos spécialistes Odoo Votre partenaire Odoo certifié B-Corp en Suisse romande Ansam accompagne les PME romandes dans la modernisation de leurs processus avec Odoo. Notre certification ⁠ B-Corp atteste de notre volonté d’accompagner nos clients de manière responsable, utile et durable. Plus qu’un fournisseur, nous cherchons à créer un partenariat qui ait du sens. Notre accompagnement Odoo Nous intervenons sur l’ensemble du cycle de transformation : Analyse des besoins et ateliers métiers Démonstrations adaptées aux cas d’usage du client Configuration d’Odoo et mise en place progressive Migration depuis des outils existants (Bexio, Winbiz, Crésus, …) Coaching/Formation, gestion du changement et support continu Cette méthodologie permet de générer rapidement de la valeur, même pour des organisations en structuration ou en forte croissance. Pourquoi choisir Ansam comme partenaire ? Une connaissance approfondie des PME romandes et de leurs réalités opérationnelles Une capacité à accompagner au-delà d’Odoo, sur tout l’écosystème informatique de l’entreprise Une démarche centrée sur la simplicité, l’adoption et l’impact réel Des consultants capables de traduire les besoins métiers en solutions concrètes, durables et évolutives Prenez rendez-vous avec l’un.e de nos spécialistes Odoo ​",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        },
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:02:03.138279"
     },
     {
       "region_code": "ch",
@@ -820,10 +2284,73 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/blackbox-22241449?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/22241449/image_128/Blackbox?unique=299936a",
-      "about_text": null,
+      "about_text": "Optimisez votre entreprise grâce à la digitalisation. Un partenaire de confiance c'est la meilleure garantie vers le succès.",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:19.629766"
+      "industries_breakdown": [
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:02:04.004942"
+    },
+    {
+      "region_code": "ch",
+      "country_code": "CH",
+      "name": "Core Business Solutions",
+      "level": "Ready",
+      "city": "Vaud",
+      "district": "Nyon 2",
+      "country": "Switzerland",
+      "full_address": "Vaud, Nyon 2, CH-1260",
+      "rating_percentage": "83",
+      "average_project_size": "9 users",
+      "large_project_size": "~30 users",
+      "references_count": "4",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/partners/core-business-solutions-19165972?country_id=41",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/19165972/image_128/Core%20Business%20Solutions?unique=5adb4a4",
+      "about_text": "CBS est le partenaire digital des PME et ETI qui souhaitent réussir leur transformation digitale en s’appuyant sur des solutions concrètes, évolutives et centrées sur les usages réels de leur métier. Nous intervenons à chaque étape du processus : du diagnostic stratégique à l’intégration technologique, en passant par l’automatisation intelligente et la performance marketing. Notre cœur d’expertise repose sur trois piliers complémentaires : Le full web , avec le développement de sites, portails transactionnels, apps mobiles, tunnels de conversion et plateformes de réservation ; Odoo , ERP open-source que nous personnalisons pour optimiser la gestion, les ventes, la relation client ou la logistique des entreprises ; L’intelligence artificielle , via des bots conversationnels (chat et voice), des assistants virtuels, des outils d’automatisation et de génération de contenu. Notre vraie force réside dans notre capacité à combiner stratégie, gouvernance IT, expertise technique et marketing digital , ce qui nous permet de concevoir des écosystèmes numériques cohérents, performants et orientés résultats. Cette maîtrise globale nous distingue : nous parlons aussi bien aux dirigeants qu’aux équipes métiers, techniques ou commerciales, pour construire ensemble des solutions utiles, durables et rentables. Que ce soit dans le tourisme , l’ immobilier , le commerce ou les réseaux multi-sites , CBS apporte une réponse adaptée, sectorisée et fondée sur des cas concrets. Nos projets s’inscrivent dans une logique d’agilité, de co-construction et de retour sur investissement mesurable. CBS, c’est bien plus qu’un intégrateur : c’est un partenaire engagé à vos côtés pour faire de votre transformation digitale un vrai levier de croissance.",
+      "certifications_breakdown": [],
+      "industries_breakdown": [
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 2
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 2
+        },
+        {
+          "industry": "Education",
+          "count": 1
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:02:04.643985"
     },
     {
       "region_code": "ch",
@@ -841,10 +2368,10 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/proclick-sarl-12069643?country_id=41",
       "logo_url": "https://odoocdn.com/web/image/res.partner/12069643/image_128/ProClick%20S%C3%A0rl?unique=6b982e6",
-      "about_text": null,
+      "about_text": "Qui sommes​-nous ? Fondée en 1995, notre société est aujourd'hui un acteur majeur dans le domaine des prestations de services informatiques. Spécialisés dans l'accompagnement et le support informatique, nous sommes fiers de servir une clientèle variée à travers toute la Suisse romande. Que proposons-nous ? Que vous soyez une petite ou une grande entreprise, une administration publique ou un particulier, nous proposons les prestations suivantes : L'implémentation d'outils de gestions (ERP) tels que Odoo. La formation des utilisateurs en entreprise ou pour les particuliers. Le support et le dépannage pour les utilisateurs (PC et MAC). La maintenance et le suivi de votre parc informatique. La gestion d’infrastructure IT en cloud ou sur site. La mise en place et la maintenance de votre système de téléphonie (fixe et mobile). La création de sites internet et le développement personnalisé. Que vous ayez besoin d'une intervention d'urgence pour dépanner votre poste de travail ou d'un accompagnement professionnel pour des projets informatiques complexes, nos techniciens qualifiés sont à votre disposition pour vous fournir des solutions rapides et efficaces.",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:19.759457"
+      "scraped_at": "2026-04-12T20:02:05.163655"
     },
     {
       "region_code": "ch",
@@ -883,7 +2410,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:48:20.998846"
+      "scraped_at": "2026-04-12T20:02:06.985542"
     },
     {
       "region_code": "ch",
@@ -909,7 +2436,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:48:21.294457"
+      "scraped_at": "2026-04-12T20:02:07.759521"
     },
     {
       "region_code": "ch",
@@ -926,7 +2453,7 @@
       "references_count": "2",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/acunomic-gmbh-14248810?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/14248810/image_128/Acunomic%20GmbH?unique=e8d5caf",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/14248810/image_128/Acunomic%20GmbH?unique=b06e30e",
       "about_text": "Ready to Transform Your Business? Book a meeting with Acunomic 🎯 Perfect for Your Industry Acunomic specialize in solution for software for finance, software subscription, ecommerce. There is no one size fits all in your business or industries, but with Odoo, the software grows along based on your industrial needs. Our solution is modular, you can start small and grow later, or you can start big, and the software will follows. In Acunomic, software will follow business - this means you choose on what apps you want to use in your industry. ✨ Key Benefits 🔧 Modular & Scalable Start with essential modules and expand as your business grows 👤 User-Friendly Interface No IT expertise required—intuitive and easy to learn 🎯 All-in-One Solution CRM, accounting, inventory, HR, and project management unified ☁️ Cloud & Mobile Access your data anytime, anywhere from any device 🔗 Seamless Integration Connects effortlessly with Shopify, payment systems, and more ⚡ Automated Workflows Reduce manual work and boost productivity significantly 🚀 Work Smarter, Not Harder ♦♦♦ CONSTRUCTION & TRADE ♦♦♦ ⚒️ Simplified scheduling and workforce coordination 📋 Streamlined invoicing and payment tracking 📦 Efficient material and inventory management 💼 Project timeline and budget oversight ♦♦♦ RETAIL & SERVICES ♦♦♦ 🛒 Advanced point-of-sale systems 👥 Comprehensive customer management tools 🌐 Integrated e-commerce capabilities 📅 Service appointment scheduling ♦ WE DON'T JUST WANT TO BE YOUR ERP PARTNER— WE WANT TO BE YOUR FRIEND ♦ No matter how your business evolves, we stand by your side. We are fully committed to supporting you in finding and maintaining the perfect solution for your company in the long run. 🎯 What You Get with acunomic:erp 🎯 Expert Implementation Professional setup tailored to your specific business needs 🔄 Ongoing Support & Training Continuous assistance to maximize your Odoo investment 📈 Business Growth Focus Solutions designed to scale with your expanding operations 🛠️ Customization Services Adapt Odoo to match your unique workflows and requirements The acunomic:erp Advantage Instead of juggling multiple disconnected tools, get a centralized, easy-to-manage platform that eliminates inefficiencies and reduces administrative overhead. Focus on delivering quality services while your business runs efficiently in the background. Ready to Transform Your Business? Book a meeting Discover how acunomic:erp and Odoo can boost your business performance ​",
       "certifications_breakdown": [
         {
@@ -948,7 +2475,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:48:23.527867"
+      "scraped_at": "2026-04-12T20:02:10.187587"
     },
     {
       "region_code": "ch",
@@ -978,7 +2505,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:48:23.825874"
+      "scraped_at": "2026-04-12T20:02:10.826319"
     },
     {
       "region_code": "ch",
@@ -1008,7 +2535,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:48:24.157477"
+      "scraped_at": "2026-04-12T20:02:11.407549"
     },
     {
       "region_code": "ch",
@@ -1025,11 +2552,11 @@
       "references_count": "1",
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/consultics-ag-17979636?country_id=41",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/17979636/image_128/Consultics%20AG?unique=86c433a",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/17979636/image_128/Consultics%20AG?unique=601b4f4",
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:24.453838"
+      "scraped_at": "2026-04-12T20:02:12.066124"
     },
     {
       "region_code": "ch",
@@ -1055,7 +2582,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:48:24.885625"
+      "scraped_at": "2026-04-12T20:02:12.712062"
     },
     {
       "region_code": "ch",
@@ -1081,7 +2608,7 @@
         }
       ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:25.292902"
+      "scraped_at": "2026-04-12T20:02:13.331179"
     },
     {
       "region_code": "ch",
@@ -1102,7 +2629,7 @@
       "about_text": "SMILE est leader dans l’intégration de solutions Open Source en Europe. Nous sommes le one-stop shop de l’Open Source, quelque soit votre besoin en informatique, nous pourrons vous conseiller une ou plusieurs solutions Open Source, que ce soit sur les domaines de la gestion de contenu, l’E-commerce, le décisionnel et bien évidemment l’ERP. SMILE et Odoo : une histoire qui dure. En 2007 nous identifions Odoo comme une solution intéressante et en 2008 nous nous lançons dans l'aventure. Notre partenariat avec Odoo s'est alors renforcé jusqu'à devenir Gold Partner depuis plusieurs années déjà. Nous sommes également présents auprès de l'éditeur lors d'évènements comme l'Odoo Tour, Odoo Experience, ... La diversité des compétences de nos équipes, alliée à la richesse d'Odoo, nous permet d'intégrer Odoo dans des secteurs d'activité variés (Retail & eCommerce, Services aux entreprises, Conseil, Organisations à but non lucratif, Industrie, Loisirs, Secteur Public, ...) et pour des métiers divers (Ventes, CRM, Back-office e-Commerce, Comptabilité, Facturation, Achats, Gestion de stocks, POS, SI métier, ... ) Notre objectif, créer avec nos clients un partenariat sur la durée. Notre offre de services à 360° nous permet de vous accompagner sur toutes les phases de votre projet : pour la Préparation : notre service de conseil pour la Réalisation : une méthodologie projet : Cycle en V ou méthode agilisée des outils adaptés : plateforme d'Intégration Continue outil de ticketing pour l’Utilisation : un centre de formation ( https://formations. opensourceschool.fr/ ) pour l’Exploitation : une équipe dédiée à la TMA (Maintenance corrective et évolutive) un hébergement certifié iso 27001 Ainsi nos compétences mises au service d’Odoo nous ont permis de réaliser certains des plus beaux projets d’Odoo, comme Toyota , Wavestone (en partenariat direct avec Odoo) ou UGC. Retrouvez nous sur : https://smile.eu/fr/technologies/odoo Et nos références sur : https://smile.eu/fr/realisations",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:48:25.622795"
+      "scraped_at": "2026-04-12T20:02:13.974240"
     }
   ]
 }

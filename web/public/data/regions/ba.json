@@ -2,7 +2,7 @@
   "region_code": "ba",
   "country_code": "BA",
   "country_name": "Bosnia and Herzegovina",
-  "scraped_at": "2026-04-09T07:46:50.845257",
+  "scraped_at": "2026-04-12T19:59:33.392632",
   "total_partners": 2,
   "source_url": "https://www.odoo.com/partners/country/bosnia-and-herzegovina-17",
   "partners": [
@@ -43,7 +43,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:50.270833"
+      "scraped_at": "2026-04-12T19:59:32.113684"
     },
     {
       "region_code": "ba",
@@ -74,7 +74,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:50.557531"
+      "scraped_at": "2026-04-12T19:59:32.713175"
     }
   ]
 }

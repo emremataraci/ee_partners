@@ -2,7 +2,7 @@
   "region_code": "se",
   "country_code": "SE",
   "country_name": "Sweden",
-  "scraped_at": "2026-04-09T07:53:31.704014",
+  "scraped_at": "2026-04-12T20:11:27.773112",
   "total_partners": 5,
   "source_url": "https://www.odoo.com/partners/country/sweden-189",
   "partners": [
@@ -21,7 +21,7 @@
       "references_count": "44",
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/linserv-ab-857764?country_id=189",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/857764/image_128/Linserv%20AB?unique=a41dff3",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/857764/image_128/Linserv%20AB?unique=848dd93",
       "about_text": "Since 2002 Linserv has been helping companies and organisations to implement Open Source technology and systems. We provide our customers with both Business applications and IT infrastructure service. In this way we effectively bridge \"the gap\" between good infrastructure and good business solutions. Our goal is to be the obvious choice for companies that want a comprehensive IT partner who takes responsibility for the entire solution. Through our unique expertise and collaboration with leading distributors of services and equipment, we offer comprehensive IT services. We make Open Source easy. <https://youtu.be/jY7apYTyEAo?si=ud7Pqliz_swvjjas >",
       "certifications_breakdown": [
         {
@@ -71,7 +71,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:53:29.945060"
+      "scraped_at": "2026-04-12T20:11:24.747381"
     },
     {
       "region_code": "se",
@@ -88,7 +88,7 @@
       "references_count": "31",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/ucs-onedo-ab-21483030?country_id=189",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/21483030/image_128/UCS%20OneDo%20AB?unique=07bbe91",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/21483030/image_128/UCS%20OneDo%20AB?unique=10a3fca",
       "about_text": "UCS OneDo är experter på Odoo, vi hjälper företag att digitalisera, effektivisera och växa – med lösningar som anpassas helt efter verksamhetens behov. Som certifierad Odoo Partner i Sverige erbjuder vi ett komplett tjänsteutbud – från rådgivning, implementation och integration till utbildning och löpande support. Tack vare vår kombinerade expertis inom affärssystem och ekonomi kan vi även tillhandahålla outsourcad redovisning direkt i Odoo, vilket ger en sömlös och effektiv ekonomihantering. Vi ser till att ditt Odoo-system fungerar smidigt, är skräddarsytt för din verksamhet och fortsätter att utvecklas i takt med dina mål. På UCS OneDo tror vi att teknik ska vara enkel, tydlig och skapa verkligt värde. Vårt uppdrag är att göra affärssystemet till ett verktyg som underlättar vardagen — inte ett hinder. UCS OneDo AB är specialiserade på tjänster kring Odoo. Bolaget hjälper företag att välja, implementera och förvalta hela eller delar av Odoo-plattformen, med fokus på systemanalys, implementation, integrationer, utbildning och support Vår ambition på UCS Group är att alla våra kunder erbjuds lösningar, produkter och tjänster efter deras behov och budget.",
       "certifications_breakdown": [
         {
@@ -130,7 +130,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:53:30.516924"
+      "scraped_at": "2026-04-12T20:11:25.401553"
     },
     {
       "region_code": "se",
@@ -165,7 +165,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:53:30.791829"
+      "scraped_at": "2026-04-12T20:11:26.098848"
     },
     {
       "region_code": "se",
@@ -186,7 +186,7 @@
       "about_text": "Flyt is a Gold Partner in Norway with extensive ERP experience, and they deliver full projects also in Sweden, including full accounting localization. They focus on the mid-size market with clients of typical size 25-500 employees. Contact syver@flytconsulting.no or call +4790669234 if you need a properly run Odoo project and a long term partner that can help you stay sharp also in the long run.",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:53:31.118193"
+      "scraped_at": "2026-04-12T20:11:26.677869"
     },
     {
       "region_code": "se",
@@ -207,7 +207,7 @@
       "about_text": "Do you think implementing ERP takes forever? Not with us! Your challenge is our challenge, and we solve it agilely step by step. We provide you with a solution that supports your growth and makes your work life better and smoother. SprintIT has been selected among the top three Odoo suppliers in Europe two years in a row, and we have been an Odoo Gold Partner in Finland since 2018. Your ERP project is in good hands with us!",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:53:31.457097"
+      "scraped_at": "2026-04-12T20:11:27.220982"
     }
   ]
 }

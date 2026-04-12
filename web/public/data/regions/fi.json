@@ -2,7 +2,7 @@
   "region_code": "fi",
   "country_code": "FI",
   "country_name": "Finland",
-  "scraped_at": "2026-04-09T07:50:08.985764",
+  "scraped_at": "2026-04-12T20:04:55.582551",
   "total_partners": 8,
   "source_url": "https://www.odoo.com/partners/country/finland-69",
   "partners": [
@@ -21,7 +21,7 @@
       "references_count": "121",
       "certified_experts_count": "8",
       "profile_url": "https://www.odoo.com/partners/sprintit-4337478?country_id=69",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/4337478/image_128/SprintIT?unique=2009c66",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/4337478/image_128/SprintIT?unique=47f3ca6",
       "about_text": "SprintIT - ERP Made Easy With over 1000 projects and 450 clients, SprintIT is the leading and most established Odoo expert in the Nordics. We are the largest Odoo house in the region, born from a passion for open-source ERP in 2014. Representing nearly 10 nationalities, our 50+ Sprinters operate from offices in Finland and India. We've been ranked among the TOP 3 best Odoo partners in Europe twice and are the longest-standing Odoo Gold Partner in Finland. Looking for a partner in Finland? See our websites in Finnish and English and contact us! High quality services Our experts are ERP professionals with deep business understanding paired with technological expertise. We tailor Odoo to fit your needs, with strong experience in manufacturing, retail, wholesale, service and project businesses and expert organizations — and we're always excited to conquer new challenges. Read more SprintIT Odoo Accounting package Doing business in Finland with Odoo? You’ll need our localized SprintIT Odoo Accounting package — and possibly our payroll solution: Odoo Payroll ! Sure, integrations work to accounting softwares, but having everything in one system is pure gold! Our Odoo accounting features are continuously developed to meet changing legislation and customer needs. Read more Ask our clients Our journey of constant learning and growth wouldn’t be possible without our 450 clients . And with over 1 000 successful Odoo projects delivered, their stories speak for themselves! See our customer list below and click the link to read more about their stories with Odoo and us. References",
       "certifications_breakdown": [
         {
@@ -79,7 +79,7 @@
           "count": 2
         }
       ],
-      "scraped_at": "2026-04-09T07:50:06.069240"
+      "scraped_at": "2026-04-12T20:04:49.855829"
     },
     {
       "region_code": "fi",
@@ -90,7 +90,7 @@
       "district": "",
       "country": "Finland",
       "full_address": "Helsinki, 00510",
-      "rating_percentage": "86",
+      "rating_percentage": "85",
       "average_project_size": "32 users",
       "large_project_size": "~400 users",
       "references_count": "57",
@@ -146,7 +146,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:50:06.643293"
+      "scraped_at": "2026-04-12T20:04:50.768596"
     },
     {
       "region_code": "fi",
@@ -163,7 +163,7 @@
       "references_count": "23",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/collapick-oy-4353722?country_id=69",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/4353722/image_128/Collapick%20Oy?unique=6c0ba0a",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/4353722/image_128/Collapick%20Oy?unique=d35951b",
       "about_text": "Collapick – Tempoa tekijöille Nosta tehokkuutesi uudelle tasolle toimialakohtaisesti optimoitujen ratkaisujemme avulla! Olemme valmistavaan teollisuuteen, tukkukauppaan sekä huoltoon keskittynyt ohjelmistopalveluyritys, joka kehittää tuotteitaan sekä Odoota näitä toimialoja varten yhdessä asiakkaidensa kanssa. Kehitystyötämme ovat esimerkiksi helppokäyttöliittymät tuotannon (MES), varaston sekä huollon tarpeisiin, sekä erilaiset lisäosat kuten Collapick työajanseuranta ja tuntipankki, Collapick tuotannon Gantt tai Collapick Raportointi. Tarjoamme yrityksille järjestelmäkehitystä, asiakaskohtaisia muokkauksia, lisäosia sekä integraatioita. Kaikki kehitystyö tehdään oman tiimimme voimin Suomessa. Asiakkaamme voivat luottaa siihen, että he saavat Odoon vakioratkaisujen lisäksi yritystoimintaansa optimoituja toimintoja, nopeaa tukea ongelmatilanteissa ja asiantuntevaa asiakaspalvelua. Varaa maksuton kartoitus ja Odoo demo verkkosivuiltamme: https://collapick.com/demo/ --------------------- Raise your efficiency to a new level with our industry-optimized solutions! We are a software service company focused on the manufacturing industry, wholesale and maintenance, which develops its products and Odoo for these industries together with its customers. Our development work is, for example, easy-to-use interfaces for the needs of production (MES), warehouse and maintenance, as well as various add-ons such as Collapick working time monitoring and hour bank, Collapick production Gantt or Collapick Reporting. We offer companies system development, customer-specific changes, add-ons and integrations. All development work is done by our own team in Finland. Our customers can be confident that, in addition to Odoo's standard solutions, they will receive functions optimized for their business, fast support in problem situations and expert customer service. Book a free meeting and Odoo demo: markku.pyorala@collapick.com Viinikankatu 47 33800 Tampere Kauppakatu 20 80100 Joensuu Tel : 040 989 1350 Email : info@collapick.com",
       "certifications_breakdown": [
         {
@@ -193,7 +193,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:50:07.038653"
+      "scraped_at": "2026-04-12T20:04:51.527377"
     },
     {
       "region_code": "fi",
@@ -210,7 +210,7 @@
       "references_count": "31",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/revise-oy-1457039?country_id=69",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1457039/image_128/Revise%20Oy?unique=c32a2ba",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1457039/image_128/Revise%20Oy?unique=913717d",
       "about_text": "Asiakkaamme liiketoiminnan ja sen kehitysvaiheen ymmärtäminen on ydinosaamistamme. Teemme tarvekartoituksen ja sen pohjalta toimitamme yhdessä priorisoidun helposti laajennettavan integroidun ERP-ratkaisun. Ajantasaisen informaation avulla asiakkaamme liiketoimintaprosessit tehostuvat ja kilpailukyky paranee. Ammattitaitoinen ja joustava toimintatapamme on pitkäaikaisten kumppanuuksien perusta. Työkaluina käytämme ODOO sovelluksia ja tähän integroitua Revise EPM työkalua. ----------------------------------------------------- Understanding our customer's business and its development stage is a part of our core competence. We will conduct a needs assessment, and deliver a jointly prioritized, easily extendable ERP solution. With a help of up-to-date information more efficient business processes and improved competitiveness will be achieved. Our professional and flexible approach forms the basis for long-standing cooperation. The tools we use are ODOO-applications integrated to the Revise EPM tool.",
       "certifications_breakdown": [
         {
@@ -260,7 +260,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:50:07.352758"
+      "scraped_at": "2026-04-12T20:04:52.155959"
     },
     {
       "region_code": "fi",
@@ -318,7 +318,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:50:07.684394"
+      "scraped_at": "2026-04-12T20:04:52.986379"
     },
     {
       "region_code": "fi",
@@ -329,13 +329,13 @@
       "district": "Helsinki",
       "country": "Finland",
       "full_address": "Uusimaa, Helsinki, 00380",
-      "rating_percentage": "89",
-      "average_project_size": "9 users",
+      "rating_percentage": "100",
+      "average_project_size": "8 users",
       "large_project_size": "~50 users",
-      "references_count": "15",
+      "references_count": "16",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/crafthouse-oy-6218321?country_id=69",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/6218321/image_128/Crafthouse%20Oy?unique=571cbee",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/6218321/image_128/Crafthouse%20Oy?unique=77b3426",
       "about_text": "Crafthouse toimittaa Odoo-järjestelmään pohjautuvia ratkaisuja kaikille toimialoille kuten vähittäiskauppaan, tukkukauppaan, valmistavaan teollisuuteen ja palvelualalle. Henkilöstöllämme on yli 6 vuoden kokemus Odoo-järjestelmästä ja siihen liittyvistä konsultointi- ja kehitystehtävistä. Toteutamme vaativiakin sovituksia, räätälöintejä ja integraatioita Odoo-järjestelmän päälle. Konsulttimme ovat sertifioituja Odoo-asiantuntijoita valmiina palvelemaan Teitä ja täyttämään yrityksenne tarpeet. Crafthouse provides Odoo-based solutions to all industries like retail, wholesale, manufacturing and service sector in Finland. Our people have 6+ year experience of working with Odoo. We provide any kind of customizations and integrations tailored exactly for customer's requirements. Our consultants are certified Odoo experts, ready to serve and fulfill your needs. Contact information: Crafthouse Oy Atomitie 5 C 00370 Helsinki Tel: +358 10 8370120 Email: info@crafthouse.fi Sales email: myynti@crafthouse.fi",
       "certifications_breakdown": [
         {
@@ -369,7 +369,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:50:08.019700"
+      "scraped_at": "2026-04-12T20:04:53.689324"
     },
     {
       "region_code": "fi",
@@ -386,7 +386,7 @@
       "references_count": "8",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/ahkio-consulting-oy-4245141?country_id=69",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/4245141/image_128/Ahkio%20Consulting%20Oy?unique=8dcf3fd",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/4245141/image_128/Ahkio%20Consulting%20Oy?unique=3b1daa0",
       "about_text": "Ahkio Consulting Oy on Odoo-kumppani, joka auttaa yrityksiä kehittämään ja automatisoimaan liiketoimintaprosesseja Odoo-ratkaisujen sekä erilaisten integraatioiden avulla. Tavoitteenamme on olla luotettava kumppani, joka auttaa teitä keskittymään olennaiseen, oman liiketoimintanne menestykseen. Ahkio on avoimen lähdekoodin toiminnanohjausjärjestelmien, kuten Odoon, ympärille palveluita ja ratkaisuja tarjoava yritys. Palveluihimme kuuluvat muun muassa toiminnanohjausjärjestelmien käyttöönotot ja päivitykset, ohjelmistojen räätälöinnit sekä laajat konsultointipalvelut. Toiminnanohjausjärjestelmien lisäksi toimitamme integroituja verkkokaupparatkaisuja, taloushallinnon palveluita sekä rajapintoja moniin muihin järjestelmiin. Ahkion vahvuutena on aidosti asiakaslähtöinen toimintakulttuuri sekä kattava liiketoiminnan tarpeiden ymmärrys. Ymmärrämme asiakkaidemme liiketoiminnan vaatimukset ja tuemme heitä kasvamaan ja menestymään. ​ Tutustu Ahkion palveluihin Ahkion Odoo palvelut Tarjoamme kattavat Odoo-palvelut yrityksille eri toimialoilla. Autamme asiakkaitamme Odoo-järjestelmän koko elinkaaren ajan käyttöönotosta arjen ylläpitoon. ​ Lue lisää Ahkion Odoo-palveluista Odoo versiopäivitys Järjestelmän säännöllinen päivittäminen on tärkeää, sillä se ei ainoastaan tuo käyttöön uusia ominaisuuksia, vaan parantaa myös tietoturvaa ja järjestelmän toimivuutta. Mikäli versionpäivitys mietityttää, lue lisää syistä miksi ja milloin päivittäminen on ajankohtaista blogistemme tai tutustu versionpäivityksen kulkuun nettisivuillamme. ​​ Tutustu versionpäivitysprosessiin ​​ Milloin päivittäminen on ajankohtaista?",
       "certifications_breakdown": [
         {
@@ -408,7 +408,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:50:08.355111"
+      "scraped_at": "2026-04-12T20:04:54.388761"
     },
     {
       "region_code": "fi",
@@ -429,7 +429,7 @@
       "about_text": "Via laurea, JSC hold more than 10 years of experience in the industry, having established as the leading Odoo partner in Lithuania . With our extensive knowledge and expertise, we are well-suited to supporting organisations of all sizes and industries with their unique needs. Being an official member of Suomi-Liettua kauppayhdistys (Finland-Lithuania business association), we make regular visits to Finland. We have an ambitious team of certified Odoo specialists and in-house programmers, who are ready to take on even the most complex projects. Our services include: Odoo Implementation ( view our pricing plans ); Development of custom solutions; Odoo ERP training; Software maintenance; Trust and transparency are our key values, which is why we build our client relationships on full honesty. Our primary mission — to help Your company grow with the best business management solutions! Book a consultation 10+ 40+ 800+ 150+ ​ Years' experience Successful projects Active users Solutions created",
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:50:08.629184"
+      "scraped_at": "2026-04-12T20:04:55.036455"
     }
   ]
 }

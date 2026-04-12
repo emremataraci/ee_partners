@@ -2,7 +2,7 @@
   "region_code": "ad",
   "country_code": "AD",
   "country_name": "Andorra",
-  "scraped_at": "2026-04-09T07:46:30.662055",
+  "scraped_at": "2026-04-12T19:59:00.925429",
   "total_partners": 3,
   "source_url": "https://www.odoo.com/partners/country/andorra-1",
   "partners": [
@@ -15,13 +15,13 @@
       "district": "AD700",
       "country": "Andorra",
       "full_address": "Escaldes, AD700",
-      "rating_percentage": "89",
+      "rating_percentage": "94",
       "average_project_size": "13 users",
       "large_project_size": "~100 users",
-      "references_count": "22",
+      "references_count": "23",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/bdr-group-slu-22015187?country_id=1",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/22015187/image_128/BDR%20GROUP%20SLU?unique=3ad5fcc",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/22015187/image_128/BDR%20GROUP%20SLU?unique=8f737ef",
       "about_text": "Impulsa tu negocio con BDR GROUP, expertos en Odoo En BDR GROUP llevamos más de seis años ayudando a empresas como la tuya a digitalizarse con Odoo. Somos partners oficiales y especialistas en implementación, personalización y soporte , adaptando el ERP a tus procesos reales para que funcione como tú necesitas. Con oficinas en Barcelona y Andorra , trabajamos con compañías de todos los sectores, optimizando desde la gestión financiera y el CRM, hasta la producción, logística y más . Nuestro objetivo es claro: que tu negocio gane en eficiencia, control y escalabilidad. Apostamos por la innovación, la cercanía y resultados reales . Transforma tu empresa con nosotros.",
       "certifications_breakdown": [
         {
@@ -33,6 +33,10 @@
         {
           "industry": "IT / Communication / Marketing",
           "count": 3
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
         },
         {
           "industry": "Health / Social Welfare / Pharmaceutical",
@@ -47,10 +51,6 @@
           "count": 1
         },
         {
-          "industry": "Wholesale / Retail",
-          "count": 1
-        },
-        {
           "industry": "Food / Hospitality / Tourism / Beverage",
           "count": 1
         },
@@ -59,7 +59,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:29.404761"
+      "scraped_at": "2026-04-12T19:58:58.995380"
     },
     {
       "region_code": "ad",
@@ -97,7 +97,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:29.797607"
+      "scraped_at": "2026-04-12T19:58:59.651981"
     },
     {
       "region_code": "ad",
@@ -136,7 +136,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:30.153935"
+      "scraped_at": "2026-04-12T19:59:00.217961"
     }
   ]
 }

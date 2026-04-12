@@ -2,7 +2,7 @@
   "region_code": "gr",
   "country_code": "GR",
   "country_name": "Greece",
-  "scraped_at": "2026-04-09T07:51:36.374968",
+  "scraped_at": "2026-04-12T20:08:17.355226",
   "total_partners": 7,
   "source_url": "https://www.odoo.com/partners/country/greece-86",
   "partners": [
@@ -15,13 +15,13 @@
       "district": "",
       "country": "Greece",
       "full_address": "Athens, 15343",
-      "rating_percentage": "94",
+      "rating_percentage": "88",
       "average_project_size": "13 users",
       "large_project_size": "~50 users",
-      "references_count": "31",
+      "references_count": "30",
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/connecting-dots-pc-1313591?country_id=86",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1313591/image_128/Connecting%20Dots%20P.C.?unique=793194c",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1313591/image_128/Connecting%20Dots%20P.C.?unique=7c00455",
       "about_text": "Existences #connectingdots: Your Trusted Odoo Partner for Scalable & Localized Solutions At Existanze #connectingdots , we are committed to delivering tailored, high-quality Odoo solutions that empower businesses to streamline operations and drive growth. As an experienced Odoo Silver Partner , we provide end-to-end implementation, customization, and long-term support, ensuring that our clients maximize the platform's potential. Our dedication extends beyond standard Odoo implementations—we specialize in Greek accounting localization and AADE compliance , developing robust modules that seamlessly integrate with the Greek financial and tax ecosystem. By prioritizing system stability, scalability, and security , we ensure that businesses operate efficiently within the evolving regulatory landscape. With a client-first approach , we go beyond software deployment, offering strategic guidance, expert training, and continuous support. Whether you need custom integrations, process automation, or compliance-focused solutions , Existanze #connectingdots is your trusted partner in achieving operational excellence with Odoo. Contact your Odoo Expert Industries We Specialize In: ✔ Logistics & Warehousing ✔ E-commerce ✔ Shipping & Forwarding ✔ Energy & Utilities ✔ Yachting ✔ Engineering ✔ Hospitality ✔ Medical & Pharmaceutical Distribution ✔ Fashion & Apparel ✔ Automotive ✔ Construction & Real Estate ✔ Medical Device Companies ✔ Universities & Schools Odoo Consulting & Architecture We offer expert consultancy services on key Odoo modules that support effective business management, including: Administration and Accounting Billing Customer Relationship Management (CRM) Warehouse and Logistics Production Manufacturing Human Resources Our team is committed to providing comprehensive guidance in these areas to enhance your organizational efficiency. Specializing in the integration of various software and business applications Softwares SAP Salesforce Oracle SoftOne Entersoft Pylon EpsilonNet CMS (Content Management Systems) Shopify Magento PrestaShop Woo Commerce cs.cart Odoo Custom Modules With a team of specialized developers, Existanze #connectingdots empowers businesses with fully customized modules tailored to their unique needs. Leveraging the flexibility of the Odoo framework, we design solutions that streamline operations and enhance efficiency. Explore some of our EXN s : 💡 EXN Localization module 💡 EXN AADE Module (electronic issuance of invoices and transmission to myDATA in real time, delivery notes, etc) 💡 EXN EFT - POS Module 💡 EXN VoiP Module You can also find us on: LinkedIn Instagram",
       "certifications_breakdown": [
         {
@@ -71,7 +71,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:33.760753"
+      "scraped_at": "2026-04-12T20:08:12.904616"
     },
     {
       "region_code": "gr",
@@ -130,7 +130,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:34.108172"
+      "scraped_at": "2026-04-12T20:08:13.583765"
     },
     {
       "region_code": "gr",
@@ -165,7 +165,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:34.552448"
+      "scraped_at": "2026-04-12T20:08:14.220018"
     },
     {
       "region_code": "gr",
@@ -203,7 +203,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:35.046886"
+      "scraped_at": "2026-04-12T20:08:14.856715"
     },
     {
       "region_code": "gr",
@@ -233,7 +233,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:35.347795"
+      "scraped_at": "2026-04-12T20:08:15.523669"
     },
     {
       "region_code": "gr",
@@ -263,7 +263,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:35.780377"
+      "scraped_at": "2026-04-12T20:08:16.174629"
     },
     {
       "region_code": "gr",
@@ -284,7 +284,7 @@
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:51:36.040049"
+      "scraped_at": "2026-04-12T20:08:16.711283"
     }
   ]
 }

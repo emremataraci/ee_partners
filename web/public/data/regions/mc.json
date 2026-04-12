@@ -2,7 +2,7 @@
   "region_code": "mc",
   "country_code": "MC",
   "country_name": "Monaco",
-  "scraped_at": "2026-04-09T07:52:33.030889",
+  "scraped_at": "2026-04-12T20:09:51.458106",
   "total_partners": 1,
   "source_url": "https://www.odoo.com/partners/country/monaco-133",
   "partners": [
@@ -58,7 +58,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:32.695232"
+      "scraped_at": "2026-04-12T20:09:50.730979"
     }
   ]
 }

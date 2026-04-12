@@ -2,8 +2,8 @@
   "region_code": "it",
   "country_code": "IT",
   "country_name": "Italy",
-  "scraped_at": "2026-04-09T07:52:15.913311",
-  "total_partners": 60,
+  "scraped_at": "2026-04-12T20:09:25.690561",
+  "total_partners": 61,
   "source_url": "https://www.odoo.com/partners/country/italy-106",
   "partners": [
     {
@@ -21,7 +21,7 @@
       "references_count": "150",
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/stesi-consulting-2649749?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/2649749/image_128/STeSI%20Consulting?unique=00247c2",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/2649749/image_128/STeSI%20Consulting?unique=217d18b",
       "about_text": "STeSI Consulting è ufficialmente il primo partner Odoo in Italia, con oltre cento progetti in ambito Enterprise attualmente seguiti (nei più svariati settori) vanta un esperienza effettiva su Odoo e sui processi aziendali senza paragoni. prenota una demo/call conoscitiva online Numero Verde: 800 88 10 32 chiedi a s.A.I. consulente AI STeSI Consulting In STeSI Consulting siamo consapevoli che il nostro successo dipende dalla soddisfazione dei nostri clienti ed è per questo che forniamo impegno, metodo, esperienza e competenza per garantire risultati rapidi ed efficienti. Studiamo \"con e per i nostri clienti\" le migliori soluzioni per automatizzare e gestire al meglio la loro organizzazione. Siamo un team di consulenti e sviluppatori software in grado di seguire a 360° i propri clienti e fornire servizi ad elevato valore aggiunto. Il nostro team di sviluppo è di effettuare qualsiasi implementazione (in Odoo e non solo) ma non ci piace reinventare la ruota per cui cerchiamo sempre prima un approccio consulenziale (si può fare diversamente ? Qualcuno ha già affrontato il medesimo problema ?) Abbiamo seguito (e seguiamo) diversi progetti in ambito logistico, produzione ed integrazione con i più svariati sistemi software ed hardware; dai PLC a sistemi di Pick to light e poi SAP, WooCommerce, Prestashop, piattaforme custom ... e ancora: catene di Hotels, centri di Formazione, società di consulenza, catene di negozi ... Siamo membri dell' Odoo Best Partner Alliance (rete che riunisce esclusivamente il miglior partner Odoo, per ogni nazione, e nata per supportare i clienti entreprise su eventuali progetti internazionali) Settori di specializzazione: logistica e trasporti ​ produzione gestione integrata delle vendite online ​​ amministrazione e contabilità Vedi un nostro caso di successo: caso di successo produzione sul sito di Odoo oppure la recentissima testimonianza di uno dei nostri clienti (il video dura 10 minuti, ma visto l'importanza della scelta il suggerimento è di vederlo tutto: guarda ora ) Scopri i nostri corsi online su Odoo (accessibili gratuitamente ai nostri clienti). Il nostro Team è sempre aperto a nuove sfide e progetti; siamo in grado di guidarti e supportarti in ogni fase della tua crescita organizzativa: idea, progetto, realizzazione, supporto e qualsiasi personalizzazione (integriamo spesso le nostre soluzioni con hardware, app android e software di terze parti). Form di contatto: contattaci Meet online: prenota una demo/call conoscitiva online Numero Verde: 800 88 10 32 Scopri Chi Siamo e più su di noi su www.stesi.consulting Operiamo in tutta Italia e all'estero in modalità full remote ma, dove serve, interveniamo in presenza. Il consulente STeSI Consulting più vicino a te lo trovi nelle seguenti regioni (NB: serviamo anche le regioni non in elenco): Piemonte Lombardia Trentino Emilia Romagna Lazio Umbria Campania Basilicata Sicilia Sardegna Numero Verde 800 88 10 32 Best Odoo Partner Alliance, ovvero il miglior partner di ogni nazione nata con lo scopo principale di supportare i progetti a livello internazionale, ma anche di scambiare idee, best practice e collaborare attivamente su progetti più ambiziosi. Distribuzione clienti STeSI Consulting ad Agosto 2025: Chi siamo (intervista) Logistica Gestione del personale Soluzioni IoT ..e molto altro contattaci o prenota un meeting online",
       "certifications_breakdown": [
         {
@@ -79,7 +79,7 @@
           "count": 4
         }
       ],
-      "scraped_at": "2026-04-09T07:51:49.863414"
+      "scraped_at": "2026-04-12T20:08:40.289755"
     },
     {
       "region_code": "it",
@@ -93,10 +93,10 @@
       "rating_percentage": "92",
       "average_project_size": "20 users",
       "large_project_size": "~300 users",
-      "references_count": "71",
+      "references_count": "70",
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/huroos-srl-7274999?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/7274999/image_128/Huroos%20Srl?unique=27798c8",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/7274999/image_128/Huroos%20Srl?unique=792c324",
       "about_text": "Huroos è una Tech Company specializzata nell'implementazione di software ERP Odoo . Sviluppiamo verticali e moduli per diversi settori industriali, con un approccio smart e innovativo , pronti a guidare la tua azienda nel futuro digitale. Come partner tecnologico mettiamo a disposizione delle aziende un ecosistema di servizi che comprendono: Analisi di processi, Formazione funzionale, Sviluppo custom e risorse dedicate per determinate aree aziendali . CONTATTACI",
       "certifications_breakdown": [
         {
@@ -123,7 +123,7 @@
         },
         {
           "industry": "IT / Communication / Marketing",
-          "count": 8
+          "count": 7
         },
         {
           "industry": "Science & Technology",
@@ -154,7 +154,7 @@
           "count": 2
         }
       ],
-      "scraped_at": "2026-04-09T07:51:51.405394"
+      "scraped_at": "2026-04-12T20:08:43.219522"
     },
     {
       "region_code": "it",
@@ -171,7 +171,7 @@
       "references_count": "44",
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/pixora-srl-6751254?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/6751254/image_128/Pixora%20S.r.l.?unique=63741fd",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/6751254/image_128/Pixora%20S.r.l.?unique=a43fb1e",
       "about_text": "Nata nel 2021, PIXORA è una start-up innovativa, che si basa su una forte esperienza dei suoi dipendenti, tecnici e consulenti, sui sistemi ERP e sulle tecnologie IoT. PIXORA offre ai suoi clienti servizi per analizzare le loro sfide di business e progetta, costruisce e organizza la loro strategia IT utilizzando i migliori standard di IT Project Management e Change Management. Ci focalizziamo ad abilitare processi efficienti, con pianificazione e controllo, applicando il modello del ciclo di miglioramento continuo. Raccomandiamo le migliori soluzioni, sia Open Source che Enterprise, discutendo con il cliente vantaggi e svantaggi di qualsiasi modello per implementare le migliori opzioni che si adattano alle esigenze aziendali. PIXORA ha anche l'ambizione di superare la sfida dell'integrazione di molti protocolli di comunicazione e delle diverse fonti di dati, che coesistono nelle tecnologie IoT, in un'unica piattaforma di gestione, facile da usare e basata sulle tecnologie IoT più aggiornate. Siamo utenti soddisfatti di Odoo e come partner di Odoo siamo pronti a farti concentrare sulle tue competenze, in modo da occuparci noi del resto. Scrivi a odoo@pixora.it oppure prenota un meeting di 30 minuti qui Video Call Started in 2021, PIXORA is an innovative start-up, which relies on the strong experience of its members, technicians, and consultants on ERP systems and IoT technologies. PIXORA offers customers the services to assess their business challenges and design, build and manage their IT strategy using the best practices of IT Project Management and Change Management. Our focus is on efficient processes, planning and control, then applying a continuous improvement cycle. We recommend the best solutions, both Open Source and Enterprise models, discussing the advantages and disadvantage of any model and implement the best options that fit business needs. We are happy Odoo users and your Odoo Partner ready to let you concentrate on your competencies, so we take care of the rest. Book an online meeting with us Video Call or email us @ odoo@pixora.it",
       "certifications_breakdown": [
         {
@@ -225,7 +225,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:51.749798"
+      "scraped_at": "2026-04-12T20:08:43.895729"
     },
     {
       "region_code": "it",
@@ -237,12 +237,12 @@
       "country": "Italy",
       "full_address": "Roma, Roma, 00165",
       "rating_percentage": "96",
-      "average_project_size": "43 users",
+      "average_project_size": "42 users",
       "large_project_size": "~400 users",
-      "references_count": "41",
+      "references_count": "42",
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/rapsodoo-italia-srl-3970857?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/3970857/image_128/Rapsodoo%20Italia%20S.r.l.?unique=e507594",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/3970857/image_128/Rapsodoo%20Italia%20S.r.l.?unique=d3b5a72",
       "about_text": "Rapsodoo wanted to make life easier for companies and their people, and we have succeeded with Odoo: an End2End platform that allows you to manage your company 360° with a single software while remaining accessible and intuitive. In our many years of experience as one of Europe’s leading Odoo partners, we have gained profound knowledge through the implementation of hundreds of Odoo projects for medium and large companies, including MRP, ERP, CRM and many other modules. Rapsodoo è uno dei più importanti partner Odoo Europei con un forte focus verso le medie e grandi imprese. E' composto da un team di imprenditori e investitori con importanti esperienze alle spalle, con il \"folle progetto\" di aggregare altri giovani imprenditori e talenti per costruire un innovativo, unico, ispirato e divertente gruppo internazionale. Rapsodoo ha al momento oltre 100 talenti distribuiti tra Italia, Svizzera, Spagna e Germania.",
       "certifications_breakdown": [
         {
@@ -300,7 +300,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:52.251682"
+      "scraped_at": "2026-04-12T20:08:44.708551"
     },
     {
       "region_code": "it",
@@ -317,7 +317,7 @@
       "references_count": "38",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/digiduu-srl-15891421?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/15891421/image_128/Digiduu%20S.r.l.?unique=b984b0a",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/15891421/image_128/Digiduu%20S.r.l.?unique=1b2f256",
       "about_text": "DNA digitale per l'evoluzione delle PMI Semplificare la complessità del business, e fluidificare le interazioni tra dati, attività e persone: questa è la mission di Digiduu , perché non esiste processo aziendale che non possa essere migliorato attraverso la digitalizzazione. Grazie ad applicativi pensati \"su misura\", Digiduu individua e fa emergere il valore nascosto nei vostri processi, in qualsiasi ambito del contesto organizzativo. Attività più efficienti e comunicazioni più veloci migliorano l'esperienza e creano appartenenza. Vuoi scoprire come il digitale può trasformare il tuo business? Contatta i nostri esperti Odoo L'approccio alla digital transformation di chi disegna i modelli di business . Digiduu è differente perché nasce dall'advisory. In Digiduu , la profonda conoscenza del mondo delle PMI e l'esperienza nelle tecnologie digitali si incontrano, per offrire una visione ampia ma nello stesso tempo verticale che porta pensiero innovativo e cambiamento evolutivo nelle aziende. Comprendiamo quello che serve veramente, non solo quello che chiedi.​ Crediamo nello sviluppo delle competenze , prima che del codice, attraverso Formazione e Workshop.​ Amiamo accompagnare le persone nel percorso di cambiamento, adattando i processi con feedback continui.​ Facciamo funzionare l'organizzazione , oltre che il software.​ Vuoi scoprire il nostro metodo innovativo? Richiedi un appuntamento Digiduu è Gold Partner Odoo . Odoo è ll’ERP Open Source nr. 1 al mondo ideale per le PMI: con più di 80 moduli integrati tra loro permette di automatizzare e tracciare le operazioni da qualsiasi dispositivo e per tutti gli ambiti aziendali della tua PMI. Digiduu è Gold Partner Odoo. Condividendo con Odoo l'approccio \"open source\" e la mission Digiduu è in grado di sviluppare qualsiasi soluzione personalizzata e su misura, attraverso moduli facili da usare, espandibili e totalmente configurabili. Richiedi una demo gratuita o Registrati al webinar gratuito Guarda cosa abbiamo già fatto per gli altri Siamo una startup in forte ascesa grazie alla fiducia delle 15+ PMI che hanno investito in una digitalizzazione sana e concreta e hanno scelto il nostro metodo per scalare il loro business.",
       "certifications_breakdown": [
         {
@@ -359,7 +359,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:52.763808"
+      "scraped_at": "2026-04-12T20:08:45.533560"
     },
     {
       "region_code": "it",
@@ -426,7 +426,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:53.289276"
+      "scraped_at": "2026-04-12T20:08:46.190960"
     },
     {
       "region_code": "it",
@@ -443,7 +443,7 @@
       "references_count": "73",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/openforce-srl-1986856?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1986856/image_128/Openforce%20srl?unique=eb77784",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1986856/image_128/Openforce%20srl?unique=ded9327",
       "about_text": "Dal 2014 cresciamo insieme ad Odoo, con più di 1.000 utenti attivi e più di 150 progetti realizzati . Grazie alle competenze trasversali del team di Openforce siamo riusciti ad ottenere la fiducia di molteplici realtà. I nostri clienti non solo hanno scelto Odoo ma hanno incaricato Openforce di guidarli nello sviluppo del loro ERP. Accompagniamo le aziende nella realizzazione dei loro progetti, attraverso: ANALISI - Possibilità di disegnare il progetto Odoo insieme a PM di esperienza CONSULENZA - Figure specializzate da coinvolgere nei processi chiave dell'azienda FORMAZIONE - Preparazione attenta all'utilizzo dello strumento che si dovrà utilizzare tutti i giorni SVILUPPO - Team di sviluppatori pronti ad introdurre nuove funzionalità e integrare Odoo con altri sistemi SUPPORTO POST GO-LIVE - Personale dedicato all'help desk per supportare i clienti nelle operazioni quotidiane Siamo cresciuti con gli ERP a supporto di processi aziendali di diversi settori. Siamo specializzati in: Contabilità e fiscalità italiana Supply chain Controllo di gestione Produzione Logistica e Trasporto CRM E-Commerce Puoi consultare una delle nostre implementazioni di successo che Odoo ha ritenuto di pubblicare nel loro sito ufficiale : Vedi caso di successo LE NOSTRE SEDI Milano Via Tiziano 32 (M1 Buonarroti) Bolzano Via Marie Curie 17 Pedaso (FM) Via Mercantini 2 CONTATTACI",
       "certifications_breakdown": [
         {
@@ -497,7 +497,7 @@
           "count": 2
         }
       ],
-      "scraped_at": "2026-04-09T07:51:53.798016"
+      "scraped_at": "2026-04-12T20:08:46.892704"
     },
     {
       "region_code": "it",
@@ -514,7 +514,7 @@
       "references_count": "62",
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/quickstart2-srl-9923744?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/9923744/image_128/QuickStart2%20Srl?unique=1a2cc95",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/9923744/image_128/QuickStart2%20Srl?unique=9657845",
       "about_text": "Immaginate un'azienda dove ogni processo fluisce senza intoppi, dove le persone lavorano con entusiasmo e i risultati crescono costantemente. Non è un sogno: è quello che facciamo ogni giorno in QuickStart². Siamo i partner strategici che trasformano le PMI italiane ed europee in organizzazioni efficienti e performanti. Come? Integrando tecnologie open source avanzate, metodologie di crescita personale e processi innovativi in un ecosistema perfettamente sincronizzato. In 17 anni, abbiamo guidato oltre 300 aziende in questo percorso di trasformazione. Non ci limitiamo a implementare software: costruiamo sistemi dove tecnologia, persone e processi lavorano in armonia per massimizzare i risultati. Il nostro approccio è unico: uniamo l'eccellenza tecnica alla crescita delle persone. Automatizziamo i processi ripetitivi, integriamo i sistemi aziendali e formiamo i team per sfruttare al massimo queste potenzialità. Se volete portare la vostra azienda al livello successivo, siamo qui per guidarvi in questo viaggio di trasformazione. Perché la nostra missione è permettere a tutte le persone di lavorare felici in aziende che performano.",
       "certifications_breakdown": [
         {
@@ -568,7 +568,7 @@
           "count": 2
         }
       ],
-      "scraped_at": "2026-04-09T07:51:54.471394"
+      "scraped_at": "2026-04-12T20:08:47.593209"
     },
     {
       "region_code": "it",
@@ -579,13 +579,13 @@
       "district": "Padova",
       "country": "Italy",
       "full_address": "Padova, Padova, 35133",
-      "rating_percentage": "95",
+      "rating_percentage": "92",
       "average_project_size": "11 users",
       "large_project_size": "~200 users",
       "references_count": "50",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/essetech-marchio-by-dueesseti-srl-5274566?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/5274566/image_128/EsseTech%20marchio%20by%20DueEsseTi%20Srl?unique=d7b4d65",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/5274566/image_128/EsseTech%20marchio%20by%20DueEsseTi%20Srl?unique=ae8dbe9",
       "about_text": "Trasformazione Digitale per PMI Chi Siamo Software House con trent'anni di esperienza specializzata in soluzioni ERP, CRM, Business Intelligence e gestione documentale per PMI. Trasformiamo le sfide digitali in opportunità di crescita con un approccio orientato alle esigenze concrete e alla sostenibilità degli investimenti tecnologici nel lungo periodo. Il Nostro Metodo: Consulenza che Genera Valore Ciò che ci differenzia è il nostro metodo di lavoro rigoroso: Analisi approfondita dei processi prima di proporre soluzioni Sviluppo iterativo con feedback continuo Personalizzazioni tecnicamente solide e scalabili Formazione strutturata e supporto continuativo La Potenza di Odoo, l'Esperienza di DueEsseTi La nostra expertise ci permette di: Personalizzare Odoo secondo le specifiche esigenze del tuo business Integrare dati, documenti e processi in un flusso di lavoro fluido e trasparente Implementare soluzioni scalabili che crescono insieme alla tua azienda Garantire continuità operativa con assistenza dedicata e proattiva Esempi di Soluzioni Verticali Sviluppate Fluent Fashion: ERP verticale per il settore moda con gestione avanzata di taglie, colori e varianti, controllo completo del ciclo produttivo e analytics predittive. Odoo GeCo : Soluzione per General Contractor che ottimizza la gestione cantieri con pianificazione dettagliata, monitoraggio real-time e coordinamento centralizzato di risorse e fornitori. Perché Sceglierci Team multidisciplinare con competenze tecniche specialistiche , soluzioni robuste progettate per evolvere nel tempo e integrazione di tecnologie avanzate (AI, IoT, RA). Con DueEsseTi acquisite un partner tecnologico che trasforma l'IT in vantaggio competitivo concreto e duraturo per la vostra azienda. Scopri Fluent Fashion Scopri GeCo Visita il nostro sito Pianifica una demo",
       "certifications_breakdown": [
         {
@@ -635,7 +635,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:54.888359"
+      "scraped_at": "2026-04-12T20:08:48.242086"
     },
     {
       "region_code": "it",
@@ -702,7 +702,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:55.186179"
+      "scraped_at": "2026-04-12T20:08:48.869753"
     },
     {
       "region_code": "it",
@@ -769,7 +769,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:55.539110"
+      "scraped_at": "2026-04-12T20:08:49.561001"
     },
     {
       "region_code": "it",
@@ -780,13 +780,13 @@
       "district": "Battipaglia",
       "country": "Italy",
       "full_address": "Salerno, Battipaglia, 84091",
-      "rating_percentage": "93",
+      "rating_percentage": "95",
       "average_project_size": "10 users",
       "large_project_size": "~100 users",
       "references_count": "40",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/dc-engineering-5926874?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/5926874/image_128/DC%20Engineering?unique=389a383",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/5926874/image_128/DC%20Engineering?unique=bf4fcd3",
       "about_text": "La trasformazione digitale dei tuoi processi aziendali è a portata di mano con il nostro team esperto di Ingegneri e Sviluppatori; le nostre soluzioni software sono progettate per aiutare la tua azienda a digitalizzare il business, migliorare la performance , l’ efficienza e la competitività . Siamo pronti a guidarti verso il successo attraverso l’automazione e l’ottimizzazione dei processi: affidati a noi per una consulenza personalizzata e scopri come la digitalizzazione può trasformare la tua azienda. Guarda cosa abbiamo già fatto per gli altri",
       "certifications_breakdown": [
         {
@@ -836,7 +836,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:56.395641"
+      "scraped_at": "2026-04-12T20:08:50.558031"
     },
     {
       "region_code": "it",
@@ -853,7 +853,7 @@
       "references_count": "37",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/nexapp-srl-1276126?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1276126/image_128/Nexapp%20S.r.l.?unique=6a2f812",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1276126/image_128/Nexapp%20S.r.l.?unique=91d2f6e",
       "about_text": "Nexapp srl nasce come startup innovativa per lo sviluppo software, che affonda le sue radici nella competenza di consulenti e analisti, forti di un’esperienza pluriennale maturata in ambito corporate ed enterprise, indirizzata alla consulenza e allo sviluppo software. Il nostro obiettivo è di tradurre le idee e progetti di ogni cliente in soluzioni digitali personalizzate. Il nostro approccio con ogni azienda cliente prevede una prima fase di analisi ed individuazione delle esigenze; partendo da soluzioni Open Source, Nexapp sviluppa progetti ad hoc studiati sulle necessità di ogni singolo cliente e fornisce consulenza e assistenza sui software sviluppati successivamente alla loro implementazione. Offriamo alle aziende soluzioni flessibili, personalizzate e facilmente fruibili che possano essere integrate alle risorse aziendali già esistenti. I nostri punti di forza: Contabilità italiana basata sullo standard ODOO: il nostro staff ha implementato sulla base dei moduli standard ODOO, moduli che completano le funzioni tipicamente richieste dall’azienda italiana. Questo permette di mantenere tutto il sistema allineato allo standard di ODOO, in modo da recepire tutti gli aggiornamenti previsti dalla casa madre. Consulenza fiscale: il nostro staff ha competenze comprovate in ambito fiscale, in modo da dare supporto al cliente nella predisposizione dei dati per le dichiarazioni, e per la configurazione di sistema Competenza pluriennale sui moduli legati a ciclo attivo e passivo Manufacturing e pianificazione della produzione, su ambiti differenti: Manifattura in serie Settore chimico/alimentare Carpenterie e falegnamerie (compresa gestione FITOK) Progetti di integrazione: Ind 4.0/Ind 5.0 Integrazione personalizzate via API, OPC-UA, e altri protocolli con sistemi di diversa natura Visita la pagina dedicata sul sito Nexapp-EasytechGroup https://easytechgroup.it/odoo/ Guarda i nostri video di presentazione https://youtu.be/ummXv9ctgcU?si=RoYlakMSfNqcYgVW https://youtube.com/shorts/a6KFo6uRJeQ?si=nscbDHahW-2LkOep RICHIEDI UNA DEMO",
       "certifications_breakdown": [
         {
@@ -907,7 +907,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:56.705968"
+      "scraped_at": "2026-04-12T20:08:51.098910"
     },
     {
       "region_code": "it",
@@ -978,7 +978,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:57.162397"
+      "scraped_at": "2026-04-12T20:08:51.725687"
     },
     {
       "region_code": "it",
@@ -1041,7 +1041,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:57.504620"
+      "scraped_at": "2026-04-12T20:08:52.521214"
     },
     {
       "region_code": "it",
@@ -1112,7 +1112,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:57.774178"
+      "scraped_at": "2026-04-12T20:08:53.110796"
     },
     {
       "region_code": "it",
@@ -1167,7 +1167,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:58.115924"
+      "scraped_at": "2026-04-12T20:08:53.772710"
     },
     {
       "region_code": "it",
@@ -1230,7 +1230,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:58.449268"
+      "scraped_at": "2026-04-12T20:08:54.428056"
     },
     {
       "region_code": "it",
@@ -1247,7 +1247,7 @@
       "references_count": "26",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/keytype-srl-13829491?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/13829491/image_128/KeyType%20Srl?unique=67dfaa1",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/13829491/image_128/KeyType%20Srl?unique=8aeb085",
       "about_text": "Keytype - Soluzioni su misura per il tuo successo. Siamo Keytype, un team di esperti in consulenza e sviluppo software che trasforma la tecnologia in un vantaggio competitivo per la tua azienda. La nostra missione? Aiutarti a crescere, semplificare e ottimizzare i tuoi processi aziendali grazie a soluzioni personalizzate e scalabili. Cosa oﬀriamo? Consulenza IT: Ti aiutiamo a scegliere e integrare le migliori soluzioni tecnologiche. Sviluppo Software: Progettiamo e realizziamo software gestionali ERP su misura. Integrazione di Sistemi: Colleghiamo le tue applicazioni per una gestione fluida dei dati. Formazione e Supporto: Non ti lasciamo mai solo, con un’assistenza continua e formazione dedicata. Perché scegliere Keytype? 20 anni di esperienza: Aﬀrontiamo con successo le sfide più complesse. Soluzioni personalizzate: Nessuna azienda è uguale all’altra, e neanche le nostre soluzioni. Innovazione costante: Usiamo solo tecnologie all’avanguardia. Soddisfazione garantita: I nostri clienti crescono, migliorano e ci scelgono nel tempo. Le nostre specializzazioni Odoo • ERP completo per gestire ogni aspetto della tua azienda. • Moduli personalizzati per settore b2b e servizi. • Integrazione con Shopify, WhatsApp Business e altro ancora. Vuoi vedere come possiamo trasformare la tua azienda? Prenota ora una consulenza gratuita! Dove siamo: Milano, Napoli. Settori di specializzazione: Commercio, Servizi , Automotive.",
       "certifications_breakdown": [
         {
@@ -1297,7 +1297,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:58.794863"
+      "scraped_at": "2026-04-12T20:08:55.069159"
     },
     {
       "region_code": "it",
@@ -1311,10 +1311,10 @@
       "rating_percentage": "94",
       "average_project_size": "21 users",
       "large_project_size": "~200 users",
-      "references_count": "15",
+      "references_count": "16",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/webcircles-srl-6265148?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/6265148/image_128/Webcircles%20srl?unique=449865a",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/6265148/image_128/Webcircles%20srl?unique=977fd95",
       "about_text": "Con oltre 10 anni di esperienza nello sviluppo di software, nell'integrazione di sistemi e nelle soluzioni cloud, guidiamo le PMI verso la trasformazione digitale con consulenza tecnologica e funzionale. Webcircles & Odoo Nel 2021 abbiamo individuato in Odoo lo strumento ideale per accelerare la digitalizzazione delle PMI grazie alla suo incredibile framework e alla sua crescita esponenziale in termini di adozione e maturità del prodotto. Progressivamente abbiamo destinato importanti investimenti integrando nel team esperti funzionali Odoo con molti progetti alle spalle e dal forte background sulle tematiche più critiche ed allocato i nostri migliori ingegneri sullo sviluppo Odoo. I nostri punti di forza Elevate capacità tecniche e gestionali dei nostri consulenti Presenza sul mercato da oltre 10 anni Certificazione ISO 27001, ISO 9001 e ISO 14001 per assicurare alti livelli di qualità e sicurezza Portfolio di moduli e prodotti proprietari Proposta commerciale chiara con piani flessibili prenota una call gratuita o contattaci Le nostre specializzazioni gestione della produzione amministrazione, contabilità e reporting industria 4.0 CRM strutturati Dev-ops, infrastrutture cloud sistemi di telecontrollo websites ed e-commerce Alcuni dei nostri moduli • gestione Cashflow actual e previsionale; • processo riconciliazione ordini-fatture e approvazione strutturata; • connettore con Corvina per industry 4.0; Scopri di più • piattaforma di fatturazione elettronica proprietaria e connettore Odoo; • gestione procedure aziendali con workflow di emissione, approvazione e training. visita il nostro SITO",
       "certifications_breakdown": [
         {
@@ -1340,11 +1340,11 @@
           "count": 3
         },
         {
-          "industry": "Health / Social Welfare / Pharmaceutical",
-          "count": 2
+          "industry": "Education",
+          "count": 3
         },
         {
-          "industry": "Education",
+          "industry": "Health / Social Welfare / Pharmaceutical",
           "count": 2
         },
         {
@@ -1360,7 +1360,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:59.114628"
+      "scraped_at": "2026-04-12T20:08:55.680208"
     },
     {
       "region_code": "it",
@@ -1403,7 +1403,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:00.662069"
+      "scraped_at": "2026-04-12T20:08:57.733199"
     },
     {
       "region_code": "it",
@@ -1442,7 +1442,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:01.001096"
+      "scraped_at": "2026-04-12T20:08:58.376543"
     },
     {
       "region_code": "it",
@@ -1473,35 +1473,35 @@
       ],
       "industries_breakdown": [
         {
-          "industry": "IT / Communication / Marketing",
-          "count": 10
+          "industry": "Wholesale / Retail",
+          "count": 17
         },
         {
-          "industry": "Wholesale / Retail",
-          "count": 9
+          "industry": "IT / Communication / Marketing",
+          "count": 11
         },
         {
           "industry": "Manufacturing / Maintenance",
-          "count": 6
+          "count": 10
         },
         {
           "industry": "Other Services",
-          "count": 5
-        },
-        {
-          "industry": "Science & Technology",
-          "count": 4
+          "count": 2
         },
         {
           "industry": "Education",
           "count": 2
         },
         {
+          "industry": "Science & Technology",
+          "count": 1
+        },
+        {
           "industry": "Health / Social Welfare / Pharmaceutical",
-          "count": 2
+          "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:01.287597"
+      "scraped_at": "2026-04-12T20:08:59.022205"
     },
     {
       "region_code": "it",
@@ -1563,7 +1563,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:01.693170"
+      "scraped_at": "2026-04-12T20:08:59.682694"
     },
     {
       "region_code": "it",
@@ -1626,7 +1626,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:02.250828"
+      "scraped_at": "2026-04-12T20:09:00.495935"
     },
     {
       "region_code": "it",
@@ -1637,13 +1637,13 @@
       "district": "Calenzano",
       "country": "Italy",
       "full_address": "Firenze, Calenzano, 50041",
-      "rating_percentage": "91",
+      "rating_percentage": "82",
       "average_project_size": "14 users",
       "large_project_size": "~50 users",
-      "references_count": "23",
+      "references_count": "22",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/teuron-srl-1823944?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1823944/image_128/Teuron%20S.r.l.?unique=f3f685f",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1823944/image_128/Teuron%20S.r.l.?unique=3ae7617",
       "about_text": "Teuron srl è una software house con sede a Prato che opera in tutta Italia dal 1993 . Il Team è composto da personale tecnico molto esperto e qualificato: sia da persone con esperienza ventennale nelle implementazioni di ERP complessi, sia da persone giovani preparate e skillate su tutte le tecnologie software più importanti. Teuron srl propone soluzioni applicative software complesse e tecnologicamente avanzate oltre ai vari servizi IT, in gran parte nel mondo del software gestionale, grazie all'ottima preparazione del Team sui processi aziendali e sulla parte normativa. La missione di Teuron è quella di essere un interlocutore privilegiato per le aziende che fanno affidamento sui servizi IT e soprattutto credono che il software è uno strumento strategico per il loro business e la loro organizzazione.",
       "certifications_breakdown": [
         {
@@ -1654,7 +1654,7 @@
       "industries_breakdown": [
         {
           "industry": "Manufacturing / Maintenance",
-          "count": 7
+          "count": 6
         },
         {
           "industry": "Other Services",
@@ -1669,7 +1669,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:02.627470"
+      "scraped_at": "2026-04-12T20:09:01.109175"
     },
     {
       "region_code": "it",
@@ -1680,14 +1680,14 @@
       "district": "Isernia",
       "country": "Italy",
       "full_address": "Isernia, Isernia, 86170",
-      "rating_percentage": "79",
+      "rating_percentage": "71",
       "average_project_size": "11 users",
       "large_project_size": "~100 users",
-      "references_count": "20",
+      "references_count": "19",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/codexware-srl-19223199?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/19223199/image_128/CodexWare%20S.r.l.?unique=b8d6908",
-      "about_text": null,
+      "logo_url": "https://odoocdn.com/web/image/res.partner/19223199/image_128/CodexWare%20S.r.l.?unique=3ae7617",
+      "about_text": "​Codexware è una software house italiana con sede ad Isernia, specializzata nell'ecosistema Odoo. Il nostro punto di forza è un team di sviluppo con esperienza decennale sull'ERP, una competenza solida che ci permette di tradurre ogni esigenza di business in soluzioni tecnologiche concrete. Prenota una videocall Settori presidiati L'esperienza accumulata negli anni ci consente di lavorare con disinvoltura su industrie molto diverse, portando con noi un bagaglio di pattern, soluzioni e accorgimenti già validati sul campo. Tra i principali ambiti in cui abbiamo implementato Odoo: • IT, comunicazione e marketing: gestione di servizi, time tracking, fatturazione ricorrente, CRM e pipeline commerciali. • Commercio all'ingrosso e retail: logistica, magazzini, punti vendita, listini, gestione fornitori e integrazioni e-commerce. • Sanità, sociale e farmaceutico: tracciabilità, gestione anagrafiche sensibili, flussi documentali e adempimenti specifici. • Produzione e manutenzione: distinte base, MRP, ordini di lavoro, manutenzioni programmate e tracciabilità dei lotti. • Scienza e tecnologia: gestione progetti, laboratori, ricerca e sviluppo, con forte componente custom. Implementazione completa di Odoo - Sviluppo custom e moduli su misura Ci occupiamo del ciclo di vita completo del vostro progetto Odoo: analisi dei processi, mappatura dei flussi aziendali, progettazione della soluzione, configurazione dei moduli nativi, importazione dei dati storici, go-live e stabilizzazione. Quando i moduli standard di Odoo non bastano, interviene il nostro team di sviluppo. Progettiamo e realizziamo moduli personalizzati rispettando l'architettura della piattaforma: nuovi modelli dati, viste, workflow, report, wizard, automazioni, cruscotti. Tutto scritto seguendo le convenzioni Odoo, in modo che il codice resti leggibile, aggiornabile e compatibile con le release future. Integrazioni con sistemi esterni Odoo raramente vive da solo. Colleghiamo Odoo a e-commerce, CRM, sistemi di fatturazione elettronica, gestionali legacy, piattaforme logistiche, banche dati e qualsiasi applicativo esponga API o formati di scambio standard. Costruiamo connettori robusti, monitorati e documentati, pensati per reggere i volumi reali del vostro business. Migrazione, upgrade e ristrutturazione Aiutiamo le aziende a migrare da sistemi legacy verso Odoo e ad aggiornare installazioni Odoo esistenti a versioni più recenti, preservando dati, personalizzazioni e continuità operativa. Prima di toccare l'ambiente di produzione analizziamo lo stato attuale, ripuliamo il debito tecnico e definiamo una strategia di rollout graduale che minimizzi i rischi. Supporto continuativo e manutenzione evolutiva Il go-live non è un traguardo, è un punto di partenza. Offriamo contratti di supporto continuativo con tempi di risposta definiti, monitoraggio degli ambienti, manutenzione correttiva e attività evolutive pianificate.",
       "certifications_breakdown": [
         {
           "version": "Certified v18",
@@ -1705,7 +1705,7 @@
         },
         {
           "industry": "Manufacturing / Maintenance",
-          "count": 3
+          "count": 2
         },
         {
           "industry": "Health / Social Welfare / Pharmaceutical",
@@ -1720,7 +1720,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:02.861188"
+      "scraped_at": "2026-04-12T20:09:01.765061"
     },
     {
       "region_code": "it",
@@ -1767,7 +1767,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:03.129007"
+      "scraped_at": "2026-04-12T20:09:02.390898"
     },
     {
       "region_code": "it",
@@ -1814,7 +1814,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:03.624069"
+      "scraped_at": "2026-04-12T20:09:02.983191"
     },
     {
       "region_code": "it",
@@ -1831,7 +1831,7 @@
       "references_count": "15",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/clickode-societa-cooperativa-1003740?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1003740/image_128/CLICKODE%20SOCIETA%E2%80%99%20COOPERATIVA?unique=6478846",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1003740/image_128/CLICKODE%20SOCIETA%E2%80%99%20COOPERATIVA?unique=710e785",
       "about_text": "CLICKODE è una Società Cooperativa composta da consulenti e sviluppatori software provenienti da importanti e prolungate esperienze nel mondo dell’innovazione dei processi aziendali e delle soluzioni gestionali. Studiamo, ideiamo e realizziamo insieme ai nostri clienti soluzioni su misura per l’aumento dell’efficienza operativa che garantiscono risultati rapidi e misurabili. Integriamo le tecnologie più innovative per automatizzare, ottimizzare e informatizzare ogni tipo di business, sfruttando Odoo come piattaforma gestionale completa per aziende di ogni dimensione e riutilizzando, ovunque possibile, soluzioni esistenti, per non reinventare la ruota ogni volta. Il nostro team include project manager ed analisti con esperienza nelle grandi imprese della consulenza e della innovazione digitale, per migliorare l’efficienza di tutti i reparti aziendali: CRM, Vendite, Produzione, Pianificazione, Magazzino e Logistica, Assistenza clienti, Acquisti, Amministrazione, Finanza e Controllo. Fra i nostri clienti si distinguono operatori telefonici, cooperative di servizi e di produzione agroalimentare, produttori di macchine agricole e di macchine automatiche, importatori e distributori internazionali, e retailer (online, locali e internazionali). Dove richiesto abbiamo integrato soluzioni ERP nazionali ed internazionali (SAP, Zucchetti, Sistemi, Team System, Passpartout, ...) arricchendole con strumenti digitali di ultima generazione; sviluppato app mobile personalizzate; applicato l’Intelligenza Artificiale generativa; integrato canali digitali di ogni tipo. Basati su due sedi operative, a Faenza (RA) e a Bologna, lavoriamo anche in progetti internazionali. We speak English. Nous parlons français. Siamo associati e collaboriamo con: CONFCOOPERATIVE ROMAGNA e CONFINDUSTRIA EMILIA Contatta un nostro esperto Odoo Sede di Faenza: Via Galilei 2, 41018 Faenza (RA) +39 051 082 7432 info@clickode.com Ufficio di Bologna: Via Cesare Boldrini 18A, 40121 Bologna +39 051 082 7432 segreteria@clickode.it www.clickode.com",
       "certifications_breakdown": [
         {
@@ -1865,7 +1865,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:03.839478"
+      "scraped_at": "2026-04-12T20:09:03.617337"
     },
     {
       "region_code": "it",
@@ -1882,7 +1882,7 @@
       "references_count": "14",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/novi-data-srl-1208935?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1208935/image_128/Novi%20Data%20Srl?unique=a0ed079",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1208935/image_128/Novi%20Data%20Srl?unique=7ccf54e",
       "about_text": "Novi Data Srl è una giovane società di informatica professionale che risiede a Modena e lavora sia in territorio Italiano che Estero. Dal 2010 Novi Data offre le proprie conoscenze e utilizza in modo adeguato le più moderne tecnologie correnti sul mercato; ha esperienza sia su Sistemi Open Source che su Sistemi Proprietari e garantisce massima trasparenza, rispetto e flessibilità nel rapporto con il cliente. La passione nel lavoro, la cura dei particolari e l'investimento costante in formazione sono le basi sulle quali Novi Data offre ai propri clienti soluzioni moderne e personalizzate, adeguate al raggiungimento dei loro obiettivi, nel miglior rapporto costi-benefici. PERCHE' SCEGLIERE ODOO CON NOVI DATA Tu scegli, noi creiamo Novi Data affianca i propri Clienti costantemente nel loro percorso di attivazione del tool, dalla scelta dei moduli più adeguati ai loro processi, fino alla loro configurazione e personalizzazione. Personalizzazione dei moduli System integrator Supporto funzionale ai processi ​ novidata.it ​​ 📍 ​Via Dalton 40 ​41126 Modena MO ​ ​ ​+390593971684 ​​ ​ ​ ​info@novidata.it",
       "certifications_breakdown": [
         {
@@ -1920,7 +1920,62 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:04.109019"
+      "scraped_at": "2026-04-12T20:09:04.272944"
+    },
+    {
+      "region_code": "it",
+      "country_code": "IT",
+      "name": "BNOW SRLS",
+      "level": "Ready",
+      "city": "Torino",
+      "district": "Carmagnola",
+      "country": "Italy",
+      "full_address": "Torino, Carmagnola, 10022",
+      "rating_percentage": "92",
+      "average_project_size": "4 users",
+      "large_project_size": "~20 users",
+      "references_count": "12",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/partners/bnow-srls-7623375?country_id=106",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/7623375/image_128/BNOW%20SRLS?unique=30210b1",
+      "about_text": "In un mondo in costante trasformazione digitale, BNOW è il tuo partner ideale per affrontare le sfide tecnologiche con idee innovative e su misura. Grazie a tecnologie all’avanguardia e a un gruppo professionale ed appassionato, sviluppiamo ed implementiamo soluzioni su misura Odoo sfruttandone gli strumenti innovativi di CRM, Marketing, Ecommerce, Magazzino, Produzione, Amministrazione e contabilità, progettiamo servizi personalizzati – dallo sviluppo software e web alla consulenza IT. Offriamo per Odoo una consulenza completa e strategica per individuare le soluzioni più adatte alle esigenze aziendali, sviluppo e personalizzazione dei moduli per una integrazione ottimale di Odoo nei processi aziendali, permettendo di migliorare la gestione aziendale per aumentarne l’efficienza e riducendo i costi. Perché sceglierci? Risparmi tempo: semplifichiamo la complessità tecnologica per permetterti di concentrarti su ciò che conta davvero per il tuo business. Migliori i processi: le nostre soluzioni intuitive e sostenibili ottimizzano le attività quotidiane, aiutandoti a ridurre i costi e a migliorare l’efficienza. Hai un partner flessibile: creiamo percorsi di crescita su misura, pensati per evolvere insieme a te e alla tua azienda. Crediamo che l’innovazione debba essere accessibile a tutti: per questo lavoriamo con un approccio trasparente, coinvolgendo attivamente i clienti e rendendo ogni fase del progetto facile da seguire. Dalle prime analisi al risultato finale, il nostro obiettivo è creare esperienze su misura, capaci di adattarsi al tuo futuro e trasformare le tue idee in Soluzioni Semplicemente Innovative. Pronto a trasformare il tuo business? Contattaci oggi stesso per una consulenza gratuita o richiedi una demo personalizzata delle nostre soluzioni Odoo. Scopri come BNOW può fare la differenza nella tua azienda! Contattaci | Richiedi una Demo Contattaci | Richiedi una Demo",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 3
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "NGO",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:09:04.911833"
     },
     {
       "region_code": "it",
@@ -1937,7 +1992,7 @@
       "references_count": "12",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/kh-projectsolutions-srl-3194854?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/3194854/image_128/KH%20Project%26Solutions%20srl?unique=8965d90",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/3194854/image_128/KH%20Project%26Solutions%20srl?unique=6b35463",
       "about_text": "KH Project & Solutions (KHPS) è una società di servizi per la consulenza direzionale d’impresa e per lo sviluppo di soluzioni digitali a supporto dell’ottimizzazione dei processi e dei modelli di business. KHPS è partner di Odoo, leader a livello mondiale di soluzioni digitali integrate “all in one” a supporto della digitalizzazione dei processi: dall’area commerciale e marketing, alla produzione, alla gestione amministrativa e molto altro ancora. Siamo una Società accreditata Innovation Manager e con le nostre Divisioni specializzate nella Consulenza, nelle Sviluppo di Soluzioni Digitali e nella Formazione siamo il Partner ideale per l’implementazione della Soluzione Odoo dal punto di vista funzionale, organizzativo e applicativo per cogliere appieno i vantaggi della Trasformazione Digitale La nostra Mission: accompagniamo il Cliente nelle decisioni più importanti al fine di costruire vantaggi competitivi duraturi, promuovere lo sviluppo, la crescita costante e aumentare la redditività, creando Valore. La soddisfazione del Cliente guida la nostra azione. Crediamo fermamente nel lavoro di squadra e nella fiducia reciproca. Mettiamo a disposizione integrità e competenza per il miglioramento continuo e il successo dei Clienti. KHPS&Odoo Aree di specializzazione in Odoo: CRM Ciclo Attivo e Passivo Marketing Gestione integrata delle vendite online Produzione Logistica Progetti Assistenza Qualità Amministrazione e Contabilità Controllo di Gestione Punti Vendita ...... Personale Settori di specializzazione: Commercio Manifatturiero Alimentare Servizi",
       "certifications_breakdown": [
         {
@@ -1967,62 +2022,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:04.348464"
-    },
-    {
-      "region_code": "it",
-      "country_code": "IT",
-      "name": "BNOW SRLS",
-      "level": "Ready",
-      "city": "Torino",
-      "district": "Carmagnola",
-      "country": "Italy",
-      "full_address": "Torino, Carmagnola, 10022",
-      "rating_percentage": "85",
-      "average_project_size": "4 users",
-      "large_project_size": "~20 users",
-      "references_count": "11",
-      "certified_experts_count": "1",
-      "profile_url": "https://www.odoo.com/partners/bnow-srls-7623375?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/7623375/image_128/BNOW%20SRLS?unique=6603ebb",
-      "about_text": "In un mondo in costante trasformazione digitale, BNOW è il tuo partner ideale per affrontare le sfide tecnologiche con idee innovative e su misura. Grazie a tecnologie all’avanguardia e a un gruppo professionale ed appassionato, sviluppiamo ed implementiamo soluzioni su misura Odoo sfruttandone gli strumenti innovativi di CRM, Marketing, Ecommerce, Magazzino, Produzione, Amministrazione e contabilità, progettiamo servizi personalizzati – dallo sviluppo software e web alla consulenza IT. Offriamo per Odoo una consulenza completa e strategica per individuare le soluzioni più adatte alle esigenze aziendali, sviluppo e personalizzazione dei moduli per una integrazione ottimale di Odoo nei processi aziendali, permettendo di migliorare la gestione aziendale per aumentarne l’efficienza e riducendo i costi. Perché sceglierci? Risparmi tempo: semplifichiamo la complessità tecnologica per permetterti di concentrarti su ciò che conta davvero per il tuo business. Migliori i processi: le nostre soluzioni intuitive e sostenibili ottimizzano le attività quotidiane, aiutandoti a ridurre i costi e a migliorare l’efficienza. Hai un partner flessibile: creiamo percorsi di crescita su misura, pensati per evolvere insieme a te e alla tua azienda. Crediamo che l’innovazione debba essere accessibile a tutti: per questo lavoriamo con un approccio trasparente, coinvolgendo attivamente i clienti e rendendo ogni fase del progetto facile da seguire. Dalle prime analisi al risultato finale, il nostro obiettivo è creare esperienze su misura, capaci di adattarsi al tuo futuro e trasformare le tue idee in Soluzioni Semplicemente Innovative. Pronto a trasformare il tuo business? Contattaci oggi stesso per una consulenza gratuita o richiedi una demo personalizzata delle nostre soluzioni Odoo. Scopri come BNOW può fare la differenza nella tua azienda! Contattaci | Richiedi una Demo Contattaci | Richiedi una Demo",
-      "certifications_breakdown": [
-        {
-          "version": "Certified v17",
-          "count": 1
-        }
-      ],
-      "industries_breakdown": [
-        {
-          "industry": "Health / Social Welfare / Pharmaceutical",
-          "count": 3
-        },
-        {
-          "industry": "IT / Communication / Marketing",
-          "count": 2
-        },
-        {
-          "industry": "Other Services",
-          "count": 2
-        },
-        {
-          "industry": "Finance / Legal / Insurance",
-          "count": 2
-        },
-        {
-          "industry": "Manufacturing / Maintenance",
-          "count": 2
-        },
-        {
-          "industry": "Wholesale / Retail",
-          "count": 1
-        },
-        {
-          "industry": "NGO",
-          "count": 1
-        }
-      ],
-      "scraped_at": "2026-04-09T07:52:04.656747"
+      "scraped_at": "2026-04-12T20:09:05.533456"
     },
     {
       "region_code": "it",
@@ -2039,7 +2039,7 @@
       "references_count": "10",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/npt-di-neves-parrottino-2182640?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/2182640/image_128/NPT%20di%20Neves%20Parrottino?unique=b158e75",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/2182640/image_128/NPT%20di%20Neves%20Parrottino?unique=a0b043f",
       "about_text": "Viele kleine und mittlere Unternehmen – insbesondere im Handwerk und in der Immobilienwirtschaft – stecken in einem operativen Dilemma: Papierbasierte Prozesse 🧾, unstrukturierte Kommunikation 📞 und fehlende digitale Standards machen den Arbeitsalltag mühsam und bremsen Wachstumspotenziale. Gleichzeitig steigt der Druck: Kunden fordern mehr Transparenz, Behörden verlangen Nachvollziehbarkeit – und der Fachkräftemangel zwingt zur Effizienz. Unsere Mission bei Alineas ist klar: Wir helfen diesen Unternehmen dabei, aus dem Chaos in klar definierte, digitale Prozesse zu finden – schnell, strukturiert und nachhaltig. Ziel ist es, Digitalisierung nicht als Hürde, sondern als echten Wettbewerbsvorteil nutzbar zu machen Als zertifizierter Odoo Solution Partner haben wir dafür einen strukturierten Ansatz entwickelt: ✅ Vorgefertigte, branchenspezifische Workflows für Handwerk & Immobilien – sofort einsatzbereit ⚙️ Individuelle Erweiterungen & Spezialmodule , wenn Standardprozesse nicht ausreichen 👷‍♀️ Umsetzung durch ein eingespieltes Senior-Team mit über 100 Jahren kombinierter Erfahrung 🧩 Flexibles Customizing auf Basis realer Unternehmensanforderungen – keine Theorie, sondern Praxis Unsere Templates und Methoden standardisieren die Einführung, reduzieren Projektrisiken und sorgen für klare Verantwortlichkeiten. Gleichzeitig bleibt Raum für maßgeschneiderte Funktionen, wo sie wirklich gebraucht werden – z. B. bei komplexen Projektfreigaben, Wartungszyklen oder Abrechnungsszenarien. Unsere Kunden berichten von: ✨ Messbaren Effizienzsteigerungen , 📊 Mehr Transparenz in Echtzeit , 📉 Weniger manuelle Fehler , 📈 und schnellerem ROI bei Digitalisierungsprojekten. Kurz gesagt: Mit Alineas gelingt der Einstieg in die digitale Zukunft nicht nur – er zahlt sich auch aus. 💡 📞 Jetzt Kontakt aufnehmen oder mehr erfahren: www.alineas.it",
       "certifications_breakdown": [
         {
@@ -2077,7 +2077,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:05.159833"
+      "scraped_at": "2026-04-12T20:09:06.152639"
     },
     {
       "region_code": "it",
@@ -2094,7 +2094,7 @@
       "references_count": "10",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/revoldata-srl-16543917?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/16543917/image_128/Revoldata%20S.R.L.?unique=8403806",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/16543917/image_128/Revoldata%20S.R.L.?unique=3ce85d6",
       "about_text": "Revoldata è una Tech Company specializzata nell&#39;implementazione di software ERP Odoo e SAP. Puntiamo all’efficienza di prodotto e di processo, siamo convinti che le competenze diano un grande valore aggiunto per semplificare e sfruttiamo al massimo le enormi potenzialità native del software. Mettiamo a disposizione l’esperienza pluriennale dei nostri consulenti per garantire il successo del progetto fornendo impegno, metodo e competenza. Ogni azienda ha una sua identità, dei suoi processi lavorativi interni specifici che devono essere rispettati e a tale scopo configuriamo il software, lo adattiamo modificando o creando, dove necessario, nuove applicazioni. Siamo molto attenti anche alle integrazioni con altri sistemi che hanno un ruolo fondamentale nella riuscita del progetto. Siamo specializzati nei processi delle PMI di servizi e studi associati di vario tipo. Il nostro focus sono i moduli di E-commerce, CRM, vendite, integrazione con marketplace, acquisti, logistica, spedizioni, help desk, assistenza sul campo, fogli ore, rapportini, gestione delle commesse, Hr, skill, CV. Visita il nostro sito www.revoldata.it Contattaci: odoo@revoldata.it",
       "certifications_breakdown": [
         {
@@ -2120,7 +2120,7 @@
           "count": 2
         }
       ],
-      "scraped_at": "2026-04-09T07:52:05.518464"
+      "scraped_at": "2026-04-12T20:09:06.807324"
     },
     {
       "region_code": "it",
@@ -2132,7 +2132,7 @@
       "country": "Italy",
       "full_address": "Genova, Genova, 16149",
       "rating_percentage": "93",
-      "average_project_size": "5 users",
+      "average_project_size": "6 users",
       "large_project_size": "~30 users",
       "references_count": "9",
       "certified_experts_count": "1",
@@ -2163,7 +2163,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:06.048583"
+      "scraped_at": "2026-04-12T20:09:07.409271"
     },
     {
       "region_code": "it",
@@ -2180,7 +2180,7 @@
       "references_count": "7",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/avvale-spa-12627672?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/12627672/image_128/Avvale%20S.p.A.?unique=68a1d2b",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/12627672/image_128/Avvale%20S.p.A.?unique=a70de40",
       "about_text": "Avvale è una società globale specializzata nella Trasformazione Digitale delle Imprese, guidata dalla missione di sostenere la crescita delle imprese moderne attraverso l'economia circolare. Offriamo ai nostri clienti la scalabilità e la copertura geografica di un fornitore globale, l'impegno e la flessibilità di un partner locale e l'attenzione di un consulente strategico di fiducia. Le nostre persone, le soluzioni SaaS proprietarie e la metodologia, amplificate dal potenziale della tecnologia, portano a risultati concreti e misurabili fin dall'inizio. Per raggiungere questo scopo, stringiamo partnership strategiche che ci consentono di ottenere risultati di successo. Con oltre 15 anni di esperienza su Odoo, siamo un punto di riferimento nell'implementazione di questo versatile software. Installiamo e configuriamo completamente Odoo su diverse infrastrutture, incluso hosting condiviso e dedicato (private cloud). Specializzati nello sviluppo e nella personalizzazione avanzata dei moduli, adattiamo il software alle esigenze specifiche dei nostri clienti. Integrandolo con altre applicazioni come CRM, ERP e sistemi di pagamento, assicuriamo una gestione armoniosa dei processi aziendali. La nostra competenza si estende anche alla gestione dell'amministrazione degli utenti, dei permessi, dei backup e degli aggiornamenti di Odoo. Infine, risolviamo eventuali problemi tecnici e ottimizziamo le prestazioni, garantendo continuità operativa. Competencies crm ​ ​ marketing automation mail marketing vendite Integrated management of online sales purchases warehouse logistics and transportation complete Italian double-entry administration and accounting. integration with external systems (e.g. SAP, Paypal, etc.) custom modules Locations Milano, Italy (HQ) Via Francesco Melzi d'Eril 34, 20154 Milano | Italy +39 02 87311 Torino, Italy Via Pianezza, 289 Palazzo Leonardo 10151, Turin | Italy +39 02 87311 Carugate, Italy Via dell’Artigianato, 2 20061, Carugate (MI) | Italy +39 02 87311 Asti, Italy Via Mameli, 9 14100, Asti | Italy +39 0141 595549 Lisbon, Portugal Praça de Alvalade, nº. 6, 5 esq. 1700-036, Lisboa | Portugal +351 21 7997 130 Savosa, Switzerland c/o Consulca SA Via Tesserete 67 CH-6942 Savosa | Switzerland +41 91 9616464 Lucca, Italy Via della Chiesa XXXII, 231 55100, Lucca | Italy +39 0583 1553501 Messina, Italy Via N. Fabrizi, 31/33 98122, Messina | Italy +39 02 87311 Stuttgart, Germany Senefelder Str. 26 70176, Stuttgart | Germany +49 162 7536960 Pescara, Italy Via F. Fellini, 2 65010, Spoltore (PE) | Italy +39 02 87311 Brescia, Italy Viale Italia 26 25126, Brescia | Italy +39 02 87311 Barcelona, Spain Josep Pla, 2. Edificio Torre Diagonal Mar 08019, Barcelona | Spain +34 93 272 2670",
       "certifications_breakdown": [
         {
@@ -2198,7 +2198,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:06.590062"
+      "scraped_at": "2026-04-12T20:09:07.988602"
     },
     {
       "region_code": "it",
@@ -2249,7 +2249,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:06.950821"
+      "scraped_at": "2026-04-12T20:09:08.634989"
     },
     {
       "region_code": "it",
@@ -2266,7 +2266,7 @@
       "references_count": "6",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/caspian-strategies-it-management-srl-21724740?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/21724740/image_128/CASPIAN%20STRATEGIES%20%26%20IT%20MANAGEMENT%20SRL?unique=d1161de",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/21724740/image_128/CASPIAN%20STRATEGIES%20%26%20IT%20MANAGEMENT%20SRL?unique=af01d2a",
       "about_text": "Caspian Strategies & IT Management e’ specializzata nell’implementazione di infrastrutture in Cloud innovative e soluzioni di sviluppo software basate su ERP Odoo per le piccole e medie imprese. ​I consulenti Caspian Strategies & IT Management hanno esperienza di oltre 20 anni nella fornitura di servizi professionali che aumentano la produttività, la competitività e il risparmio sui costi, sono in una posizione unica per aiutare le piccole e medie imprese a realizzare questi benefici. Il nostro successo si basa sulla professionalità, l'integrità e l'eccezionale servizio al cliente, e siamo orgogliosi di fornire soluzioni di altissimo livello su misura per le esigenze tecnologiche richieste dai clienti. La nostra missione è quella di fornire soluzioni informatiche efficaci e affidabili per le esigenze dei nostri clienti. Il team IT di Caspian Strategies & IT Management è dotato di una serie di competenze altamente sviluppate nel corso di decenni di esperienza non solo nel campo della tecnologia dell'informazione, ma anche nei processi di business in diversi settori industriali. Questa esperienza di business ci inserisce in una posizione unica per offrire soluzioni che permettono una maggiore efficienza operativa, incrementi di produttività e risparmi sui costi per ciascuno dei nostri clienti, indipendentemente dal loro settore. In qualità di azienda affermata ad alto contenuto tecnologico, siamo orgogliosi di fornire una suite completa di soluzioni che comprende la consulenza in materia di infrastrutture Cloud , sviluppo software personalizzati e Web , consulenza IT in materia di architettura aziendale, e soluzioni ERP integrate con Odoo. ​Caspian Strategies & IT Management fornisce una gamma completa di servizi per gestire e mantenere la vostra infrastruttura a livelli ottimali. Abbiamo project manager dedicati che possono aiutare a progettare, creare e implementare le vostre esigenze tecnologiche. La nostra esperienza decennale e la nostra vasta conoscenza del software di sistema e dell'hardware integrato, ci permette di implementare soluzioni su misura che sono efficienti e convenienti. ​Caspian Strategies & IT Management è business partner dei maggiori player del mercato IT da diversi anni quali Microsoft, Google Cloud e Red Hat. Sfruttare al massimo queste piattaforme ci permette di sviluppare rapidamente applicazioni affidabili per il vostro business in Cloud. ----------- Caspian Strategies & IT Management is focused on the implementation of innovative Cloud infrastructure and software development solutions based on Odoo ERP for small and medium-sized enterprises. Caspian Strategies & IT Management consultants have over 20 years of experience in providing professional services that increase productivity, competitiveness, and cost savings, and are uniquely positioned to help small and medium-sized enterprises realize these benefits. Our success is based on professionalism, integrity, and exceptional customer service, and we pride ourselves on providing world-class solutions tailored to the technology needs of our clients. Our mission is to provide effective and reliable IT solutions for our client's needs. Caspian Strategies & IT Management's IT team is equipped with a highly developed skill set over decades of experience not only in the field of information technology but also in business processes in various industries. This business experience puts us in a unique position to offer solutions that enable greater operational efficiency, productivity gains, and cost savings for each of our clients, regardless of their industry. As an established high-tech company, we are proud to provide a full suite of solutions that includes Cloud infrastructure consulting, customized software and web development, IT consulting on enterprise architecture, and ERP solutions integrated with Odoo. Caspian Strategies & IT Management provides a full range of services to manage and maintain your infrastructure at optimal levels. We have dedicated project managers who can help design, create and implement your technology needs. Our decades of experience and extensive knowledge of system software and integrated hardware allows us to implement tailor-made solutions that are efficient and cost-effective. Caspian Strategies & IT Management has been a business partner of major players in the IT market for several years, such as Microsoft, Google Cloud, and Red Hat. Taking full advantage of these platforms allows us to quickly develop reliable applications for your business in Cloud.",
       "certifications_breakdown": [
         {
@@ -2284,7 +2284,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:07.160065"
+      "scraped_at": "2026-04-12T20:09:09.234599"
     },
     {
       "region_code": "it",
@@ -2318,7 +2318,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:07.717885"
+      "scraped_at": "2026-04-12T20:09:09.797815"
     },
     {
       "region_code": "it",
@@ -2352,7 +2352,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:09.156368"
+      "scraped_at": "2026-04-12T20:09:11.661445"
     },
     {
       "region_code": "it",
@@ -2391,7 +2391,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:09.428618"
+      "scraped_at": "2026-04-12T20:09:12.266546"
     },
     {
       "region_code": "it",
@@ -2408,7 +2408,7 @@
       "references_count": "5",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/s-erp-12374179?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/12374179/image_128/S-ERP?unique=7702542",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/12374179/image_128/S-ERP?unique=6da4c17",
       "about_text": "Samo una realtà in forte espansione nata dall’unione di un gruppo di professionisti, provenienti da realtà operanti nel mondo del Consulting e dell’Information Technology.",
       "certifications_breakdown": [
         {
@@ -2426,7 +2426,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:09.667634"
+      "scraped_at": "2026-04-12T20:09:12.904389"
     },
     {
       "region_code": "it",
@@ -2473,7 +2473,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:10.069546"
+      "scraped_at": "2026-04-12T20:09:13.469332"
     },
     {
       "region_code": "it",
@@ -2490,7 +2490,7 @@
       "references_count": "4",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/qmind-srl-21483737?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/21483737/image_128/QMIND%20SRL?unique=2deaece",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/21483737/image_128/QMIND%20SRL?unique=6c2867c",
       "about_text": "Qmind nasce dalla collaborazione di due aziende di Udine attive da oltre vent’anni nell’ambito dell’informatica del nord-est: - LiberaMente, composta da analisti e consulenti senior, per la lettura dei contesti e delle esigenze, l’innovazione di processo, la progettazione e la gestione di sistemi ERP, l’accompagnamento nei percorsi di trasformazione - infoFactory, composta da sviluppatori e UX designer senior, per la realizzazione di sistemi software personalizzati, Web, Mobile, IoT e di Intelligenza Artificiale, l’innovazione anche culturale con interventi di formazione, trasferimento tecnologico, la partecipazione a progetti di ricerca. Abbiamo unito le nostre forze convinti che con Odoo ci sia un’occasione unica per portare innovazione digitale nelle aziende. Partiamo da Odoo per digitalizzare o rinnovare processi aziendali tracciati assieme ai nostri clienti, li estendiamo con nuove applicazioni software/mobile integrate con il sistema ERP. Usiamo l’AI generativa insieme ad Odoo per automatizzare processi di gestione documentale e di posta elettronica, di ticketing, di riconciliazione documenti, per realizzare ChatBot risponditori e sistemi data entry automatico.",
       "certifications_breakdown": [
         {
@@ -2516,7 +2516,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:10.482927"
+      "scraped_at": "2026-04-12T20:09:14.114543"
     },
     {
       "region_code": "it",
@@ -2533,7 +2533,7 @@
       "references_count": "4",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/sydea-srl-11171274?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/11171274/image_128/SYDEA%20S.r.l.?unique=80b8f2b",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/11171274/image_128/SYDEA%20S.r.l.?unique=0f240e2",
       "about_text": "Sydea è una società di consulenza e sviluppo con oltre 10 anni di esperienza nella digitalizzazione dei processi aziendali. Con sedi in Italia, Canada e Macedonia del Nord, accompagniamo le imprese in progetti di trasformazione digitale attraverso implementazioni ERP personalizzate, servizi di Application Management e sviluppi web e mobile. Contatta i nostri esperti Odoo Le nostre competenze ERP Servizi di implementazione, personalizzazione e integrazione dedicati a aziende di ogni settore. Trasformazione Digitale Soluzioni web e mobile integrate con l'ERP per rendere più efficienti i processi aziendali Training & Change Management Attività di formazione e supporto al cambiamento per coinvolgere e motivare team e persone Il nostro approccio a Odoo Ogni progetto nasce da un obiettivo chiaro: creare valore concreto per l’azienda cliente . Per questo adottiamo un metodo strutturato che unisce consulenza, personalizzazione e supporto continuo. Analisi su misura Partiamo dall'analisi dei tuoi processi per sviluppare una roadmap chiara e sostenibile 🧑‍🤝‍🧑 Team dedicato Professionisti esperti e sviluppatori qualificati ti guidano in ogni fase del processo Configurazione & personalizzazione Adattiamo Odoo alle esigenze del tuo business, garantendo un'integrazione fluida e operatività efficace. Formazione coinvolgente Formazione pratica e workshop per attivare il tuo team in tempi brevi Supporto continuo (AMS) Assistenza, manutenzione e aggiornamenti per un ERP sempre al massimo delle prestazioni Innovazione costante Strumenti automatizzati, connessioni e nuove strategie per potenziare la tua crescita digitale Perché scegliere Sydea? RISULTATI IMMEDIATI Implementazioni rapide e soluzioni pronte a generare valore fin da subito. SOLUZIONI SU MISURA Odoo configurato e personalizzato per adattarsi al tuo business, non il contrario. UN PARTNER AL TUO FIANCO Non vendiamo software: costruiamo insieme a te il percorso giusto. INNOVAZIONE CONTINUA Automazioni, integrazioni e nuove idee per farti correre più veloce. Le nostre sedi 🇮🇹 Bologna Via Piero Gobetti, 52/3, 40129 Bologna (BO) - ITA 🇮🇹 Napoli Via Raffaele Libroia, 7, 80129 Napoli (NA) - ITA 🇲🇰 Skopje Blagoj Davkov, 5, 1000 Skopje - NMK 🇨🇦 Vancouver 1200-1075 W Georgia Street c/o Watson&Goepel, Vancouver - CAN 💡 Vuoi scoprire come Odoo può trasformare i tuoi processi aziendali con il supporto di Sydea? Contattaci per una demo gratuita con un nostro consulente. Scopri di più 🌐 ✉️",
       "certifications_breakdown": [
         {
@@ -2547,7 +2547,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:10.786938"
+      "scraped_at": "2026-04-12T20:09:14.743240"
     },
     {
       "region_code": "it",
@@ -2586,7 +2586,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:11.514156"
+      "scraped_at": "2026-04-12T20:09:15.788294"
     },
     {
       "region_code": "it",
@@ -2612,7 +2612,7 @@
         }
       ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:52:11.781414"
+      "scraped_at": "2026-04-12T20:09:16.314175"
     },
     {
       "region_code": "it",
@@ -2638,7 +2638,7 @@
           "count": 2
         }
       ],
-      "scraped_at": "2026-04-09T07:52:12.054644"
+      "scraped_at": "2026-04-12T20:09:16.842278"
     },
     {
       "region_code": "it",
@@ -2673,7 +2673,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:12.275720"
+      "scraped_at": "2026-04-12T20:09:17.386360"
     },
     {
       "region_code": "it",
@@ -2704,7 +2704,37 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:12.578174"
+      "scraped_at": "2026-04-12T20:09:18.062512"
+    },
+    {
+      "region_code": "it",
+      "country_code": "IT",
+      "name": "Codice Colombo Srl",
+      "level": "Ready",
+      "city": "Chieti",
+      "district": "SAN GIOVANNI TEATINO",
+      "country": "Italy",
+      "full_address": "Chieti, SAN GIOVANNI TEATINO, 66020",
+      "rating_percentage": "100",
+      "average_project_size": "5 users",
+      "large_project_size": "~20 users",
+      "references_count": "2",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/partners/codice-colombo-srl-25512294?country_id=106",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/25512294/image_128/Codice%20Colombo%20Srl?unique=b2d6c64",
+      "about_text": null,
+      "certifications_breakdown": [],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:09:18.636077"
     },
     {
       "region_code": "it",
@@ -2739,33 +2769,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:12.823776"
-    },
-    {
-      "region_code": "it",
-      "country_code": "IT",
-      "name": "Codice Colombo Srl",
-      "level": "Ready",
-      "city": "Chieti",
-      "district": "SAN GIOVANNI TEATINO",
-      "country": "Italy",
-      "full_address": "Chieti, SAN GIOVANNI TEATINO, 66020",
-      "rating_percentage": "100",
-      "average_project_size": "8 users",
-      "large_project_size": "~20 users",
-      "references_count": "1",
-      "certified_experts_count": "0",
-      "profile_url": "https://www.odoo.com/partners/codice-colombo-srl-25512294?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/25512294/image_128/Codice%20Colombo%20Srl?unique=a491182",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [
-        {
-          "industry": "Wholesale / Retail",
-          "count": 1
-        }
-      ],
-      "scraped_at": "2026-04-09T07:52:13.091126"
+      "scraped_at": "2026-04-12T20:09:19.154276"
     },
     {
       "region_code": "it",
@@ -2791,7 +2795,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:13.358271"
+      "scraped_at": "2026-04-12T20:09:19.804146"
     },
     {
       "region_code": "it",
@@ -2808,7 +2812,7 @@
       "references_count": "1",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/intesys-srl-19812337?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/19812337/image_128/Intesys%20S.r.l.?unique=3e873db",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/19812337/image_128/Intesys%20S.r.l.?unique=573ce2a",
       "about_text": "Oltre la tecnologia: progettiamo il futuro digitale della tua impresa Intesys è una società di consulenza e sviluppo digitale che conta oltre 120 professionisti dedicati all’innovazione. Parte del Gruppo Lynx (un ecosistema di oltre 2.000 esperti IT/ICT), uniamo l'agilità di un partner focalizzato sull'User Experience alla solidità di un grande gruppo internazionale. Accompagniamo le aziende nei percorsi di Trasformazione Digitale , bilanciando eccellenza tecnica ( TECH ) e una profonda attenzione all'esperienza utente ( EXPERIENCE ). Che tu sia una PMI in crescita o una Medium-Big Enterprise (MBE), siamo il partner strategico per modernizzare i tuoi processi con Odoo e l'Intelligenza Artificiale. Cosa facciamo con Odoo: Soluzioni su misura Non installiamo e configuriamo un software, ma costruiamo ecosistemi digitali che creano valore per i nostri clienti. Sfruttiamo la flessibilità di Odoo per realizzare: Portali Clienti & Self-Service: Riduciamo le distanze tra te e i tuoi clienti, digitalizzando l'assistenza e lo scambio di informazioni. Gestione Reti di Vendita: Soluzioni evolute per salesman (vendita diretta) e reti indirette come negozi e distributori. Omnicanalità e CRM: Un'unica vista sul cliente per potenziare il Customer Care e le strategie di marketing. E-commerce Enterprise: Piattaforme di vendita integrate nativamente con la logistica e la contabilità. Gestione Documentale Avanzata: Digitalizzazione di flussi complessi, dalla manualistica tecnica alla conservazione sostitutiva. Perché scegliere Intesys come Partner Odoo? La nostra forza risiede nella capacità di realizzare soluzioni End-to-End integrate. Abbiamo supportato oltre 200 clienti in progetti ad alta complessità: Il nostro valore aggiunto Cosa significa per te Integrazione Totale Connettiamo Odoo ai tuoi sistemi ERP, CRM e legacy preesistenti. Architetture Scalabili Progettiamo soluzioni custom su standard Enterprise, pronte a crescere con il business. AI & Modernizzazione Introduciamo l'Intelligenza Artificiale nei tuoi processi per renderli predittivi e veloci. UX Design Rendiamo i gestionali semplici da usare, aumentando l'adozione interna da parte del team. \"Trasformiamo la complessità in semplicità operativa.\" Grazie alle sinergie con il Gruppo Lynx, garantiamo la copertura di ogni esigenza ICT, dalla piccola automazione alla grande infrastruttura critica. Vuoi vedere Odoo in azione per il tuo business? Il nostro team è pronto ad ascoltare le tue sfide e a disegnare una demo basata sui tuoi reali processi aziendali. Richiedi una consulenza strategica",
       "certifications_breakdown": [
         {
@@ -2822,7 +2826,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:13.753392"
+      "scraped_at": "2026-04-12T20:09:20.344296"
     },
     {
       "region_code": "it",
@@ -2848,7 +2852,7 @@
         }
       ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:52:14.168535"
+      "scraped_at": "2026-04-12T20:09:21.035727"
     },
     {
       "region_code": "it",
@@ -2879,7 +2883,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:14.422394"
+      "scraped_at": "2026-04-12T20:09:21.633291"
     },
     {
       "region_code": "it",
@@ -2900,7 +2904,7 @@
       "about_text": null,
       "certifications_breakdown": [],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:52:14.879680"
+      "scraped_at": "2026-04-12T20:09:22.203275"
     },
     {
       "region_code": "it",
@@ -2926,7 +2930,28 @@
         }
       ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:52:15.119425"
+      "scraped_at": "2026-04-12T20:09:22.775485"
+    },
+    {
+      "region_code": "it",
+      "country_code": "IT",
+      "name": "SOLUVIA SRL",
+      "level": "Ready",
+      "city": "Milano",
+      "district": "MILANO",
+      "country": "Italy",
+      "full_address": "Milano, MILANO, 20129",
+      "rating_percentage": "100",
+      "average_project_size": "6 users",
+      "large_project_size": "~10 users",
+      "references_count": "1",
+      "certified_experts_count": "0",
+      "profile_url": "https://www.odoo.com/partners/soluvia-srl-26680389?country_id=106",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/26680389/image_128/SOLUVIA%20SRL?unique=0745f9f",
+      "about_text": "We craft custom technological solutions that enhance work efficiency and our core lies in strategic consulting prioritising a business-first approach. Specialising in tailor-made software, peripheral systems, Business Intelligence, IoT solutions and Artificial Intelligence, we position ourselves as catalysts for change, steadfastly supporting our clients. Digitalisation and optimisation are not just services we offer: they are the foundational pillars of our philosophy.",
+      "certifications_breakdown": [],
+      "industries_breakdown": [],
+      "scraped_at": "2026-04-12T20:09:23.424286"
     },
     {
       "region_code": "it",
@@ -2943,7 +2968,7 @@
       "references_count": "1",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/uretech-di-fontanella-federico-23960298?country_id=106",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/23960298/image_128/URETECH%20DI%20FONTANELLA%20FEDERICO?unique=12b23cc",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/23960298/image_128/URETECH%20DI%20FONTANELLA%20FEDERICO?unique=c01e3c8",
       "about_text": "URETECH: web agency innovativa che crea esperienze digitali coinvolgenti. Design accattivante, soluzioni personalizzate e risultati di alta qualità. CONTATTACI ORA! Telefono: +39 02 8286 0103 Email: info@uretech.it",
       "certifications_breakdown": [
         {
@@ -2952,7 +2977,7 @@
         }
       ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:52:15.657244"
+      "scraped_at": "2026-04-12T20:09:25.111064"
     }
   ]
 }

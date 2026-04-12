@@ -2,7 +2,7 @@
   "region_code": "dk",
   "country_code": "DK",
   "country_name": "Denmark",
-  "scraped_at": "2026-04-09T07:49:13.568744",
+  "scraped_at": "2026-04-12T20:03:25.649211",
   "total_partners": 6,
   "source_url": "https://www.odoo.com/partners/country/denmark-58",
   "partners": [
@@ -21,7 +21,7 @@
       "references_count": "46",
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/flyt-consulting-as-14319474?country_id=58",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/14319474/image_128/Flyt%20Consulting%20AS.?unique=6fa4c1f",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/14319474/image_128/Flyt%20Consulting%20AS.?unique=fb0b116",
       "about_text": "Når I vælger Odoo, har I allerede truffet et klogt valg. Det næste handler om at finde den rigtige partner, som forstår jeres forretning og dansk lovgivning, tør udfordre jer og leverer en løsning, der holder. Hos Flyt Consulting får I mere end teknisk ekspertise. I får en ærlig og erfaren samarbejdspartner med dyb forretningsforståelse, stærke økonomikompetencer og mere end 25 års erfaring med ERP-løsninger. Vi er tidligere kendt som FlexERP og i dag den største danske Odoo-partner, med lokal tilstedeværelse i både Danmark og Norge. Vi er samtidig den eneste danske Silver Partner og medlem af Best Odoo Partners-alliancen (BOP), hvor vi samarbejder, deler viden og erfaringer på tværs af landegrænser, til fordel for jer. Vi tror på ægte forretningsforståelse, ærlig rådgivning og robuste løsninger. Vi siger nej, når det er det rigtige for jeres projekt. Vi bygger på standard, og vi udvikler kun, når det skaber reel værdi. På den måde undgår I teknisk gæld og sikrer, at Odoo forbliver let at opgradere og vedligeholde. Vores Odoo-løsninger er godkendt som digitalt bogføringssystem under den danske bogføringslov (FOB-nr.: fob709278). Det betyder, at I trygt kan bruge Odoo som jeres bogføringssystem, uden behov for ekstra “Danmarkspakker” eller unødvendige tilpasninger. Klar til at få det fulde udbytte af Odoo? Lad os tage en uforpligtende snak om jeres behov og ambitioner. Vi hjælper jer hele vejen med indsigt, ærlighed og forretningsmæssig tyngde, så I kommer i mål med en løsning, der både virker og giver mening. Kontakt os i dag ​Book en demo​ Følg os på LinkedIn​ Flyt Consulting - Strømlin driften, saml alt i ét ERP",
       "certifications_breakdown": [
         {
@@ -75,7 +75,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:49:10.768779"
+      "scraped_at": "2026-04-12T20:03:21.317313"
     },
     {
       "region_code": "dk",
@@ -142,7 +142,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:49:11.347356"
+      "scraped_at": "2026-04-12T20:03:22.127956"
     },
     {
       "region_code": "dk",
@@ -159,7 +159,7 @@
       "references_count": "45",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/odoo-house-aps-1089501?country_id=58",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1089501/image_128/Odoo%20House%20ApS?unique=e436624",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1089501/image_128/Odoo%20House%20ApS?unique=4de0ee9",
       "about_text": "At Odoo House, we are 100% focused on Odoo. We have worked with Odoo since 2010 and have gained extensive knowledge of the system. Our team consists of specialists who are ready to assist you with all types of tasks related to Odoo. Our goal is to continuously expand the possibilities within Odoo, ensuring that the system can be used optimally by Danish companies – always in full compliance with Danish standards and legislation. We value equal and respectful collaboration above all. You are always welcome to contact us for a conversation about Odoo. Read much more on our website Odoo House. Approved by the Danish Buisness Authority: fob390962",
       "certifications_breakdown": [
         {
@@ -205,7 +205,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:49:11.958125"
+      "scraped_at": "2026-04-12T20:03:22.855318"
     },
     {
       "region_code": "dk",
@@ -256,7 +256,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:49:12.514656"
+      "scraped_at": "2026-04-12T20:03:23.678027"
     },
     {
       "region_code": "dk",
@@ -294,7 +294,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:49:12.828710"
+      "scraped_at": "2026-04-12T20:03:24.301991"
     },
     {
       "region_code": "dk",
@@ -341,7 +341,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:49:13.229682"
+      "scraped_at": "2026-04-12T20:03:24.948546"
     }
   ]
 }

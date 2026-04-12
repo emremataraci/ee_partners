@@ -2,7 +2,7 @@
   "region_code": "hu",
   "country_code": "HU",
   "country_name": "Hungary",
-  "scraped_at": "2026-04-09T07:51:42.562881",
+  "scraped_at": "2026-04-12T20:08:26.458486",
   "total_partners": 3,
   "source_url": "https://www.odoo.com/partners/country/hungary-97",
   "partners": [
@@ -21,7 +21,7 @@
       "references_count": "79",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/online-erp-kft-21821663?country_id=97",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/21821663/image_128/Online%20ERP%20Kft.?unique=443d150",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/21821663/image_128/Online%20ERP%20Kft.?unique=8337b98",
       "about_text": "Online-ERP: Magyarország legnagyobb Odoo partnere Az Online-ERP nemcsak Magyarország legnagyobb Odoo partnere, hanem a nemzetközileg elismert Best Odoo Partners ( BOP ) Alliance hivatalos tagja is – egyedüliként Magyarországról. Alapító tagjai vagyunk a Magyarországi Odoo Partnerek Szövetségének ( MOPSZ ), és büszkén képviseljük ügyfeleink érdekeit a legmagasabb szinten. The English text can be read below! Miért válassz minket? Személyre szabott támogatás Nálunk az ügyfél az első! A rendszer teljes bevezetése alatt végigkísérünk, az első lépésektől kezdve érthető, üzletközpontú válaszokat nyújtva. Legyen szó üzleti folyamatról, ajánlatsablonról vagy testreszabásról, mi biztosítjuk a gördülékeny átállást. Specializált szakértelem Csapatunkban olyan tapasztalt szakértők dolgoznak, mint gyártástechnikusok, logisztikai szakemberek és pénzügyi tanácsadók, hogy minden iparági kihívásra megoldást kínáljunk. Tapasztalat nemzetközi projektekben Több országot átfogó, komplex Odoo bevezetéseket valósítunk meg, és szoros együttműködést folytatunk nemzetközi partnerekkel. Legyen szó rendszerek integrálásáról vagy határokon átívelő megoldásokról, csapatunk mindig készen áll a kihívásokra. Innováció és fejlesztés Több mint 2000 Odoo modult fejlesztettünk, így garantáljuk, hogy mindig a legmodernebb megoldásokat kínáljuk. Egyedi fejlesztéseinkkel biztosítjuk, hogy rendszereid mindig a céged igényeihez igazodjanak. Egyedi kedvezmények Jó kapcsolatainknak köszönhetően partnereink számára különleges Odoo kedvezményeket tudunk biztosítani, így nemcsak időt, hanem pénzt is megtakarítasz velünk. Magyar specifikációk és oktatás Kifejlesztettük a magyar jogszabályoknak megfelelő könyvelési és számlázási modulokat, valamint saját magyar nyelvű oktatóanyagokkal segítjük partnereinket. Ezekkel ügyfeleink könnyedén elsajátíthatják a rendszer használatát. Küldetésünk Célunk, hogy vállalkozásodat egyszerűbbé, gyorsabbá és költséghatékonyabbá tegyük. Segítünk automatizálni és rendszerezni az időigényes munkákat, hogy vállalkozásod a mechanikus működés helyett modern és sikeres irányítással fejlődhessen. Kövess minket a Facebook oldalunkon, és nézd meg YouTube csatornánkat a legfrissebb hírekért és oktatóvideókért! Ígérjük, hogy vállalkozásodat jobbá tesszük – appról appra! A Youtube csatornánkon rövid, magyar nyelvű tutorial videók formájában lépésről-lépésre megismertetjük az Odoo rejtelmeivel. Az alapoktól kezdve bevezetjük a gyakorlati alkalmazásba is, hogy Ön is megtapasztalhassa a pozitív hatásokat. Magyar Odoo zárt facebook csoportunkban az Odoo működéséről mutatunk hasznos tippeket. A csoport tagjaként felteheti kérdését, amelyekre Odoo szakértőink válaszolnak. Érdemes csatlakozni, mert más vállalkozások tapasztalatairól is olvashat itt, mellesleg kapcsolatépítésnek sem utolsó! Online-ERP: Hungary’s Largest Odoo Partner Online-ERP is not only Hungary’s largest Odoo partner but also the sole official member from Hungary of the internationally recognized Best Odoo Partners ( BOP ) Alliance. We are founding members of the Hungarian Odoo Partners Association ( MOPSZ ) and proudly represent our clients' interests at the highest level. Why Choose Us? Personalized Support Our customers come first! We guide you through the entire system implementation process, providing clear, business-focused answers from the very first steps. Whether it’s about a business process, quote template, or customization, we ensure a smooth transition. Specialized Expertise Our team includes experienced professionals such as manufacturing engineers, logistics experts, and financial advisors, offering solutions for every industry-specific challenge. Experience in International Projects We implement complex Odoo solutions spanning multiple countries and maintain close cooperation with international partners. Whether it’s system integration or cross-border solutions, our team is always ready to take on challenges. Innovation and Development With over 2,000 Odoo modules developed, we guarantee the most cutting-edge solutions. Our custom developments ensure that your systems always meet the needs of your business. Exclusive Discounts Thanks to our strong connections, we can offer our partners special Odoo discounts, helping you save not just time but money as well. Hungarian Specifications and Training We have developed accounting and invoicing modules that comply with Hungarian regulations and provide custom Hungarian-language training materials to assist our partners. These resources make it easy for our clients to master the system. Our Mission Our goal is to make your business simpler, faster, and more cost-efficient. We help automate and organize time-consuming tasks so that your business can shift from mechanical operations to modern and successful management. Follow us on Facebook and check out our YouTube channel for the latest news and tutorials! We promise to make your business better—app by app!",
       "certifications_breakdown": [
         {
@@ -36,7 +36,7 @@
       "industries_breakdown": [
         {
           "industry": "Manufacturing / Maintenance",
-          "count": 25
+          "count": 26
         },
         {
           "industry": "Wholesale / Retail",
@@ -75,7 +75,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:41.474679"
+      "scraped_at": "2026-04-12T20:08:24.330393"
     },
     {
       "region_code": "hu",
@@ -130,7 +130,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:41.988986"
+      "scraped_at": "2026-04-12T20:08:25.189075"
     },
     {
       "region_code": "hu",
@@ -193,7 +193,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:42.292970"
+      "scraped_at": "2026-04-12T20:08:25.827563"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "region_code": "sk",
   "country_code": "SK",
   "country_name": "Slovakia",
-  "scraped_at": "2026-04-09T07:53:37.683205",
+  "scraped_at": "2026-04-12T20:11:36.970728",
   "total_partners": 6,
   "source_url": "https://www.odoo.com/partners/country/slovakia-194",
   "partners": [
@@ -18,10 +18,10 @@
       "rating_percentage": "72",
       "average_project_size": "18 users",
       "large_project_size": "~200 users",
-      "references_count": "40",
+      "references_count": "41",
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/26house-sro-2305055?country_id=194",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/2305055/image_128/26HOUSE%20s.r.o.?unique=14acbb9",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/2305055/image_128/26HOUSE%20s.r.o.?unique=b58f50e",
       "about_text": "Od roku 2014 pomáhame spoločnostiam s digitálnou transformáciou a implementáciou ERP Odoo pre segment stredných a veľkých podnikov. Podporujeme Odoo Open Source komunitu a prispôsobujeme riešenia pre verziu Odoo Enterprise. Veríme, že Odoo je tá správna All-in-one platforma, ktorú kedy budete potrebovať pre riadenie svojho podnikania. LOKALIZUJEME pre Vás webstránku Odoo.com do slovenského jazyka, a naďalej prekladáme Odoo Enterprise moduly ROZŠIRUJEME náš tím konzultantov, analytikov, developerov a testerov a neustále pracujeme na užitočných rozšíreniach Odoo podľa potrieb našich zákazníkov a ich špecifických procesov SPÁJAME systémy v jeden celok. Vytvorili sme mnohé konektory s najpoužívanejšími nástrojmi tretích strán (POHODA, FinStat, Profesia, Humanet,..) VZDELÁVAME sa neustále a pravidelne pre Vás pripravujeme interaktívne webináre a tréningové videá dostupné bezplatne pre všetkých: Odoo Czech & Slovak BUDUJEME dobré a férové vzťahy s klientmi, partnermi, dodávateľmi a zamestnancami s cieľom dlhodobej a úspešnej spolupráce Naše služby : BiznisAnalýza | GAP Analýza | Inštalácia | Konfigurácia | Customizácia | Integrácia | Migrácia | Vlastný vývoj Odoo modulov | Školenia | Podpora a údržba | Prenájom Odoo konzultantov, analytikov a vývojárov Online Účtovníctvo v Odoo: 26HOUSE Účtovníctvo Faktúrujte v Odoo ZDARMA: 26HOUSE Faktúra Získajte odpovede, ktoré potrebujete: 26HOUSE zákazníci Rezervujte si bezplatnú demo prezentáciu s nami: 26HOUSE Demo V roku 2021 sme získali ocenenie Odoo Community Awards: BEST TRANSLATOR",
       "certifications_breakdown": [
         {
@@ -79,7 +79,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:53:35.167302"
+      "scraped_at": "2026-04-12T20:11:32.678721"
     },
     {
       "region_code": "sk",
@@ -93,10 +93,10 @@
       "rating_percentage": "88",
       "average_project_size": "16 users",
       "large_project_size": "~200 users",
-      "references_count": "36",
+      "references_count": "38",
       "certified_experts_count": "4",
       "profile_url": "https://www.odoo.com/partners/dodo-systems-sro-4239157?country_id=194",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/4239157/image_128/Dodo%20Systems%20s.r.o.?unique=0871565",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/4239157/image_128/Dodo%20Systems%20s.r.o.?unique=0b7777e",
       "about_text": "O spoločnosti: Sme certifikovaný Odoo partner s takmer 20 ročnými skúsenosťami v oblasti digitalizácie, informačných systémov a automatizácie podnikových procesov . Ponúkame komplexné ERP riešenia – od analýzy potrieb , cez samotnú implementáciu Odoo , až po dlhodobú podporu a školenia . Nájdete nás na: LinkedIn Youtube Facebook Náš web Pre koho je ERP ideálna voľba? Za našu prax sme nasadili stovky riešení z rôznych oblastí a kategórií informačných systémov, čo nám poskytlo jedinečný a dôkladný pohľad na fungovanie systému podnikania a riadenia procesov na Slovensku a v Českej republike. Odoo prispôsobujeme vašim potrebám – od CRM, skladového hospodárstva, logistiky, integrácie na účtovný systém , prepojenie na e-shop až po výrobu a fakturáciu . Čo poskytujeme: Návrh ERP riešenia na kľúč Hodnotíme súčasné procesy, identifikujeme úzke miesta, určujeme rozsah a stratégiu nasadenia. Zistiť viac Odoo implementácia, integrácia a podpora Nastavíme ERP systém na mieru a prepojíme ho s vašimi existujúcimi nástrojmi (e-shop, sklad, fakturácia, CRM, BI) Naše služby Prepojenie s e-shopmi, účtovníctvom, dopravcami, z ákazkový vývoj modulov Integrácie na software tretích strán (Balíkobot, Chameleónom, FHB Fullfillment, Pohoda, Money, Omega) Kontakt",
       "certifications_breakdown": [
         {
@@ -111,7 +111,7 @@
       "industries_breakdown": [
         {
           "industry": "Wholesale / Retail",
-          "count": 17
+          "count": 18
         },
         {
           "industry": "Utilities / Energy / Water supply",
@@ -150,7 +150,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:53:35.538056"
+      "scraped_at": "2026-04-12T20:11:33.504464"
     },
     {
       "region_code": "sk",
@@ -167,7 +167,7 @@
       "references_count": "30",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/symetra-sro-6406360?country_id=194",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/6406360/image_128/symetra%20s.r.o.?unique=76fe107",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/6406360/image_128/symetra%20s.r.o.?unique=c50bcf5",
       "about_text": "Zefektívňujeme firemné procesy pomocou Odoo Pomáhame slovenským firmám rásť s Odoo – od ERP cez lokalizované účtovníctvo až po e-commerce. Sme Silver partner Odoo s viac ako 30 rokmi skúseností v ERP a IT systémoch. Našim klientom prinášame riešenia, ktoré zjednodušujú procesy a prinášajú reálne výsledky. 🔹 Čo robíme Rozumieme, že každá firma má iné priority. Preto riešime Odoo vždy z pohľadu biznisu, nie len modulov: Obchod a marketing → CRM, Predaj, Predplatné Prevádzka a výroba → Sklad, Nákup, Výroba, Projekty Financie → Účtovníctvo, Reporting, Controlling Ľudia a podpora → Ľudské zdroje (HR), Pracovníci v teréne, Helpdesk Online svet → E-commerce, Webstránka, Integrácie Ako jediní na trhu ponúkame vlastnú e-commerce platformu postavenú na Odoo a slovenskú lokalizáciu Odoo účtovníctva . Za nás hovoria zákazníci Na veľkosti nezáleží – záleží nám na výsledku Či už ste menšia firma alebo etablovaný podnik, ku každému klientovi pristupujeme individuálne, zodpovedne a s plným nasadením. Náš tím odborníkov vám pomôže: analyzovať potreby a vybrať vhodné Odoo moduly, nastaviť systém technicky aj procesne, zaškoliť používateľov a zabezpečiť dlhodobú podporu. 🔹 Prečo my? 30+ rokov skúseností v ERP a IT riešeniach Certifikovaní konzultanti pre Odoo v16, v17 a v18 89 % zákazníkov zostáva s nami dlhodobo Unikátne ecommerce riešenie SK lokalizácia účtovníctva Zistite o nás viac: WEB ​ Referencie ​ Blog ​ Linkedin Kontaktujte nás 📞 Zavolajte nám : +421 905 449 079 📧 Napíšte priamo : info@symetra.sk 🌐 Viac o nás nájdete na www.symetra.sk",
       "certifications_breakdown": [
         {
@@ -221,7 +221,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:53:36.231117"
+      "scraped_at": "2026-04-12T20:11:34.414452"
     },
     {
       "region_code": "sk",
@@ -292,7 +292,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:53:36.546918"
+      "scraped_at": "2026-04-12T20:11:35.048132"
     },
     {
       "region_code": "sk",
@@ -309,7 +309,7 @@
       "references_count": "8",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/strauberi-s-r-o-16546381?country_id=194",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/16546381/image_128/Strauberi%20s.%20r.%20o.?unique=c1fd343",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/16546381/image_128/Strauberi%20s.%20r.%20o.?unique=5250cc1",
       "about_text": "Odoo partner Majte konečne firmu pod kontrolou. Menej systémov. Viac prehľadu. Menej chaosu. Zarezervujte si konzuláciu Sme seniorný tím z Košíc, ktorý spája ľudský prístup, biznisové skúsenosti a dlhoročnú IT prax. Ako firma rastie, rastie aj množstvo informácií, vstupných dát a komplexnosť procesov. Odoo je systém, ktorý pomáha rastúcim firmám prepojiť procesy, získať prehľad a ušetriť desiatky hodín a tisícky EUR mesačne. LinkedIn Facebook Instagram Náš web Našim cieľom nie je len \"nasadiť ERP\", ale pochopiť, ako funguje vaša firma a potom spolu s vami navrhnúť riešenie, ktoré vám prinesie prehľad, úsporu času a funkčný systém, ktorý zvládne rast. Celou implementáciou vás prevedieme krok za krokom. Hovoríme zrozumiteľne, pracujeme premyslene a nastavujeme systém tak, aby ste konečne mali svoju firmu pod kontrolou. Prečo si firmy vyberajú práve nás: Kombinujeme IT odbornosť s biznis pohľadom (ERP/CRM, procesy, reporting). Sme súčasťou viacerých biznisových komunít, vďaka čomu lepšie rozumieme výzvam dnešných firiem a vieme na ne priniesť praktické riešenia. Vysvetľujeme technické riešenia v jazyku, ktorému rozumie aj manažment. Zameriavame sa na rýchlu návratnosť a zmysluplnú digitalizáciu. Staviame na dôvere, reálnych výsledkoch a dlhodobej spolupráci. Naše služby: Odoo implementácia (SaaS, Odoo.sh, On-prem) Analýza existujúcich firemných procesov Integrácie s účtovníctvom, e-shopom alebo inými systémami Školenia, podpora a rozvoj po nasadení Úvodná konzultácia k digitálnej pripravenosti Naším cieľom je, aby firmy mali poriadok vo svojich procesoch - bez zbytočného stresu, zbytočných nákladov a bez nutnosti volať piatim ľuďom, aby zistili, čo sa vo firme deje. Zarezervujte si konzuláciu Čo nás odlišuje od klasických ERP dodávateľov? Ľudský prístup Snažíme sa pochopiť výzvy, ktorým majitelia čelia a hľadáme na nich riešenia. Zodpovednosť a transparentnosť Sme úprimní v tom, čo technológia zvládne a čo nie. Nemaľujeme vzdušné zámky. Technologická odbornosť Máme dlhoročné know-how, IT a biznis skúsenosti a hĺbkový prehľad o tom, čo Odoo dokáže. Rozumieme biznisu, nielen systému Vybudovali sme už viaceré firmy, preto vieme, akým nástrahám čelia dnešní podnikatelia. Autenticita a dôvera Sme, kým sme - nepózujeme ako korporát. Staviame na dôvere a reálnych príbehoch. Inovácia, ktorú spolu zvládneme Digitalizácia je náročná zmena, no nemusí byť strašiakom. Sprevádzame firmy krok po kroku.",
       "certifications_breakdown": [
         {
@@ -327,7 +327,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:53:37.079184"
+      "scraped_at": "2026-04-12T20:11:35.848964"
     },
     {
       "region_code": "sk",
@@ -362,7 +362,7 @@
           "count": 2
         }
       ],
-      "scraped_at": "2026-04-09T07:53:37.349322"
+      "scraped_at": "2026-04-12T20:11:36.416091"
     }
   ]
 }

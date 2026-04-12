@@ -2,7 +2,7 @@
   "region_code": "ee",
   "country_code": "EE",
   "country_name": "Estonia",
-  "scraped_at": "2026-04-09T07:49:16.704301",
+  "scraped_at": "2026-04-12T20:03:29.659856",
   "total_partners": 4,
   "source_url": "https://www.odoo.com/partners/country/estonia-63",
   "partners": [
@@ -18,10 +18,10 @@
       "rating_percentage": "89",
       "average_project_size": "27 users",
       "large_project_size": "~200 users",
-      "references_count": "67",
+      "references_count": "68",
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/impactic-ou-1700274?country_id=63",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1700274/image_128/Impactic%20O%C3%9C?unique=44657fd",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1700274/image_128/Impactic%20O%C3%9C?unique=9142129",
       "about_text": "Impactic OÜ started providing POS solutions based on Odoo. We emerged quickly from just POS systems and now we are offering full grade ERP solutions and consultation services for different Odoo verisons. Our team is passionate about delivering deployments and support always on time.",
       "certifications_breakdown": [
         {
@@ -71,11 +71,11 @@
           "count": 2
         },
         {
-          "industry": "Education",
+          "industry": "Science & Technology",
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:49:14.564222"
+      "scraped_at": "2026-04-12T20:03:26.600107"
     },
     {
       "region_code": "ee",
@@ -92,7 +92,7 @@
       "references_count": "52",
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/avatud-lahendused-ou-1134164?country_id=63",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1134164/image_128/Avatud%20Lahendused%20O%C3%9C?unique=891a101",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1134164/image_128/Avatud%20Lahendused%20O%C3%9C?unique=171a04f",
       "about_text": "Oleme Baltikumi üks suurimaid Odoo partnereid ja teenusepakkujaid. Meie kliendid on keskmise suurusega kasvuettevõtted, kelle konkurentsivõime aluseks on efektiivsed ja innovaatilised äriprotsessid. Enamik projekte oleme teinud kaubandus-, tööstus-, teenus- ja teenindusettevõtetele. Meie kliendid peavad Odoo suurimateks tugevusteks lihtsust, mugavust ja kiiret kasutuselevõttu, suurt hulka valmislahendusi ja soodsust võrreldes teiste sarnaste lahendustega. Meie juurutusprotsessi puhul hindavad nad selget tegevuskava ja läbipaistvust, mille tagavad otsesuhtlus ja kliendiportaal. Meie meeskond jaguneb Tallinna ja Tartu kontori vahel. Lisaks standardlahenduste juurutamisele pakume hõlpsalt tarnitavaid lisamooduleid ja järelteenindust, kasutajatuge, koolitusi, loome keerukamaid liidestusi ning rätseplahendusi. Oleme välja töötanud ja uuendame pidevalt Odoo Eesti paketti, mis sisaldab eestipõhiseidraamatupidamise ja palgaarvestuse seadistusi ning katab muid kohalike kasutajate vajadusi. We are a certified partner of Odoo serving clients in Estonia as well as Scandinavia. We have offices in Tallinn and Tartu. By leveraging Odoo and custom solutions, we help our clients break free from software models that are costly, difficult to use and outdated. Whether conceptual design, implementation or customizing of your system, we can support you with our expertise and experience from numerous Odoo projects. For us, customers’ needs and transparency are of utmost importance. We localize and customize Odoo to fit any use case. Our dedicated analysts and developers extend Odoo’s fully integrated suite with localizations, third-party applications for vertical industries or specific business processes. We can also build specific integrations which are designed to integrate with other business solutions you are already using. Our online customer portal provides a dedicated space for the customers to easily manage and track the information and progress of their development projects and support requests.",
       "certifications_breakdown": [
         {
@@ -134,7 +134,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:49:15.210566"
+      "scraped_at": "2026-04-12T20:03:27.521745"
     },
     {
       "region_code": "ee",
@@ -185,7 +185,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:49:15.850327"
+      "scraped_at": "2026-04-12T20:03:28.296073"
     },
     {
       "region_code": "ee",
@@ -223,7 +223,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:49:16.187613"
+      "scraped_at": "2026-04-12T20:03:28.931996"
     }
   ]
 }

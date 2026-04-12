@@ -2,7 +2,7 @@
   "region_code": "hr",
   "country_code": "HR",
   "country_name": "Croatia",
-  "scraped_at": "2026-04-09T07:51:40.598122",
+  "scraped_at": "2026-04-12T20:08:23.607873",
   "total_partners": 8,
   "source_url": "https://www.odoo.com/partners/country/croatia-95",
   "partners": [
@@ -16,12 +16,12 @@
       "country": "Croatia",
       "full_address": "ZAGREB, 10090",
       "rating_percentage": "86",
-      "average_project_size": "13 users",
+      "average_project_size": "12 users",
       "large_project_size": "~200 users",
-      "references_count": "84",
+      "references_count": "85",
       "certified_experts_count": "10",
       "profile_url": "https://www.odoo.com/partners/e-sustavi-doo-1462710?country_id=95",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1462710/image_128/E-Sustavi%20doo?unique=f9c998c",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1462710/image_128/E-Sustavi%20doo?unique=2a85364",
       "about_text": null,
       "certifications_breakdown": [
         {
@@ -75,7 +75,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:37.359533"
+      "scraped_at": "2026-04-12T20:08:18.331922"
     },
     {
       "region_code": "hr",
@@ -126,7 +126,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:37.966438"
+      "scraped_at": "2026-04-12T20:08:19.357119"
     },
     {
       "region_code": "hr",
@@ -193,7 +193,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:38.345305"
+      "scraped_at": "2026-04-12T20:08:19.955940"
     },
     {
       "region_code": "hr",
@@ -248,7 +248,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:38.630402"
+      "scraped_at": "2026-04-12T20:08:20.566473"
     },
     {
       "region_code": "hr",
@@ -265,7 +265,7 @@
       "references_count": "10",
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/ecodica-doo-8688791?country_id=95",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/8688791/image_128/Ecodica%20d.o.o.?unique=3d489c7",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/8688791/image_128/Ecodica%20d.o.o.?unique=856ad93",
       "about_text": "We have built comprehensive and industry-specific enterprise resource planning systems using OpenERP/Odoo for over twelve years, helping companies to set themselves apart from the competition. Pioneering the first complete accounting localization for the Croatian market. Our team has planned and implemented ERP solutions for manufacturing, design and engineering, technology, and shipbuilding companies for over ten years and successfully realized more than fifty projects. We’ve gained specialized knowledge of the process needs of these industries and yet understand that every project and every business is different. With the expertise gained over the years, we offer advice on what is needed and what is unnecessary, saving both time and money when implementing a solution and resulting in a tailor-made platform created just for you. We’ve supported all of our clients every step of the way in their digital transformations and made them simple and successful. As worn as it sounds, your success is our success. And failure will never find a place on our to-do list. Specialized for service-based, engineering, and manufacturing businesses: CRM and Sales Management Procurement Warehouse Management Manufacturing (Industry 4.0, IoT, MES) Project Management Field Service Management Human Resource Management Resource Planning Accounting, Planning and Analysis, Controlling and Finance Document Management Business Intelligence Please visit us at Ecodica web site",
       "certifications_breakdown": [],
       "industries_breakdown": [
@@ -294,7 +294,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:39.038803"
+      "scraped_at": "2026-04-12T20:08:21.157754"
     },
     {
       "region_code": "hr",
@@ -305,13 +305,13 @@
       "district": "",
       "country": "Croatia",
       "full_address": "Zagreb, 10000",
-      "rating_percentage": "88",
+      "rating_percentage": "89",
       "average_project_size": "9 users",
       "large_project_size": "~30 users",
-      "references_count": "20",
+      "references_count": "21",
       "certified_experts_count": "6",
       "profile_url": "https://www.odoo.com/partners/uvid-doo-1808902?country_id=95",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/1808902/image_128/Uvid%20d.o.o.?unique=e00cd82",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/1808902/image_128/Uvid%20d.o.o.?unique=3c29e3a",
       "about_text": "ASK FOR A DEMO!!",
       "certifications_breakdown": [
         {
@@ -333,15 +333,15 @@
           "count": 2
         },
         {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
           "industry": "Entertainment / Media",
           "count": 1
         },
         {
           "industry": "Science & Technology",
-          "count": 1
-        },
-        {
-          "industry": "Wholesale / Retail",
           "count": 1
         },
         {
@@ -357,7 +357,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:39.454301"
+      "scraped_at": "2026-04-12T20:08:21.765254"
     },
     {
       "region_code": "hr",
@@ -396,7 +396,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:40.023335"
+      "scraped_at": "2026-04-12T20:08:22.370259"
     },
     {
       "region_code": "hr",
@@ -435,7 +435,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:51:40.339727"
+      "scraped_at": "2026-04-12T20:08:22.972694"
     }
   ]
 }

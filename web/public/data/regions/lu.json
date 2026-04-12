@@ -2,7 +2,7 @@
   "region_code": "lu",
   "country_code": "LU",
   "country_name": "Luxembourg",
-  "scraped_at": "2026-04-09T07:52:29.914291",
+  "scraped_at": "2026-04-12T20:09:47.257642",
   "total_partners": 17,
   "source_url": "https://www.odoo.com/partners/country/luxembourg-129",
   "partners": [
@@ -18,10 +18,10 @@
       "rating_percentage": "91",
       "average_project_size": "11 users",
       "large_project_size": "~300 users",
-      "references_count": "144",
+      "references_count": "145",
       "certified_experts_count": "7",
       "profile_url": "https://www.odoo.com/partners/captivea-luxembourg-7180742?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/7180742/image_128/Captivea%20Luxembourg?unique=dc97d02",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/7180742/image_128/Captivea%20Luxembourg?unique=38fde3e",
       "about_text": "Leader mondial de l'intégration Odoo Intégrateur ERP & Agence Web Depuis 2007, CAPTIVEA accompagne les entreprises luxembourgeoises et internationales dans l'implémentation et la personnalisation de leur ERP Odoo , en s’adaptant à chaque secteur et taille d’entreprise. 🚀 Notre méthode Une approche agile et éprouvée pour des résultats concrets ! 1 ANALYSE Vos besoins, nos solutions via l’ ERP Odoo . 2 TEST & VALIDATIONS Vous testez, validez et nous ajustons. 3 OPTIMISATION DES PROCESSUS Adoption rapide, équipes efficaces. ✨ Nos SME Packages - Digital CAPTIVEA , partenaire du programme SME Packages – Digital de l’État luxembourgeois, accompagne la digitalisation des PME : 💫 4 axes couverts Marketing digital (site web, réseaux sociaux) Système de gestion (ERP, caisse enregistreuse, logiciel métier) Facturation électronique (ERP avec module facturation électronique) Intégration de l’IA dans vos processus 💫 Les coûts PME avec siège social au Luxembourg, autorisation d’établissement, projet entre 3 000 € et 25 000 € HTVA. 💫 Aide financière Jusqu’à 70 % des coûts éligibles du projet. 🎁 Offre clés en main Modules essentiels, accompagnement, formation, support et solution évolutive Nos clients racontent ce que la digitalisation a apporté à leur PME ✅ Nos services CONSEIL & STRATÉGIE Audit stratégique Optimisation des processus Gestion du changement INTÉGRATION ODOO Implémentation & personnalisation ERP Développements sur mesure & connecteurs Formation et support 24/7 WEB & DIGITAL Création de sites et boutiques Odoo Marketing digital & création de contenu Implémentation & personnalisation ERP 💎 Nos valeurs ACCOMPAGNEMENT ADAPTÉ Pour chaque secteur et chaque taille d’entreprise. PRÉSENCE INTERNATIONALE Réponse aux besoins des sociétés internationales. PERFORMANCE ET RÉACTIVITÉ Prise en charge garantie sous 24h. TRANSPARENCE ET ÉCOUTE Des experts métiers qui vous comprennent. Ce que nos clients retiennent de leur collaboration avec Captivea Nos localisations DÉMARRER VOTRE PROJET ODOO PLANIFIER UNE DÉMO METTRE À JOUR ODOO FAIRE UNE FORMATION ODOO DÉCOUVRIR CAPTIVEA DÉCOUVRIR ODOO CONTACTER CAPTIVEA LUXEMBOURG REJOINDRE CAPTIVEA SUR LINKEDIN Nos partenaires GESTION FINANCE/TRÉSORERIE Solution de gestion de la trésorerie avancée GESTION DES FACTURES FOURNISSEURS Solution de gestion des factures fournisseurs avancée SERVICES CLOUD, CONNECTIVITE ET CYBERSECURITE Solution pour héberger, connecter et sécuriser les données de l’entreprise TELEPHONIE VOIP Solution de téléphonie intégrée à Odoo TELEPHONIE VOIP Solution de téléphonie intégrée à Odoo GESTION DE L’IDENTITE DES CONTACTS Solution pour vérifier et gérer l’identité des interlocuteurs Ce que nos clients disent de nous AUNILEC SOLAR Nous avons été séduits par la qualité de l’écoute et la capacité de Captivea à comprendre nos défis. […] J’ai été souvent en contact avec le chef de projet et d’autres consultants Odoo de chez Captivea, et leur réactivité a vraiment facilité le processus. Lola Schmitt • Assistante administrative & comptable En savoir plus BRASSERIE D’BRAUSTUFF C'est vraiment une bonne idée de passer par un partenaire comme Captivea pour obtenir toutes les informations et l'aide nécessaire à la mise en place d'Odoo. Nous sommes très satisfaits de l’assistance et support fournit par l’équipe de Captivea. Nastasja Roberto • Directrice En savoir plus L’AGENCE ÉVÉNEMENTIELLE En s'appuyant sur des experts comme ceux de Captivea, nous avons pu fluidifier considérablement notre processus. Bien sûr, cela a pris le temps nécessaire, mais chaque étape a été mise en place de manière complète, malgré notre passif. Finalement, c'était une véritable opportunité de repartir sur de nouvelles bases pour la gestion de notre entreprise. Nous voyons désormais les bénéfices concrets de cette approche, et même un petit artisan peut tirer de grands avantages de l'utilisation d'Odoo. Jules Condé • Fondateur et gérant En savoir plus VCAST Je suis convaincu qu'un CRM est essentiel pour gérer une entreprise de nos jours. Utiliser Odoo et l'intégrer avec l'aide de Captivea dès le lancement était une évidence. Le fait qu'Odoo soit open source a également convaincu mon associé, et nous sommes très satisfaits du résultat obtenu grâce à cette collaboration. Michaël Houalef • co-fondateur et CEO En savoir plus",
       "certifications_breakdown": [
         {
@@ -43,11 +43,11 @@
           "count": 22
         },
         {
-          "industry": "Finance / Legal / Insurance",
-          "count": 15
+          "industry": "Wholesale / Retail",
+          "count": 14
         },
         {
-          "industry": "Wholesale / Retail",
+          "industry": "Finance / Legal / Insurance",
           "count": 14
         },
         {
@@ -56,18 +56,18 @@
         },
         {
           "industry": "Other Services",
-          "count": 12
+          "count": 13
         },
         {
           "industry": "Health / Social Welfare / Pharmaceutical",
           "count": 11
         },
         {
-          "industry": "Utilities / Energy / Water supply",
-          "count": 10
+          "industry": "Construction & Renovation",
+          "count": 11
         },
         {
-          "industry": "Construction & Renovation",
+          "industry": "Utilities / Energy / Water supply",
           "count": 10
         },
         {
@@ -79,7 +79,7 @@
           "count": 7
         }
       ],
-      "scraped_at": "2026-04-09T07:52:21.863217"
+      "scraped_at": "2026-04-12T20:09:33.964528"
     },
     {
       "region_code": "lu",
@@ -96,7 +96,7 @@
       "references_count": "33",
       "certified_experts_count": "10",
       "profile_url": "https://www.odoo.com/partners/metrum-976137?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/976137/image_128/Metrum?unique=244e344",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/976137/image_128/Metrum?unique=a7621c9",
       "about_text": "VOTRE INTEGRATEUR DE REFERENCE COMBINANT « METIER & TECHNIQUE » Metrum SA , intégrateur « Gold partner » de la solution Odoo, est la plus ancienne des quatre branches Digitale & innovation du groupe Resultance , société de conseil spécialisée dans les projets de transformation. Depuis quelques années, Metrum a amorcé son processus d’expansion en ouvrant plusieurs bureaux à travers l’Europe : Metrum SA – Gold Partner au Luxembourg Metrum Belgium – Silver Partner en Belgique Metrum Digital – Ready Partner en France Metrum Réunion - Ready Partner à la Réunion Metrum s'est forgé depuis plus de 20 ans une réputation solide dans l’accélération de la digitalisation et l'amélioration des performances opérationnelles de ses clients. Qu’il s’agisse de TPE, PME ou de grands groupes, nos 150 consultants interviennent dans de nombreux secteurs (Industrie, Construction, Retail & Distribution, Services, Lifescience et Banque & Assurance). Nous avons développé nos propres méthodologies d’intégration d’Odoo qui associent des expertises : métiers multi-sectorielles et techniques, avancées et complémentaires à Odoo (Développement sur-mesure, Infrastructure IT, Business Intelligence, Advanced Analytics & IA) La transmission des compétences et l’accompagnement au changement font partie de l’ADN de notre groupe. Notre expertise conjointe « métier & technique » est un élément différenciant majeur de notre approche. NOTRE APPROCHE ET NOTRE PRÉSENCE GÉOGRAPHIQUE ​ Notre approche : Si nous privilégions une mise en place standard de la solution Odoo , dans l’intérêt de nos clients, nos équipes sont également capables de vous accompagner sur des développements spécifiques afin de répondre précisément à vos besoins. Chez Metrum, chaque client est unique ! Notre but est de vous accompagner dans votre transformation digitale, en vous apportant notre expertise dans le processus de conception, d'installation, de paramétrage et d'utilisation d’Odoo dont votre entreprise a tant besoin. Notre présence : Nos projets s'étendent dans de nombreux pays européens, grâce à une équipe de consultants mobiles, et multilingues. Nous sommes convaincus de l’importance d’être proche de nos clients et de pouvoir les accompagner sur le terrain, chez eux, dans la prise en main de l’outil. Nous disposons d’agences en Belgique, au Luxembourg et en France ou nous sommes présents dans plusieurs régions : Hauts de France, Lorraine, Loire-Atlantique, Auvergne Rhône Alpes, Provence Alpes Côtes d’Azur (PACA), … et même La Réunion. Nos équipes sont localement présentes à Nice (06), Metz (57), Lyon (69), Lille (59), Nantes (44), Saint Denis (974), Bruxelles (BE), Liège (BE), Luxembourg (LUX). ​​​ ​ MIEUX NOUS CONNAÎTRE ET DECOUVRIR NOS SERVICES NOUS DECOUVRIR ​ ​ NOUS CONTACTER ​ ​ ​​ ​​NOUS REJOINDRE SUR LINKEDIN ​",
       "certifications_breakdown": [
         {
@@ -150,7 +150,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:22.450168"
+      "scraped_at": "2026-04-12T20:09:34.753713"
     },
     {
       "region_code": "lu",
@@ -221,7 +221,74 @@
           "count": 2
         }
       ],
-      "scraped_at": "2026-04-09T07:52:22.769843"
+      "scraped_at": "2026-04-12T20:09:35.413817"
+    },
+    {
+      "region_code": "lu",
+      "country_code": "LU",
+      "name": "By-Doo - Groupe IBGraf",
+      "level": "Silver",
+      "city": "Windhof",
+      "district": "L-8399",
+      "country": "Luxembourg",
+      "full_address": "Windhof, L-8399",
+      "rating_percentage": "98",
+      "average_project_size": "5 users",
+      "large_project_size": "~100 users",
+      "references_count": "45",
+      "certified_experts_count": "4",
+      "profile_url": "https://www.odoo.com/partners/by-doo-groupe-ibgraf-14511481?country_id=129",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/14511481/image_128/By-Doo%20-%C2%A0Groupe%20IBGraf?unique=c345271",
+      "about_text": "By-Doo, l’intégrateur d’Odoo By-Doo, c’est l’alliance parfaite entre le logiciel Odoo et l’expertise d’IBGraf Group. En tant que partenaire certifié Odoo, nous combinons notre savoir-faire en comptabilité et en gestion avec une maîtrise totale d’Odoo. Plus qu’un simple revendeur, By-Doo vous propose une gamme complète de services personnalisés pour assurer une utilisation optimale du logiciel. Vous pouvez nous trouver dans l’un de nos 7 bureaux, en Belgique et au Luxembourg, pour vous accompagner de A à Z dans la mise en place de votre solution. Découvrir davantage By-Doo Nos domaines d’expertise Grâce à notre partenariat avec IBGraf Group, nous sommes des experts en fiduciaire, avec une solide maîtrise des logiciels de comptabilité. Mais notre expertise ne s’arrête pas là : nous accompagnons aussi les PME dans tous les aspects de la gestion d’entreprise pour les aider à réussir leur digitalisation. Pourquoi nous choisir ? Notre mission Notre mission chez By-Doo ? Aider les PME et les fiduciaires en Belgique et au Luxembourg à booster leur productivité et à grandir. Comment ? En proposant des solutions Odoo sur mesure qui transforment vos défis en opportunités, avec un accompagnement personnalisé pour que chaque étape se passe en toute fluidité. Nos engagements Chez By-Doo, nous vous garantissons une intégration sans accroc, un hébergement sécurisé, des formations sur-mesure et un support technique toujours réactif. Grâce à notre expertise reconnue et à notre approche centrée sur vos besoins, nous vous aidons à tirer le meilleur parti d’Odoo pour atteindre vos objectifs et améliorer vos performances. Un peu plus de By-Doo Les différents services Personnalisation Chez By-Doo, notre équipe de consultants expérimentés conçoit et intègre des solutions logicielles sur mesure, parfaitement adaptées aux spécificités de votre entreprise. ​Marketing digital Notre équipe marketing combine créativité et veille constante pour concevoir des sites web qui reflètent fidèlement votre identité de marque. Hébergement L’hébergement By-Doo, c’est une infrastructure sécurisée, performante et parfaitement adaptée à Odoo, avec une sécurité assurée pour la protection de vos données. Formation Développez vos compétences avec nos formations sur mesure. Nos formateurs certifiés vous guident pas à pas pour maîtriser pleinement Odoo, avec des sessions pratiques et adaptées à vos besoins spécifiques. Consultance Accélérez la croissance de votre entreprise avec les conseils stratégiques de nos collaborateurs. By-Doo vous aide à optimiser votre utilisation d’Odoo pour maximiser votre retour sur investissement et atteindre rapidement vos objectifs. Support et assistance By-Doo vous offre un support technique réactif et personnalisé. Notre équipe assure une assistance continue, des réponses rapides, et un fonctionnement optimal de votre système Odoo, vous garantissant une tranquillité d'esprit totale. Nos services ​ ​ Nous contacter ​ ​Démonstration gratuite",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 4
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 8
+        },
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 7
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 4
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 3
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Entertainment / Media",
+          "count": 2
+        },
+        {
+          "industry": "Real Estate",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:09:36.093203"
     },
     {
       "region_code": "lu",
@@ -238,7 +305,7 @@
       "references_count": "45",
       "certified_experts_count": "5",
       "profile_url": "https://www.odoo.com/partners/optitoo-15332972?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/15332972/image_128/Optitoo?unique=8e2f554",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/15332972/image_128/Optitoo?unique=ee1c2e9",
       "about_text": "Que vous soyez une TPE ou une PME, Optitoo transforme vos flux d’entreprise avec la puissance de la solution Odoo. Notre mission : accompagner les entreprises dans l’optimisation de leur organisation pour renforcer durablement leur performance. ⚙️ Notre engagement : votre efficacité avant tout !💡Optitoo se positionne comme un partenaire fiable, capable de répondre aux besoins des projets les plus modestes comme des plus ambitieux. Avec plus de 20 ans d’expérience dans le domaine informatique au Grand-Duché de Luxembourg et plus de 12 ans d’expertise sur la plateforme Odoo, notre équipe est spécialisée dans les outils de gestion intégrée (ERP) pour garantir des solutions adaptées et performantes. Nos valeurs d’entreprise ne sont pas de simples mots, mais des principes profondément humains qui guident nos actions et se reflètent dans chaque projet que nous réalisons : Notre expertise repose sur l’optimisation des processus grâce à des outils performants. Cette approche se démarque également par une méthode d’implémentation pensée pour maximiser l’efficacité et la valeur ajoutée à chaque étape. 👉 Visitez notre site web.",
       "certifications_breakdown": [
         {
@@ -292,74 +359,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:23.151412"
-    },
-    {
-      "region_code": "lu",
-      "country_code": "LU",
-      "name": "By-Doo - Groupe IBGraf",
-      "level": "Silver",
-      "city": "Windhof",
-      "district": "L-8399",
-      "country": "Luxembourg",
-      "full_address": "Windhof, L-8399",
-      "rating_percentage": "98",
-      "average_project_size": "5 users",
-      "large_project_size": "~100 users",
-      "references_count": "44",
-      "certified_experts_count": "4",
-      "profile_url": "https://www.odoo.com/partners/by-doo-groupe-ibgraf-14511481?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/14511481/image_128/By-Doo%20-%C2%A0Groupe%20IBGraf?unique=5f353d0",
-      "about_text": "By-Doo, l’intégrateur d’Odoo By-Doo, c’est l’alliance parfaite entre le logiciel Odoo et l’expertise d’IBGraf Group. En tant que partenaire certifié Odoo, nous combinons notre savoir-faire en comptabilité et en gestion avec une maîtrise totale d’Odoo. Plus qu’un simple revendeur, By-Doo vous propose une gamme complète de services personnalisés pour assurer une utilisation optimale du logiciel. Vous pouvez nous trouver dans l’un de nos 7 bureaux, en Belgique et au Luxembourg, pour vous accompagner de A à Z dans la mise en place de votre solution. Découvrir davantage By-Doo Nos domaines d’expertise Grâce à notre partenariat avec IBGraf Group, nous sommes des experts en fiduciaire, avec une solide maîtrise des logiciels de comptabilité. Mais notre expertise ne s’arrête pas là : nous accompagnons aussi les PME dans tous les aspects de la gestion d’entreprise pour les aider à réussir leur digitalisation. Pourquoi nous choisir ? Notre mission Notre mission chez By-Doo ? Aider les PME et les fiduciaires en Belgique et au Luxembourg à booster leur productivité et à grandir. Comment ? En proposant des solutions Odoo sur mesure qui transforment vos défis en opportunités, avec un accompagnement personnalisé pour que chaque étape se passe en toute fluidité. Nos engagements Chez By-Doo, nous vous garantissons une intégration sans accroc, un hébergement sécurisé, des formations sur-mesure et un support technique toujours réactif. Grâce à notre expertise reconnue et à notre approche centrée sur vos besoins, nous vous aidons à tirer le meilleur parti d’Odoo pour atteindre vos objectifs et améliorer vos performances. Un peu plus de By-Doo Les différents services Personnalisation Chez By-Doo, notre équipe de consultants expérimentés conçoit et intègre des solutions logicielles sur mesure, parfaitement adaptées aux spécificités de votre entreprise. ​Marketing digital Notre équipe marketing combine créativité et veille constante pour concevoir des sites web qui reflètent fidèlement votre identité de marque. Hébergement L’hébergement By-Doo, c’est une infrastructure sécurisée, performante et parfaitement adaptée à Odoo, avec une sécurité assurée pour la protection de vos données. Formation Développez vos compétences avec nos formations sur mesure. Nos formateurs certifiés vous guident pas à pas pour maîtriser pleinement Odoo, avec des sessions pratiques et adaptées à vos besoins spécifiques. Consultance Accélérez la croissance de votre entreprise avec les conseils stratégiques de nos collaborateurs. By-Doo vous aide à optimiser votre utilisation d’Odoo pour maximiser votre retour sur investissement et atteindre rapidement vos objectifs. Support et assistance By-Doo vous offre un support technique réactif et personnalisé. Notre équipe assure une assistance continue, des réponses rapides, et un fonctionnement optimal de votre système Odoo, vous garantissant une tranquillité d'esprit totale. Nos services ​ ​ Nous contacter ​ ​Démonstration gratuite",
-      "certifications_breakdown": [
-        {
-          "version": "Certified v18",
-          "count": 4
-        }
-      ],
-      "industries_breakdown": [
-        {
-          "industry": "Wholesale / Retail",
-          "count": 8
-        },
-        {
-          "industry": "Finance / Legal / Insurance",
-          "count": 7
-        },
-        {
-          "industry": "Health / Social Welfare / Pharmaceutical",
-          "count": 4
-        },
-        {
-          "industry": "Food / Hospitality / Tourism / Beverage",
-          "count": 3
-        },
-        {
-          "industry": "Construction & Renovation",
-          "count": 3
-        },
-        {
-          "industry": "Science & Technology",
-          "count": 2
-        },
-        {
-          "industry": "Other Services",
-          "count": 2
-        },
-        {
-          "industry": "Entertainment / Media",
-          "count": 2
-        },
-        {
-          "industry": "Manufacturing / Maintenance",
-          "count": 2
-        },
-        {
-          "industry": "Real Estate",
-          "count": 1
-        }
-      ],
-      "scraped_at": "2026-04-09T07:52:23.567853"
+      "scraped_at": "2026-04-12T20:09:36.773965"
     },
     {
       "region_code": "lu",
@@ -373,10 +373,10 @@
       "rating_percentage": "94",
       "average_project_size": "7 users",
       "large_project_size": "~200 users",
-      "references_count": "35",
+      "references_count": "34",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/em-erp-sarls-14726041?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/14726041/image_128/EM-ERP%20Sarls?unique=b705c3f",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/14726041/image_128/EM-ERP%20Sarls?unique=93e802a",
       "about_text": "Fondée en 2024 par deux anciennes consultantes d'Odoo, EM-ERP (ELOMAB) se positionne comme un intégrateur généraliste, spécialisé dans le domaine de la finance au Luxembourg, en Belgique et en France. Nous accompagnons les entreprises européennes dans la mise en œuvre de solutions Odoo, en tenant compte de leurs besoins spécifiques. En tant que partenaire Odoo, nous analysons minutieusement vos exigences et proposons des solutions sur mesure. Nous développons le logiciel pour garantir une efficacité optimale lors des migrations. Notre accompagnement ne s’arrête pas là : nous vous soutenons tout au long du processus de formation, une étape cruciale pour assurer le succès du projet. Nous comprenons le stress que peut engendrer cette phase, c’est pourquoi nous nous engageons à être présents en ligne et sur place pour vous soutenir de manière proactive. Forts de notre expérience, avec plus de 150 projets implémentés en tant que consultants chez Odoo, nous avons développé une expertise reconnue dans divers secteurs au sein d’EM-ERP : Fiduciaire Cabinets d’audit Fondations et ASBL Restauration Secteur du bâtiment Secteur médical Industrie Et bien d’autres... Nous mettons notre savoir-faire au service de votre réussite, en alliant expertise technique et proximité client",
       "certifications_breakdown": [
         {
@@ -394,11 +394,11 @@
           "count": 7
         },
         {
-          "industry": "Construction & Renovation",
-          "count": 5
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 4
         },
         {
-          "industry": "Food / Hospitality / Tourism / Beverage",
+          "industry": "Construction & Renovation",
           "count": 4
         },
         {
@@ -418,19 +418,19 @@
           "count": 2
         },
         {
-          "industry": "Entertainment / Media",
-          "count": 1
-        },
-        {
           "industry": "Real Estate",
           "count": 1
         },
         {
           "industry": "Manufacturing / Maintenance",
           "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:24.097541"
+      "scraped_at": "2026-04-12T20:09:37.487141"
     },
     {
       "region_code": "lu",
@@ -442,12 +442,12 @@
       "country": "Luxembourg",
       "full_address": "Kehlen, 8287",
       "rating_percentage": "100",
-      "average_project_size": "49 users",
+      "average_project_size": "51 users",
       "large_project_size": "~500 users",
-      "references_count": "31",
+      "references_count": "30",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/acsone-luxembourg-25266?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/25266/image_128/Acsone%20Luxembourg?unique=21d5077",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/25266/image_128/Acsone%20Luxembourg?unique=b5c913c",
       "about_text": "Acsone - Votre partenaire en transformation digitale (éligible aux aides à la digitalisation en Belgique et au Luxembourg). Depuis 2011, Acsone ( Gold en Belgique et Silver au Luxembourg ) se consacre à la réussite des projets de nos clients et à leur satisfaction, tant dans le secteur privé que public , en concevant et en mettant en œuvre des s olutions informatiques innovantes, efficaces, sur base de standards ouverts . Plus qu'un fournisseur, nous nous positionnons comme un véritable partenaire stratégique, engagé à vos côtés sur le long terme pour transformer vos défis en opportunités de croissance. Notre force réside dans une combinaison unique d'expertise technique pointue, de compréhension approfondie des enjeux métiers et d'une culture d'excellence partagée par tous nos collaborateurs. Ainsi, nos équipes multidisciplinaires (forte de 60+ experts) procèdent toujours à une analyse rigoureuse des processus métiers (administratifs, financiers, opérationnels, logistiques,...) avant d’implémenter la solution ERP Odoo. Cette approche livre des solutions fiables, pérennes et efficaces répondant aux problèmes et aux enjeux complexes de nos clients. Grâce à notre expertise, à la qualité de nos services, et à notre capacité à construire des partenariats durables basés sur la confiance et les résultats, nous souhaitons devenir la référence en matière de digitalisation des entreprises, que ce soit au travers de la mise en place d’Odoo ou du développement open-source sur mesure. Jean-Christophe Castiaux, CEO, Acsone Acsone, votre partenaire de confiance Acsone en quelques chiffres Notre équipe d'experts est à votre service en Belgique et au Luxembourg Ils nous font confiance (projets passés et en cours, liste non exhaustive) Voici un aperçu des clients qui nous font confiance depuis toutes ces années. Ils sont le témoin de la rigueur et de la qualité de notre travail, ainsi que de la pérennité du partenariat que nous mettons en place avec chacun de nos clients. Acsone est membre du Conseil d'Administration et Top5 des contributeurs de l'OCA (Odoo Community Association) Que vous soyez développeur, intégrateur, client Odoo ou consultant fonctionnel, vous faites partie de la communauté Odoo. Nous optimisons et intégrons vos processus métier Notre méthodologie – Adaptée au contexte de nos clients Notre stratégie d’implémentation - Mise en oeuvre progressive Nos bureaux en Belgique et au Luxembourg",
       "certifications_breakdown": [
         {
@@ -462,7 +462,7 @@
       "industries_breakdown": [
         {
           "industry": "Other Services",
-          "count": 7
+          "count": 6
         },
         {
           "industry": "Government",
@@ -501,7 +501,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:24.363344"
+      "scraped_at": "2026-04-12T20:09:38.163434"
     },
     {
       "region_code": "lu",
@@ -518,7 +518,7 @@
       "references_count": "18",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/sinfony-sa-4454724?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/4454724/image_128/Sinfony%20SA?unique=b671c5b",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/4454724/image_128/Sinfony%20SA?unique=8449097",
       "about_text": "Félicitations cher lecteur, si vous êtes ici c’est que vous savez que Odoo est LA bonne solution pour répondre aux défis de votre entreprise. Mais qui choisir pour vous accompagner dans son déploiement chez vous ? En effet, votre entreprise vit probablement un moment clef de sa vie (transmission, fusion, acquisition, croissance rapide scale-up). Vos modes de fonctionnement internes sont mis à mal par ce bouleversement. Vous avez un turnover important et/ou une arrivée massive de personnel : vous avez du mal à pérenniser la connaissance et les modes opératoires dans l’entreprise. Votre activité est en pleine croissance : vos processus et vos outils actuels ne suffisent plus. Chez Sinfony, nous accompagnons les entreprises depuis plus de 7 ans, dans ces problématiques de pérennisation de la connaissance et des modes opératoires. Fort de notre expérience auprès des grands comptes du secteur des sciences de la vie, nous transposons aujourd’hui nos méthodes et partageons nos outils et expériences dans les entreprises de toutes tailles. Nos principaux différenciateurs : Pas de développement spécifique : Fit-to-Odoo standard, paramétré selon vos besoins. C’est la garantie d’un budget projet maintenu et de montées en version non couteuses. Comment est-ce possible ? en accompagnant vos équipes dans la revue de leur mode opératoire Une approche basée sur l’utilisateur final : comme Odoo, notre méthodologie met l’utilisateur AU CENTRE du projet d’intégration . Les processus sont digitalisés, mais nous mettons un point d’honneur à descendre jusqu’au niveau des modes opératoires pour s’assurer que l’outil couvrira 100% des tâches de vos collaborateurs La pérennisation de la connaissance et de « la bonne façon de faire » dans Odoo . En s’appuyant sur le module « Knowledge Management » de Odoo, les opérations clefs par métier et profil dans Odoo sont filmés et expliqués – selon les modalités Sinfony - afin de garantir la pérennisation des « best practices » pour les futurs utilisateurs. Une expertise sectorielle dans le secteur des sciences de la vie : médicaments, medical devices, BioTech, cosmétique, vétérinaire, distributeurs, exploitants : nos consultants métiers connaissent les problématiques, les processus, le vocabulaire mais également les contraintes (validation, qualification) liés à ce secteur Un accès au catalogue des formations métier Sinfony , directement accessible depuis votre instance Odoo Les GxP, Data Integrity, Dev/capa, HSE, etc… Apprenez en plus sur notre entreprise, nos méthodes et notre plateforme de formations digitales à la demande en découvrant notre site internet : www.sinfony.eu A très vite pour réussir ensemble votre intégration de ODOO.",
       "certifications_breakdown": [
         {
@@ -568,7 +568,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:26.867482"
+      "scraped_at": "2026-04-12T20:09:40.837942"
     },
     {
       "region_code": "lu",
@@ -585,7 +585,7 @@
       "references_count": "20",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/doo-by-fiscoges-22834198?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/22834198/image_128/Doo%20by%20Fiscoges?unique=947db3e",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/22834198/image_128/Doo%20by%20Fiscoges?unique=a7621c9",
       "about_text": "Chez Doo by fiscoges , nous n'avons pas attendu que le changement s'impose à nous. Pendant que d'autres observent l'évolution du métier de fiduciaire, nous avons pris les devants en devenant intégrateur certifié Odoo Notre conviction? L'avenir appartient aux entreprises qui maîtrisent leurs données et automatisent leurs processus. En tant que fiduciaire et intégrateur Odoo, nous vous offrons une expertise unique : celle de comprendre vos enjeux métier tout en maîtrisant les outils technologiques qui révolutionnent la gestion d'entreprise. Vision Métier Notre expérience fiduciaire nous permet de comprendre immédiatement vos besoins réels et de configurer Odoo en conséquence. Accompagnement Global De la comptabilité à la gestion commerciale, nous vous accompagnons sur l'ensemble de vos processus. Nous croyons fermement que la transformation digitale n'est plus une option, mais une nécessité . Notre approche pragmatique et notre double expertise vous garantissent une transition fluide vers un système de gestion moderne, intégré et performant. Parce que votre entreprise mérite des outils à la hauteur de vos ambitions. Prêt à franchir le cap? Découvrez comment Odoo peut transformer votre gestion d'entreprise ! Visitez notre site ​ ​​​​​ Prenez rendez-vous ​​​​​​​ Réservez votre démo",
       "certifications_breakdown": [
         {
@@ -635,7 +635,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:27.205827"
+      "scraped_at": "2026-04-12T20:09:41.435939"
     },
     {
       "region_code": "lu",
@@ -652,7 +652,7 @@
       "references_count": "19",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/simplycit-823781?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/823781/image_128/SimplyCIT?unique=2772694",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/823781/image_128/SimplyCIT?unique=31f6dc8",
       "about_text": "SimplyCIT est une jeune société qui promeut la simplicité comme vision novatrice sur les solutions informatiques de l’entreprise. Son leitmotiv : «Simplifier la tâche des entreprises confrontés au monde complexe et en perpétuelle mutation de l’IT ». SimplyCIT met en œuvre le professionnalisme de son équipe pour apporter l’innovation, la simplicité et la robustesse dans des solutions clef-en-main avec les technologies d’avenir ». En résumé, « Simply Creative IT » Fort de projets menés sur des logiciels d’amélioration continue de la performance en milieu industriel, des logiciels de support au contrôle de gestion, SimplyCIT a réussi le challenge de concevoir des solutions fonctionnelles, ouvertes, tout en restant simples et orientées sur le confort pour l’utilisateur. Dans le cadre de son expansion vers une solution ERP avec une couverture fonctionnelle étendue, proche du besoin du business et centrée sur l’utilisateur, ce partenariat avec Odoo s’est avéré un choix logique pour SimplyCIT.",
       "certifications_breakdown": [
         {
@@ -702,7 +702,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:27.488658"
+      "scraped_at": "2026-04-12T20:09:42.023868"
     },
     {
       "region_code": "lu",
@@ -749,7 +749,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:27.768084"
+      "scraped_at": "2026-04-12T20:09:42.684946"
     },
     {
       "region_code": "lu",
@@ -766,7 +766,7 @@
       "references_count": "8",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/smart-pme-14712807?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/14712807/image_128/Smart%20PME?unique=5209ecf",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/14712807/image_128/Smart%20PME?unique=a7621c9",
       "about_text": "Smart P.M.E. , la nouvelle entité du Groupe P.M.E. , est votre partenaire privilégié pour la transformation numérique au Luxembourg. Notre équipe d'experts en intégration Odoo est là pour vous guider à chaque étape. Forts de l’expertise du groupe, nous comprenons les besoins spécifiques des entreprises luxembourgeoises et nous nous appuyons sur les compétences pluridisciplinaires de nos sociétés : Mutualité des P.M.E. et Fiduciaire des P.M.E. Nos spécialistes vous accompagnent dans le déploiement, la personnalisation et l'optimisation de la solution Odoo en vous offrant les services suivants : 1. Conseil et analyse : nous évaluons vos processus internes, identifions les opportunités d'amélioration et élaborons avec vous une stratégie adaptée. 2. Intégration et déploiement : nous mettons en place Odoo dans votre entreprise, en personnalisant les modules selon vos besoins, votre secteur d’activité et la taille de votre entreprise. 3. Formation et support : nous vous formons à l'utilisation d'Odoo et restons à vos côtés après le déploiement pour résoudre d'éventuels problèmes et faire évoluer votre ERP en fonction de vos propres évolutions. 4. Innovation permanente : nous suivons les évolutions d'Odoo pour vous présenter les dernières fonctionnalités qui pourraient vous apporter encore plus d'efficacité. Notre objectif est votre succès !Faites confiance à Smart P.M.E. – votre intégrateur Odoo certifié - pour votre transition vers l'excellence numérique.",
       "certifications_breakdown": [
         {
@@ -792,7 +792,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:28.003372"
+      "scraped_at": "2026-04-12T20:09:43.242098"
     },
     {
       "region_code": "lu",
@@ -809,7 +809,7 @@
       "references_count": "6",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/cellenza-luxembourg-sas-16590640?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/16590640/image_128/Cellenza%20Luxembourg%20SAS?unique=e8a5027",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/16590640/image_128/Cellenza%20Luxembourg%20SAS?unique=a7621c9",
       "about_text": "Cellenza – Your End-to-End Odoo Partner At Cellenza, we help organizations turn Odoo into a scalable, high-impact business platform — from strategy to operations and user adoption. Our approach combines functional expertise, technical excellence, and a strong results-driven mindset to ensure not just successful implementations, but real business outcomes . Our End-to-End Approach We support you across the entire Odoo lifecycle: Advise & Design We analyze your business processes, define your target operating model, and guide your strategic decisions to ensure alignment between business needs and digital solutions. Build & Integrate We design, develop, and customize Odoo solutions using an agile, industrialized, and scalable approach , fully integrated with your existing systems. Run & Improve We ensure the performance and sustainability of your platform through continuous support, monitoring, and ongoing optimization . Train, Adopt & Transform We drive user adoption through tailored training, change management, and enablement programs , ensuring your teams fully leverage Odoo. Cloud, Hosting & Security We host, secure, and optimize your Odoo environments on Microsoft Azure, ensuring scalability, performance, and resilience . Our Strength: Deep Microsoft Integration As a Microsoft partner, Cellenza connects Odoo to your entire digital ecosystem — including Microsoft 365, Power Platform, Azure, and AI capabilities. This integration enables you to: centralize and leverage your data automate business processes enhance collaboration boost productivity across your organization Why Cellenza End-to-end ownership — from strategy to run and adoption A cloud-first, data-driven approach ensuring performance, security, and scalability Dual expertise in Odoo and Microsoft technologies for a modern, connected ecosystem A human-centered approach focused on user adoption and business value",
       "certifications_breakdown": [
         {
@@ -835,7 +835,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:28.269681"
+      "scraped_at": "2026-04-12T20:09:43.800061"
     },
     {
       "region_code": "lu",
@@ -882,7 +882,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:28.495031"
+      "scraped_at": "2026-04-12T20:09:44.417786"
     },
     {
       "region_code": "lu",
@@ -899,7 +899,7 @@
       "references_count": "2",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/blev-sarl-2328412?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/2328412/image_128/B.L.E.V.%20S%C3%A0rl?unique=dff80d7",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/2328412/image_128/B.L.E.V.%20S%C3%A0rl?unique=a7621c9",
       "about_text": "BLEV accompagne depuis plusieurs années des entreprises de toutes tailles dans leur transformation digitale, avec une approche pragmatique et orientée résultats. Nous intervenons aussi bien sur des projets ERP complets que sur des missions d’optimisation, de migration ou de développement spécifique. Nous sommes partenaire officiel Odoo , ce qui nous permet de proposer à nos clients une offre complète : conseil, intégration, paramétrage, développement, formation et support autour de la solution Odoo. Notre objectif n’est pas de “vendre un ERP”, mais de mettre en place un outil réellement adapté aux processus et aux contraintes de chaque organisation. Notre équipe est composée de profils complémentaires : développeurs Python spécialisés Odoo, business analyst, chef de projet, data analyst, directeur IT et équipes techniques terrain. Cette organisation nous permet de gérer des projets complexes, multi-sites ou multi-pays, avec un haut niveau d’exigence technique et fonctionnelle. BLEV sàrl dispose également d’une forte expertise sectorielle, notamment dans le domaine pharmaceutique, le retail, l’industrie et les services. Nous accompagnons plusieurs centaines de clients actifs au quotidien, dont un grand nombre utilisent des solutions métiers critiques. Cette expérience nous permet d’apporter une vraie valeur ajoutée dans la conception de solutions Odoo robustes, conformes aux obligations légales et adaptées aux usages réels. Enfin, nous investissons fortement dans le développement de modules Odoo et d’applications métiers, dont certains sont destinés à être proposés via l’écosystème Odoo. Cela garantit à nos clients des solutions évolutives, ouvertes et pérennes. Choisir BLEV comme partenaire Odoo, c’est choisir un intégrateur engagé, structuré et orienté long terme, capable de vous accompagner bien au-delà de la mise en production.",
       "certifications_breakdown": [
         {
@@ -913,7 +913,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:29.170051"
+      "scraped_at": "2026-04-12T20:09:45.655622"
     },
     {
       "region_code": "lu",
@@ -944,7 +944,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:29.419816"
+      "scraped_at": "2026-04-12T20:09:46.169796"
     },
     {
       "region_code": "lu",
@@ -961,7 +961,7 @@
       "references_count": "0",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/matics-24392893?country_id=129",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/24392893/image_128/MATICS?unique=56f9972",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/24392893/image_128/MATICS?unique=9192a75",
       "about_text": "Bienvenue chez Matics Consult. Forts de près de 30 ans d’expérience dans le secteur IT, nous avons développé une solide expertise dans l’implémentation de systèmes informatiques, avec une approche pragmatique et orientée résultats. Nous sommes devenus partenaire Odoo car nous sommes convaincus qu’il s’agit d’une solution idéale pour les PME souhaitant réussir rapidement leur transformation digitale, gagner en productivité et renforcer leur compétitivité. Cette efficacité repose notamment sur l’ergonomie du système, la richesse de ses applications et ses nombreuses possibilités d’intégration avec d’autres plateformes. Notre philosophie est simple : privilégier l’approche « adopter plutôt qu’adapter », afin de rester au plus près du standard. Les entreprises qui choisissent cette voie sont généralement mieux armées pour innover et s’adapter aux évolutions du marché. NOTRE APPROCHE Analyse des besoins, architecture et design Cette étape est essentielle. Mettre en place un système informatique, c’est comme construire une maison : si les fondations et l’architecture ne sont pas solides, la solution ne répondra pas aux besoins et sera difficile à faire évoluer. Nous travaillons donc avec vous pour :  Comprendre votre activité, vos spécificités et vos objectifs  Identifier les points de friction et les opportunités de création de valeur  Planifier votre transformation digitale en fonction de votre budget, de vos ressources et de vos Build et testing Nous configurons et développons la solution selon vos besoins. Dès les premières étapes, nous impliquons les équipes métiers afin de tester la solution et recueillir leurs retours. Cette approche itérative permet d’améliorer continuellement le système tout en préparant vos équipes à la transition. Formation et accompagnement au changement Tout changement peut générer des inquiétudes ou des résistances. Nous accompagnons vos équipes en documentant, formant et guidant les utilisateurs afin qu’ils adoptent sereinement le nouveau système et en tirent le meilleur parti. Nous contribuons également à la communication et à la gestion du changement. Migration et support La mise en production est une étape clé qui nécessite une préparation rigoureuse. Ensemble, nous organisons :  La migration de vos données  La gestion des accès utilisateurs  Le plan de bascule vers le nouveau système Nous assurons également un support post Go-Live afin de garantir une transition fluide et réussie. NOS SERVICES Nous intervenons tant sur des projets ERP complets que sur des missions d’optimisation, de migration ou de développement spécifique et nous adaptons à tout type et taille de société.  Conseil stratégique pour votre transformation digitale  Architecture et design  Configuration et personnalisation de la solution Odoo suivant vos besoins  Développements spécifiques  Développement de modules Odoo sur-mesure  Formation et accompagnement des équipes pour un déploiement optimal  Gestion de projet  Analyse business  Support et maintenanceBienvenue chez Matics Consult.",
       "certifications_breakdown": [
         {
@@ -970,7 +970,7 @@
         }
       ],
       "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:52:29.680440"
+      "scraped_at": "2026-04-12T20:09:46.702357"
     }
   ]
 }

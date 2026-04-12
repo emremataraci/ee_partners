@@ -2,7 +2,7 @@
   "region_code": "bg",
   "country_code": "BG",
   "country_name": "Bulgaria",
-  "scraped_at": "2026-04-09T07:47:54.668690",
+  "scraped_at": "2026-04-12T20:01:32.313841",
   "total_partners": 6,
   "source_url": "https://www.odoo.com/partners/country/bulgaria-22",
   "partners": [
@@ -21,11 +21,61 @@
       "references_count": "22",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/bl-consulting-ltd-20534?country_id=22",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/20534/image_128/BL%20Consulting%20LTD?unique=70c9fe8",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:53.875487"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/20534/image_128/BL%20Consulting%20LTD?unique=70ca912",
+      "about_text": "BL Consulting has over 5 years of specialized experience in Odoo implementation, customization, and support. Together with our over 50 years of expertise in ERP and CRM systems, our team delivers tailored business solutions that streamline operations, enhance efficiency, and drive growth. Trusted by numerous clients, we combine deep industry knowledge with a commitment to excellence, ensuring that your business achieves its full potential through our comprehensive and reliable services. Discover how BL Consulting can transform your business at https://www.bl-consulting.net",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 2
+        },
+        {
+          "version": "Certified v17",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 9
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 8
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 4
+        },
+        {
+          "industry": "Other Services",
+          "count": 3
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 3
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 2
+        },
+        {
+          "industry": "Utilities / Energy / Water supply",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        },
+        {
+          "industry": "Agriculture",
+          "count": 1
+        },
+        {
+          "industry": "Transportation/Logistics",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:28.050402"
     },
     {
       "region_code": "bg",
@@ -43,10 +93,35 @@
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/callista-software-solutions-ltd-10051196?country_id=22",
       "logo_url": "https://odoocdn.com/web/image/res.partner/10051196/image_128/Callista%20Software%20Solutions%20Ltd?unique=1d3167b",
-      "about_text": null,
+      "about_text": "​ Your Odoo Partner in Bulgaria Callista Software, a sister company of Callista Belgium, brings over 12 years of experience in digital transformation to Bulgaria. Our team of experts is committed to supporting businesses in their digital journey, delivering tailored Odoo solutions that meet the unique needs of each company. What sets us apart is our deep expertise in key sectors such as construction, manufacturing, and installation—each with its own set of challenges and customized solutions (e.g. Exact Online Connecter, SCSN and BuildEase). Make an appointment with one of our experts Our Work in Bulgaria: Bulgarian Localization & Fiscal Printers In Bulgaria, Callista Business Software not only brings Odoo expertise but also provides full local solutions, including complete Bulgarian accounting/ localization and integration with fiscal printers for POS (White Cash Register) —a mandatory requirement for businesses in Bulgaria. This ensures that your company can run efficiently while remaining compliant with local regulations. Whether your company is small or large, we adapt Odoo solutions to meet your specific budget, time constraints, and requirements, ensuring the right fit every time. Proven Success with Leading Companies Our success is evident in our proven track record. As a Strategic Odoo Partner , we’ve optimized over 300 projects , with a customer retention rate of 94.92% , which is a testament to the trust and lasting impact we've created with our clients. We’ve worked with some of the most prominent companies in our industries, including Maestro Knitting , whose IT Director, Kaloyan Krumov, shares: \"As a high-end clothing manufacturer operating in countries such as Bulgaria, France, Portugal, Italy, and China, with more than 130 specialists, we manage a complex production process that requires a robust monitoring system. Callista provided a seamless and efficient implementation. Their experience makes them a trusted partner that we boldly recommend!\" Make an appointment with one of our experts",
       "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:54.008720"
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 2
+        },
+        {
+          "industry": "Other Services",
+          "count": 1
+        },
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 1
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:28.873788"
     },
     {
       "region_code": "bg",
@@ -63,11 +138,25 @@
       "references_count": "6",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/itc-consult-ltd-14105176?country_id=22",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/14105176/image_128/ITC%20Consult%20Ltd?unique=61e52c5",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:54.139208"
+      "logo_url": "https://odoocdn.com/web/image/res.partner/14105176/image_128/ITC%20Consult%20Ltd?unique=5387f05",
+      "about_text": "ITC Consult is a consulting company with over 18 years of experience in the field of implementation, maintenance and development of ERP, CRM and BI business software. Our company strives to offer products and services to help businesses optimize resources for creating, storing, managing and analyzing information. The company has over 130 clients and over 300 successfully completed projects in its portfolio. ITC Consult е консултантска компания с над 18-годишен опит в сферата на внедряването, поддръжката и развитието на бизнес софтуер от клас ERP, CRM и BI. Компанията ни се стреми да предлага продукти и услуги, чрез които да помогнем на бизнеса да оптимизира ресурсите за създаване, съхранение, управление и анализ на информацията. Компанията има в порфолиото си над 130 клиенти и над 300 успешно завършени проекти.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 4
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:29.492738"
     },
     {
       "region_code": "bg",
@@ -85,10 +174,24 @@
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/industria-technology-ltd-17512994?country_id=22",
       "logo_url": "https://odoocdn.com/web/image/res.partner/17512994/image_128/Industria%20Technology%20Ltd?unique=4943f07",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:54.270503"
+      "about_text": "Empowering Businesses with Intelligent ERP Solutions INDUSTRIA is a digital transformation leader committed to enhancing operational efficiency and competitiveness. As a certified Odoo partner, we deliver flexible and modular ERP solutions that unify and optimise critical business functions such as manufacturing, logistics, sales, and finance. Our team excels in designing tailored implementations, ensuring seamless data flow, and aligning systems with your strategic goals. Beyond ERP, INDUSTRIA offers cutting-edge solutions in process automation, industrial IoT, and blockchain technology, making us the partner of choice for businesses seeking innovation and growth. With a proven track record of over 150 successful projects, INDUSTRIA combines expertise with a client-centric approach to empower organisations across the UK, EU, and beyond to thrive in today’s complex market landscape. Partner with INDUSTRIA to future-proof your business and achieve long-term success.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Wholesale / Retail",
+          "count": 1
+        },
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:30.225952"
     },
     {
       "region_code": "bg",
@@ -106,10 +209,36 @@
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/brantech-co-21024193?country_id=22",
       "logo_url": "https://odoocdn.com/web/image/res.partner/21024193/image_128/Brantech%20Co.?unique=04d3662",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:54.399085"
+      "about_text": "Brantech delivers premium Odoo implementations that drive measurable business evolution for companies seeking operational excellence and sustainable growth. As part of the innovative Brangels Co. ecosystem, we combine deep industry expertise with technical precision to architect transformative solutions. Our unique approach merges European technical excellence with hands-on business impact, focusing on measurable outcomes rather than just software deployment. This philosophy has successfully guided businesses from 5-200 employees across professional services, manufacturing, and distribution sectors. What sets Brantech apart: Strategic Implementation: We architect business evolution, not just install software Industry Specialization: Deep expertise in professional services, CPG, and distribution workflows Brangels Ecosystem Advantage: Access to comprehensive business growth resources beyond Odoo Cross-Continental Perspective: Operations in Belgium, Bulgaria, and the United States Business-First Approach: Implementation strategies developed by executives who've operated successful businesses Led by a team with backgrounds from Microsoft, Wix, J&J, and successful CPG ventures, Brantech delivers implementations that consistently achieve faster ROI, higher user adoption, and greater operational efficiency. When you partner with Brantech, you're not just implementing Odoo—you're architecting the evolution of your business.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v17",
+          "count": 2
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Other Services",
+          "count": 2
+        },
+        {
+          "industry": "Construction & Renovation",
+          "count": 2
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 2
+        },
+        {
+          "industry": "Wholesale / Retail",
+          "count": 2
+        },
+        {
+          "industry": "Science & Technology",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:30.977828"
     },
     {
       "region_code": "bg",
@@ -127,10 +256,24 @@
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/polimex-holding-ltd-11141992?country_id=22",
       "logo_url": "https://odoocdn.com/web/image/res.partner/11141992/image_128/Polimex%20Holding%20Ltd.?unique=34d5356",
-      "about_text": null,
-      "certifications_breakdown": [],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:47:54.539720"
+      "about_text": "Transform Your Business with Polimex Holding Ltd. With 20 years of innovation and over 7 years of expertise in Odoo implementations , Polimex Holding Ltd. is your trusted partner for business transformation. As an official Odoo partner , we have delivered tailored, scalable, and efficient Odoo-based solutions to 200+ companies , empowering them to optimize operations and achieve their goals. Why Choose Polimex Holding Ltd.? Custom Odoo Solutions : From access control systems to comprehensive business management tools, we deliver solutions that fit your unique needs. Seamless Implementation : Effortless transitions, ensuring minimal downtime and maximum impact. Advanced Customization : Tailored features to match your business processes. Training & Support : Comprehensive guidance and dependable support to empower your team. We are committed to helping businesses streamline operations , reduce costs , and drive sustainable growth . Whether you're looking to innovate, scale, or simplify, Polimex Holding Ltd. is where expertise meets excellence .",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v18",
+          "count": 3
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Manufacturing / Maintenance",
+          "count": 1
+        },
+        {
+          "industry": "HR / Administrative / Consulting",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:01:31.573743"
     }
   ]
 }

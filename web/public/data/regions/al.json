@@ -2,7 +2,7 @@
   "region_code": "al",
   "country_code": "AL",
   "country_name": "Albania",
-  "scraped_at": "2026-04-09T07:46:35.421671",
+  "scraped_at": "2026-04-12T19:59:07.981636",
   "total_partners": 7,
   "source_url": "https://www.odoo.com/partners/country/albania-6",
   "partners": [
@@ -15,13 +15,13 @@
       "district": "",
       "country": "Albania",
       "full_address": "Tirane, 1046",
-      "rating_percentage": "92",
+      "rating_percentage": "91",
       "average_project_size": "8 users",
       "large_project_size": "~100 users",
-      "references_count": "72",
+      "references_count": "71",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/master-it-3909575?country_id=6",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/3909575/image_128/Master%20IT?unique=b363c9d",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/3909575/image_128/Master%20IT?unique=b5c913c",
       "about_text": null,
       "certifications_breakdown": [
         {
@@ -48,7 +48,7 @@
         },
         {
           "industry": "Food / Hospitality / Tourism / Beverage",
-          "count": 8
+          "count": 7
         },
         {
           "industry": "Finance / Legal / Insurance",
@@ -79,7 +79,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:31.532642"
+      "scraped_at": "2026-04-12T19:59:01.884893"
     },
     {
       "region_code": "al",
@@ -96,7 +96,7 @@
       "references_count": "66",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/zero-l-odoo-partner-4282933?country_id=6",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/4282933/image_128/Zero%20l%20Odoo%20Partner?unique=c556604",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/4282933/image_128/Zero%20l%20Odoo%20Partner?unique=10d326d",
       "about_text": "Zero is a leading Odoo Gold Partner in Southeast Europe with a mission to help companies implement all their operations in Odoo, an all-in-one business management platform. Leading companies in our region have trusted Zero as their digital transformation partner by implementing Odoo Platform to drive growth and have full control over their business. We create more time for you to add more “zeros” to your business.",
       "certifications_breakdown": [
         {
@@ -111,7 +111,7 @@
       "industries_breakdown": [
         {
           "industry": "Food / Hospitality / Tourism / Beverage",
-          "count": 11
+          "count": 10
         },
         {
           "industry": "Finance / Legal / Insurance",
@@ -150,7 +150,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:32.314861"
+      "scraped_at": "2026-04-12T19:59:03.050842"
     },
     {
       "region_code": "al",
@@ -167,7 +167,7 @@
       "references_count": "18",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/string-10282328?country_id=6",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/10282328/image_128/STRING?unique=07be52e",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/10282328/image_128/STRING?unique=e928e25",
       "about_text": null,
       "certifications_breakdown": [
         {
@@ -213,7 +213,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:33.259587"
+      "scraped_at": "2026-04-12T19:59:04.329756"
     },
     {
       "region_code": "al",
@@ -230,7 +230,7 @@
       "references_count": "16",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/prisma-22461283?country_id=6",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/22461283/image_128/Prisma?unique=23d3388",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/22461283/image_128/Prisma?unique=b06e30e",
       "about_text": "Prisma With a 20-year success story in the IT industry and a strong focus on delivering customized business solutions, Prisma is the right partner to take your organization to the next level with Odoo. Founded by the experienced team of Tetra Solutions, Prisma is the result of continuous specialization and innovation in ERP systems and business process automation. What Prisma Offers as an Odoo Partner ✅ Proven Experience With dozens of successful projects across various industries, Prisma combines deep business understanding with strong technical expertise. ✅ Tailored Solutions Every business is unique. We analyze your workflows and design Odoo solutions that fit the way you work. ✅ End-to-End Implementation and Support From the initial analysis to daily operations – Prisma is with you every step of the way. We offer training, documentation, and ongoing support to ensure long-term success. ✅ Scalability and Growth Our solutions are built to grow with your business. We ensure your Odoo system evolves in line with your company’s development. ✅ Innovation and Efficiency We use the latest versions of Odoo and modern technologies to keep your business ahead of the competition. Why Choose Prisma? Because we don’t just deliver a system – we deliver a solution that works for you. Backed by experience, commitment, and deep knowledge of Odoo, Prisma ensures a successful implementation, continuous support, and solutions that grow with your business. Contact Prisma today and discover how Odoo can transform your business. 📞 +355 67 700 1100 📩 info@prisma.al",
       "certifications_breakdown": [
         {
@@ -276,7 +276,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:33.761933"
+      "scraped_at": "2026-04-12T19:59:05.154249"
     },
     {
       "region_code": "al",
@@ -327,7 +327,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:34.195390"
+      "scraped_at": "2026-04-12T19:59:05.810412"
     },
     {
       "region_code": "al",
@@ -344,7 +344,7 @@
       "references_count": "5",
       "certified_experts_count": "1",
       "profile_url": "https://www.odoo.com/partners/techfin-16824655?country_id=6",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/16824655/image_128/TechFin?unique=7feac91",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/16824655/image_128/TechFin?unique=8912f6b",
       "about_text": "- Where Tech Meets Finance - TechFin is a trusted technological partner for businesses across various industries, dedicated to delivering innovative and efficient software solutions that are tailored to unique client requirements. Our mission is to achieve measurable and impactful results that propel our clients to success, maintaining their competitive edge in a rapidly evolving digital landscape. As a proud partner of Odoo, we offer a comprehensive business management software solution that caters to all operational needs. At TechFin, we do more than just provide software, we engineer solutions that revolutionize business operations, promoting sustainable growth and long-term success",
       "certifications_breakdown": [
         {
@@ -362,7 +362,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:46:34.706582"
+      "scraped_at": "2026-04-12T19:59:06.509540"
     },
     {
       "region_code": "al",
@@ -376,10 +376,10 @@
       "rating_percentage": "100",
       "average_project_size": "40 users",
       "large_project_size": "~100 users",
-      "references_count": "0",
+      "references_count": "3",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/trik-tech-29993658?country_id=6",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/29993658/image_128/TriK%20Tech?unique=f5a296d",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/29993658/image_128/TriK%20Tech?unique=6afcc62",
       "about_text": "At TriK Tech, we bring a fresh, modern spirit to business management through powerful Odoo solutions. As a dedicated Odoo partner, our mission is simple: to make your daily operations easier, more efficient, and fully connected. We specialize in delivering end-to-end Odoo services tailored to your business needs. From core modules like Inventory, Manufacturing, Accounting & Finance, CRM and HR to advanced custom implementations and seamless third-party integrations, we ensure your systems work together effortlessly. But we go beyond just implementation. We believe in being a responsive, communicative, and long-term partner. That means: • Understanding your business deeply • Providing clear, ongoing support • Training your team to confidently use the system • Maintaining and evolving your solution as your business grows At TriK Tech, we don’t just deploy software—we build relationships and empower businesses with tools that simplify complexity and unlock growth. Let’s transform the way you manage your business—together.",
       "certifications_breakdown": [
         {
@@ -387,8 +387,17 @@
           "count": 2
         }
       ],
-      "industries_breakdown": [],
-      "scraped_at": "2026-04-09T07:46:34.966615"
+      "industries_breakdown": [
+        {
+          "industry": "Health / Social Welfare / Pharmaceutical",
+          "count": 2
+        },
+        {
+          "industry": "Food / Hospitality / Tourism / Beverage",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T19:59:07.199312"
     }
   ]
 }

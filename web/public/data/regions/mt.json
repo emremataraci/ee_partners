@@ -2,8 +2,8 @@
   "region_code": "mt",
   "country_code": "MT",
   "country_name": "Malta",
-  "scraped_at": "2026-04-09T07:52:37.941211",
-  "total_partners": 5,
+  "scraped_at": "2026-04-12T20:09:59.625913",
+  "total_partners": 6,
   "source_url": "https://www.odoo.com/partners/country/malta-146",
   "partners": [
     {
@@ -71,7 +71,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:36.279031"
+      "scraped_at": "2026-04-12T20:09:55.627080"
     },
     {
       "region_code": "mt",
@@ -142,7 +142,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:36.642486"
+      "scraped_at": "2026-04-12T20:09:56.301611"
     },
     {
       "region_code": "mt",
@@ -159,7 +159,7 @@
       "references_count": "13",
       "certified_experts_count": "2",
       "profile_url": "https://www.odoo.com/partners/aviense-ltd-10491690?country_id=146",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/10491690/image_128/Aviense%20Ltd.?unique=076a536",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/10491690/image_128/Aviense%20Ltd.?unique=1d631fc",
       "about_text": "Welcome to Aviense Ltd. – Your Trusted Odoo Partner in Malta. At Aviense Ltd., we specialize in delivering tailored business management solutions powered by Odoo, the world’s most versatile and scalable ERP system. As an official Odoo Partner, we leverage our growing expertise and understanding of Odoo’s extensive suite of business applications to help companies streamline their operations and drive growth. Why Choose Aviense Ltd.? With years of experience in the field, Aviense Ltd. offers a unique combination of technical expertise, personalized service, and a deep understanding of the business needs of companies in Malta and beyond. Here’s why businesses trust us: End-to-end Odoo Services: From initial consultation and system setup to customization, training, and ongoing support, we ensure that your Odoo implementation is smooth, effective, and tailored to your exact needs. Tailored Solutions for Your Business: Our team of Odoo professionals works closely with your business to understand your challenges and craft solutions that improve efficiency, transparency, and productivity. Industry-Specific Expertise: Whether you are in retail, field services, import and distribution, or any other sector, we have the knowledge to adapt Odoo’s extensive capabilities to your specific industry requirements. Continuous Support &amp; Development: Our commitment doesn’t end with implementation. Aviense offers continuous support and enhancement services, helping your business stay ahead with the latest Odoo updates and features. Odoo – Transforming Businesses Worldwide Odoo is more than just an ERP system; it's a comprehensive business management solution with over 10,000 apps that cover everything from accounting, sales, and HR to CRM, inventory management, and e-commerce. As a fully integrated platform, Odoo empowers businesses to automate processes, enhance collaboration, and make data-driven decisions. Your Partner in Digital Transformation At Aviense Ltd., we understand that every business is different. Our strength lies in our ability to create custom solutions that integrate seamlessly into your existing operations, no matter the size or complexity of your business. Our goal is to help you harness the full potential of Odoo to: Optimize operational efficiency Enhance customer satisfaction Drive business growth Improve decision-making through real-time data and reporting Let’s Work Together Discover how Aviense Ltd. can revolutionise your business with Odoo. Whether you're looking to implement a new system, improve your current operations, or scale up as you grow, we are here to help. Get in touch with us today to schedule a consultation, and let’s explore the power of Odoo together.",
       "certifications_breakdown": [
         {
@@ -205,7 +205,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:36.992945"
+      "scraped_at": "2026-04-12T20:09:56.955738"
     },
     {
       "region_code": "mt",
@@ -248,7 +248,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:37.254793"
+      "scraped_at": "2026-04-12T20:09:57.613194"
     },
     {
       "region_code": "mt",
@@ -279,7 +279,42 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:52:37.676047"
+      "scraped_at": "2026-04-12T20:09:58.322755"
+    },
+    {
+      "region_code": "mt",
+      "country_code": "MT",
+      "name": "Zero | Malta",
+      "level": "Ready",
+      "city": "Valletta",
+      "district": "VLT 1440",
+      "country": "Malta",
+      "full_address": "Valletta, VLT 1440",
+      "rating_percentage": "100",
+      "average_project_size": "5 users",
+      "large_project_size": "~10 users",
+      "references_count": "2",
+      "certified_experts_count": "1",
+      "profile_url": "https://www.odoo.com/partners/zero-malta-26321179?country_id=146",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/26321179/image_128/Zero%20%7C%20Malta?unique=fd8a873",
+      "about_text": "We are \"The Odoo Experts\". We blueprint Odoo to built structural control by bringing operational clarity and give leadership the confidence to stop managing the mess and start leading the growth in the era of AI. Zero is a trusted International Odoo Partner established in 2019, delivering industry focused expertise that streamline operations, ensure compliance, and support scalable growth. With a proven methodology and international presence, we collaborate with clients across the globe. Our expertise spans key MALTA industries, including professional services, enabling businesses to boost productivity, reduce costs, and make smarter data-driven decisions with a scalable Odoo platform in the era of AI. Services Consulting Strategic analysis and system design to define structure, priorities, and the right Odoo architecture before execution. Standard Implementation Fast and structured deployment of Odoo using best-practice configurations for predictable, scalable operations. Custom Implementation Tailored Odoo system composition for complex businesses that require industry-specific workflows and governance. Custom Development Purpose-built extensions and integrations that enhance Odoo while preserving system stability and upgradeability. Support & Maintenance Ongoing system support to ensure performance, stability, and continuous improvement after go-live. Odoo Upgrades Safe and controlled upgrades that modernize your Odoo without disrupting operations or integrity. Coaching Expert guidance for teams to adopt Odoo correctly, make better system decisions, and avoid costly mistakes. Zero Apps Proprietary applications built by Zero to extend Odoo with proven functionality for specific operational needs.",
+      "certifications_breakdown": [
+        {
+          "version": "Certified v19",
+          "count": 1
+        }
+      ],
+      "industries_breakdown": [
+        {
+          "industry": "Finance / Legal / Insurance",
+          "count": 1
+        },
+        {
+          "industry": "IT / Communication / Marketing",
+          "count": 1
+        }
+      ],
+      "scraped_at": "2026-04-12T20:09:58.933033"
     }
   ]
 }

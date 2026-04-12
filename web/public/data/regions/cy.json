@@ -2,7 +2,7 @@
   "region_code": "cy",
   "country_code": "CY",
   "country_name": "Cyprus",
-  "scraped_at": "2026-04-09T07:48:29.597142",
+  "scraped_at": "2026-04-12T20:02:19.299430",
   "total_partners": 6,
   "source_url": "https://www.odoo.com/partners/country/cyprus-54",
   "partners": [
@@ -75,7 +75,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:48:26.847132"
+      "scraped_at": "2026-04-12T20:02:15.328811"
     },
     {
       "region_code": "cy",
@@ -106,7 +106,7 @@
           "count": 2
         }
       ],
-      "scraped_at": "2026-04-09T07:48:27.417070"
+      "scraped_at": "2026-04-12T20:02:16.008129"
     },
     {
       "region_code": "cy",
@@ -123,7 +123,7 @@
       "references_count": "17",
       "certified_experts_count": "3",
       "profile_url": "https://www.odoo.com/partners/4sight-group-ltd-cyprus-6177910?country_id=54",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/6177910/image_128/4Sight%20Group%20ltd.%20Cyprus?unique=99b2a51",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/6177910/image_128/4Sight%20Group%20ltd.%20Cyprus?unique=ed333dc",
       "about_text": "4Sight Group is a multidisciplinary group based in Malta and Cyprus with the capacity to provide a plethora of services all related to the IT & Digital sector. 4Sight Group was established in 2007 and to date supports both the private and the public sectors. 4Sight Group operates internationally and supports customers in Malta, Cyprus, Italy, Ireland, UK and Morocco. Our Mission Our goal is to support companies in the challenges of Digital Transformation , providing consultative and strategic support and practical and operational. We analyse your company, understand its needs and develop effective solutions that allow you to reduce costs and waste, increase efficiency, increase customer satisfaction and increase your revenue. We believe that it is essential to put passion and experience serving customers, becoming not only a service provider but a trusted partner always at your side to help you manage digital transformation with awareness.",
       "certifications_breakdown": [
         {
@@ -161,7 +161,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:48:27.763057"
+      "scraped_at": "2026-04-12T20:02:16.616411"
     },
     {
       "region_code": "cy",
@@ -224,7 +224,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:48:28.260129"
+      "scraped_at": "2026-04-12T20:02:17.394863"
     },
     {
       "region_code": "cy",
@@ -241,7 +241,7 @@
       "references_count": "3",
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/soft-g-co-ltd-26386280?country_id=54",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/26386280/image_128/Soft%20G%20Co.%20Ltd?unique=3a658d1",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/26386280/image_128/Soft%20G%20Co.%20Ltd?unique=ce5be79",
       "about_text": "SoftG was established in Cyprus in 2013 with the vision of becoming a leading cloud solution provider in Cyprus. SoftG operates as part of AR ComputerG Co. Ltd , benefiting from a strong group foundation and extended technical expertise. Our team consists of highly skilled professionals with many years of experience in the Information Technology and IT sector. We provide services including IT and cloud consulting, software development, POS Solutions, system design, implementation, and professional training , delivered on a project basis or through long-term partnerships.",
       "certifications_breakdown": [],
       "industries_breakdown": [
@@ -250,7 +250,7 @@
           "count": 2
         }
       ],
-      "scraped_at": "2026-04-09T07:48:28.678539"
+      "scraped_at": "2026-04-12T20:02:18.171069"
     },
     {
       "region_code": "cy",
@@ -267,7 +267,7 @@
       "references_count": "2",
       "certified_experts_count": "0",
       "profile_url": "https://www.odoo.com/partners/business-revolution-pc-ltd-9151261?country_id=54",
-      "logo_url": "https://odoocdn.com/web/image/res.partner/9151261/image_128/Business%20Revolution%20PC%20Ltd?unique=5bb1f4b",
+      "logo_url": "https://odoocdn.com/web/image/res.partner/9151261/image_128/Business%20Revolution%20PC%20Ltd?unique=9e97574",
       "about_text": "Business Revolution PC Ltd , established in 2005, is a dynamic IT solutions provider based in Cyprus, serving more than 300 clients across healthcare, law, accounting, education, public sector, and trading industries. We deliver end-to-end technology services through five core business units: IT Support & Solutions, Security, Software Development, Managed Print Services, and Telecommunications. In recent years, we’ve expanded our footprint through strategic investments, including majority ownership of KCM Telecom and full acquisition of MelaniCyprus.com , enhancing our capabilities in cloud telephony and e-commerce for printer supplies. Our mission is to eliminate IT-related frustrations and bring back the excitement of running a business by providing secure, cost-effective, and reliable technology ecosystems. With a strong focus on sustainability , data protection , and business continuity , we offer tailored services such as: Cloud & on-premises infrastructure ERP and accounting software aligned with Cyprus tax compliance Custom software development Cybersecurity consulting and virtual CISO services Structured cabling and data center setup Cloud PBX and unified communications Document and print management, including MPS and secure disposals We are a trusted partner for businesses seeking IT innovation, system integration, and strategic advisory. Whether you're transforming digitally or optimizing existing infrastructure, Business Revolution is your reliable IT ally.",
       "certifications_breakdown": [],
       "industries_breakdown": [
@@ -280,7 +280,7 @@
           "count": 1
         }
       ],
-      "scraped_at": "2026-04-09T07:48:29.083987"
+      "scraped_at": "2026-04-12T20:02:18.744603"
     }
   ]
 }
